@@ -1,0 +1,21 @@
+<header class="header">
+    <div class="navigation">
+        <center><a href="/" class="logo glitch">{{ site.title }}</a>
+
+        <ul class="menu">
+        {% if site.author.github %}
+            <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-github"></i>
+            </a>
+        {% endif %}
+
+        {% if site.author.twitter %}
+            <a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-twitter"></i>
+            </a>
+        {% endif %}
+    </ul>
+    </center>
+    <hr class="style18" />
+</div>
+</header>
