@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <script type="text/javascript">
+            var enforce = "avicoder.me";
+                if ((enforce == window.location.host) && (window.location.protocol != "https:"))
+                  window.location = window.location.toString().replace(/^http:/, "https:");
+            </script>
+        
         {% include meta_tags/base.html %}
         {% include meta_tags/sharing.html %}
 
         {% include externals/styling.html %}
     </head>
-        {% if site.enforce_ssl %}
 
-            <script type="text/javascript">
-            var enforce = "{{ site.enforce_ssl }}";
-                if ((enforce == window.location.host) && (window.location.protocol != "https:"))
-                  window.location = window.location.toString().replace(/^http:/, "https:");
-            </script>
-        {% endif %}
+        
     <body>
         <div class="wrapper">
             {% include header.html %}
