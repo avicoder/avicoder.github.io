@@ -1,7 +1,6 @@
 # Site settings
 title: Whiskey Tango Foxtrot
-description: >
-Random Talk
+description: Random Talk
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://avicoder.me" # the base hostname & protocol for your site
 
