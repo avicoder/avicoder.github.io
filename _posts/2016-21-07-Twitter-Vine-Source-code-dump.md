@@ -47,18 +47,18 @@ Next thing was to install docker client on my Ubuntu VM and download those image
 
 ![docker-images](https://i.imgur.com/AcoA7y7.png)
 
-After the download was completed, I ran docker image vinewww with interactive shell and got inside the running docker image.
+After the download was complete, I ran docker image vinewww with an interactive shell and got inside the running docker image.
 
 `ls` in vinewww shows MVC(flask) is used.
 
 ![docket-it](https://i.imgur.com/TykNTsl.png) 
 
-I was able to see the entire source code of vine, its API keys and third party keys and secrets. Even running the image without any parameter was letting me host a replica of VINE locally.
+I was able to see the entire source code of vine, its API keys and third party keys and secrets. Even running the image without any parameter, was letting me host a replica of VINE locally.
 
 ![showtime](https://i.imgur.com/qqAsoI2.png)
 
 
-Till then, keep hacking ;)
+Until next time, keep hacking! ;)
 
 PS : Special thanks to @thanmayeerao
 
