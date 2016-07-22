@@ -61,8 +61,8 @@ I was able to see the entire source code of vine, its API keys and third party k
 
 Till then, keep hacking ;)
 
-###Timeline
-
+Timeline
+=====
  - March 21,2016 - Bug Reported through Hackerone
  - March 22,2016 - Need more info
  - March 31,2016 - Full exploitation shown
