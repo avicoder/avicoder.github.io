@@ -1,7 +1,9 @@
 <div class="about">
-    <div class="about__devider">*****</div>
+	<hr class="style18">
+
     <div class="about__text">
-        Written by <strong> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong>
-        on <strong>{{ page.date | date: "%d %B %Y" }}</strong>
+        Written by <strong class="glitch"> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong>
+        on <strong>{{ page.date | date: "%d %B %Y" }}</strong><br>
+        <a href="https://twitter.com/avicoder" class="twitter-follow-button" data-lang="en" data-dnt="true" data-show-count="false">Follow @avicoder</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
 </div>
