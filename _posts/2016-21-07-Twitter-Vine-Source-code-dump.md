@@ -4,6 +4,9 @@ title: "Twitter's Vine Source code dump"
 subtitle: "6 Seconds are not enough"
 date: 2016-07-22 10:00:00
 ---
+
+**The following post provides details only about the process I followed to procure the source code of Vine. I have not and will not disclose the source code because it's AGAINST THE LAW!!!**
+
 Hello Hackers!
 
 Today I am going to disclose a long awaited bug, which I found in *Twitter's Vine*.
