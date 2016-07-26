@@ -65,7 +65,7 @@ Until next time, keep hacking! ;)
 
 You can find more insightful comments  @[Reddit/netsec](https://www.reddit.com/r/netsec/comments/4u3m8s/twitters_vine_source_code_disclosure_bug/) and @[Hackernews](https://news.ycombinator.com/item?id=12147831)
 
-PS : Special thanks to [@thanmayeerao](https://twitter.com/thanmayeerao)
+PS : Special thanks to [@thanmayeerao](https://twitter.com/thanmayeerao) & [@kaushal_k](https://twitter.com/kaushal_k)
 
 Timeline
 =====
