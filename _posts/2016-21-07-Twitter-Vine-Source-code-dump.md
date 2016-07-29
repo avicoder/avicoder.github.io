@@ -5,7 +5,7 @@ subtitle: "6 Seconds are not enough"
 date: 2016-07-22 10:00:00
 ---
 
-**The following post provides details only about the process I followed to procure the source code of Vine. I have not and will not disclose the source code because it's AGAINST THE LAW!!!**
+Note: **The following post provides details only about the process I followed to procure the source code of Vine. I have not and will not disclose the source code because it's AGAINST THE LAW!!!**
 
 Hello Hackers!
 
@@ -65,7 +65,7 @@ Until next time, keep hacking! ;)
 
 You can find more insightful comments  @[Reddit/netsec](https://www.reddit.com/r/netsec/comments/4u3m8s/twitters_vine_source_code_disclosure_bug/), @[Hackernews](https://news.ycombinator.com/item?id=12147831) and [@slashdot](https://news.slashdot.org/story/16/07/25/2249239/vines-source-code-was-accidentally-made-public-for-five-minutes)
 
-PS : Special thanks to [@thanmayeerao](https://twitter.com/thanmayeerao) & [@kaushal_k](https://twitter.com/kaushal_k)
+PS : Special thanks to thanmayeerao & kaushal
 
 Timeline
 =====
