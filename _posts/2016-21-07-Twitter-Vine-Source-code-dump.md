@@ -65,7 +65,7 @@ Until next time, keep hacking! ;)
 
 You can find more insightful comments  @[Reddit/netsec](https://www.reddit.com/r/netsec/comments/4u3m8s/twitters_vine_source_code_disclosure_bug/), @[Hackernews](https://news.ycombinator.com/item?id=12147831) and [@slashdot](https://news.slashdot.org/story/16/07/25/2249239/vines-source-code-was-accidentally-made-public-for-five-minutes)
 
-PS : Special thanks to thanmayeerao & kaushal
+PS : Special thanks to @thanmayee & @kaushal
 
 Timeline
 =====
