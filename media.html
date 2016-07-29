@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <script type="text/javascript">
+            var enforce = "avicoder.me";
+                if ((enforce == window.location.host) && (window.location.protocol != "https:"))
+                  window.location = window.location.toString().replace(/^http:/, "https:");
+            </script>
+        
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="author" href="/humans.txt">
+<link rel="shortcut icon" type="image/ico" href="/ico/favicon.ico">
+<link rel="pgpkey" href="/key.asc" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> Twitter's Vine Source code dump — 6 Seconds are not enough &raquo;  Whiskey Tango Foxtrot</title>
+<meta name="description" content="Random Talk">
+<meta name="keywords" content="">
+<link rel="canonical" href="https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/">
+    
+
+        <meta name="author" content="avicoder" />
+        <meta name="copyright" content="2012-2016" />
+
+        
+
+
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Twitter's Vine Source code dump" />
+<meta name="twitter:description" content="urandom talks" />
+<meta name="twitter:image" content="https://avicoder.me" />
+<meta name="twitter:creator" content="@avicoder" />
+<meta name="twitter:creator:id" content="1538722886" />
+<meta name="twitter:site" content="@avicoder" />
+<meta name="twitter:site:id" content="1538722886" />
+<meta property="twitter:account_id" content="1538722886" />
+
+<!-- Google plus -->
+<meta name="author" content="">
+<link rel="author" href="">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Twitter's Vine Source code dump">
+<meta property="og:description" content="urandom talks">
+<meta property="og:url" content="https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/">
+<meta property="og:site_name" content="Whiskey Tango Foxtrot">
+
+        <link href='http://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/assets/vendor/normalize-css/normalize.css">
+<link rel="stylesheet" href="/css/main.css">
+
+  <link rel="stylesheet" href="/assets/vendor/highlight/styles/solarized_dark.css">
+
+<link rel="stylesheet" href="/assets/vendor/font-awesome/css/font-awesome.css">
+
+<link href='http://fonts.googleapis.com/css?family=Varela' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Philosopher|Marvel' rel='stylesheet' type='text/css'>
+    </head>
+
+        
+    <body>
+        <div class="wrapper">
+            <header class="header">
+    <div class="navigation">
+        <center><a href="/" class="logo glitch">Whiskey Tango Foxtrot</a>
+
+        <ul class="menu">
+        
+            <a href="https://github.com/vjex" class="social-links__entry" target="_blank">
+                <i class="fa fa-github"></i>
+            </a>
+        
+
+        
+            <a href="https://twitter.com/avicoder" class="social-links__entry" target="_blank">
+                <i class="fa fa-twitter"></i>
+            </a>
+        
+        
+            <a href="https://avicoder.me/feed" class="social-links__entry" target="_blank">
+                <i class="fa fa-rss"></i>
+            </a>
+    </ul>
+
+
+    </center>
+   <br/>
+   
+</div>
+   <hr class="style18" />
+</header>
+
+<h1 class="page-title post-title">
+<div class="page-title__text post-title__text">Media Coverage</div>
+</h1>
+
+<div class="content">
+<div>
+<a href="http://timesofindia.indiatimes.com/tech/tech-news/Twitter-awards-10080-to-Indian-origin-hacker-for-discovering-security-flaw/articleshow/53395876.cms"><img style="height:150px;display: inline-block;;width:185px" src="http://www.samadhanngo.org/news_papers_logo/1395780802_TOI_-_Logo-1.jpg"></a>
+<a href="http://fortune.com/2016/07/25/twitter-vine-hacker-source-code/"><img style="height:150px;display: inline-block;;width:185px" src="http://www.colaborate.in/wp-content/uploads/2016/03/fortunelogo.jpg"></a>
+<a href="http://thenextweb.com/twitter/2016/07/25/vine-source-code-public/"><img style="height:150px;display: inline-block;;width:185px" src="http://www.underconsideration.com/brandnew/archives/the_next_web_logo.jpg"></a>
+<a href="https://www.entrepreneur.com/article/279660?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+entrepreneur%2Flatest+(Entrepreneur)"><img style="height:150px;display: inline-block;width:185px" src="http://blog.dasheroo.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-18-at-5.23.05-PM.png"></a>
+</div>
+
+<div>
+<a href="http://mashable.com/2016/07/26/twitter-indian-hacker-security-flaw-vine/"><img style="height:150px;display: inline-block;;width:185px" src="http://media-assets-01.thedrum.com/cache/images/thedrum-prod/public-news-tmp-107697-mashable.newlogo.cyan__0--2x1--940.png"></a>
+<a href="http://www.businessinsider.in/The-source-code-for-Vine-was-accidentally-made-public/articleshow/53378162.cms"><img style="height:150px;display: inline-block;;width:185px" src="http://static5.businessinsider.com/assets/images/us/logos/og-image-logo-social.png"></a>
+<a href="http://www.scmagazine.com/researcher-scores-10k-bounty-for-digging-up-vines-source-code/article/511781/"><img style="height:150px;display: inline-block;;width:185px" src="http://ibosssecurity.com/wp-content/uploads/2014/07/sc-mag-iboss.png"></a>
+<a href="http://www.deccanchronicle.com/technology/in-other-news/250716/vine-under-threat-as-source-code-downloaded-by-hacker.html"><img style="height:150px;display: inline-block;;width:185px" src="http://www.andrinemendez.com/wp-content/uploads/2013/01/Deccan-Chronicle-logo.jpg"></a>
+</div>
+
+
+
+<div>
+<a href="http://www.dnaindia.com/scitech/report-indian-hacker-awarded-rs-68-lakh-by-twitter-for-discovering-vine-s-source-code-2238300"><img style="height:150px;display: inline-block;;width:185px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/DNA_Newspaper_Logo.svg/2000px-DNA_Newspaper_Logo.svg.png"></a>
+<img style="height:150px;display: inline-block;;width:185px" src="http://static.nexg.tv/unified/admin/upload/750_1424089728India_TV.jpg">
+<a href="zeenews.india.com/news/internet-social-media/indian-hacker-uncovers-vines-source-code-rewarded-10080-by-twitter_1911652.html"><img style="height:150px;display: inline-block;;width:185px" src="http://www.indiatomorrow.net/images/img_images/ZeeNewslogoPhoto-wwwmakeinternco4335.jpg"></a>
+<a href="http://www.theregister.co.uk/2016/07/25/oops_bountyhunter_found_vines_source_code_in_plain_sight/"><img style="height:150px;display: inline-block;;width:185px" src="https://regmedia.co.uk/2012/09/05/reg_reg_logo.jpg"></a>
+</div>
+
+
+<div>
+<a href="http://www.digitaljournal.com/technology/vine-vulnerability-lets-hacker-download-the-complete-source-code/article/470897"><img style="height:150px;display: inline-block;;width:185px" src="http://brand-mention.com/wp-content/uploads/2016/06/DigitalJournal-link-logo.jpg"></a>
+<a href="http://gadgets.ndtv.com/social-networking/news/how-vines-entire-source-code-was-online-for-anyone-to-see-865129"><img style="height:150px;display: inline-block;;width:185px" src="http://www.logodesignblog.net/logos/ndtv-logo.jpg"></a>
+<a href="https://nakedsecurity.sophos.com/2016/07/25/how-one-man-could-have-owned-all-your-vine-videos-and-more/"><img style="height:150px;display: inline-block;;width:185px" src="https://attivonetworks.com/wp-content/uploads/2016/03/naked-security-logo-on-securedb.jpg"></a>
+<a href="thehackernews.com/2016/07/vine-source-code.html"><img style="height:150px;display: inline-block;;width:185px" src="https://media.licdn.com/media/p/5/005/08c/02d/3307bb3.png"></a>
+</div>
+
+
+<div>
+
+<strong>More <a href="https://www.google.co.in/search?num=20&hl=en&site=webhp&source=hp&q=avicoder+vine+hacked&oq=avicoder+vine+hacked" target="_blank">here</a></strong>
+</div>
+
+
+
+</div>
+
+</body></html>
