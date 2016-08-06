@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/avicoder
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://avicoder.me
+  * I am avicoder (https://keybase.io/avicoder) on keybase.
+  * I have a public key with fingerprint BBE5 FC5D 3AC2 BB78 C6A4  1D9D 4B0B A549 62AB A6CC
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019c60ae4385f1a92e5baa8490fdf9d0d5bb97ab73374720798fbbba6be24493640a",
+            "fingerprint": "bbe5fc5d3ac2bb78c6a41d9d4b0ba54962aba6cc",
+            "host": "keybase.io",
+            "key_id": "4b0ba54962aba6cc",
+            "kid": "01019c60ae4385f1a92e5baa8490fdf9d0d5bb97ab73374720798fbbba6be24493640a",
+            "uid": "cf13c9635401dd7cacb1bc32f8079719",
+            "username": "avicoder"
+        },
+        "service": {
+            "hostname": "avicoder.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470518888,
+    "expire_in": 157680000,
+    "prev": "64b7ae27434230444dc28133dad0e9eda3e10a98f42fb8f0b1e437ed4e550739",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJdSBVBGL1aVhpKhQ+FP+VCRnip2d3ZvwuhNzFKqaTENIrbzM7sdVHv
+XnevN38LzMw0M4VEMqgEk5IKIyuKwKJeCiIisDCkCB8sLDDQgv5mpV6ix76X4fvm
+nDPnO8zDxAWehJiTVyY7xtf6P8U8ud9T7dlzsbisnsMWqeV89Vw5nT9oBaFOJFBu
+Es7HAR7wmi4DRKGoSgaPNIFKGCEVasAghkYAkTDWFIQVUVSgIgBFUw2MMZIxFSDU
+RBkCxHk5wwwFqR22zVCEyWJMJUOXiIh0AWNF1WUEeaIRiAFGEtRkATEFXWfEMstx
+GcwcRg7dYFpsxprAvL1/4P+z7+p5Od3gRV2TRQkCnhBFRzrmsS4Khsp4Cq+5QIfa
+IVRJGRpFTd0i1OYavRybso66wbqb/IXYwDovF7atiKVbFeyiLBIJOz6XGKkNu8iD
+FAd+awSwGSIsRsaIUtsxrRDn4xlSj5iuKA8VIPEqKy9Ha8KmTQOmi5AUWQWs3Hdo
+lEnKECuICgoUoSACCCHRBZUXRYIIoBolSKQ8QCwOKBhYNQDmWYgKJZBKElBEd1mH
+VoUsziczmyjIJB0zGEKRaptyjQ9G9y30xCR4FsXFut/LkxC/7M+nS4td/D29MPv5
+aFyvNDJT2t4y6v061TO08lpXftfgtZHOHx9G6vZdOFqxpH/VmiPv9C+7stuKPn1+
+0VC2Y6y5sg3sf2uvb6tJz0M3O/tuDxS0bmtX029sAYFbbd1Zc1ny6aT8icTyM4/h
+5dV5y9W+3PurHp0YziierJubuR4sCU74N6rcUHPGk63HO3Y2HSjIGRymTxPiSmrK
+Y8f80YYDrUXJz55ltjSkNKVk3i7J2HTqvfx6+zJ/b8HPj8m1pXPK0r3XO15hM3Xg
+W/zUtL+5W6JpTrevMBpYl1V7cPBc//DsvauXVlTfPTSeuvtjUfv0ks1qVe/5N3eS
+Z3NyK5PO9h+Gccfoy1e/AH5xPmQ=
+=flWi
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/avicoder
+
+==================================================================
