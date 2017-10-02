@@ -5,8 +5,9 @@ subtitle: "Because all app deserve security"
 date: 2017-10-02 15:00:00
 ---
 
+         Tips borrowed/stolen from various resources for better purpose.
 
-      Tips Stolen from various resources
+![Cover-Image](https://i.imgur.com/TAHopZ4.png)
 
 ###    Android Platform
 
