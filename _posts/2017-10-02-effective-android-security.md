@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Effective android security"
-subtitle: "Because all app deserve security"
+subtitle: "Because all Apps deserve security"
 date: 2017-10-02 15:00:00
 ---
 
