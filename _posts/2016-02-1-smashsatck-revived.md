@@ -12,6 +12,8 @@ Originally written by [Aleph One](https://insecure.org/stf/smashstack.html) and 
 
 ---
 
+**Edit -** : Download PDF version of this document [here](https://avicoder.me/papers/pdf/smashthestack.pdf)
+
 **Smash the Stack** *[C programming] n.* On many C implementations
 it is possible to corrupt the execution stack by writing past
 the end of an array declared auto in a routine.  Code that does
