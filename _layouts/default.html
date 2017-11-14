@@ -32,11 +32,26 @@
          });
        </script>
        
-        <div class="wrapper">
-        <h5><a href="media.html">Coverage</a></h5>
-        <h5><a href="mailto:avicoder[at]outlook[dot].com">Hire me</a></h5>
+   
+        
+        <ul class="menu">
+        {% if site.author.github %}
+            <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-github"></i>
+            </a>
+        {% endif %}
 
-        </div>
+        {% if site.author.twitter %}
+            <a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-twitter"></i>
+            </a>
+        {% endif %}
+        
+            <a href="https://avicoder.me/feed" class="social-links__entry" target="_blank">
+                <i class="fa fa-rss"></i>
+            </a>
+
+    </ul>
         
         <center> 
            
