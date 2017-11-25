@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Minimal CV Latex CV"
+title:  "Minimal CV in Latex"
 subtitle: "It might help you to get a job"
 date: 2017-11-25 10:00:00
 
@@ -15,5 +15,5 @@ date: 2017-11-25 10:00:00
 
 <img src="https://github.com/vjex/minimal-cv/raw/master/sample/Preview.png"> 
 
-
+Enjoy
 
