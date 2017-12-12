@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Twitter's Vine Source code dump"
+title: "Twitter's Vine Source code dump - $10080 "
 subtitle: "6 Seconds are not enough"
 date: 2016-07-22 10:00:00
 ---
