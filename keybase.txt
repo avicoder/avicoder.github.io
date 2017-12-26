@@ -6,59 +6,46 @@ I hereby claim:
 
   * I am an admin of https://avicoder.me
   * I am avicoder (https://keybase.io/avicoder) on keybase.
-  * I have a public key with fingerprint BBE5 FC5D 3AC2 BB78 C6A4  1D9D 4B0B A549 62AB A6CC
+  * I have a public key ASA5E3ToP1__j0WJ0hVsfEKPF-t9pWa1Ka31uZpGM32rawo
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "01019c60ae4385f1a92e5baa8490fdf9d0d5bb97ab73374720798fbbba6be24493640a",
-            "fingerprint": "bbe5fc5d3ac2bb78c6a41d9d4b0ba54962aba6cc",
-            "host": "keybase.io",
-            "key_id": "4b0ba54962aba6cc",
-            "kid": "01019c60ae4385f1a92e5baa8490fdf9d0d5bb97ab73374720798fbbba6be24493640a",
-            "uid": "cf13c9635401dd7cacb1bc32f8079719",
-            "username": "avicoder"
-        },
-        "service": {
-            "hostname": "avicoder.me",
-            "protocol": "https:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0101e56cfa5321ff3f8821604db7c4a3ed12e7fb2851b08482c4d84397c3f88080e80a",
+      "host": "keybase.io",
+      "kid": "0120391374e83f5fff8f4589d2156c7c428f17eb7da566b529adf5b99a46337dab6b0a",
+      "uid": "cf13c9635401dd7cacb1bc32f8079719",
+      "username": "avicoder"
     },
-    "ctime": 1470518888,
-    "expire_in": 157680000,
-    "prev": "64b7ae27434230444dc28133dad0e9eda3e10a98f42fb8f0b1e437ed4e550739",
-    "seqno": 6,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1514277184,
+      "hash": "bd9e3b285eae2079f0f91f2eb61e5bbcdaaa281b18a112eaccbfbd7db83d9c39a5d8ad487185d7c70fa8404866af9d7061652c8eab5f5c8f41347e7ea83765fd",
+      "hash_meta": "d9acbb481b00a29c9ab341b7633bdf7f2bd4c7e0cca4fb827be3d603c16991ed",
+      "seqno": 1858062
+    },
+    "service": {
+      "hostname": "avicoder.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1514277196,
+  "expire_in": 504576000,
+  "prev": "fe98a43a84dd1853ee12c91c92be53fc49a662dc48afc0a01769d2bb8df66a13",
+  "seqno": 18,
+  "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.55
-Comment: https://keybase.io/crypto
-
-yMIhAnicrVJdSBVBGL1aVhpKhQ+FP+VCRnip2d3ZvwuhNzFKqaTENIrbzM7sdVHv
-XnevN38LzMw0M4VEMqgEk5IKIyuKwKJeCiIisDCkCB8sLDDQgv5mpV6ix76X4fvm
-nDPnO8zDxAWehJiTVyY7xtf6P8U8ud9T7dlzsbisnsMWqeV89Vw5nT9oBaFOJFBu
-Es7HAR7wmi4DRKGoSgaPNIFKGCEVasAghkYAkTDWFIQVUVSgIgBFUw2MMZIxFSDU
-RBkCxHk5wwwFqR22zVCEyWJMJUOXiIh0AWNF1WUEeaIRiAFGEtRkATEFXWfEMstx
-GcwcRg7dYFpsxprAvL1/4P+z7+p5Od3gRV2TRQkCnhBFRzrmsS4Khsp4Cq+5QIfa
-IVRJGRpFTd0i1OYavRybso66wbqb/IXYwDovF7atiKVbFeyiLBIJOz6XGKkNu8iD
-FAd+awSwGSIsRsaIUtsxrRDn4xlSj5iuKA8VIPEqKy9Ha8KmTQOmi5AUWQWs3Hdo
-lEnKECuICgoUoSACCCHRBZUXRYIIoBolSKQ8QCwOKBhYNQDmWYgKJZBKElBEd1mH
-VoUsziczmyjIJB0zGEKRaptyjQ9G9y30xCR4FsXFut/LkxC/7M+nS4td/D29MPv5
-aFyvNDJT2t4y6v061TO08lpXftfgtZHOHx9G6vZdOFqxpH/VmiPv9C+7stuKPn1+
-0VC2Y6y5sg3sf2uvb6tJz0M3O/tuDxS0bmtX029sAYFbbd1Zc1ny6aT8icTyM4/h
-5dV5y9W+3PurHp0YziierJubuR4sCU74N6rcUHPGk63HO3Y2HSjIGRymTxPiSmrK
-Y8f80YYDrUXJz55ltjSkNKVk3i7J2HTqvfx6+zJ/b8HPj8m1pXPK0r3XO15hM3Xg
-W/zUtL+5W6JpTrevMBpYl1V7cPBc//DsvauXVlTfPTSeuvtjUfv0ks1qVe/5N3eS
-Z3NyK5PO9h+Gccfoy1e/AH5xPmQ=
-=flWi
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgORN06D9f/49FidIVbHxCjxfrfaVmtSmt9bmaRjN9q2sKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZTU2Y2ZhNTMyMWZmM2Y4ODIxNjA0ZGI3YzRhM2VkMTJlN2ZiMjg1MWIwODQ4MmM0ZDg0Mzk3YzNmODgwODBlODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzkxMzc0ZTgzZjVmZmY4ZjQ1ODlkMjE1NmM3YzQyOGYxN2ViN2RhNTY2YjUyOWFkZjViOTlhNDYzMzdkYWI2YjBhIiwidWlkIjoiY2YxM2M5NjM1NDAxZGQ3Y2FjYjFiYzMyZjgwNzk3MTkiLCJ1c2VybmFtZSI6ImF2aWNvZGVyIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE0Mjc3MTg0LCJoYXNoIjoiYmQ5ZTNiMjg1ZWFlMjA3OWYwZjkxZjJlYjYxZTViYmNkYWFhMjgxYjE4YTExMmVhY2NiZmJkN2RiODNkOWMzOWE1ZDhhZDQ4NzE4NWQ3YzcwZmE4NDA0ODY2YWY5ZDcwNjE2NTJjOGVhYjVmNWM4ZjQxMzQ3ZTdlYTgzNzY1ZmQiLCJoYXNoX21ldGEiOiJkOWFjYmI0ODFiMDBhMjljOWFiMzQxYjc2MzNiZGY3ZjJiZDRjN2UwY2NhNGZiODI3YmUzZDYwM2MxNjk5MWVkIiwic2Vxbm8iOjE4NTgwNjJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYXZpY29kZXIubWUiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOCJ9LCJjdGltZSI6MTUxNDI3NzE5NiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJmZTk4YTQzYTg0ZGQxODUzZWUxMmM5MWM5MmJlNTNmYzQ5YTY2MmRjNDhhZmMwYTAxNzY5ZDJiYjhkZjY2YTEzIiwic2Vxbm8iOjE4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQAbPEmDx69gCSp+o6Bmb0C/M23iPXNSp+yl84oA2Y+BDes16P00V4HNqYFKRfy7BiGEqOwcOQpVhY0GzOxeZgACoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDJdooMyC1JBm10J0i14nwk7oGXD4yBRD27nGfOyjbNNqN0YWfNAgKndmVyc2lvbgE=
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
