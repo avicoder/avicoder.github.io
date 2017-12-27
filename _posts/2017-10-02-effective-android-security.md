@@ -67,17 +67,6 @@ The application sandbox is in kernel, thus it extends to native code and operati
 *   Extensible mechanism for secure IPC
 *   The ability to remove unnecessary and potentially insecure parts of the kernel
 
-Linux is a multiuser operating system and linux kernel isolate user resources from another one another for the security reasons. Linux aim to protect user data, thus linux:
-
-*   Prevents user A from reading user B's files
-*   Ensures that user A does not exhaust user B's memory
-*   Ensures that user A does not exhaust user B's CPU resources
-*   Ensures that user A does not exhaust user B's devices (e.g. telephony, GPS, bluetooth)
-
-Read list
-
-*   [https://source.android.com/devices/tech/security/overview/kernel-security.html#linux-security](https://source.android.com/devices/tech/security/overview/kernel-security.html#linux-security)
-
 ----------------------------------------------
 
 ###    Personal Information
