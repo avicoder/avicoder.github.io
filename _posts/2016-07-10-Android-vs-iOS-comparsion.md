@@ -2,7 +2,7 @@
 layout: post
 title: "Android vs iOS comparsion"
 subtitle: ""
-date: 2016-07-10 10:00:00
+date: 2019-01-21 10:00:00
 ---
 
 A quick comparsion between two most prominent mobile operation system...
