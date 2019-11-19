@@ -6,6 +6,10 @@ date: 2019-11-19 10:00:00
 
 ---
 
+#####  This is the compilation of all the in scope urls found in the public bugbounty program on hackerone.
+
+Will be updated daily!
+[Download txt file](https://avicoder.me/h1_inscope_urls.txt)
 
  - *.line-apps.com
  - store.line.me
@@ -16,17 +20,6 @@ date: 2019-11-19 10:00:00
  - *.line.me
  - my.stripo.email
  - stripo.email
- - github.com/oasislabs/oasis-runtime
- - github.com/oasislabs/oasis-core
- - *.testnet.oasiscloud.io
- - github.com/oasislabs/bsaes.js
- - github.com/oasislabs/ed25519
- - github.com/oasislabs/deoxysii-rust
- - github.com/oasislabs/deoxysii
- - github.com/oasislabs/oasis-cli
- - github.com/oasislabs/oasis.js
- - github.com/oasislabs/oasis-rs
- - https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
  - www.natur.com
  - api.gmelius.com
  - www.gmelius.com
@@ -428,7 +421,6 @@ date: 2019-11-19 10:00:00
  - https://billingsupport.chaturbate.com
  - blog.chaturbate.com
  - m.chaturbate.com
- - https://github.com/tronprotocol/java-tron
  - *.arkadiyt.com
  - www.myetherwallet.com
  - www.vintage.myetherwallet.com
@@ -529,7 +521,6 @@ date: 2019-11-19 10:00:00
  - https://federation.data.gov
  - https://ci.fr.cloud.gov
  - https://account.fr.cloud.gov
- - https://github.com/GSA/datagov-deploy
  - https://inventory.data.gov
  - https://sdg.data.gov
  - https://admin-catalog-bsp.data.gov
@@ -560,7 +551,6 @@ date: 2019-11-19 10:00:00
  - https://diagrams.fr.cloud.gov
  - https://alertmanager.fr.cloud.gov
  - https://admin.fr.cloud.gov
- - https://github.com/GSA/data.gov
  - https://cloud.gov
  - https://federalist.18f.gov
  - https://federalist-docs.18f.gov
