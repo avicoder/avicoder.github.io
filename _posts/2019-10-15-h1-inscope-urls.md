@@ -11,6 +11,9 @@ date: 2019-11-19 10:00:00
 Will be updated daily!
 [Download txt file](https://avicoder.me/h1_inscope_urls.txt)
 
+ - api.streak.com
+ - www.streak.com
+ - mailfoogae.appspot.com
  - *.line-apps.com
  - store.line.me
  - news.line.me
@@ -20,6 +23,17 @@ Will be updated daily!
  - *.line.me
  - my.stripo.email
  - stripo.email
+ - github.com/oasislabs/oasis-runtime
+ - github.com/oasislabs/oasis-core
+ - *.testnet.oasiscloud.io
+ - github.com/oasislabs/bsaes.js
+ - github.com/oasislabs/ed25519
+ - github.com/oasislabs/deoxysii-rust
+ - github.com/oasislabs/deoxysii
+ - github.com/oasislabs/oasis-cli
+ - github.com/oasislabs/oasis.js
+ - github.com/oasislabs/oasis-rs
+ - https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
  - www.natur.com
  - api.gmelius.com
  - www.gmelius.com
@@ -421,6 +435,7 @@ Will be updated daily!
  - https://billingsupport.chaturbate.com
  - blog.chaturbate.com
  - m.chaturbate.com
+ - https://github.com/tronprotocol/java-tron
  - *.arkadiyt.com
  - www.myetherwallet.com
  - www.vintage.myetherwallet.com
@@ -521,6 +536,7 @@ Will be updated daily!
  - https://federation.data.gov
  - https://ci.fr.cloud.gov
  - https://account.fr.cloud.gov
+ - https://github.com/GSA/datagov-deploy
  - https://inventory.data.gov
  - https://sdg.data.gov
  - https://admin-catalog-bsp.data.gov
@@ -551,6 +567,7 @@ Will be updated daily!
  - https://diagrams.fr.cloud.gov
  - https://alertmanager.fr.cloud.gov
  - https://admin.fr.cloud.gov
+ - https://github.com/GSA/data.gov
  - https://cloud.gov
  - https://federalist.18f.gov
  - https://federalist-docs.18f.gov
@@ -601,6 +618,7 @@ Will be updated daily!
  - https://645892349820.vulnerbug.com
  - teamhelp.upserve.com
  - *.upserve.com
+ - com.spotify.kids
  - api.spotify.com
  - *.spotifyforbrands.com
  - *.spotify.net
@@ -728,9 +746,11 @@ Will be updated daily!
  - www.starbucksreserve.com
  - www.teavana.com
  - *.rockstargames.com
+ - socialclub.rockstargames.com
+ - prod.ros.rockstargames.com
  - support.rockstargames.com
- - rockstarnorth.com
  - lifeinvader.com
+ - rockstarnorth.com
  - *.github.net
  - classroom.github.com
  - gist.github.com
@@ -997,28 +1017,6 @@ Will be updated daily!
  - *.urbandictionary.store
  - help.urbandictionary.com
  - iandunn.name
- - pop.mail.ru
- - *.delivery-club.ru
- - e.mail.ru
- - *.pandao.ru
- - cloud.mail.ru
- - account.mail.ru
- - *.lootdog.io
- - mail.ru
- - tel.mail.ru
- - auth.mail.ru
- - o2.mail.ru
- - biz.mail.ru
- - smtp.mail.ru
- - calendar.mail.ru
- - imap.mail.ru
- - mxs.mail.ru
- - emx.mail.ru
- - swa.mail.ru
- - health.mail.ru
- - touch.mail.ru
- - light.mail.ru
- - m.mail.ru
  - *.irccloud.com
  - api.irccloud.com
  - www.irccloud.com
