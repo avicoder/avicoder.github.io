@@ -34,11 +34,7 @@ jobs:
             . venv/bin/activate
             pip install -r requirements.txt
 
-      - run:
-    name: Update data
-    command: |
-      . venv/bin/activate
-      python scripts/h1.py
+            
 
       - save_cache:
           paths:
