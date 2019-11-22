@@ -1,3 +1,6 @@
+wallet.tomochain.com
+bridge.tomochain.com
+https://tomochain.com
 api.streak.com
 www.streak.com
 mailfoogae.appspot.com
@@ -425,7 +428,6 @@ m.chaturbate.com
 https://github.com/tronprotocol/java-tron
 *.arkadiyt.com
 www.myetherwallet.com
-www.vintage.myetherwallet.com
 *.liberapay.org
 *.liberapay.com
 *.duckduckgo.com
@@ -658,8 +660,8 @@ blog.quantopian.com
 portswigger.net
 *.web-security-academy.net
 rubygems.org
-your-assigned-subdomain.files.com
 www.files.com
+your-assigned-subdomain.files.com
 app.files.com
 doaction.org
 *.wordpress.org
@@ -946,6 +948,7 @@ api.instacart.com
 *.sovest.ru
 *.qiwi.me
 *.qiwi.com
+*.cloud.vimeo.com
 vimeo.com/create
 player.vimeo.com
 www.vimeo.com
@@ -953,7 +956,7 @@ www.vimeo.com
 api.vimeo.com
 checkout.vimeo.com
 vimeo.com/ondemand
-*.cloud.vimeo.com
+vimeo.magisto.com
 vimeo.com/api
 vimeopro.com
 www.dropbox.com
