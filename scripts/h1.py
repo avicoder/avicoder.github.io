@@ -69,4 +69,4 @@ while nextpage:
 # print json.dumps(data)
 
 with open(H1_JSON, 'w') as outfile:
-    json.dump(data, outfile, indent=2)
+    json.dump(data, outfile, indent=4)
