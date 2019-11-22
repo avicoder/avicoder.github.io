@@ -19,7 +19,7 @@ programs = []
 
 H1_JSON = path.join(
     path.dirname(__file__),
-    '/api/h1_inscope_urls.json',
+    '../api/h1_inscope_urls.json',
 )
 
 
