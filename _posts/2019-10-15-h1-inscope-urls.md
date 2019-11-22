@@ -11,21 +11,25 @@ date: 2019-11-19 10:00:00
 Will be updated daily!
 [Download txt file](https://avicoder.me/h1_inscope_urls.txt)
 
+
+ - wallet.tomochain.com
+ - bridge.tomochain.com
+ - https://tomochain.com
  - api.streak.com
  - www.streak.com
  - mailfoogae.appspot.com
- - *.line-apps.com
+ - \*.line-apps.com
  - store.line.me
  - news.line.me
  - music.line.me
  - live.line.me
- - *.line.naver.jp
- - *.line.me
+ - \*.line.naver.jp
+ - \*.line.me
  - my.stripo.email
  - stripo.email
  - github.com/oasislabs/oasis-runtime
  - github.com/oasislabs/oasis-core
- - *.testnet.oasiscloud.io
+ - \*.testnet.oasiscloud.io
  - github.com/oasislabs/bsaes.js
  - github.com/oasislabs/ed25519
  - github.com/oasislabs/deoxysii-rust
@@ -38,15 +42,15 @@ Will be updated daily!
  - api.gmelius.com
  - www.gmelius.com
  - app.lemlist.com
- - *.laurelroad.com
- - *.key.com
- - *.keybank.com
- - *.bolstr.com
- - *.hellowallet.com
- - *.cainbrothers.com
+ - \*.laurelroad.com
+ - \*.key.com
+ - \*.keybank.com
+ - \*.bolstr.com
+ - \*.hellowallet.com
+ - \*.cainbrothers.com
  - app.prospect.io
- - *.worklytics.co
- - *.allegro.pl.allegrosandbox.pl
+ - \*.worklytics.co
+ - \*.allegro.pl.allegrosandbox.pl
  - bb3api.topechelon.com
  - bigbiller.topechelon.com
  - www.topechelon.com
@@ -55,16 +59,16 @@ Will be updated daily!
  - https://staging.coda.io/*
  - https://shiny.ops.coda.io/*
  - https://airflow-prod.ops.coda.io/*
- - https://*.coda.io/*
+ - https://\*.coda.io/*
  - https://data.coda.io/*
  - https://head.coda.io/*
  - https://airflow-prod.coda.io/*
  - https://infra.coda.io/*
  - https://user-profile-test.coda.io/*
  - https://ao-docs.appspot.com/api/explorer
- - *.tumblr.com
- - *.txmblr.com
- - *.srvcs.tumblr.com
+ - \*.tumblr.com
+ - \*.txmblr.com
+ - \*.srvcs.tumblr.com
  - t.umblr.com
  - assets.tumblr.com
  - safe.tumblr.com
@@ -72,7 +76,7 @@ Will be updated daily!
  - secure.tumblr.com
  - api.tumblr.com
  - www.tumblr.com
- - *.railto.com
+ - \*.railto.com
  - https://www.sangam.com/
  - https://api.sangam.com
  - https://hera.sangam.com
@@ -94,10 +98,10 @@ Will be updated daily!
  - app.prosperworks.com
  - www.copper.com
  - www.amitree.com
- - *.api.savedroid.de
+ - \*.api.savedroid.de
  - api.savedroid.com/*
- - *.savedroid.com
- - *.ncsc.gov.uk
+ - \*.savedroid.com
+ - \*.ncsc.gov.uk
  - https://mainnet.eos.dfuse.io
  - datapod-1-ingest.forescoutcloud.net
  - datapod-1-ingest.Development.Forescout.com
@@ -134,12 +138,12 @@ Will be updated daily!
  - webjob-gameplay.refereum.com
  - webjob-twitch.refereum.com
  - refereum.com
- - *.kartpay.com
- - *.upgrade.com
- - *.uipath.com
+ - \*.kartpay.com
+ - \*.upgrade.com
+ - \*.uipath.com
  - dashboard.shieldox.com
- - *.shieldox.ai
- - *.shieldox.com
+ - \*.shieldox.ai
+ - \*.shieldox.com
  - app.trint.com
  - embed.trint.com
  - media.trint.com
@@ -187,7 +191,7 @@ Will be updated daily!
  - rebatefinder-dev.ecobee.com
  - utilities.ecobee.com
  - https://chain.link/
- - *.smartcontract.com
+ - \*.smartcontract.com
  - cruises.priceline.com
  - www.priceline.com
  - reservations.rezserver.com
@@ -195,32 +199,32 @@ Will be updated daily!
  - admin.rezserver.com
  - secure.rezserver.com
  - www.bookingholdings.com
- - *.zeit.co
- - *.now.systems
- - *.zeit.sh
+ - \*.zeit.co
+ - \*.now.systems
+ - \*.zeit.sh
  - zeit-cdn.net
- - *.tomtomgroup.com
- - *.teleatlas.com
+ - \*.tomtomgroup.com
+ - \*.teleatlas.com
  - api.tomtom.com
- - *.tomtom.com
+ - \*.tomtom.com
  - donations.livestream.com
- - *.livestream.com
+ - \*.livestream.com
  - www.livestream.com
- - *.new.livestream.com
- - *.pyopenssl.org
- - *.cryptography.io
- - *.paribus.co
- - *.capitalone360.com
- - *.wikibuy.com
- - *.bluetarp.com
- - *.capitalone.ca
- - *.capitalonebank.com
- - *.unitedincome.com
- - *.capitalone.co.uk
- - *.capitalone.com
- - *.backblazeb2.com
+ - \*.new.livestream.com
+ - \*.pyopenssl.org
+ - \*.cryptography.io
+ - \*.paribus.co
+ - \*.capitalone360.com
+ - \*.wikibuy.com
+ - \*.bluetarp.com
+ - \*.capitalone.ca
+ - \*.capitalonebank.com
+ - \*.unitedincome.com
+ - \*.capitalone.co.uk
+ - \*.capitalone.com
+ - \*.backblazeb2.com
  - www.backblaze.com
- - *.backblaze.com
+ - \*.backblaze.com
  - app.smartsheet.com
  - api.smartsheet.com/2.0
  - *authenticate.trustpilot.com
@@ -257,13 +261,13 @@ Will be updated daily!
  - xs0.forgeofempires.com
  - xs1.forgeofempires.com
  - xs1.elvenar.com
- - *.igpayment.com
+ - \*.igpayment.com
  - xs.elvenar.com
- - *.innogames.de
+ - \*.innogames.de
  - xs0.grepolis.com
  - xs.forgeofempires.com
  - xs1.grepolis.com
- - *.innogames.com
+ - \*.innogames.com
  - xs0.elvenar.com
  - xs.grepolis.com
  - xs1.tribalwars.cash
@@ -279,7 +283,7 @@ Will be updated daily!
  - https://accounts.creditkarma.com
  - https://blog.creditkarma.com/
  - https://tax.creditkarma.com
- - https://*.creditkarma.com
+ - https://\*.creditkarma.com
  - https://www.creditkarma.ca
  - https://help.creditkarma.com
  - https://api.creditkarma.com
@@ -307,18 +311,18 @@ Will be updated daily!
  - magentolive.com
  - u.magento.com
  - magento.com
- - *.quicklane.com
- - *.ford.com
- - *.omnicraftautoparts.com
- - *.motorcraft.com
- - *.lincoln.com
+ - \*.quicklane.com
+ - \*.ford.com
+ - \*.omnicraftautoparts.com
+ - \*.motorcraft.com
+ - \*.lincoln.com
  - www.hyatt.com
  - hyatt.com
  - assets.hyatt.com
  - world.hyatt.com
  - www.cfptime.org
  - capi.grammarly.com
- - *.grammarly.io
+ - \*.grammarly.io
  - admin-panel.grammarly.com
  - irbis.grammarly.com
  - dox.grammarly.com
@@ -326,7 +330,7 @@ Will be updated daily!
  - www.grammarly.com
  - data.grammarly.com
  - gnar.grammarly.com
- - *.grammarly.net
+ - \*.grammarly.net
  - app.grammarly.com
  - account.grammarly.com
  - institution.grammarly.com
@@ -336,25 +340,25 @@ Will be updated daily!
  - food.grammarly.io
  - api.ratelimited.me
  - ratelimited.me
- - *.ratelimited.me
+ - \*.ratelimited.me
  - m.avito.ru
  - www.avito.ru
- - *.fanduel.com
+ - \*.fanduel.com
  - fdbox.net
  - fanduel.design
- - *.hboeck.de
- - *.betterscience.org
- - *.fuzzing-project.org
- - *.smule.com
- - *.flickr.com
+ - \*.hboeck.de
+ - \*.betterscience.org
+ - \*.fuzzing-project.org
+ - \*.smule.com
+ - \*.flickr.com
  - www.casper.com
  - operator.casper.com
  - bedpost.casper.com
- - *.vivy.com
+ - \*.vivy.com
  - https://www.innocraft.cloud/
  - jenkins.eslint.org
- - *.alicdn.com
- - *.damai.cn
+ - \*.alicdn.com
+ - \*.damai.cn
  - www.lazada.com
  - sellercenter.lazada.*sixcountry
  - my.lazada.*sixcountry
@@ -363,56 +367,56 @@ Will be updated daily!
  - member.lazada.*sixcountry
  - store.lazada.*sixcountry
  - cart.lazada.*sixcountry
- - *.1688.com
- - *.ucweb.com
- - *.taobao.com
- - *.alibaba.com
- - *.aligames.com
- - *.dayu.com
- - *.shenjing.com
- - *.alios.cn
- - *.alihealth.cn
- - *.mei.com
- - *.umeng.com
- - *.aliqin.cn
- - *.sm.cn
- - *.alibabapictures.com
- - *.alibabaplanet.com
- - *.alisports.com
- - *.amap.com
- - *.autonavi.com
- - *.shuqireader.com
- - *.shuqi.com
- - *.uc.cn
- - *.xiami.com
- - *.soku.com
- - *.tudou.com
- - *.youku.com
- - *.fliggy.com
- - *.cainiao.com
- - *.dingtalk.com
- - *.9apps.com
- - *.etao.com
- - *.alibabagroup.com
- - *.alibaba-inc.com
- - *.alimama.com
- - *.aliyun.com
- - *.tmall.com
- - *.aliexpress.com
- - *.xoom.com
+ - \*.1688.com
+ - \*.ucweb.com
+ - \*.taobao.com
+ - \*.alibaba.com
+ - \*.aligames.com
+ - \*.dayu.com
+ - \*.shenjing.com
+ - \*.alios.cn
+ - \*.alihealth.cn
+ - \*.mei.com
+ - \*.umeng.com
+ - \*.aliqin.cn
+ - \*.sm.cn
+ - \*.alibabapictures.com
+ - \*.alibabaplanet.com
+ - \*.alisports.com
+ - \*.amap.com
+ - \*.autonavi.com
+ - \*.shuqireader.com
+ - \*.shuqi.com
+ - \*.uc.cn
+ - \*.xiami.com
+ - \*.soku.com
+ - \*.tudou.com
+ - \*.youku.com
+ - \*.fliggy.com
+ - \*.cainiao.com
+ - \*.dingtalk.com
+ - \*.9apps.com
+ - \*.etao.com
+ - \*.alibabagroup.com
+ - \*.alibaba-inc.com
+ - \*.alimama.com
+ - \*.aliyun.com
+ - \*.tmall.com
+ - \*.aliexpress.com
+ - \*.xoom.com
  - paypal.me
  - scrutiny.swiftfinancial.com
  - pigeon.swiftfinancial.com
  - decision.swiftfinancial.com
  - partner.swiftfinancial.com
  - prequal.swiftfinancial.com
- - *.braintree.tools
- - *.braintree-api.com
+ - \*.braintree.tools
+ - \*.braintree-api.com
  - py.pl
  - paypalobjects.com
- - *.paydiant.com
- - *.braintreegateway.com
- - *.venmo.com
+ - \*.paydiant.com
+ - \*.braintreegateway.com
+ - \*.venmo.com
  - swiftcapital.com
  - swiftfinancial.com
  - loanbuilder.com
@@ -423,26 +427,25 @@ Will be updated daily!
  - www.swiftfinancial.com
  - www.loanbuilder.com
  - www.swiftcapital.com
- - *.braintreepayments.com
- - www.paypal-*.com
- - *.paypal.com
+ - \*.braintreepayments.com
+ - www.paypal-\*.com
+ - \*.paypal.com
  - mariadb.org
  - https://chaturbate.com
- - *.securegatewayaccess.com
+ - \*.securegatewayaccess.com
  - https://secure.chaturbate.com
- - *.highwebmedia.com
+ - \*.highwebmedia.com
  - https://status.chaturbate.com
  - https://billingsupport.chaturbate.com
  - blog.chaturbate.com
  - m.chaturbate.com
  - https://github.com/tronprotocol/java-tron
- - *.arkadiyt.com
+ - \*.arkadiyt.com
  - www.myetherwallet.com
- - www.vintage.myetherwallet.com
- - *.liberapay.org
- - *.liberapay.com
- - *.duckduckgo.com
- - *.impinj.com
+ - \*.liberapay.org
+ - \*.liberapay.com
+ - \*.duckduckgo.com
+ - \*.impinj.com
  - www.crypto.com
  - app.passit.io
  - www.mediamarkt.se
@@ -483,7 +486,7 @@ Will be updated daily!
  - https://keyguard.nimiq.com/
  - https://bounty-node.rsk.co
  - www.bitmex.com
- - *.bitmex.com
+ - \*.bitmex.com
  - public.bitmex.com
  - blog.crowdstrike.com
  - www.falcon-sandbox.com
@@ -491,23 +494,23 @@ Will be updated daily!
  - www.hybrid-analysis.com
  - www.crowdstrike.com
  - www.crowdstrike.org
- - *.goldman.com
- - *.marcus.com
- - *.marcus.co.uk
- - *.goldmansachs.com
+ - \*.goldman.com
+ - \*.marcus.com
+ - \*.marcus.co.uk
+ - \*.goldmansachs.com
  - marquee.gs.com
  - goldmansachsindices.com
  - developer.gs.com
- - *.global-liquidity.gs.com
- - *.qaglobal-liquidity.gs.com
- - *.gs-mosaic.gs.com
- - *.gs-mosaic.qa.gs.com
- - *.gsam.com
- - *.gs.com
+ - \*.global-liquidity.gs.com
+ - \*.qaglobal-liquidity.gs.com
+ - \*.gs-mosaic.gs.com
+ - \*.gs-mosaic.qa.gs.com
+ - \*.gsam.com
+ - \*.gs.com
  - research.gs.com
- - *.honestdollar.com
- - *.claritymoney.com
- - *.gsselect.com
+ - \*.honestdollar.com
+ - \*.claritymoney.com
+ - \*.gsselect.com
  - https://cryptojourney.com/
  - https://securitytxt.org/
  - https://bugbountyguide.com/
@@ -543,14 +546,14 @@ Will be updated daily!
  - https://login.fr.cloud.gov/
  - https://logs.fr.cloud.gov
  - https://dashboard-beta.fr.cloud.gov/
- - *.code.gov
- - *.search.gov
+ - \*.code.gov
+ - \*.search.gov
  - marketplace.fedramp.gov
  - www.fedramp.gov
  - tock.18f.gov
- - *.search.usa.gov
+ - \*.search.usa.gov
  - https://idp.fr.cloud.gov
- - *.login.gov
+ - \*.login.gov
  - dashboard-beta.fr.cloud.gov
  - https://catalog.data.gov
  - https://api.data.gov
@@ -575,20 +578,20 @@ Will be updated daily!
  - https://18f.gsa.gov
  - https://manage.data.gov
  - https://vote.gov
- - *.deliveroo-data-test.io
- - *.deliveroo-streams.net
- - *.deliveroo-data.io
- - *.deliveroo-data.net
- - *.deliveroo.*
+ - \*.deliveroo-data-test.io
+ - \*.deliveroo-streams.net
+ - \*.deliveroo-data.io
+ - \*.deliveroo-data.net
+ - \*.deliveroo.*
  - infogram.com
  - your-store.vendhq.com
  - secure.vendhq.com
  - developers.vendhq.com
  - www.vendhq.com
- - *.vanillacommunities.com
- - *.vanillastaging.com
- - *.vanilladevelopment.com
- - *.vanillaforums.com
+ - \*.vanillacommunities.com
+ - \*.vanillastaging.com
+ - \*.vanilladevelopment.com
+ - \*.vanillaforums.com
  - api.bitwarden.com
  - help.bitwarden.com
  - bitwarden.com
@@ -617,24 +620,24 @@ Will be updated daily!
  - mossy.breadcrumb.com
  - https://645892349820.vulnerbug.com
  - teamhelp.upserve.com
- - *.upserve.com
+ - \*.upserve.com
  - com.spotify.kids
  - api.spotify.com
- - *.spotifyforbrands.com
- - *.spotify.net
- - *.spotify.com
+ - \*.spotifyforbrands.com
+ - \*.spotify.net
+ - \*.spotify.com
  - api.prod.cuv-prod.app
  - ops.cuvva.com
  - vpn.corp.cuvva.com
- - *.sys.cuvva.co
- - *.int.cuvva.co
- - *.corp.cuvva.co
+ - \*.sys.cuvva.co
+ - \*.int.cuvva.co
+ - \*.corp.cuvva.co
  - underwriter.partner.cuvva.com
- - *.vendor.cuvva.co
+ - \*.vendor.cuvva.co
  - www.cuvva.com
  - hosted.weblate.org
  - staging-api.shipt.com
- - *.shipt.com
+ - \*.shipt.com
  - admin.shipt.com
  - staging-shoppingcart.shipt.com
  - staging-admin.shipt.com
@@ -645,7 +648,7 @@ Will be updated daily!
  - api.shipt.com
  - app.shipt.com
  - shoppingcart.shipt.com
- - *.lyst.com
+ - \*.lyst.com
  - https://www.showmax.com
  - https://secure.showmax.com
  - https://api.showmax.com
@@ -656,36 +659,36 @@ Will be updated daily!
  - my.plaid.com
  - production.plaid.com
  - demo.plaid.com
- - *.semrush.com
- - *.berush.com
- - *.labs-semrush.com
+ - \*.semrush.com
+ - \*.berush.com
+ - \*.labs-semrush.com
  - events.semrush.com
- - *.quora.com
+ - \*.quora.com
  - publishers.basicattentiontoken.org
  - brave.com
  - basicattentiontoken.org
  - www.quantopian.com
- - *.dynoquant.com
+ - \*.dynoquant.com
  - blog.quantopian.com
- - *.quantshack.com
+ - \*.quantshack.com
  - portswigger.net
- - *.web-security-academy.net
+ - \*.web-security-academy.net
  - rubygems.org
- - your-assigned-subdomain.files.com
  - www.files.com
+ - your-assigned-subdomain.files.com
  - app.files.com
  - doaction.org
- - *.wordpress.org
+ - \*.wordpress.org
  - planet.wordpress.org
- - *.wordcamp.org
- - *.buddypress.org,bbpress.org,profiles.wordpress.org
+ - \*.wordcamp.org
+ - \*.buddypress.org,bbpress.org,profiles.wordpress.org
  - api.wordpress.org
  - lists.wordpress.org
  - wordpressfoundation.org
  - codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
  - mercantile.wordpress.org
- - munin-*.wordpress.org
- - *.wordpress.net
+ - munin-\*.wordpress.org
+ - \*.wordpress.net
  - irclogs.wordpress.org
  - aspen.io
  - django.aspen.io
@@ -695,7 +698,7 @@ Will be updated daily!
  - new.aspen.io
  - embed.vhx.tv
  - vhx.tv
- - *.vhx.tv
+ - \*.vhx.tv
  - api.vhx.tv
  - https://customerupdates.nextcloud.com
  - https://updates.nextcloud.com
@@ -721,11 +724,11 @@ Will be updated daily!
  - https://logs.nextcloud.com
  - https://pushfeed.nextcloud.com
  - https://newsletter.nextcloud.com
- - *.icq.com
+ - \*.icq.com
  - web.icq.com
- - *.icq.net
+ - \*.icq.net
  - agent.mail.ru
- - *.secnews.gr
+ - \*.secnews.gr
  - www.starbucks.com
  - gift.starbucks.co.jp
  - www.starbucks.co.jp
@@ -745,20 +748,20 @@ Will be updated daily!
  - www.starbucks.com.sg
  - www.starbucksreserve.com
  - www.teavana.com
- - *.rockstargames.com
+ - \*.rockstargames.com
  - socialclub.rockstargames.com
  - prod.ros.rockstargames.com
  - support.rockstargames.com
  - lifeinvader.com
  - rockstarnorth.com
- - *.github.net
+ - \*.github.net
  - classroom.github.com
  - gist.github.com
  - api.github.com
  - jobs.github.com
  - lab.github.com
  - education.github.com
- - *.githubapp.com
+ - \*.githubapp.com
  - GitHub.com
  - sandbox.open-xchange.com
  - www.tapiola.fi
@@ -777,24 +780,24 @@ Will be updated daily!
  - faa.st
  - winecellar.zomato.com
  - www.zomatobook.com
- - *.zomato.com
- - *.zdev.net
- - *.infrastructure.newrelic.com
+ - \*.zomato.com
+ - \*.zdev.net
+ - \*.infrastructure.newrelic.com
  - rpm.newrelic.com/accounts/*/mobile
  - docs.newrelic.com
  - support.newrelic.com
  - developer.newrelic.com
  - rpm.eu.newrelic.com/accounts/*/browser
  - rpm.newrelic.com/accounts/*/browser
- - *.eu.newrelic.com
+ - \*.eu.newrelic.com
  - alerts.eu.newrelic.com
  - rpm.eu.newrelic.com/accounts/*/mobile
  - synthetics.eu.newrelic.com
  - infrastructure.eu.newrelic.com
  - insights.eu.newrelic.com
  - learn.newrelic.com
- - *.blog.newrelic.com
- - *.infrastructure-data.newrelic.com
+ - \*.blog.newrelic.com
+ - \*.infrastructure-data.newrelic.com
  - blog.newrelic.com
  - infrastructure.newrelic.com
  - insights.newrelic.com
@@ -803,7 +806,7 @@ Will be updated daily!
  - one.newrelic.com
  - login.newrelic.com
  - alerts.newrelic.com
- - *.newrelic.com
+ - \*.newrelic.com
  - synthetics.newrelic.com
  - news.unikrn.com
  - auth.unikrn.com
@@ -818,7 +821,7 @@ Will be updated daily!
  - t.unikrn.com
  - bingo-api.unikrn.com
  - pinion.gg
- - *.binary.com
+ - \*.binary.com
  - www.codeigniter.com
  - werkenbijdefensie.nl
  - careers.evonik.com
@@ -829,14 +832,14 @@ Will be updated daily!
  - werkenbijderet.nl
  - mijn.werkenbijdefensie.nl
  - devmaximum.com
- - *.algolianet.com
- - *.algolia.net
+ - \*.algolianet.com
+ - \*.algolia.net
  - www.algolia.com
- - *.myteksi.com
- - *.myteksi.net
- - *.grab.com
+ - \*.myteksi.com
+ - \*.myteksi.net
+ - \*.grab.com
  - xtramile.grabpay.com
- - *.grabpay.com
+ - \*.grabpay.com
  - api.grabpay.com
  - hub.grab.com
  - p.grabtaxi.com
@@ -844,15 +847,15 @@ Will be updated daily!
  - drive.grab.co
  - gamma.grab.co
  - grab.careers
- - *.grab.co
- - *.grabtaxi.com
+ - \*.grab.co
+ - \*.grabtaxi.com
  - wiki.grab.com
  - jira.grab.com
  - mos.grabpay.com
  - sandbox.reverb.com
  - tamtam.chat
  - ok.ru
- - *.ok.ru
+ - \*.ok.ru
  - https://moneybirdstorage.com
  - https://moneybird.com
  - https://mobileapi.souq.com
@@ -868,7 +871,7 @@ Will be updated daily!
  - nummus.robinhood.com
  - api.robinhood.com
  - robinhood.com
- - *.zendesk.com/connect*
+ - \*.zendesk.com/connect*
  - h1-your-domain.zendesk.com
  - developer.zendesk.com
  - www.zendesk.com
@@ -876,11 +879,11 @@ Will be updated daily!
  - accounts.shopify.com
  - partners.shopify.com
  - exchangemarketplace.com
- - *.shopify.com
+ - \*.shopify.com
  - www.mapbox.com
  - api.mapbox.com
  - https://www.mapbox.com/api-documentation
- - *.byairbnb.com
+ - \*.byairbnb.com
  - admin.demo.urbandoor.com
  - provider.demo.urbandoor.com
  - demo.urbandoor.com
@@ -888,17 +891,17 @@ Will be updated daily!
  - luckey.app
  - luckey.fr
  - luckeyhomes.com
- - *.luxuryretreats.com
+ - \*.luxuryretreats.com
  - www.airbnb.com
- - *.withairbnb.com
- - *.muscache.com
- - *.airbnb-aws.com
- - *.atairbnb.com
- - *.hoteltonight-test.com
+ - \*.withairbnb.com
+ - \*.muscache.com
+ - \*.airbnb-aws.com
+ - \*.atairbnb.com
+ - \*.hoteltonight-test.com
  - support-api.airbnb.com
  - api.airbnb.com
- - *.airbnbcitizen.com
- - *.airbnb.com
+ - \*.airbnbcitizen.com
+ - \*.airbnb.com
  - callbacks.airbnb.com
  - open.airbnb.com
  - one.airbnb.com
@@ -908,8 +911,8 @@ Will be updated daily!
  - next.airbnb.com
  - api-staging.airtable.com
  - staging.airtable.com
- - *.staging.airtable.com
- - *.staging-airtableblocks.com
+ - \*.staging.airtable.com
+ - \*.staging-airtableblocks.com
  - www.blockchain.com
  - mailer2.blockchain.com
  - mailer1.blockchain.com
@@ -917,13 +920,13 @@ Will be updated daily!
  - docs.blockchain.com
  - api.blockchain.com
  - ws.blockchain.info
- - pit.*.blockchain.info
+ - pit.\*.blockchain.info
  - horizon.blockchain.info
- - *.dev.blockchain.info
- - *.europe-west1.dev.blockchain.info
+ - \*.dev.blockchain.info
+ - \*.europe-west1.dev.blockchain.info
  - consul.dev.blockchain.info
  - blog.blockchain.info
- - *.blockchain.com
+ - \*.blockchain.com
  - bci-ads.blockchain.info
  - api.blockchain.info
  - www.blockchain.info
@@ -931,8 +934,8 @@ Will be updated daily!
  - prod.blockchain.com
  - pit.blockchain.com
  - mailer3.blockchain.com
- - *.ui.com
- - *.ubnt.com
+ - \*.ui.com
+ - \*.ubnt.com
  - store.ui.com
  - ir.ui.com
  - community.ui.com
@@ -952,21 +955,22 @@ Will be updated daily!
  - scan.snapchat.com
  - www.instacart.com
  - api.instacart.com
- - *.rocketbank.ru
- - *.flocktory.com
- - *.contact-sys.com
- - *.rapida.ru
- - *.sovest.ru
- - *.qiwi.me
- - *.qiwi.com
+ - \*.rocketbank.ru
+ - \*.flocktory.com
+ - \*.contact-sys.com
+ - \*.rapida.ru
+ - \*.sovest.ru
+ - \*.qiwi.me
+ - \*.qiwi.com
+ - \*.cloud.vimeo.com
  - vimeo.com/create
  - player.vimeo.com
  - www.vimeo.com
- - *.vimeo.com
+ - \*.vimeo.com
  - api.vimeo.com
  - checkout.vimeo.com
  - vimeo.com/ondemand
- - *.cloud.vimeo.com
+ - vimeo.magisto.com
  - vimeo.com/api
  - vimeopro.com
  - www.dropbox.com
@@ -981,7 +985,7 @@ Will be updated daily!
  - onboarding.greenhouse.io
  - boards.greenhouse.io
  - www.greenhouse.io
- - ws*.gitter.im
+ - ws\*.gitter.im
  - customers.gitlab.com
  - gitter.im
  - registry.gitlab.com
@@ -995,37 +999,37 @@ Will be updated daily!
  - stage-home.wepay.com
  - go.wepay.com
  - www.wepayapi.com
- - *.twitter.com
- - *.periscope.tv
+ - \*.twitter.com
+ - \*.periscope.tv
  - mopub.com
  - gnip.com
- - *.twimg.com
- - *.pscp.tv
- - *.vine.co
+ - \*.twimg.com
+ - \*.pscp.tv
+ - \*.vine.co
  - snappytv.com
  - niche.co
  - twitterflightschool.com
  - urbandictionary.github.io
- - *.urbandictionary.biz
- - *.urbandictionary.net
- - *.urbandictionary.com
- - *.urbanup.com
- - *.urbandictionary.org
- - *.urbandictionary.blog
- - *.udimg.com
- - *.ud.wtf
- - *.urbandictionary.store
+ - \*.urbandictionary.biz
+ - \*.urbandictionary.net
+ - \*.urbandictionary.com
+ - \*.urbanup.com
+ - \*.urbandictionary.org
+ - \*.urbandictionary.blog
+ - \*.udimg.com
+ - \*.ud.wtf
+ - \*.urbandictionary.store
  - help.urbandictionary.com
  - iandunn.name
- - *.irccloud.com
+ - \*.irccloud.com
  - api.irccloud.com
  - www.irccloud.com
  - irccloud.com
  - team-irc.irccloud.com
  - irc.irccloud.com
- - *.irccloud-cdn.com
+ - \*.irccloud-cdn.com
  - blog.irccloud.com
- - *.cbhq.net
+ - \*.cbhq.net
  - api.coinbase.com
  - commerce.coinbase.com
  - coinbase.com
@@ -1040,11 +1044,11 @@ Will be updated daily!
  - api.slack.com
  - api-secure.sports.yahoo.com
  - https://hackerone.com
- - *.vpn.hackerone.net
+ - \*.vpn.hackerone.net
  - https://hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com/
  - https://api.hackerone.com
  - https://errors.hackerone.net
  - https://www.hackerone.com
- - https://*.hackerone-ext-content.com
- - https://*.hackerone-user-content.com/
+ - https://\*.hackerone-ext-content.com
+ - https://\*.hackerone-user-content.com/
  - https://ctf.hacker101.com
