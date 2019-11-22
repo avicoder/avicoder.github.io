@@ -1,4 +1,6 @@
-import requests
+import requests,json
+from os import path, environ
+
 
 url = "https://hackerone.com/graphql"
 custom_header = {'Accept-Encoding': 'gzip'}
@@ -6,8 +8,20 @@ custom_header = {'Accept-Encoding': 'gzip'}
 cursor =""
 nextpage = "hello"
 
+data = {}
 
 handles = []
+totalPrograms=0
+totalUrls=0
+
+programs = []
+
+
+H1_JSON = path.join(
+    path.dirname(__file__),
+    'api/h1_test.json',
+)
+
 
 
 
@@ -23,17 +37,36 @@ while nextpage:
 
 
 
+    # for each program
+
     for i in range(0,length):
+
+        totalPrograms = totalPrograms + 1
+
         h =   res.json()['data']['teams']['edges'][i]['node']['handle']
         handles.append(h)
         urlscope = []
+
 
         payload2 = {"query":"query Team_assets($first_0:Int!) {query {id,...F0}} fragment F0 on Query {_team3QHDcV:team(handle:\"" +h + "\") {handle,_structured_scope_versions2ZWKHQ:structured_scope_versions(archived:false) {max_updated_at},_structured_scopes2qeKP8:structured_scopes(first:$first_0,archived:false,eligible_for_submission:true) {edges {node {id,asset_type,asset_identifier,rendered_instruction,max_severity,eligible_for_bounty},cursor},pageInfo {hasNextPage,hasPreviousPage}},_structured_scopes1wWN6h:structured_scopes(first:$first_0,archived:false,eligible_for_submission:false) {edges {node {id,asset_type,asset_identifier,rendered_instruction},cursor},pageInfo {hasNextPage,hasPreviousPage}},id},id}","variables":{"first_0":500}}
 
 
 
         e = requests.post(url,json=payload2,headers=custom_header).json()['data']['query']['_team3QHDcV']['_structured_scopes2qeKP8']['edges']
+        # get all urls in programs
+
+
         for q in e:
             if q['node']['asset_type'] == 'URL':
-                print " - " + q['node']['asset_identifier']
                 urlscope.append(q['node']['asset_identifier'])
+                totalUrls = totalUrls + 1
+
+        program = {"name":h,"urls":urlscope}
+        programs.append(program)
+
+    data.update({"data":{"programs":programs,"metaData":{"totalPrograms":totalPrograms,"totalUrls":totalUrls}}})
+
+# print json.dumps(data)
+
+with open(H1_JSON, 'w') as outfile:
+    json.dump(data, outfile, indent=2)
