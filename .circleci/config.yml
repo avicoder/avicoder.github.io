@@ -45,3 +45,19 @@ jobs:
             git commit -am "[skip ci] Updating Data ${DATE_TODAY}" --allow-empty
             git push origin master
 
+
+workflows:
+  version: 2
+  commit:
+    jobs:
+      - build
+  scheduled-workflow:
+    triggers:
+      - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - build    
