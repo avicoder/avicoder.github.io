@@ -20,7 +20,11 @@ jobs:
     working_directory: ~/repo
 
     steps:
-
+    
+      - add_ssh_keys:
+          fingerprints:
+             - "4f:a5:a2:78:54:60:b8:ce:48:33:ad:49:72:f1:50:43"
+  
           
       - run:
           name: install dependencies
@@ -33,7 +37,7 @@ jobs:
           name: Update data
           command: |
             . venv/bin/activate
-            python scripts/h1.py
+            python ../scripts/h1.py
 
       - run:
           name: Commit data back to Github
