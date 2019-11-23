@@ -48,7 +48,4 @@ jobs:
             git commit -am "[skip ci] Updating Data ${DATE_TODAY}" --allow-empty
             git push origin master
 
-            
-      - store_artifacts:
-          path: test-reports
-          destination: test-reports
+
