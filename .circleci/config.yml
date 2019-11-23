@@ -2,7 +2,7 @@
 #
 # Check https://circleci.com/docs/2.0/language-python/ for more details
 #
-version: 2.1
+version: 2
 jobs:
   build:
     docker:
@@ -46,6 +46,7 @@ jobs:
             git push origin master
 
 workflows:
+  version: 2
   daily_data_update:
     triggers:
       - schedule:
