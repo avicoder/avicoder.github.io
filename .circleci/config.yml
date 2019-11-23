@@ -47,7 +47,7 @@ jobs:
 
 workflows:
   version: 2
-  daily_data_update:
+  nightly:
     triggers:
       - schedule:
           cron: "0 0 * * *"
@@ -56,4 +56,4 @@ workflows:
               only:
                 - master
     jobs:
-      - build
+      - coverage
