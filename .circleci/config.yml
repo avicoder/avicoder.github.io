@@ -20,8 +20,9 @@ jobs:
     steps:
       - checkout
 
-      # Download and cache dependencies
-     
+      - add_ssh_keys:
+          fingerprints:
+            - "b6:57:0b:30:a9:80:38:29:9f:08:8e:f6:3f:7e:99:d4" 
       - run:
           name: install dependencies
           command: |
