@@ -1492,14 +1492,7 @@
             },
             {
                 "name": "aspen",
-                "urls": [
-                    "aspen.io",
-                    "django.aspen.io",
-                    "flask.aspen.io",
-                    "pando.aspen.io",
-                    "core.aspen.io",
-                    "new.aspen.io"
-                ]
+                "urls": []
             },
             {
                 "name": "gocd",
@@ -2278,7 +2271,7 @@
         ],
         "metaData": {
             "totalPrograms": 267,
-            "totalUrls": 1041
+            "totalUrls": 1035
         }
     }
 }
