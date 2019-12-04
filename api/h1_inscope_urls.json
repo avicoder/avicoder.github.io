@@ -2,6 +2,13 @@
     "data": {
         "programs": [
             {
+                "name": "pubg",
+                "urls": [
+                    "*.pubgesports.com",
+                    "*.pubg.com"
+                ]
+            },
+            {
                 "name": "genasys",
                 "urls": [
                     "staging.genasystech.co.uk/d2c",
@@ -961,6 +968,7 @@
             {
                 "name": "crypto",
                 "urls": [
+                    "https://crypto.com/en/exchangebeta",
                     "www.crypto.com"
                 ]
             },
@@ -2270,8 +2278,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 267,
-            "totalUrls": 1035
+            "totalPrograms": 268,
+            "totalUrls": 1038
         }
     }
 }
