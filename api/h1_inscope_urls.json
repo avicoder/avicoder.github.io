@@ -1093,6 +1093,13 @@
                 ]
             },
             {
+                "name": "coalition",
+                "urls": [
+                    "api.thecoalition.com",
+                    "platform.thecoalition.com"
+                ]
+            },
+            {
                 "name": "goldmansachs",
                 "urls": [
                     "*.goldman.com",
@@ -1851,15 +1858,6 @@
                 ]
             },
             {
-                "name": "souq",
-                "urls": [
-                    "https://mobileapi.souq.com",
-                    "https://api.souq.com",
-                    "https://sell.souq.com",
-                    "https://saudi.souq.com"
-                ]
-            },
-            {
                 "name": "dashlane",
                 "urls": [
                     "ws1.dashlane.com",
@@ -2292,7 +2290,7 @@
         ],
         "metaData": {
             "totalPrograms": 270,
-            "totalUrls": 1041
+            "totalUrls": 1039
         }
     }
 }
