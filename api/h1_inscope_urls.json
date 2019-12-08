@@ -2,6 +2,15 @@
     "data": {
         "programs": [
             {
+                "name": "zenly",
+                "urls": [
+                    "zen.ly",
+                    "rpc.znly.co",
+                    "rpc-kcp.znly.co",
+                    "api.znly.co"
+                ]
+            },
+            {
                 "name": "polymail_inc",
                 "urls": [
                     "welovepg.polymail.io",
@@ -2289,8 +2298,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 270,
-            "totalUrls": 1039
+            "totalPrograms": 271,
+            "totalUrls": 1043
         }
     }
 }
