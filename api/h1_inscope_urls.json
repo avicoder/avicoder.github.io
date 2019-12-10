@@ -1151,14 +1151,6 @@
                 ]
             },
             {
-                "name": "electroneum",
-                "urls": [
-                    "electroneum.com",
-                    "api.electroneum.com",
-                    "my.electroneum.com"
-                ]
-            },
-            {
                 "name": "recargapay",
                 "urls": [
                     "api.recarga.com"
@@ -2304,8 +2296,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 272,
-            "totalUrls": 1044
+            "totalPrograms": 271,
+            "totalUrls": 1041
         }
     }
 }
