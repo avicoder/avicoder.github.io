@@ -14,4 +14,5 @@ Updated daily!
 ⤋ [Download JSON file](https://avicoder.me/api/h1_inscope_urls.json)
 
 
+[![CircleCI](https://circleci.com/gh/avicoder/avicoder.github.io/tree/master.svg?style=svg)](https://circleci.com/gh/avicoder/avicoder.github.io/tree/master)
 
