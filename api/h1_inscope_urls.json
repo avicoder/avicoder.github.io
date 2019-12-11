@@ -2,12 +2,6 @@
     "data": {
         "programs": [
             {
-                "name": "cyberskyline",
-                "urls": [
-                    "https://cyberskyline.com"
-                ]
-            },
-            {
                 "name": "zenly",
                 "urls": [
                     "zen.ly",
@@ -534,14 +528,16 @@
             {
                 "name": "capital-one",
                 "urls": [
-                    "*.paribus.co",
-                    "*.capitalone360.com",
-                    "*.wikibuy.com",
-                    "*.bluetarp.com",
-                    "*.capitalone.ca",
-                    "*.capitalonebank.com",
+                    "*.luma.co.uk",
+                    "*.capitalonecareers.co.uk",
                     "*.unitedincome.com",
+                    "*.bluetarp.com",
                     "*.capitalone.co.uk",
+                    "*.capitalonebank.com",
+                    "*.capitalone.ca",
+                    "*.wikibuy.com",
+                    "*.capitalone360.com",
+                    "*.paribus.co",
                     "*.capitalone.com"
                 ]
             },
@@ -2296,8 +2292,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 271,
-            "totalUrls": 1041
+            "totalPrograms": 270,
+            "totalUrls": 1042
         }
     }
 }
