@@ -2,6 +2,15 @@
     "data": {
         "programs": [
             {
+                "name": "lendinghome",
+                "urls": [
+                    "*.lhcapitalmanagement.com",
+                    "*.lendinghome.com",
+                    "*.lhcapital-matrix.com",
+                    "*.lh-matrix.com"
+                ]
+            },
+            {
                 "name": "zenly",
                 "urls": [
                     "zen.ly",
@@ -528,16 +537,16 @@
             {
                 "name": "capital-one",
                 "urls": [
-                    "*.luma.co.uk",
-                    "*.capitalonecareers.co.uk",
-                    "*.unitedincome.com",
-                    "*.bluetarp.com",
-                    "*.capitalone.co.uk",
-                    "*.capitalonebank.com",
-                    "*.capitalone.ca",
-                    "*.wikibuy.com",
-                    "*.capitalone360.com",
                     "*.paribus.co",
+                    "*.capitalone360.com",
+                    "*.wikibuy.com",
+                    "*.capitalone.ca",
+                    "*.capitalonecareers.co.uk",
+                    "*.capitalonebank.com",
+                    "*.capitalone.co.uk",
+                    "*.bluetarp.com",
+                    "*.luma.co.uk",
+                    "*.unitedincome.com",
                     "*.capitalone.com"
                 ]
             },
@@ -1539,10 +1548,6 @@
                 ]
             },
             {
-                "name": "olx",
-                "urls": []
-            },
-            {
                 "name": "nextcloud",
                 "urls": [
                     "https://customerupdates.nextcloud.com",
@@ -2293,7 +2298,7 @@
         ],
         "metaData": {
             "totalPrograms": 270,
-            "totalUrls": 1042
+            "totalUrls": 1046
         }
     }
 }
