@@ -2,6 +2,15 @@
     "data": {
         "programs": [
             {
+                "name": "datastax",
+                "urls": [
+                    "https://docs.datastax.com/",
+                    "https://academy.datastax.com/",
+                    "https://downloads.datastax.com",
+                    "https://www.datastax.com/"
+                ]
+            },
+            {
                 "name": "lendinghome",
                 "urls": [
                     "*.lhcapitalmanagement.com",
@@ -2297,8 +2306,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 270,
-            "totalUrls": 1046
+            "totalPrograms": 271,
+            "totalUrls": 1050
         }
     }
 }
