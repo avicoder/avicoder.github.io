@@ -4,8 +4,8 @@
             {
                 "name": "datastax",
                 "urls": [
-                    "https://docs.datastax.com/",
                     "https://academy.datastax.com/",
+                    "https://docs.datastax.com/",
                     "https://downloads.datastax.com",
                     "https://www.datastax.com/"
                 ]
@@ -1905,6 +1905,7 @@
             {
                 "name": "zendesk",
                 "urls": [
+                    "apps.zendesk.com",
                     "*.zendesk.com/connect*",
                     "h1-your-domain.zendesk.com",
                     "developer.zendesk.com",
@@ -2307,7 +2308,7 @@
         ],
         "metaData": {
             "totalPrograms": 271,
-            "totalUrls": 1050
+            "totalUrls": 1051
         }
     }
 }
