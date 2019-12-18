@@ -757,6 +757,7 @@
                     "www.grammarly.com",
                     "data.grammarly.com",
                     "gnar.grammarly.com",
+                    "g-mail.grammarly.com",
                     "*.grammarly.net",
                     "app.grammarly.com",
                     "account.grammarly.com",
@@ -2308,7 +2309,7 @@
         ],
         "metaData": {
             "totalPrograms": 271,
-            "totalUrls": 1051
+            "totalUrls": 1052
         }
     }
 }
