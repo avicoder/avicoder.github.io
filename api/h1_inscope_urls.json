@@ -1872,12 +1872,6 @@
                 "urls": []
             },
             {
-                "name": "reverb",
-                "urls": [
-                    "sandbox.reverb.com"
-                ]
-            },
-            {
                 "name": "keybase",
                 "urls": []
             },
@@ -2254,13 +2248,13 @@
             {
                 "name": "coinbase",
                 "urls": [
-                    "*.cbhq.net",
                     "api.coinbase.com",
-                    "commerce.coinbase.com",
-                    "coinbase.com",
-                    "paradex.io",
+                    "*.cbhq.net",
+                    "pro.coinbase.com",
                     "prime.coinbase.com",
-                    "pro.coinbase.com"
+                    "paradex.io",
+                    "coinbase.com",
+                    "commerce.coinbase.com"
                 ]
             },
             {
@@ -2341,8 +2335,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 272,
-            "totalUrls": 1080
+            "totalPrograms": 271,
+            "totalUrls": 1079
         }
     }
 }
