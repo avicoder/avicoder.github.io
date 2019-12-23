@@ -6,11 +6,13 @@
                 "urls": [
                     "app.liveplan.com",
                     "app.outpost.co",
-                    "www.outpost.co",
-                    "*.mplans.com",
-                    "*.paloalto.com",
+                    "api.outpost.co",
                     "www.liveplan.com",
-                    "*.bplans.com"
+                    "www.paloalto.com",
+                    "www.teamoutpost.com",
+                    "www.outpost.co",
+                    "www.bplans.com",
+                    "www.mplans.com"
                 ]
             },
             {
@@ -2348,7 +2350,7 @@
         ],
         "metaData": {
             "totalPrograms": 272,
-            "totalUrls": 1086
+            "totalUrls": 1088
         }
     }
 }
