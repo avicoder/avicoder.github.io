@@ -2288,12 +2288,6 @@
                 ]
             },
             {
-                "name": "verizonmedia",
-                "urls": [
-                    "api-secure.sports.yahoo.com"
-                ]
-            },
-            {
                 "name": "internet",
                 "urls": []
             },
@@ -2349,8 +2343,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 272,
-            "totalUrls": 1088
+            "totalPrograms": 271,
+            "totalUrls": 1087
         }
     }
 }
