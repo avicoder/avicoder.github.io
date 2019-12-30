@@ -1757,9 +1757,9 @@
                 "name": "zomato",
                 "urls": [
                     "winecellar.zomato.com",
-                    "www.zomatobook.com",
                     "*.zomato.com",
-                    "*.zdev.net"
+                    "*.zdev.net",
+                    "www.zomatobook.com"
                 ]
             },
             {
