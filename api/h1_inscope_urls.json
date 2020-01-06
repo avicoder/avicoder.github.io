@@ -599,16 +599,16 @@
             {
                 "name": "capital-one",
                 "urls": [
-                    "*.paribus.co",
-                    "*.capitalone360.com",
-                    "*.wikibuy.com",
-                    "*.capitalone.ca",
-                    "*.capitalonecareers.co.uk",
-                    "*.capitalonebank.com",
-                    "*.capitalone.co.uk",
-                    "*.bluetarp.com",
                     "*.luma.co.uk",
+                    "*.capitalonecareers.co.uk",
                     "*.unitedincome.com",
+                    "*.bluetarp.com",
+                    "*.capitalone.co.uk",
+                    "*.capitalonebank.com",
+                    "*.capitalone.ca",
+                    "*.wikibuy.com",
+                    "*.capitalone360.com",
+                    "*.paribus.co",
                     "*.capitalone.com"
                 ]
             },
