@@ -899,57 +899,6 @@
                 "urls": []
             },
             {
-                "name": "alibaba",
-                "urls": [
-                    "*.alicdn.com",
-                    "*.damai.cn",
-                    "www.lazada.com",
-                    "sellercenter.lazada.*sixcountry",
-                    "my.lazada.*sixcountry",
-                    "checkout.lazada.*sixcountry",
-                    "www.lazada.*sixcountry",
-                    "member.lazada.*sixcountry",
-                    "store.lazada.*sixcountry",
-                    "cart.lazada.*sixcountry",
-                    "*.1688.com",
-                    "*.ucweb.com",
-                    "*.taobao.com",
-                    "*.alibaba.com",
-                    "*.aligames.com",
-                    "*.dayu.com",
-                    "*.shenjing.com",
-                    "*.alios.cn",
-                    "*.alihealth.cn",
-                    "*.mei.com",
-                    "*.umeng.com",
-                    "*.aliqin.cn",
-                    "*.sm.cn",
-                    "*.alibabapictures.com",
-                    "*.alibabaplanet.com",
-                    "*.alisports.com",
-                    "*.amap.com",
-                    "*.autonavi.com",
-                    "*.shuqireader.com",
-                    "*.shuqi.com",
-                    "*.uc.cn",
-                    "*.xiami.com",
-                    "*.soku.com",
-                    "*.tudou.com",
-                    "*.youku.com",
-                    "*.fliggy.com",
-                    "*.cainiao.com",
-                    "*.dingtalk.com",
-                    "*.9apps.com",
-                    "*.etao.com",
-                    "*.alibabagroup.com",
-                    "*.alibaba-inc.com",
-                    "*.alimama.com",
-                    "*.aliyun.com",
-                    "*.tmall.com",
-                    "*.aliexpress.com"
-                ]
-            },
-            {
                 "name": "paypal",
                 "urls": [
                     "*.xoom.com",
@@ -1089,6 +1038,9 @@
             {
                 "name": "mediamarktsaturn",
                 "urls": [
+                    "www.saturn.lu",
+                    "www.mediamarkt.pt",
+                    "www.mediamarkt.hu",
                     "www.mediamarkt.se",
                     "www.mediaworld.it",
                     "www.mediamarkt.ch",
@@ -2360,8 +2312,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 273,
-            "totalUrls": 1094
+            "totalPrograms": 272,
+            "totalUrls": 1051
         }
     }
 }
