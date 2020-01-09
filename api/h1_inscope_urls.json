@@ -2,6 +2,42 @@
     "data": {
         "programs": [
             {
+                "name": "pingidentity",
+                "urls": [
+                    "https://console-staging.pingone.com/*",
+                    "https://api-staging.pingone.com/*",
+                    "https://ort-admin.pingone.com/*",
+                    "https://apps-staging.pingone.com/*",
+                    "https://ort-desktop.pingone.com/*",
+                    "https://ort-authenticator.pingone.com/*"
+                ]
+            },
+            {
+                "name": "8x8",
+                "urls": [
+                    "*.dxi.eu",
+                    "sso.8x8.com",
+                    "*.contactnow.8x8.com",
+                    "accountmanager.8x8.com",
+                    "*.easycontactnow.com",
+                    "*.wavecell.com",
+                    "vcc-*.8x8.com",
+                    "*.ucverse.com",
+                    "8x8.vc",
+                    "*.jit.si",
+                    "*.jitsi.org",
+                    "*.packet8.net",
+                    "www.8x8.com",
+                    "*.8x8.com",
+                    "*.whitepj.net",
+                    "*.mycontactual.com",
+                    "*.voicenet-solutions.com",
+                    "*.sameroom.io",
+                    "get8x8.com",
+                    "support.8x8.com"
+                ]
+            },
+            {
                 "name": "bcm",
                 "urls": [
                     "www.bcm-im.com"
@@ -2312,8 +2348,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 272,
-            "totalUrls": 1051
+            "totalPrograms": 274,
+            "totalUrls": 1077
         }
     }
 }
