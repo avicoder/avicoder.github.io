@@ -4,37 +4,37 @@
             {
                 "name": "pingidentity",
                 "urls": [
+                    "https://ort-admin.pingone.com/*",
                     "https://console-staging.pingone.com/*",
                     "https://api-staging.pingone.com/*",
-                    "https://ort-admin.pingone.com/*",
                     "https://apps-staging.pingone.com/*",
-                    "https://ort-desktop.pingone.com/*",
-                    "https://ort-authenticator.pingone.com/*"
+                    "https://ort-authenticator.pingone.com/*",
+                    "https://ort-desktop.pingone.com/*"
                 ]
             },
             {
                 "name": "8x8",
                 "urls": [
-                    "*.dxi.eu",
-                    "sso.8x8.com",
-                    "*.contactnow.8x8.com",
-                    "accountmanager.8x8.com",
-                    "*.easycontactnow.com",
-                    "*.wavecell.com",
-                    "vcc-*.8x8.com",
                     "*.ucverse.com",
-                    "8x8.vc",
-                    "*.jit.si",
-                    "*.jitsi.org",
                     "*.packet8.net",
+                    "*.easycontactnow.com",
+                    "*.dxi.eu",
+                    "accountmanager.8x8.com",
+                    "*.contactnow.8x8.com",
+                    "sso.8x8.com",
+                    "*.jitsi.org",
+                    "*.jit.si",
+                    "vcc-*.8x8.com",
+                    "8x8.vc",
+                    "*.wavecell.com",
                     "www.8x8.com",
-                    "*.8x8.com",
                     "*.whitepj.net",
-                    "*.mycontactual.com",
-                    "*.voicenet-solutions.com",
                     "*.sameroom.io",
-                    "get8x8.com",
-                    "support.8x8.com"
+                    "*.8x8.com",
+                    "*.voicenet-solutions.com",
+                    "*.mycontactual.com",
+                    "support.8x8.com",
+                    "get8x8.com"
                 ]
             },
             {
@@ -49,10 +49,10 @@
                     "app.liveplan.com",
                     "app.outpost.co",
                     "api.outpost.co",
-                    "www.liveplan.com",
                     "www.paloalto.com",
-                    "www.teamoutpost.com",
+                    "www.liveplan.com",
                     "www.outpost.co",
+                    "www.teamoutpost.com",
                     "www.bplans.com",
                     "www.mplans.com"
                 ]
@@ -60,68 +60,68 @@
             {
                 "name": "mtn_group",
                 "urls": [
-                    "mtnplay.co.zm",
-                    "mtnselfcare.co.zm",
-                    "Mtnzakhele.co.za",
-                    "Mtnplay.co.za",
-                    "Mtnfootball.com",
-                    "Mtnblog.co.za",
-                    "Mtnbusiness.com.ng",
-                    "Mtnbusiness.com",
-                    "Mtnzambia.co.zm",
-                    "Mtn.com.ye",
-                    "Mtn.co.ug",
-                    "Mtn.co.sz",
-                    "Mtn.sd",
-                    "Mtn.co.rw",
-                    "Mtnonline.com",
-                    "Lonestarcell.com",
-                    "Irancell.ir",
-                    "Areeba.com.gn",
-                    "Mtn-bissau.com",
-                    "Mtn.com.gh",
-                    "Mtn.ci",
-                    "Mtncongo.net",
-                    "Mtncameroon.net",
-                    "Mtn.cm",
-                    "Mtn.bj",
-                    "Mtn.com.af",
+                    "mtn.com",
                     "Mtn.co.za",
-                    "mtn.com"
+                    "Mtn.com.af",
+                    "Mtn.bj",
+                    "Mtn.cm",
+                    "Mtncameroon.net",
+                    "Mtncongo.net",
+                    "Mtn.ci",
+                    "Mtn.com.gh",
+                    "Mtn-bissau.com",
+                    "Areeba.com.gn",
+                    "Irancell.ir",
+                    "Lonestarcell.com",
+                    "Mtnonline.com",
+                    "Mtn.co.rw",
+                    "Mtn.sd",
+                    "Mtn.co.sz",
+                    "Mtn.co.ug",
+                    "Mtn.com.ye",
+                    "Mtnzambia.co.zm",
+                    "Mtnbusiness.com",
+                    "Mtnbusiness.com.ng",
+                    "Mtnblog.co.za",
+                    "Mtnfootball.com",
+                    "Mtnplay.co.za",
+                    "Mtnzakhele.co.za",
+                    "mtnselfcare.co.zm",
+                    "mtnplay.co.zm"
                 ]
             },
             {
                 "name": "datastax",
                 "urls": [
+                    "https://www.datastax.com/",
                     "https://academy.datastax.com/",
-                    "https://docs.datastax.com/",
                     "https://downloads.datastax.com",
-                    "https://www.datastax.com/"
+                    "https://docs.datastax.com/"
                 ]
             },
             {
                 "name": "lendinghome",
                 "urls": [
-                    "*.lhcapitalmanagement.com",
-                    "*.lendinghome.com",
+                    "*.lh-matrix.com",
                     "*.lhcapital-matrix.com",
-                    "*.lh-matrix.com"
+                    "*.lendinghome.com",
+                    "*.lhcapitalmanagement.com"
                 ]
             },
             {
                 "name": "zenly",
                 "urls": [
-                    "zen.ly",
+                    "api.znly.co",
                     "rpc.znly.co",
                     "rpc-kcp.znly.co",
-                    "api.znly.co"
+                    "zen.ly"
                 ]
             },
             {
                 "name": "polymail_inc",
                 "urls": [
-                    "welovepg.polymail.io",
-                    "app.polymail.io"
+                    "app.polymail.io",
+                    "welovepg.polymail.io"
                 ]
             },
             {
@@ -133,45 +133,45 @@
             {
                 "name": "pubg",
                 "urls": [
-                    "*.pubgesports.com",
-                    "*.pubg.com"
+                    "*.pubg.com",
+                    "*.pubgesports.com"
                 ]
             },
             {
                 "name": "genasys",
                 "urls": [
-                    "staging.genasystech.co.uk/d2c",
                     "staging.genasystech.co.uk/4web",
-                    "staging.genasystech.co.uk/d2c-api",
-                    "staging.genasystech.co.uk/skiapi"
+                    "staging.genasystech.co.uk/skiapi",
+                    "staging.genasystech.co.uk/d2c",
+                    "staging.genasystech.co.uk/d2c-api"
                 ]
             },
             {
                 "name": "tomochain",
                 "urls": [
-                    "wallet.tomochain.com",
                     "bridge.tomochain.com",
+                    "wallet.tomochain.com",
                     "https://tomochain.com"
                 ]
             },
             {
                 "name": "streak_com",
                 "urls": [
-                    "api.streak.com",
                     "www.streak.com",
+                    "api.streak.com",
                     "mailfoogae.appspot.com"
                 ]
             },
             {
                 "name": "line",
                 "urls": [
+                    "*.line.me",
                     "*.line-apps.com",
-                    "store.line.me",
-                    "news.line.me",
-                    "music.line.me",
-                    "live.line.me",
                     "*.line.naver.jp",
-                    "*.line.me"
+                    "live.line.me",
+                    "music.line.me",
+                    "news.line.me",
+                    "store.line.me"
                 ]
             },
             {
@@ -188,16 +188,16 @@
             {
                 "name": "oasis_protocol_foundation",
                 "urls": [
-                    "github.com/oasislabs/oasis-runtime",
                     "github.com/oasislabs/oasis-core",
-                    "*.testnet.oasiscloud.io",
-                    "github.com/oasislabs/bsaes.js",
-                    "github.com/oasislabs/ed25519",
-                    "github.com/oasislabs/deoxysii-rust",
-                    "github.com/oasislabs/deoxysii",
-                    "github.com/oasislabs/oasis-cli",
+                    "github.com/oasislabs/oasis-runtime",
+                    "github.com/oasislabs/oasis-rs",
                     "github.com/oasislabs/oasis.js",
-                    "github.com/oasislabs/oasis-rs"
+                    "github.com/oasislabs/oasis-cli",
+                    "github.com/oasislabs/deoxysii",
+                    "github.com/oasislabs/deoxysii-rust",
+                    "github.com/oasislabs/ed25519",
+                    "github.com/oasislabs/bsaes.js",
+                    "*.testnet.oasiscloud.io"
                 ]
             },
             {
@@ -236,11 +236,11 @@
             {
                 "name": "keybank",
                 "urls": [
-                    "*.laurelroad.com",
                     "*.key.com",
                     "*.keybank.com",
                     "*.bolstr.com",
                     "*.hellowallet.com",
+                    "*.laurelroad.com",
                     "*.cainbrothers.com"
                 ]
             },
@@ -265,24 +265,24 @@
             {
                 "name": "top_echelon_software",
                 "urls": [
-                    "bb3api.topechelon.com",
+                    "www.topechelon.com",
                     "bigbiller.topechelon.com",
-                    "www.topechelon.com"
+                    "bb3api.topechelon.com"
                 ]
             },
             {
                 "name": "coda_bbp",
                 "urls": [
                     "https://coda.io/*",
-                    "https://user-profile-prod.coda.io/*",
-                    "https://staging.coda.io/*",
-                    "https://shiny.ops.coda.io/*",
-                    "https://airflow-prod.ops.coda.io/*",
-                    "https://*.coda.io/*",
+                    "https://airflow-prod.coda.io/*",
                     "https://data.coda.io/*",
                     "https://head.coda.io/*",
-                    "https://airflow-prod.coda.io/*",
                     "https://infra.coda.io/*",
+                    "https://airflow-prod.ops.coda.io/*",
+                    "https://shiny.ops.coda.io/*",
+                    "https://staging.coda.io/*",
+                    "https://user-profile-prod.coda.io/*",
+                    "https://*.coda.io/*",
                     "https://user-profile-test.coda.io/*"
                 ]
             },
@@ -299,16 +299,16 @@
             {
                 "name": "tumblr",
                 "urls": [
-                    "*.tumblr.com",
-                    "*.txmblr.com",
-                    "*.srvcs.tumblr.com",
-                    "t.umblr.com",
-                    "assets.tumblr.com",
-                    "safe.tumblr.com",
-                    "embed.tumblr.com",
-                    "secure.tumblr.com",
                     "api.tumblr.com",
-                    "www.tumblr.com"
+                    "safe.tumblr.com",
+                    "secure.tumblr.com",
+                    "assets.tumblr.com",
+                    "embed.tumblr.com",
+                    "*.tumblr.com",
+                    "www.tumblr.com",
+                    "t.umblr.com",
+                    "*.srvcs.tumblr.com",
+                    "*.txmblr.com"
                 ]
             },
             {
@@ -328,19 +328,19 @@
             {
                 "name": "people_interactive",
                 "urls": [
-                    "https://www.sangam.com/",
-                    "https://api.sangam.com",
-                    "https://hera.sangam.com",
-                    "https://min.sangam.com",
-                    "https://img1.familyshaadi.com",
-                    "https://img2.sangam.com",
-                    "https://img1.sangam.com",
-                    "https://img.sangam.com",
-                    "http://img1.shaadi.com/",
-                    "http://img.shaadi.com/",
-                    "http://min.shaadi.com/",
                     "https://www.shaadi.com",
-                    "http://ww4.shaadi.com/"
+                    "http://min.shaadi.com/",
+                    "http://img.shaadi.com/",
+                    "http://img1.shaadi.com/",
+                    "http://ww4.shaadi.com/",
+                    "https://img.sangam.com",
+                    "https://img1.sangam.com",
+                    "https://img2.sangam.com",
+                    "https://img1.familyshaadi.com",
+                    "https://min.sangam.com",
+                    "https://hera.sangam.com",
+                    "https://api.sangam.com",
+                    "https://www.sangam.com/"
                 ]
             },
             {
@@ -354,10 +354,10 @@
             {
                 "name": "pixiv",
                 "urls": [
-                    "www.pixiv.net",
-                    "accounts.pixiv.net",
-                    "sketch.pixiv.net",
                     "booth.pm",
+                    "sketch.pixiv.net",
+                    "accounts.pixiv.net",
+                    "www.pixiv.net",
                     "hub.vroid.com"
                 ]
             },
@@ -385,9 +385,9 @@
             {
                 "name": "savedroid",
                 "urls": [
-                    "gobitcoinking.com",
-                    "api.savedroid.com/*",
                     "*.api.savedroid.de",
+                    "api.savedroid.com/*",
+                    "gobitcoinking.com",
                     "*.savedroid.com"
                 ]
             },
@@ -406,33 +406,33 @@
             {
                 "name": "forescout_technologies",
                 "urls": [
-                    "datapod-1-ingest.forescoutcloud.net",
-                    "datapod-1-query.Acceptance.Forescout.com",
-                    "datapod-1-ingest.Acceptance.Forescout.com",
-                    "datapod-1-query.Testing.Forescout.com",
-                    "datapod-1-ingest.Testing.Forescout.com",
-                    "mgmtpod-1.Development.Forescout.com",
-                    "mgmtpod-1-dashboard.Development.Forescout.com",
-                    "datapod-1-query.Development.Forescout.com",
-                    "datapod-1-ingest.Development.Forescout.com",
-                    "www.forescout.com",
                     "mgmtpod-1.forescoutcloud.net",
+                    "datapod-1-ingest.forescoutcloud.net",
                     "datapod-1-query.forescoutcloud.net",
-                    "mgmtpod-1.Production.Forescout.com",
-                    "mgmtpod-1-dashboard.Production.Forescout.com",
-                    "datapod-1-query.Production.Forescout.com",
-                    "datapod-1-ingest.Production.Forescout.com",
+                    "www.forescout.com",
+                    "datapod-1-ingest.Development.Forescout.com",
+                    "datapod-1-query.Development.Forescout.com",
+                    "mgmtpod-1-dashboard.Development.Forescout.com",
+                    "mgmtpod-1.Development.Forescout.com",
+                    "datapod-1-ingest.Testing.Forescout.com",
+                    "datapod-1-query.Testing.Forescout.com",
+                    "datapod-1-ingest.Acceptance.Forescout.com",
+                    "datapod-1-query.Acceptance.Forescout.com",
+                    "datapod-2-ingest.Acceptance.Forescout.com",
                     "datapod-2-query.Acceptance.Forescout.com",
-                    "datapod-2-ingest.Acceptance.Forescout.com"
+                    "datapod-1-ingest.Production.Forescout.com",
+                    "datapod-1-query.Production.Forescout.com",
+                    "mgmtpod-1-dashboard.Production.Forescout.com",
+                    "mgmtpod-1.Production.Forescout.com"
                 ]
             },
             {
                 "name": "makerdao_bbp",
                 "urls": [
-                    "support.makerdao.com",
-                    "blog.makerdao.com",
+                    "forum.makerdao.com",
                     "chat.makerdao.com",
-                    "forum.makerdao.com"
+                    "blog.makerdao.com",
+                    "support.makerdao.com"
                 ]
             },
             {
@@ -446,19 +446,19 @@
             {
                 "name": "refereum",
                 "urls": [
-                    "account.refereum.com",
-                    "actionservice.refereum.com",
-                    "admin-ge2.refereum.com",
-                    "api.refereum.com",
-                    "identityapi.refereum.com",
-                    "notificationsapi.refereum.com",
-                    "partner.refereum.com",
-                    "sandbox.refereum.com",
-                    "static.refereum.com",
-                    "twitch.refereum.com",
-                    "webjob-gameplay.refereum.com",
+                    "refereum.com",
                     "webjob-twitch.refereum.com",
-                    "refereum.com"
+                    "webjob-gameplay.refereum.com",
+                    "twitch.refereum.com",
+                    "static.refereum.com",
+                    "sandbox.refereum.com",
+                    "partner.refereum.com",
+                    "notificationsapi.refereum.com",
+                    "identityapi.refereum.com",
+                    "api.refereum.com",
+                    "admin-ge2.refereum.com",
+                    "actionservice.refereum.com",
+                    "account.refereum.com"
                 ]
             },
             {
@@ -491,22 +491,22 @@
                 "name": "shieldox_security",
                 "urls": [
                     "dashboard.shieldox.com",
-                    "*.shieldox.ai",
-                    "*.shieldox.com"
+                    "*.shieldox.com",
+                    "*.shieldox.ai"
                 ]
             },
             {
                 "name": "trint",
                 "urls": [
+                    "graphql2.trint.com",
                     "app.trint.com",
-                    "embed.trint.com",
-                    "media.trint.com",
-                    "editor-sessions.trint.com",
-                    "edit.trint.com",
-                    "api.trint.com",
-                    "core-api.trint.com",
                     "upload.trint.com",
-                    "graphql2.trint.com"
+                    "core-api.trint.com",
+                    "api.trint.com",
+                    "edit.trint.com",
+                    "editor-sessions.trint.com",
+                    "media.trint.com",
+                    "embed.trint.com"
                 ]
             },
             {
@@ -516,6 +516,9 @@
             {
                 "name": "ecobee",
                 "urls": [
+                    "www.ecobee.com/consumerportal",
+                    "www.ecobee.com/home",
+                    "sb-auth.ecobee.com",
                     "sb.ecobee.com",
                     "ls-api.ecobee.com",
                     "ls.ecobee.com",
@@ -523,35 +526,32 @@
                     "eva.ecobee.com",
                     "es.ecobee.com",
                     "api.ecobee.com",
-                    "www.ecobee.com/home",
                     "admin.ecobee.com",
-                    "sb-auth.ecobee.com",
-                    "www.ecobee.com/consumerportal",
-                    "home.hm-prod.ecobee.com",
-                    "api.beta.ecobee.com",
-                    "beehive.ecobee.com",
-                    "home-fw.hm-prod.ecobee.com",
-                    "ls-fw.ecobee.com",
                     "vpn.ecobee.com",
-                    "rebatefinder.ecobee.com",
-                    "teleport.ecobee.com",
-                    "grafana.infra.ecobee.com",
-                    "ssp.ecobee.com",
-                    "stg.chronos.ecobee.com",
+                    "ls-fw.ecobee.com",
+                    "home-fw.hm-prod.ecobee.com",
+                    "home.hm-prod.ecobee.com",
+                    "beehive.ecobee.com",
+                    "api.beta.ecobee.com",
                     "lofn.ecobee.com",
                     "files.ecobee.com",
+                    "stg.chronos.ecobee.com",
+                    "rebatefinder.ecobee.com",
+                    "grafana.infra.ecobee.com",
                     "www.ecobee.com",
-                    "capture.ecobee.com",
-                    "content.ecobee.com",
-                    "terra.ecobee.com",
-                    "developer.beta.ecobee.com",
-                    "rebatefinder-stage.ecobee.com",
-                    "beta.ecobee.com",
-                    "metrics.ls-dev.ecobee.com",
+                    "ssp.ecobee.com",
+                    "teleport.ecobee.com",
                     "web.cw-dev.ecobee.com",
+                    "metrics.ls-dev.ecobee.com",
                     "home-fw.hm-stage.ecobee.com",
-                    "schedulepilot.labs.ecobee.com",
+                    "beta.ecobee.com",
+                    "rebatefinder-stage.ecobee.com",
                     "rebatefinder-dev.ecobee.com",
+                    "developer.beta.ecobee.com",
+                    "terra.ecobee.com",
+                    "content.ecobee.com",
+                    "schedulepilot.labs.ecobee.com",
+                    "capture.ecobee.com",
                     "utilities.ecobee.com"
                 ]
             },
@@ -577,12 +577,12 @@
             {
                 "name": "priceline",
                 "urls": [
-                    "cruises.priceline.com",
                     "www.priceline.com",
+                    "secure.rezserver.com",
                     "reservations.rezserver.com",
+                    "cruises.priceline.com",
                     "api.rezserver.com",
                     "admin.rezserver.com",
-                    "secure.rezserver.com",
                     "www.bookingholdings.com"
                 ]
             },
@@ -594,18 +594,18 @@
                 "name": "zeit",
                 "urls": [
                     "*.zeit.co",
-                    "*.now.systems",
                     "*.zeit.sh",
+                    "*.now.systems",
                     "zeit-cdn.net"
                 ]
             },
             {
                 "name": "tomtom",
                 "urls": [
-                    "*.tomtomgroup.com",
-                    "*.teleatlas.com",
+                    "*.tomtom.com",
                     "api.tomtom.com",
-                    "*.tomtom.com"
+                    "*.tomtomgroup.com",
+                    "*.teleatlas.com"
                 ]
             },
             {
@@ -615,10 +615,10 @@
             {
                 "name": "livestream",
                 "urls": [
-                    "donations.livestream.com",
                     "*.livestream.com",
                     "www.livestream.com",
-                    "*.new.livestream.com"
+                    "*.new.livestream.com",
+                    "donations.livestream.com"
                 ]
             },
             {
@@ -628,31 +628,31 @@
             {
                 "name": "pyca",
                 "urls": [
-                    "*.pyopenssl.org",
-                    "*.cryptography.io"
+                    "*.cryptography.io",
+                    "*.pyopenssl.org"
                 ]
             },
             {
                 "name": "capital-one",
                 "urls": [
-                    "*.luma.co.uk",
-                    "*.capitalonecareers.co.uk",
-                    "*.unitedincome.com",
-                    "*.bluetarp.com",
+                    "*.capitalone.com",
+                    "*.paribus.co",
+                    "*.capitalone360.com",
+                    "*.wikibuy.com",
+                    "*.capitalone.ca",
                     "*.capitalone.co.uk",
                     "*.capitalonebank.com",
-                    "*.capitalone.ca",
-                    "*.wikibuy.com",
-                    "*.capitalone360.com",
-                    "*.paribus.co",
-                    "*.capitalone.com"
+                    "*.bluetarp.com",
+                    "*.unitedincome.com",
+                    "*.luma.co.uk",
+                    "*.capitalonecareers.co.uk"
                 ]
             },
             {
                 "name": "backblaze",
                 "urls": [
-                    "*.backblazeb2.com",
                     "www.backblaze.com",
+                    "*.backblazeb2.com",
                     "*.backblaze.com"
                 ]
             },
@@ -666,39 +666,39 @@
             {
                 "name": "trustpilot",
                 "urls": [
-                    "*authenticate.trustpilot.com",
                     "*api.trustpilot.com",
+                    "*authenticate.trustpilot.com",
+                    "*consumer-auth.trustpilot.com",
+                    "*invitations-api.trustpilot.com",
                     "*b2b.trustpilot.com",
                     "*www.trustpilot.com",
-                    "*share.trustpilot.com",
-                    "*emailsignature.trustpilot.com",
-                    "*signup.business.trustpilot.com",
-                    "*widget.trustpilot.com",
                     "*locale.trustpilot.com",
-                    "*invitations-api.trustpilot.com",
-                    "*consumer-auth.trustpilot.com",
+                    "*widget.trustpilot.com",
+                    "*signup.business.trustpilot.com",
+                    "*emailsignature.trustpilot.com",
+                    "*share.trustpilot.com",
                     "*business.trustpilot.com"
                 ]
             },
             {
                 "name": "lob",
                 "urls": [
-                    "address-autocomplete.lob.com",
-                    "dashboard.lob.com",
                     "api.lob.com",
-                    "lob-assets.com",
-                    "usps-sftp.lob.com",
-                    "dora.lob.com",
-                    "arcade.lob.com",
-                    "lob.com",
                     "www.lob.com",
-                    "woody.lob.com",
-                    "vpn.lob.com",
-                    "signal.lob.com",
-                    "sftp.lob.com",
-                    "redshift.lob.com",
-                    "pizza-planet.lob.com",
+                    "dashboard.lob.com",
+                    "address-autocomplete.lob.com",
+                    "arcade.lob.com",
+                    "dora.lob.com",
+                    "lob.com",
                     "partners.lob.com",
+                    "pizza-planet.lob.com",
+                    "redshift.lob.com",
+                    "sftp.lob.com",
+                    "signal.lob.com",
+                    "vpn.lob.com",
+                    "woody.lob.com",
+                    "usps-sftp.lob.com",
+                    "lob-assets.com",
                     "blog.lob.com",
                     "docs.lob.com",
                     "mock.lob.com"
@@ -711,50 +711,50 @@
             {
                 "name": "innogames",
                 "urls": [
+                    "*.innogames.com",
+                    "*.innogames.de",
+                    "xs.forgeofempires.com",
                     "xs0.forgeofempires.com",
                     "xs1.forgeofempires.com",
-                    "xs1.elvenar.com",
                     "*.igpayment.com",
                     "xs.elvenar.com",
-                    "*.innogames.de",
-                    "xs0.grepolis.com",
-                    "xs.forgeofempires.com",
-                    "xs1.grepolis.com",
-                    "*.innogames.com",
                     "xs0.elvenar.com",
+                    "xs1.elvenar.com",
                     "xs.grepolis.com",
-                    "xs1.tribalwars.cash",
-                    "tribalwars.cash"
+                    "xs0.grepolis.com",
+                    "xs1.grepolis.com",
+                    "tribalwars.cash",
+                    "xs1.tribalwars.cash"
                 ]
             },
             {
                 "name": "tube8",
                 "urls": [
                     "https://www.tube8.com/",
-                    "https://jp.tube8.com/",
-                    "https://de.tube8.com/",
+                    "https://www.tube8.fr/",
                     "https://www.tube8.es/",
-                    "https://www.tube8.fr/"
+                    "https://de.tube8.com/",
+                    "https://jp.tube8.com/"
                 ]
             },
             {
                 "name": "starling_bank",
                 "urls": [
-                    "oauth.starlingbank.com",
                     "app.starlingbank.com",
+                    "oauth.starlingbank.com",
                     "www.starlingbank.com"
                 ]
             },
             {
                 "name": "creditkarma",
                 "urls": [
-                    "https://accounts.creditkarma.com",
-                    "https://blog.creditkarma.com/",
-                    "https://tax.creditkarma.com",
                     "https://*.creditkarma.com",
+                    "https://accounts.creditkarma.com",
                     "https://www.creditkarma.ca",
+                    "https://tax.creditkarma.com",
+                    "https://api.creditkarma.com",
                     "https://help.creditkarma.com",
-                    "https://api.creditkarma.com"
+                    "https://blog.creditkarma.com/"
                 ]
             },
             {
@@ -768,30 +768,30 @@
             {
                 "name": "omise",
                 "urls": [
+                    "vault.omise.co",
+                    "api.omise.co",
                     "dashboard.omise.co",
                     "go.exchange",
-                    "offsite.omise.co",
                     "link.omise.co",
-                    "api.omise.co",
-                    "vault.omise.co",
+                    "offsite.omise.co",
                     "www.omise.co"
                 ]
             },
             {
                 "name": "semmle",
                 "urls": [
-                    "backend-dot-lgtm-penetration-testing.appspot.com",
-                    "lgtm-com.pentesting.semmle.net"
+                    "lgtm-com.pentesting.semmle.net",
+                    "backend-dot-lgtm-penetration-testing.appspot.com"
                 ]
             },
             {
                 "name": "postmates",
                 "urls": [
                     "postmates.com",
-                    "buyer-prod.postmates.com",
                     "fleet.postmates.com",
                     "partner.postmates.com",
                     "raster-static.postmates.com",
+                    "buyer-prod.postmates.com",
                     "about.postmates.com",
                     "support.postmates.com"
                 ]
@@ -799,33 +799,33 @@
             {
                 "name": "magento",
                 "urls": [
+                    "marketplace.magento.com",
                     "magentocommerce.com",
                     "repo.magento.com",
-                    "marketplace.magento.com",
-                    "account.magento.com",
+                    "magento.com",
+                    "u.magento.com",
                     "imagine.magento.com",
                     "magentolive.com",
-                    "u.magento.com",
-                    "magento.com"
+                    "account.magento.com"
                 ]
             },
             {
                 "name": "ford",
                 "urls": [
-                    "*.quicklane.com",
                     "*.ford.com",
-                    "*.omnicraftautoparts.com",
+                    "*.lincoln.com",
+                    "*.quicklane.com",
                     "*.motorcraft.com",
-                    "*.lincoln.com"
+                    "*.omnicraftautoparts.com"
                 ]
             },
             {
                 "name": "hyatt",
                 "urls": [
-                    "www.hyatt.com",
                     "hyatt.com",
-                    "assets.hyatt.com",
-                    "world.hyatt.com"
+                    "www.hyatt.com",
+                    "world.hyatt.com",
+                    "assets.hyatt.com"
                 ]
             },
             {
@@ -837,22 +837,22 @@
             {
                 "name": "grammarly",
                 "urls": [
-                    "capi.grammarly.com",
-                    "*.grammarly.io",
-                    "admin-panel.grammarly.com",
-                    "irbis.grammarly.com",
-                    "dox.grammarly.com",
-                    "auth.grammarly.com",
                     "www.grammarly.com",
-                    "data.grammarly.com",
-                    "gnar.grammarly.com",
-                    "g-mail.grammarly.com",
-                    "*.grammarly.net",
+                    "auth.grammarly.com",
+                    "capi.grammarly.com",
+                    "dox.grammarly.com",
+                    "irbis.grammarly.com",
                     "app.grammarly.com",
-                    "account.grammarly.com",
-                    "institution.grammarly.com",
-                    "subscription.grammarly.com",
+                    "gnar.grammarly.com",
+                    "admin-panel.grammarly.com",
+                    "data.grammarly.com",
+                    "*.grammarly.io",
+                    "*.grammarly.net",
                     "datareport.grammarly.com",
+                    "subscription.grammarly.com",
+                    "institution.grammarly.com",
+                    "account.grammarly.com",
+                    "g-mail.grammarly.com",
                     "grammarly.ai",
                     "food.grammarly.io"
                 ]
@@ -860,23 +860,23 @@
             {
                 "name": "ratelimited",
                 "urls": [
-                    "api.ratelimited.me",
+                    "*.ratelimited.me",
                     "ratelimited.me",
-                    "*.ratelimited.me"
+                    "api.ratelimited.me"
                 ]
             },
             {
                 "name": "avito",
                 "urls": [
-                    "m.avito.ru",
-                    "www.avito.ru"
+                    "www.avito.ru",
+                    "m.avito.ru"
                 ]
             },
             {
                 "name": "fanduel",
                 "urls": [
-                    "*.fanduel.com",
                     "fdbox.net",
+                    "*.fanduel.com",
                     "fanduel.design"
                 ]
             },
@@ -884,8 +884,8 @@
                 "name": "hannob",
                 "urls": [
                     "*.hboeck.de",
-                    "*.betterscience.org",
-                    "*.fuzzing-project.org"
+                    "*.fuzzing-project.org",
+                    "*.betterscience.org"
                 ]
             },
             {
@@ -904,8 +904,8 @@
                 "name": "casper",
                 "urls": [
                     "www.casper.com",
-                    "operator.casper.com",
-                    "bedpost.casper.com"
+                    "bedpost.casper.com",
+                    "operator.casper.com"
                 ]
             },
             {
@@ -937,33 +937,33 @@
             {
                 "name": "paypal",
                 "urls": [
-                    "*.xoom.com",
-                    "paypal.me",
-                    "scrutiny.swiftfinancial.com",
-                    "pigeon.swiftfinancial.com",
-                    "decision.swiftfinancial.com",
-                    "partner.swiftfinancial.com",
-                    "prequal.swiftfinancial.com",
-                    "*.braintree.tools",
-                    "*.braintree-api.com",
-                    "py.pl",
-                    "paypalobjects.com",
-                    "*.paydiant.com",
-                    "*.braintreegateway.com",
-                    "*.venmo.com",
-                    "swiftcapital.com",
-                    "swiftfinancial.com",
-                    "loanbuilder.com",
-                    "my.loanbuilder.com",
-                    "api.loanbuilder.com",
-                    "my.swiftfinancial.com",
-                    "api.swiftfinancial.com",
-                    "www.swiftfinancial.com",
-                    "www.loanbuilder.com",
-                    "www.swiftcapital.com",
-                    "*.braintreepayments.com",
                     "www.paypal-*.com",
-                    "*.paypal.com"
+                    "*.xoom.com",
+                    "*.paypal.com",
+                    "*.braintreegateway.com",
+                    "*.paydiant.com",
+                    "*.venmo.com",
+                    "paypalobjects.com",
+                    "paypal.me",
+                    "py.pl",
+                    "*.braintreepayments.com",
+                    "*.braintree-api.com",
+                    "*.braintree.tools",
+                    "prequal.swiftfinancial.com",
+                    "partner.swiftfinancial.com",
+                    "decision.swiftfinancial.com",
+                    "pigeon.swiftfinancial.com",
+                    "scrutiny.swiftfinancial.com",
+                    "www.swiftcapital.com",
+                    "www.loanbuilder.com",
+                    "www.swiftfinancial.com",
+                    "api.swiftfinancial.com",
+                    "my.swiftfinancial.com",
+                    "api.loanbuilder.com",
+                    "my.loanbuilder.com",
+                    "loanbuilder.com",
+                    "swiftfinancial.com",
+                    "swiftcapital.com"
                 ]
             },
             {
@@ -980,13 +980,13 @@
                 "name": "chaturbate",
                 "urls": [
                     "https://chaturbate.com",
-                    "*.securegatewayaccess.com",
-                    "https://secure.chaturbate.com",
                     "*.highwebmedia.com",
-                    "https://status.chaturbate.com",
-                    "https://billingsupport.chaturbate.com",
+                    "m.chaturbate.com",
                     "blog.chaturbate.com",
-                    "m.chaturbate.com"
+                    "*.securegatewayaccess.com",
+                    "https://billingsupport.chaturbate.com",
+                    "https://status.chaturbate.com",
+                    "https://secure.chaturbate.com"
                 ]
             },
             {
@@ -1022,8 +1022,8 @@
             {
                 "name": "liberapay",
                 "urls": [
-                    "*.liberapay.org",
-                    "*.liberapay.com"
+                    "*.liberapay.com",
+                    "*.liberapay.org"
                 ]
             },
             {
@@ -1049,8 +1049,8 @@
             {
                 "name": "crypto",
                 "urls": [
-                    "https://crypto.com/en/exchangebeta",
-                    "www.crypto.com"
+                    "www.crypto.com",
+                    "https://crypto.com/en/exchangebeta"
                 ]
             },
             {
@@ -1074,53 +1074,53 @@
             {
                 "name": "mediamarktsaturn",
                 "urls": [
-                    "www.saturn.lu",
-                    "www.mediamarkt.pt",
-                    "www.mediamarkt.hu",
-                    "www.mediamarkt.se",
-                    "www.mediaworld.it",
-                    "www.mediamarkt.ch",
-                    "www.saturn.at",
-                    "www.mediamarkt.nl",
                     "www.mediamarkt.de",
                     "www.saturn.de",
-                    "www.mediamarkt.pl",
-                    "www.mediamarkt.gr",
-                    "www.mediamarkt.es",
-                    "www.mediamarkt.be",
+                    "www.saturn.at",
+                    "www.mediamarkt.at",
                     "www.mediamarkt.com.tr",
-                    "www.mediamarkt.at"
+                    "www.mediamarkt.be",
+                    "www.mediamarkt.es",
+                    "www.mediamarkt.gr",
+                    "www.mediamarkt.pl",
+                    "www.mediamarkt.nl",
+                    "www.mediamarkt.ch",
+                    "www.mediaworld.it",
+                    "www.mediamarkt.se",
+                    "www.mediamarkt.hu",
+                    "www.mediamarkt.pt",
+                    "www.saturn.lu"
                 ]
             },
             {
                 "name": "mycrypto",
                 "urls": [
-                    "buy.mycrypto.com",
-                    "overflow.mycrypto.com",
-                    "cryptoscamdb.org",
-                    "etherscamdb.info",
-                    "ambo.herokuapp.com",
-                    "ambo.io",
-                    "download.mycrypto.com",
                     "beta.mycrypto.com",
                     "www.mycrypto.com",
-                    "legacy.mycrypto.com",
+                    "overflow.mycrypto.com",
                     "support.mycrypto.com",
+                    "legacy.mycrypto.com",
+                    "download.mycrypto.com",
+                    "buy.mycrypto.com",
+                    "ambo.io",
+                    "ambo.herokuapp.com",
+                    "etherscamdb.info",
+                    "cryptoscamdb.org",
                     "about.mycrypto.com"
                 ]
             },
             {
                 "name": "jamieweb",
                 "urls": [
-                    "acme-validation.jamieweb.net",
+                    "www.jamieweb.net",
                     "ipv6.jamieweb.net",
                     "ipv4.jamieweb.net",
-                    "jamieweb.net",
-                    "jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion",
                     "jamiewebgbelqfno.onion",
-                    "nyc01.jamieweb.net",
+                    "jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion",
+                    "jamieweb.net",
                     "ldn01.jamieweb.net",
-                    "www.jamieweb.net"
+                    "nyc01.jamieweb.net",
+                    "acme-validation.jamieweb.net"
                 ]
             },
             {
@@ -1144,8 +1144,8 @@
                 "name": "bitmex",
                 "urls": [
                     "www.bitmex.com",
-                    "*.bitmex.com",
-                    "public.bitmex.com"
+                    "public.bitmex.com",
+                    "*.bitmex.com"
                 ]
             },
             {
@@ -1155,39 +1155,39 @@
             {
                 "name": "crowdstrike",
                 "urls": [
-                    "blog.crowdstrike.com",
-                    "www.falcon-sandbox.com",
-                    "www.reverse.it",
-                    "www.hybrid-analysis.com",
                     "www.crowdstrike.com",
-                    "www.crowdstrike.org"
+                    "blog.crowdstrike.com",
+                    "www.crowdstrike.org",
+                    "www.reverse.it",
+                    "www.falcon-sandbox.com",
+                    "www.hybrid-analysis.com"
                 ]
             },
             {
                 "name": "coalition",
                 "urls": [
-                    "api.thecoalition.com",
-                    "platform.thecoalition.com"
+                    "platform.thecoalition.com",
+                    "api.thecoalition.com"
                 ]
             },
             {
                 "name": "goldmansachs",
                 "urls": [
+                    "*.goldmansachs.com",
+                    "*.gs.com",
                     "*.goldman.com",
                     "*.marcus.com",
-                    "*.marcus.co.uk",
-                    "*.goldmansachs.com",
-                    "marquee.gs.com",
-                    "goldmansachsindices.com",
-                    "developer.gs.com",
-                    "*.global-liquidity.gs.com",
-                    "*.qaglobal-liquidity.gs.com",
-                    "*.gs-mosaic.gs.com",
-                    "*.gs-mosaic.qa.gs.com",
-                    "*.gsam.com",
-                    "*.gs.com",
-                    "research.gs.com",
                     "*.honestdollar.com",
+                    "*.marcus.co.uk",
+                    "research.gs.com",
+                    "*.gsam.com",
+                    "*.gs-mosaic.qa.gs.com",
+                    "*.gs-mosaic.gs.com",
+                    "*.qaglobal-liquidity.gs.com",
+                    "*.global-liquidity.gs.com",
+                    "developer.gs.com",
+                    "goldmansachsindices.com",
+                    "marquee.gs.com",
                     "*.claritymoney.com",
                     "*.gsselect.com"
                 ]
@@ -1199,11 +1199,11 @@
             {
                 "name": "ed",
                 "urls": [
-                    "https://cryptojourney.com/",
                     "https://securitytxt.org/",
+                    "https://cryptojourney.com/",
+                    "https://edoverflow.com/",
                     "https://bugbountyguide.com/",
-                    "https://wewriteyour.report/",
-                    "https://edoverflow.com/"
+                    "https://wewriteyour.report/"
                 ]
             },
             {
@@ -1215,18 +1215,18 @@
             {
                 "name": "valve",
                 "urls": [
+                    "www.dota2.com",
                     "support.steampowered.com",
                     "partner.steampowered.com",
+                    "store.steampowered.com",
+                    "www.valvesoftware.com",
+                    "api.steampowered.com",
                     "partner.steamgames.com",
                     "steamcommunity.com",
-                    "www.dota2.com",
-                    "help.steampowered.com",
-                    "store.steampowered.com",
-                    "playartifact.com",
-                    "www.counter-strike.net",
                     "www.teamfortress.com",
-                    "api.steampowered.com",
-                    "www.valvesoftware.com",
+                    "www.counter-strike.net",
+                    "playartifact.com",
+                    "help.steampowered.com",
                     "developer.valvesoftware.com",
                     "storefront.steampowered.com",
                     "wiki.teamfortress.com"
@@ -1248,58 +1248,58 @@
                 "name": "tts",
                 "urls": [
                     "https://federalist-proxy.app.cloud.gov",
-                    "https://federation.data.gov",
-                    "https://ci.fr.cloud.gov",
                     "https://account.fr.cloud.gov",
-                    "https://github.com/GSA/datagov-deploy",
-                    "https://inventory.data.gov",
-                    "https://sdg.data.gov",
-                    "https://admin-catalog-bsp.data.gov",
+                    "https://ci.fr.cloud.gov",
+                    "https://dashboard.fr.cloud.gov",
                     "https://login.fr.cloud.gov/",
                     "https://logs.fr.cloud.gov",
-                    "https://dashboard-beta.fr.cloud.gov/",
-                    "*.code.gov",
-                    "*.search.gov",
-                    "marketplace.fedramp.gov",
-                    "www.fedramp.gov",
-                    "tock.18f.gov",
-                    "*.search.usa.gov",
+                    "https://www.data.gov",
+                    "https://federation.data.gov",
+                    "https://sdg.data.gov",
+                    "https://labs.data.gov",
+                    "https://catalog.data.gov",
+                    "https://inventory.data.gov",
+                    "https://admin-catalog-bsp.data.gov",
+                    "https://github.com/GSA/datagov-deploy",
+                    "https://github.com/GSA/data.gov",
                     "https://idp.fr.cloud.gov",
+                    "https://admin.fr.cloud.gov",
+                    "https://alertmanager.fr.cloud.gov",
+                    "https://diagrams.fr.cloud.gov",
+                    "https://grafana.fr.cloud.gov",
+                    "https://logs-platform.fr.cloud.gov",
+                    "https://nessus.fr.cloud.gov",
+                    "https://opslogin.fr.cloud.gov",
+                    "https://prometheus.fr.cloud.gov",
+                    "ssh.fr.cloud.gov",
+                    "api.fr.cloud.gov",
+                    "https://api.data.gov",
                     "*.login.gov",
                     "dashboard-beta.fr.cloud.gov",
-                    "https://catalog.data.gov",
-                    "https://api.data.gov",
-                    "https://www.data.gov",
-                    "https://dashboard.fr.cloud.gov",
-                    "https://labs.data.gov",
-                    "api.fr.cloud.gov",
-                    "ssh.fr.cloud.gov",
-                    "https://prometheus.fr.cloud.gov",
-                    "https://opslogin.fr.cloud.gov",
-                    "https://nessus.fr.cloud.gov",
-                    "https://logs-platform.fr.cloud.gov",
-                    "https://grafana.fr.cloud.gov",
-                    "https://diagrams.fr.cloud.gov",
-                    "https://alertmanager.fr.cloud.gov",
-                    "https://admin.fr.cloud.gov",
-                    "https://github.com/GSA/data.gov",
-                    "https://cloud.gov",
+                    "*.search.usa.gov",
+                    "tock.18f.gov",
+                    "*.code.gov",
+                    "www.fedramp.gov",
+                    "marketplace.fedramp.gov",
+                    "*.search.gov",
+                    "https://dashboard-beta.fr.cloud.gov/",
                     "https://federalist.18f.gov",
+                    "https://cloud.gov",
                     "https://federalist-docs.18f.gov",
-                    "https://analytics.usa.gov",
-                    "https://18f.gsa.gov",
                     "https://manage.data.gov",
-                    "https://vote.gov"
+                    "https://vote.gov",
+                    "https://analytics.usa.gov",
+                    "https://18f.gsa.gov"
                 ]
             },
             {
                 "name": "deliveroo",
                 "urls": [
-                    "*.deliveroo-data-test.io",
-                    "*.deliveroo-streams.net",
-                    "*.deliveroo-data.io",
                     "*.deliveroo-data.net",
-                    "*.deliveroo.*"
+                    "*.deliveroo-data.io",
+                    "*.deliveroo-data-test.io",
+                    "*.deliveroo.*",
+                    "*.deliveroo-streams.net"
                 ]
             },
             {
@@ -1319,31 +1319,31 @@
             {
                 "name": "vanilla",
                 "urls": [
+                    "*.vanillaforums.com",
                     "*.vanillacommunities.com",
                     "*.vanillastaging.com",
-                    "*.vanilladevelopment.com",
-                    "*.vanillaforums.com"
+                    "*.vanilladevelopment.com"
                 ]
             },
             {
                 "name": "bitwarden",
                 "urls": [
-                    "api.bitwarden.com",
-                    "help.bitwarden.com",
                     "bitwarden.com",
+                    "api.bitwarden.com",
+                    "identity.bitwarden.com",
                     "vault.bitwarden.com",
-                    "identity.bitwarden.com"
+                    "help.bitwarden.com"
                 ]
             },
             {
                 "name": "delight_im",
                 "urls": [
-                    "www.briefe.io",
+                    "moviecontentfilter.com",
                     "www.moviecontentfilter.com",
                     "briefe.io",
-                    "moviecontentfilter.com",
-                    "www.delight.im",
-                    "delight.im"
+                    "www.briefe.io",
+                    "delight.im",
+                    "www.delight.im"
                 ]
             },
             {
@@ -1353,21 +1353,21 @@
             {
                 "name": "upserve",
                 "urls": [
-                    "hq.breadcrumb.com",
-                    "ecs-lb.breadcrumb.com",
-                    "api.breadcrumb.com",
-                    "swipely-merchant-assets.s3.amazonaws.com",
-                    "d2evh2mef3r450.cloudfront.net",
-                    "payments.upserve.com",
-                    "cards.swipely.com",
-                    "hq-api.upserve.com",
-                    "inventory.upserve.com",
                     "app.upserve.com",
-                    "orders.upserve.com",
-                    "pos.swipely.com",
-                    "reports.breadcrumb.com",
-                    "payments.breadcrumb.com",
+                    "hq.breadcrumb.com",
+                    "cards.swipely.com",
+                    "api.breadcrumb.com",
+                    "ecs-lb.breadcrumb.com",
                     "mossy.breadcrumb.com",
+                    "payments.breadcrumb.com",
+                    "reports.breadcrumb.com",
+                    "pos.swipely.com",
+                    "payments.upserve.com",
+                    "orders.upserve.com",
+                    "d2evh2mef3r450.cloudfront.net",
+                    "swipely-merchant-assets.s3.amazonaws.com",
+                    "inventory.upserve.com",
+                    "hq-api.upserve.com",
                     "https://645892349820.vulnerbug.com",
                     "teamhelp.upserve.com",
                     "*.upserve.com"
@@ -1388,24 +1388,24 @@
             {
                 "name": "spotify",
                 "urls": [
-                    "com.spotify.kids",
+                    "*.spotify.com",
                     "api.spotify.com",
-                    "*.spotifyforbrands.com",
                     "*.spotify.net",
-                    "*.spotify.com"
+                    "*.spotifyforbrands.com",
+                    "com.spotify.kids"
                 ]
             },
             {
                 "name": "cuvva",
                 "urls": [
-                    "api.prod.cuv-prod.app",
-                    "ops.cuvva.com",
-                    "vpn.corp.cuvva.com",
-                    "*.sys.cuvva.co",
                     "*.int.cuvva.co",
-                    "*.corp.cuvva.co",
+                    "*.sys.cuvva.co",
+                    "api.prod.cuv-prod.app",
+                    "vpn.corp.cuvva.com",
                     "underwriter.partner.cuvva.com",
+                    "*.corp.cuvva.co",
                     "*.vendor.cuvva.co",
+                    "ops.cuvva.com",
                     "www.cuvva.com"
                 ]
             },
@@ -1434,18 +1434,18 @@
             {
                 "name": "shipt",
                 "urls": [
-                    "staging-api.shipt.com",
-                    "*.shipt.com",
-                    "admin.shipt.com",
-                    "staging-shoppingcart.shipt.com",
-                    "staging-admin.shipt.com",
-                    "staging-app.shipt.com",
-                    "www.shipt.com",
-                    "shop.shipt.com",
-                    "staging-shop.shipt.com",
-                    "api.shipt.com",
                     "app.shipt.com",
-                    "shoppingcart.shipt.com"
+                    "api.shipt.com",
+                    "admin.shipt.com",
+                    "shop.shipt.com",
+                    "staging-api.shipt.com",
+                    "staging-shop.shipt.com",
+                    "staging-app.shipt.com",
+                    "staging-admin.shipt.com",
+                    "staging-shoppingcart.shipt.com",
+                    "shoppingcart.shipt.com",
+                    "www.shipt.com",
+                    "*.shipt.com"
                 ]
             },
             {
@@ -1494,11 +1494,11 @@
                 "name": "plaid",
                 "urls": [
                     "api.plaid.com",
-                    "link.plaid.com",
-                    "cdn.plaid.com",
-                    "dashboard.plaid.com",
-                    "my.plaid.com",
                     "production.plaid.com",
+                    "dashboard.plaid.com",
+                    "cdn.plaid.com",
+                    "link.plaid.com",
+                    "my.plaid.com",
                     "demo.plaid.com"
                 ]
             },
@@ -1529,8 +1529,8 @@
                 "name": "quantopian",
                 "urls": [
                     "www.quantopian.com",
-                    "*.dynoquant.com",
                     "blog.quantopian.com",
+                    "*.dynoquant.com",
                     "*.quantshack.com"
                 ]
             },
@@ -1550,9 +1550,9 @@
             {
                 "name": "files",
                 "urls": [
-                    "www.files.com",
+                    "app.files.com",
                     "your-assigned-subdomain.files.com",
-                    "app.files.com"
+                    "www.files.com"
                 ]
             },
             {
@@ -1566,19 +1566,19 @@
             {
                 "name": "wordpress",
                 "urls": [
-                    "doaction.org",
                     "*.wordpress.org",
-                    "planet.wordpress.org",
-                    "*.wordcamp.org",
-                    "*.buddypress.org,bbpress.org,profiles.wordpress.org",
                     "api.wordpress.org",
-                    "lists.wordpress.org",
-                    "wordpressfoundation.org",
+                    "*.buddypress.org,bbpress.org,profiles.wordpress.org",
+                    "*.wordcamp.org",
+                    "planet.wordpress.org",
+                    "doaction.org",
                     "codex.wordpress.org,codex.bbpress.org,codex.buddypress.org",
                     "mercantile.wordpress.org",
-                    "munin-*.wordpress.org",
+                    "lists.wordpress.org",
+                    "wordpressfoundation.org",
+                    "irclogs.wordpress.org",
                     "*.wordpress.net",
-                    "irclogs.wordpress.org"
+                    "munin-*.wordpress.org"
                 ]
             },
             {
@@ -1592,37 +1592,37 @@
             {
                 "name": "vhx",
                 "urls": [
-                    "embed.vhx.tv",
                     "vhx.tv",
-                    "*.vhx.tv",
-                    "api.vhx.tv"
+                    "embed.vhx.tv",
+                    "api.vhx.tv",
+                    "*.vhx.tv"
                 ]
             },
             {
                 "name": "nextcloud",
                 "urls": [
-                    "https://customerupdates.nextcloud.com",
                     "https://updates.nextcloud.com",
+                    "https://customerupdates.nextcloud.com",
                     "https://download.nextcloud.com",
-                    "https://surveyserver.nextcloud.com",
-                    "https://nextcloud.com",
-                    "https://portal.nextcloud.com",
-                    "https://support.nextcloud.com",
-                    "https://stats.nextcloud.com",
-                    "https://lists.nextcloud.com",
-                    "https://docs.nextcloud.com",
-                    "https://scan.nextcloud.com/",
-                    "https://apps.nextcloud.com/",
-                    "https://lookup.nextcloud.com",
-                    "https://auth.nextcloud.com",
-                    "https://push-notifications.nextcloud.com",
-                    "https://crm.nextcloud.com",
-                    "https://static.apps.nextcloud.com",
-                    "https://knowledge.nextcloud.com",
-                    "https://projects.nextcloud.com",
-                    "https://usercontent.apps.nextcloud.com",
                     "https://help.nextcloud.com",
+                    "https://usercontent.apps.nextcloud.com",
+                    "https://projects.nextcloud.com",
+                    "https://lookup.nextcloud.com",
+                    "https://knowledge.nextcloud.com",
+                    "https://surveyserver.nextcloud.com",
+                    "https://static.apps.nextcloud.com",
+                    "https://apps.nextcloud.com/",
+                    "https://docs.nextcloud.com",
+                    "https://crm.nextcloud.com",
+                    "https://support.nextcloud.com",
+                    "https://scan.nextcloud.com/",
+                    "https://lists.nextcloud.com",
+                    "https://portal.nextcloud.com",
+                    "https://push-notifications.nextcloud.com",
+                    "https://auth.nextcloud.com",
                     "https://logs.nextcloud.com",
+                    "https://stats.nextcloud.com",
+                    "https://nextcloud.com",
                     "https://pushfeed.nextcloud.com",
                     "https://newsletter.nextcloud.com"
                 ]
@@ -1630,8 +1630,8 @@
             {
                 "name": "icq",
                 "urls": [
-                    "*.icq.com",
                     "web.icq.com",
+                    "*.icq.com",
                     "*.icq.net",
                     "agent.mail.ru"
                 ]
@@ -1645,8 +1645,8 @@
             {
                 "name": "starbucks",
                 "urls": [
-                    "www.starbucks.com",
                     "gift.starbucks.co.jp",
+                    "login.starbucks.co.jp/login",
                     "www.starbucks.co.jp",
                     "www.starbucks.com.cn",
                     "www.starbucks.de",
@@ -1654,16 +1654,16 @@
                     "www.starbucks.co.uk",
                     "www.starbucks.com.br",
                     "www.starbucks.ca",
-                    "card.starbucks.com.sg",
+                    "www.starbucks.com",
+                    "app.starbucks.com",
                     "www.istarbucks.co.kr",
+                    "card.starbucks.com.sg",
                     "ec.starbucks.com.cn",
                     "preview.starbucks.com",
-                    "app.starbucks.com",
-                    "login.starbucks.co.jp/login",
                     "cart.starbucks.co.jp",
                     "www.starbucks.com.sg",
-                    "www.starbucksreserve.com",
-                    "www.teavana.com"
+                    "www.teavana.com",
+                    "www.starbucksreserve.com"
                 ]
             },
             {
@@ -1673,10 +1673,10 @@
             {
                 "name": "rockstargames",
                 "urls": [
-                    "*.rockstargames.com",
                     "socialclub.rockstargames.com",
                     "prod.ros.rockstargames.com",
                     "support.rockstargames.com",
+                    "*.rockstargames.com",
                     "lifeinvader.com",
                     "rockstarnorth.com"
                 ]
@@ -1684,15 +1684,15 @@
             {
                 "name": "github",
                 "urls": [
-                    "*.github.net",
-                    "classroom.github.com",
-                    "gist.github.com",
+                    "GitHub.com",
                     "api.github.com",
-                    "jobs.github.com",
-                    "lab.github.com",
-                    "education.github.com",
+                    "gist.github.com",
+                    "classroom.github.com",
                     "*.githubapp.com",
-                    "GitHub.com"
+                    "*.github.net",
+                    "education.github.com",
+                    "lab.github.com",
+                    "jobs.github.com"
                 ]
             },
             {
@@ -1712,18 +1712,18 @@
             {
                 "name": "localtapiola",
                 "urls": [
-                    "www.tapiola.fi",
-                    "myynti.lahitapiolarahoitus.fi",
-                    "yrityspalvelu.tapiola.fi",
-                    "sijoitusvakuutus.lahitapiola.fi",
-                    "verovelvollisuustiedot.lahitapiola.fi",
-                    "lisasijoitus.lahitapiola.fi",
-                    "motorfnol.lahitapiola.fi",
-                    "ext-gw.lahitapiola.fi",
                     "www.lahitapiola.fi",
-                    "secure.lahitapiola.fi",
+                    "www.tapiola.fi",
                     "verkkopalvelu.tapiola.fi",
-                    "viestinta.lahitapiola.fi"
+                    "yrityspalvelu.tapiola.fi",
+                    "viestinta.lahitapiola.fi",
+                    "secure.lahitapiola.fi",
+                    "myynti.lahitapiolarahoitus.fi",
+                    "ext-gw.lahitapiola.fi",
+                    "motorfnol.lahitapiola.fi",
+                    "lisasijoitus.lahitapiola.fi",
+                    "verovelvollisuustiedot.lahitapiola.fi",
+                    "sijoitusvakuutus.lahitapiola.fi"
                 ]
             },
             {
@@ -1744,8 +1744,8 @@
             {
                 "name": "zomato",
                 "urls": [
-                    "winecellar.zomato.com",
                     "*.zomato.com",
+                    "winecellar.zomato.com",
                     "*.zdev.net",
                     "www.zomatobook.com"
                 ]
@@ -1753,50 +1753,50 @@
             {
                 "name": "newrelic",
                 "urls": [
+                    "*.newrelic.com",
+                    "infrastructure.newrelic.com",
                     "*.infrastructure.newrelic.com",
-                    "rpm.newrelic.com/accounts/*/mobile",
+                    "*.infrastructure-data.newrelic.com",
+                    "synthetics.newrelic.com",
+                    "alerts.newrelic.com",
                     "docs.newrelic.com",
                     "support.newrelic.com",
-                    "developer.newrelic.com",
-                    "rpm.eu.newrelic.com/accounts/*/browser",
-                    "rpm.newrelic.com/accounts/*/browser",
-                    "*.eu.newrelic.com",
-                    "alerts.eu.newrelic.com",
-                    "rpm.eu.newrelic.com/accounts/*/mobile",
-                    "synthetics.eu.newrelic.com",
-                    "infrastructure.eu.newrelic.com",
-                    "insights.eu.newrelic.com",
+                    "discuss.newrelic.com",
+                    "blog.newrelic.com",
                     "learn.newrelic.com",
                     "*.blog.newrelic.com",
-                    "*.infrastructure-data.newrelic.com",
-                    "blog.newrelic.com",
-                    "infrastructure.newrelic.com",
                     "insights.newrelic.com",
-                    "rpm.newrelic.com",
-                    "discuss.newrelic.com",
-                    "one.newrelic.com",
+                    "insights.eu.newrelic.com",
+                    "infrastructure.eu.newrelic.com",
+                    "synthetics.eu.newrelic.com",
+                    "rpm.newrelic.com/accounts/*/mobile",
+                    "rpm.eu.newrelic.com/accounts/*/mobile",
+                    "alerts.eu.newrelic.com",
+                    "*.eu.newrelic.com",
                     "login.newrelic.com",
-                    "alerts.newrelic.com",
-                    "*.newrelic.com",
-                    "synthetics.newrelic.com"
+                    "rpm.newrelic.com/accounts/*/browser",
+                    "rpm.eu.newrelic.com/accounts/*/browser",
+                    "developer.newrelic.com",
+                    "rpm.newrelic.com",
+                    "one.newrelic.com"
                 ]
             },
             {
                 "name": "unikrn",
                 "urls": [
-                    "news.unikrn.com",
-                    "auth.unikrn.com",
-                    "connekt-api.unikrn.com",
-                    "jet-api.unikrn.com",
-                    "auctionbot.unikrn.com",
-                    "unikoingold.com",
-                    "crm.unikrn.com",
                     "unikrn.com",
-                    "affiliates.unikrn.com",
+                    "unikoingold.com",
+                    "auctionbot.unikrn.com",
+                    "news.unikrn.com",
+                    "crm.unikrn.com",
+                    "jet-api.unikrn.com",
+                    "connekt-api.unikrn.com",
+                    "auth.unikrn.com",
                     "cp-ng.pinion.gg",
+                    "affiliates.unikrn.com",
+                    "pinion.gg",
                     "t.unikrn.com",
-                    "bingo-api.unikrn.com",
-                    "pinion.gg"
+                    "bingo-api.unikrn.com"
                 ]
             },
             {
@@ -1826,14 +1826,14 @@
             {
                 "name": "maximum",
                 "urls": [
-                    "werkenbijdefensie.nl",
-                    "careers.evonik.com",
-                    "werkenbijfacilicom.nl",
-                    "www.werkenbijbakertilly.nl",
                     "maximum.nl",
-                    "werkenbijmcdonalds.nl",
-                    "werkenbijderet.nl",
+                    "werkenbijdefensie.nl",
                     "mijn.werkenbijdefensie.nl",
+                    "werkenbijderet.nl",
+                    "werkenbijmcdonalds.nl",
+                    "www.werkenbijbakertilly.nl",
+                    "werkenbijfacilicom.nl",
+                    "careers.evonik.com",
                     "devmaximum.com"
                 ]
             },
@@ -1844,9 +1844,9 @@
             {
                 "name": "algolia",
                 "urls": [
-                    "*.algolianet.com",
+                    "www.algolia.com",
                     "*.algolia.net",
-                    "www.algolia.com"
+                    "*.algolianet.com"
                 ]
             },
             {
@@ -1859,19 +1859,19 @@
                     "*.myteksi.com",
                     "*.myteksi.net",
                     "*.grab.com",
-                    "xtramile.grabpay.com",
-                    "*.grabpay.com",
-                    "api.grabpay.com",
-                    "hub.grab.com",
                     "p.grabtaxi.com",
-                    "manage.grab.co",
-                    "drive.grab.co",
+                    "hub.grab.com",
                     "gamma.grab.co",
-                    "grab.careers",
-                    "*.grab.co",
+                    "drive.grab.co",
+                    "manage.grab.co",
+                    "api.grabpay.com",
+                    "*.grabpay.com",
+                    "xtramile.grabpay.com",
                     "*.grabtaxi.com",
-                    "wiki.grab.com",
+                    "*.grab.co",
                     "jira.grab.com",
+                    "wiki.grab.com",
+                    "grab.careers",
                     "mos.grabpay.com"
                 ]
             },
@@ -1890,9 +1890,9 @@
             {
                 "name": "ok",
                 "urls": [
-                    "tamtam.chat",
                     "ok.ru",
-                    "*.ok.ru"
+                    "*.ok.ru",
+                    "tamtam.chat"
                 ]
             },
             {
@@ -1906,18 +1906,18 @@
             {
                 "name": "moneybird",
                 "urls": [
-                    "https://moneybirdstorage.com",
-                    "https://moneybird.com"
+                    "https://moneybird.com",
+                    "https://moneybirdstorage.com"
                 ]
             },
             {
                 "name": "dashlane",
                 "urls": [
                     "ws1.dashlane.com",
-                    "console.dashlane.com",
                     "www.dashlane.com",
-                    "logs.dashlane.com",
-                    "app.dashlane.com"
+                    "console.dashlane.com",
+                    "app.dashlane.com",
+                    "logs.dashlane.com"
                 ]
             },
             {
@@ -1929,9 +1929,9 @@
             {
                 "name": "robinhood",
                 "urls": [
-                    "nummus.robinhood.com",
+                    "robinhood.com",
                     "api.robinhood.com",
-                    "robinhood.com"
+                    "nummus.robinhood.com"
                 ]
             },
             {
@@ -1941,69 +1941,69 @@
             {
                 "name": "zendesk",
                 "urls": [
-                    "apps.zendesk.com",
-                    "*.zendesk.com/connect*",
-                    "h1-your-domain.zendesk.com",
+                    "www.zendesk.com",
                     "developer.zendesk.com",
-                    "www.zendesk.com"
+                    "h1-your-domain.zendesk.com",
+                    "*.zendesk.com/connect*",
+                    "apps.zendesk.com"
                 ]
             },
             {
                 "name": "shopify",
                 "urls": [
                     "your-store.myshopify.com",
-                    "accounts.shopify.com",
                     "partners.shopify.com",
-                    "exchangemarketplace.com",
-                    "*.shopify.com"
+                    "accounts.shopify.com",
+                    "*.shopify.com",
+                    "exchangemarketplace.com"
                 ]
             },
             {
                 "name": "mapbox",
                 "urls": [
                     "www.mapbox.com",
-                    "api.mapbox.com",
-                    "https://www.mapbox.com/api-documentation"
+                    "https://www.mapbox.com/api-documentation",
+                    "api.mapbox.com"
                 ]
             },
             {
                 "name": "airbnb",
                 "urls": [
-                    "*.byairbnb.com",
-                    "admin.demo.urbandoor.com",
-                    "provider.demo.urbandoor.com",
-                    "demo.urbandoor.com",
-                    "luckey.in",
-                    "luckey.app",
-                    "luckey.fr",
-                    "luckeyhomes.com",
-                    "*.luxuryretreats.com",
                     "www.airbnb.com",
+                    "next.airbnb.com",
+                    "api.airbnb.com",
+                    "support-api.airbnb.com",
+                    "assets.airbnb.com",
+                    "m.airbnb.com",
+                    "omgpro.airbnb.com",
+                    "one.airbnb.com",
+                    "open.airbnb.com",
+                    "callbacks.airbnb.com",
+                    "*.airbnb.com",
+                    "*.airbnbcitizen.com",
+                    "*.atairbnb.com",
                     "*.withairbnb.com",
+                    "*.byairbnb.com",
                     "*.muscache.com",
                     "*.airbnb-aws.com",
-                    "*.atairbnb.com",
-                    "*.hoteltonight-test.com",
-                    "support-api.airbnb.com",
-                    "api.airbnb.com",
-                    "*.airbnbcitizen.com",
-                    "*.airbnb.com",
-                    "callbacks.airbnb.com",
-                    "open.airbnb.com",
-                    "one.airbnb.com",
-                    "omgpro.airbnb.com",
-                    "m.airbnb.com",
-                    "assets.airbnb.com",
-                    "next.airbnb.com"
+                    "*.luxuryretreats.com",
+                    "luckeyhomes.com",
+                    "luckey.fr",
+                    "luckey.app",
+                    "luckey.in",
+                    "demo.urbandoor.com",
+                    "provider.demo.urbandoor.com",
+                    "admin.demo.urbandoor.com",
+                    "*.hoteltonight-test.com"
                 ]
             },
             {
                 "name": "airtable",
                 "urls": [
-                    "api-staging.airtable.com",
                     "staging.airtable.com",
+                    "*.staging-airtableblocks.com",
                     "*.staging.airtable.com",
-                    "*.staging-airtableblocks.com"
+                    "api-staging.airtable.com"
                 ]
             },
             {
@@ -2017,41 +2017,41 @@
             {
                 "name": "blockchain",
                 "urls": [
-                    "www.blockchain.com",
-                    "mailer2.blockchain.com",
-                    "mailer1.blockchain.com",
-                    "login.blockchain.com",
-                    "docs.blockchain.com",
-                    "api.blockchain.com",
-                    "ws.blockchain.info",
-                    "pit.*.blockchain.info",
-                    "horizon.blockchain.info",
-                    "*.dev.blockchain.info",
-                    "*.europe-west1.dev.blockchain.info",
-                    "consul.dev.blockchain.info",
-                    "blog.blockchain.info",
                     "*.blockchain.com",
-                    "bci-ads.blockchain.info",
-                    "api.blockchain.info",
-                    "www.blockchain.info",
-                    "wallet-helper.blockchain.com",
-                    "prod.blockchain.com",
+                    "www.blockchain.com",
+                    "api.blockchain.com",
+                    "docs.blockchain.com",
+                    "login.blockchain.com",
+                    "mailer1.blockchain.com",
+                    "mailer2.blockchain.com",
+                    "mailer3.blockchain.com",
                     "pit.blockchain.com",
-                    "mailer3.blockchain.com"
+                    "prod.blockchain.com",
+                    "wallet-helper.blockchain.com",
+                    "www.blockchain.info",
+                    "api.blockchain.info",
+                    "bci-ads.blockchain.info",
+                    "blog.blockchain.info",
+                    "consul.dev.blockchain.info",
+                    "*.europe-west1.dev.blockchain.info",
+                    "*.dev.blockchain.info",
+                    "horizon.blockchain.info",
+                    "pit.*.blockchain.info",
+                    "ws.blockchain.info"
                 ]
             },
             {
                 "name": "ui",
                 "urls": [
-                    "*.ui.com",
                     "*.ubnt.com",
+                    "*.ui.com",
                     "store.ui.com",
-                    "ir.ui.com",
                     "community.ui.com",
-                    "blog.ui.com",
-                    "help.ui.com",
+                    "ir.ui.com",
+                    "forum-es.ui.com",
                     "forum-pt.ui.com",
-                    "forum-es.ui.com"
+                    "help.ui.com",
+                    "blog.ui.com"
                 ]
             },
             {
@@ -2059,14 +2059,14 @@
                 "urls": [
                     "accounts.snapchat.com",
                     "app.snapchat.com",
-                    "geofilters.snapchat.com",
-                    "snappublisher.snapchat.com",
                     "kit.snapchat.com",
+                    "snappublisher.snapchat.com",
+                    "geofilters.snapchat.com",
                     "www.bitmoji.com",
                     "www.bitstrips.com",
                     "www.scan.me",
-                    "spectacles.com",
-                    "scan.snapchat.com"
+                    "scan.snapchat.com",
+                    "spectacles.com"
                 ]
             },
             {
@@ -2095,29 +2095,29 @@
             {
                 "name": "qiwi",
                 "urls": [
-                    "*.rocketbank.ru",
-                    "*.flocktory.com",
-                    "*.contact-sys.com",
-                    "*.rapida.ru",
-                    "*.sovest.ru",
+                    "*.qiwi.com",
                     "*.qiwi.me",
-                    "*.qiwi.com"
+                    "*.sovest.ru",
+                    "*.rapida.ru",
+                    "*.contact-sys.com",
+                    "*.rocketbank.ru",
+                    "*.flocktory.com"
                 ]
             },
             {
                 "name": "vimeo",
                 "urls": [
-                    "*.cloud.vimeo.com",
-                    "vimeo.com/create",
-                    "player.vimeo.com",
                     "www.vimeo.com",
-                    "*.vimeo.com",
+                    "player.vimeo.com",
                     "api.vimeo.com",
-                    "checkout.vimeo.com",
+                    "*.cloud.vimeo.com",
+                    "vimeopro.com",
                     "vimeo.com/ondemand",
-                    "vimeo.magisto.com",
                     "vimeo.com/api",
-                    "vimeopro.com"
+                    "*.vimeo.com",
+                    "checkout.vimeo.com",
+                    "vimeo.com/create",
+                    "vimeo.magisto.com"
                 ]
             },
             {
@@ -2128,8 +2128,8 @@
                 "name": "dropbox",
                 "urls": [
                     "www.dropbox.com",
-                    "showcase.dropbox.com",
                     "paper.dropbox.com",
+                    "showcase.dropbox.com",
                     "dropboxforum.com"
                 ]
             },
@@ -2146,12 +2146,12 @@
             {
                 "name": "greenhouse",
                 "urls": [
-                    "api.greenhouse.io",
                     "app.greenhouse.io",
-                    "jss.greenhouse.io",
-                    "support.greenhouse.io",
-                    "onboarding.greenhouse.io",
                     "boards.greenhouse.io",
+                    "api.greenhouse.io",
+                    "onboarding.greenhouse.io",
+                    "support.greenhouse.io",
+                    "jss.greenhouse.io",
                     "www.greenhouse.io"
                 ]
             },
@@ -2162,12 +2162,12 @@
             {
                 "name": "gitlab",
                 "urls": [
-                    "ws*.gitter.im",
                     "customers.gitlab.com",
                     "gitter.im",
                     "registry.gitlab.com",
+                    "gitlab.com",
                     "api.gitter.im",
-                    "gitlab.com"
+                    "ws*.gitter.im"
                 ]
             },
             {
@@ -2178,12 +2178,12 @@
                 "name": "wepay",
                 "urls": [
                     "stage.wepay.com",
-                    "stage.wepayapi.com",
                     "www.wepay.com",
-                    "home.wepay.com",
-                    "stage-go.wepay.com",
                     "stage-home.wepay.com",
+                    "home.wepay.com",
                     "go.wepay.com",
+                    "stage-go.wepay.com",
+                    "stage.wepayapi.com",
                     "www.wepayapi.com"
                 ]
             },
@@ -2191,31 +2191,31 @@
                 "name": "twitter",
                 "urls": [
                     "*.twitter.com",
-                    "*.periscope.tv",
-                    "mopub.com",
-                    "gnip.com",
-                    "*.twimg.com",
-                    "*.pscp.tv",
                     "*.vine.co",
-                    "snappytv.com",
+                    "*.periscope.tv",
+                    "*.pscp.tv",
+                    "*.twimg.com",
+                    "gnip.com",
+                    "mopub.com",
                     "niche.co",
+                    "snappytv.com",
                     "twitterflightschool.com"
                 ]
             },
             {
                 "name": "urbandictionary",
                 "urls": [
-                    "urbandictionary.github.io",
-                    "*.urbandictionary.biz",
-                    "*.urbandictionary.net",
                     "*.urbandictionary.com",
-                    "*.urbanup.com",
+                    "*.urbandictionary.net",
+                    "*.urbandictionary.biz",
+                    "urbandictionary.github.io",
                     "*.urbandictionary.org",
-                    "*.urbandictionary.blog",
-                    "*.udimg.com",
                     "*.ud.wtf",
-                    "*.urbandictionary.store",
-                    "help.urbandictionary.com"
+                    "*.udimg.com",
+                    "*.urbandictionary.blog",
+                    "*.urbanup.com",
+                    "help.urbandictionary.com",
+                    "*.urbandictionary.store"
                 ]
             },
             {
@@ -2234,18 +2234,29 @@
             },
             {
                 "name": "automattic",
-                "urls": []
+                "urls": [
+                    "safe.tumblr.com",
+                    "secure.tumblr.com",
+                    "assets.tumblr.com",
+                    "embed.tumblr.com",
+                    "*.tumblr.com",
+                    "www.tumblr.com",
+                    "t.umblr.com",
+                    "*.srvcs.tumblr.com",
+                    "*.txmblr.com",
+                    "api.tumblr.com"
+                ]
             },
             {
                 "name": "irccloud",
                 "urls": [
-                    "*.irccloud.com",
-                    "api.irccloud.com",
                     "www.irccloud.com",
-                    "irccloud.com",
-                    "team-irc.irccloud.com",
-                    "irc.irccloud.com",
+                    "api.irccloud.com",
                     "*.irccloud-cdn.com",
+                    "*.irccloud.com",
+                    "irccloud.com",
+                    "irc.irccloud.com",
+                    "team-irc.irccloud.com",
                     "blog.irccloud.com"
                 ]
             },
@@ -2256,13 +2267,13 @@
             {
                 "name": "coinbase",
                 "urls": [
-                    "api.coinbase.com",
+                    "coinbase.com",
                     "*.cbhq.net",
                     "pro.coinbase.com",
+                    "commerce.coinbase.com",
                     "prime.coinbase.com",
                     "paradex.io",
-                    "coinbase.com",
-                    "commerce.coinbase.com"
+                    "api.coinbase.com"
                 ]
             },
             {
@@ -2274,22 +2285,22 @@
             {
                 "name": "slack",
                 "urls": [
-                    "app.slack.com",
                     "slack.com",
-                    "slackb.com",
+                    "api.slack.com",
                     "status.slack.com",
-                    "api.slack.com"
+                    "slackb.com",
+                    "app.slack.com"
                 ]
             },
             {
                 "name": "verizonmedia",
                 "urls": [
                     "api-secure.sports.yahoo.com",
-                    "le.yahooapis.com",
                     "data.mail.yahoo.com",
+                    "le.yahooapis.com",
                     "onepush.query.yahoo.com",
-                    "apis.mail.yahoo.com",
-                    "proddata.xobni.yahoo.com"
+                    "proddata.xobni.yahoo.com",
+                    "apis.mail.yahoo.com"
                 ]
             },
             {
@@ -2336,11 +2347,11 @@
                 "name": "security",
                 "urls": [
                     "https://hackerone.com",
-                    "*.vpn.hackerone.net",
-                    "https://hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com/",
                     "https://api.hackerone.com",
-                    "https://errors.hackerone.net",
+                    "https://hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com/",
+                    "*.vpn.hackerone.net",
                     "https://www.hackerone.com",
+                    "https://errors.hackerone.net",
                     "https://*.hackerone-ext-content.com",
                     "https://*.hackerone-user-content.com/",
                     "https://ctf.hacker101.com"
@@ -2349,7 +2360,7 @@
         ],
         "metaData": {
             "totalPrograms": 274,
-            "totalUrls": 1077
+            "totalUrls": 1087
         }
     }
 }
