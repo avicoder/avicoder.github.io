@@ -5,8 +5,9 @@
                 "name": "drive_net_inc",
                 "urls": [
                     "www.drive2.ru",
-                    "*.drive2.ru",
-                    "*.d-cd.net"
+                    "api.drive2.ru",
+                    "*.d-cd.net",
+                    "*.drive2.ru"
                 ]
             },
             {
@@ -2367,7 +2368,7 @@
         ],
         "metaData": {
             "totalPrograms": 275,
-            "totalUrls": 1089
+            "totalUrls": 1090
         }
     }
 }
