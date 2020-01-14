@@ -306,21 +306,6 @@
                 "urls": []
             },
             {
-                "name": "tumblr",
-                "urls": [
-                    "api.tumblr.com",
-                    "safe.tumblr.com",
-                    "secure.tumblr.com",
-                    "assets.tumblr.com",
-                    "embed.tumblr.com",
-                    "*.tumblr.com",
-                    "www.tumblr.com",
-                    "t.umblr.com",
-                    "*.srvcs.tumblr.com",
-                    "*.txmblr.com"
-                ]
-            },
-            {
                 "name": "sg-vdp",
                 "urls": []
             },
@@ -763,7 +748,8 @@
                     "https://tax.creditkarma.com",
                     "https://api.creditkarma.com",
                     "https://help.creditkarma.com",
-                    "https://blog.creditkarma.com/"
+                    "https://blog.creditkarma.com/",
+                    "https://www.creditkarma.com/savings"
                 ]
             },
             {
@@ -834,7 +820,8 @@
                     "hyatt.com",
                     "www.hyatt.com",
                     "world.hyatt.com",
-                    "assets.hyatt.com"
+                    "assets.hyatt.com",
+                    "newsroom.images.hyatt.com"
                 ]
             },
             {
@@ -1376,6 +1363,7 @@
                     "swipely-merchant-assets.s3.amazonaws.com",
                     "inventory.upserve.com",
                     "hq-api.upserve.com",
+                    "hq.upserve.com",
                     "https://645892349820.vulnerbug.com",
                     "teamhelp.upserve.com",
                     "*.upserve.com"
@@ -2367,8 +2355,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 275,
-            "totalUrls": 1090
+            "totalPrograms": 274,
+            "totalUrls": 1083
         }
     }
 }
