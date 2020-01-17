@@ -796,13 +796,6 @@
                 ]
             },
             {
-                "name": "semmle",
-                "urls": [
-                    "lgtm-com.pentesting.semmle.net",
-                    "backend-dot-lgtm-penetration-testing.appspot.com"
-                ]
-            },
-            {
                 "name": "postmates",
                 "urls": [
                     "postmates.com",
@@ -1711,16 +1704,10 @@
                     "*.github.net",
                     "education.github.com",
                     "lab.github.com",
-                    "jobs.github.com"
+                    "jobs.github.com",
+                    "semmle.net",
+                    "semmle.com"
                 ]
-            },
-            {
-                "name": "powerdns",
-                "urls": []
-            },
-            {
-                "name": "dovecot",
-                "urls": []
             },
             {
                 "name": "appsuite",
@@ -2378,7 +2365,7 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 277,
+            "totalPrograms": 274,
             "totalUrls": 1091
         }
     }
