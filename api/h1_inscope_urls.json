@@ -2,6 +2,13 @@
     "data": {
         "programs": [
             {
+                "name": "curve",
+                "urls": [
+                    "api.imaginecurve.com",
+                    "vpn.imaginecurve.com"
+                ]
+            },
+            {
                 "name": "h1-415-ctf",
                 "urls": [
                     "https://h1-415.h1ctf.com"
@@ -2353,8 +2360,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 272,
-            "totalUrls": 1088
+            "totalPrograms": 273,
+            "totalUrls": 1090
         }
     }
 }
