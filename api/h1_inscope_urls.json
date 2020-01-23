@@ -2,6 +2,15 @@
     "data": {
         "programs": [
             {
+                "name": "investnext",
+                "urls": [
+                    "mg3.investnext.com",
+                    "app.investnext.com",
+                    "altogroup.investnextdemo.co",
+                    "app.investnextdemo.co"
+                ]
+            },
+            {
                 "name": "nutanix",
                 "urls": [
                     "support.nutanix.com",
@@ -2440,8 +2449,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 274,
-            "totalUrls": 1166
+            "totalPrograms": 275,
+            "totalUrls": 1170
         }
     }
 }
