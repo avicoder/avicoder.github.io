@@ -2,6 +2,15 @@
     "data": {
         "programs": [
             {
+                "name": "sigparser",
+                "urls": [
+                    "api-beta.sigparser.com",
+                    "beta1.sigparser.com",
+                    "beta-ipaas.sigparser.com",
+                    "beta.sigparser.com"
+                ]
+            },
+            {
                 "name": "investnext",
                 "urls": [
                     "mg3.investnext.com",
@@ -108,12 +117,6 @@
                 ]
             },
             {
-                "name": "h1-415-ctf",
-                "urls": [
-                    "https://h1-415.h1ctf.com"
-                ]
-            },
-            {
                 "name": "lifeomic",
                 "urls": [
                     "*.infra.lifeomic.com",
@@ -154,6 +157,7 @@
                 "name": "8x8",
                 "urls": [
                     "*.ucverse.com",
+                    "*.8x8.com",
                     "*.packet8.net",
                     "*.easycontactnow.com",
                     "*.dxi.eu",
@@ -166,7 +170,6 @@
                     "*.wavecell.com",
                     "www.8x8.com",
                     "*.sameroom.io",
-                    "*.8x8.com",
                     "*.voicenet-solutions.com",
                     "*.mycontactual.com",
                     "*.jitsi.org",
@@ -2450,7 +2453,7 @@
         ],
         "metaData": {
             "totalPrograms": 275,
-            "totalUrls": 1170
+            "totalUrls": 1173
         }
     }
 }
