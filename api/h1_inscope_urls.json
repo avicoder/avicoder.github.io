@@ -2,6 +2,15 @@
     "data": {
         "programs": [
             {
+                "name": "localizejs",
+                "urls": [
+                    "localizestaging.com",
+                    "api.localizestaging.com",
+                    "localize.live/staging",
+                    "cdn.localizestaging.com"
+                ]
+            },
+            {
                 "name": "sigparser",
                 "urls": [
                     "api-beta.sigparser.com",
@@ -2452,8 +2461,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 275,
-            "totalUrls": 1173
+            "totalPrograms": 276,
+            "totalUrls": 1177
         }
     }
 }
