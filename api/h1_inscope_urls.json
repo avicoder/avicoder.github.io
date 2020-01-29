@@ -1403,6 +1403,7 @@
                     "marketplace.fedramp.gov",
                     "*.search.gov",
                     "https://dashboard-beta.fr.cloud.gov/",
+                    "www.usa.gov",
                     "https://federalist.18f.gov",
                     "https://cloud.gov",
                     "https://federalist-docs.18f.gov",
@@ -2056,6 +2057,12 @@
                 "urls": []
             },
             {
+                "name": "udemy",
+                "urls": [
+                    "www.udemy.com"
+                ]
+            },
+            {
                 "name": "zendesk",
                 "urls": [
                     "www.zendesk.com",
@@ -2477,8 +2484,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 278,
-            "totalUrls": 1183
+            "totalPrograms": 279,
+            "totalUrls": 1185
         }
     }
 }
