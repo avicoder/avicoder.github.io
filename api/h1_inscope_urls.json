@@ -1244,13 +1244,6 @@
                 ]
             },
             {
-                "name": "nimiq",
-                "urls": [
-                    "https://safe.nimiq.com/",
-                    "https://keyguard.nimiq.com/"
-                ]
-            },
-            {
                 "name": "toyota",
                 "urls": []
             },
@@ -2484,8 +2477,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 279,
-            "totalUrls": 1185
+            "totalPrograms": 278,
+            "totalUrls": 1183
         }
     }
 }
