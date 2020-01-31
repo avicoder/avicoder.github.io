@@ -2,6 +2,14 @@
     "data": {
         "programs": [
             {
+                "name": "goodrx",
+                "urls": [
+                    "www.goodrx.com",
+                    "gold.goodrx.com",
+                    "heydoctor.goodrx.com"
+                ]
+            },
+            {
                 "name": "roblox",
                 "urls": [
                     "*.roblox.com"
@@ -137,7 +145,8 @@
                 "name": "curve",
                 "urls": [
                     "api.imaginecurve.com",
-                    "vpn.imaginecurve.com"
+                    "vpn.imaginecurve.com",
+                    "curve.app"
                 ]
             },
             {
@@ -773,7 +782,9 @@
                     "*.bluetarp.com",
                     "*.unitedincome.com",
                     "*.luma.co.uk",
-                    "*.capitalonecareers.co.uk"
+                    "*.capitalonecareers.co.uk",
+                    "*.criticalstack.com",
+                    "*.intelstack.com"
                 ]
             },
             {
@@ -2477,8 +2488,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 278,
-            "totalUrls": 1183
+            "totalPrograms": 279,
+            "totalUrls": 1189
         }
     }
 }
