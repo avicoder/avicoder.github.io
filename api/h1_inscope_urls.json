@@ -34,15 +34,6 @@
                 ]
             },
             {
-                "name": "sigparser",
-                "urls": [
-                    "api-beta.sigparser.com",
-                    "beta1.sigparser.com",
-                    "beta-ipaas.sigparser.com",
-                    "beta.sigparser.com"
-                ]
-            },
-            {
                 "name": "investnext",
                 "urls": [
                     "mg3.investnext.com",
@@ -2488,8 +2479,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 279,
-            "totalUrls": 1189
+            "totalPrograms": 278,
+            "totalUrls": 1185
         }
     }
 }
