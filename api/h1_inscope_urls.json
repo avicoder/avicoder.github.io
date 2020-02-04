@@ -2,6 +2,47 @@
     "data": {
         "programs": [
             {
+                "name": "celo",
+                "urls": [
+                    "https://github.com/celo-org/bls-zexe",
+                    "https://github.com/celo-org/celo-monorepo",
+                    "https://github.com/celo-org/celo-blockchain",
+                    "https://github.com/celo-org/zexe"
+                ]
+            },
+            {
+                "name": "marriott",
+                "urls": [
+                    "*.marriott.com",
+                    "*.starwoodhotels.com",
+                    "eleganthotels.com",
+                    "www.ritzcarlton.com"
+                ]
+            },
+            {
+                "name": "visma",
+                "urls": [
+                    "eaccounting.stage.vismaonline.com",
+                    "eaccountingprinting.stage.vismaonline.com",
+                    "connect.identity.stagaws.visma.com",
+                    "accountsettings.connect.identity.stagaws.visma.com",
+                    "api.home.stag.visma.com"
+                ]
+            },
+            {
+                "name": "bunq",
+                "urls": [
+                    "api.bunq.com"
+                ]
+            },
+            {
+                "name": "remb_hydraulics",
+                "urls": [
+                    "hydraulics-group.com",
+                    "remb.sharepoint.com"
+                ]
+            },
+            {
                 "name": "goodrx",
                 "urls": [
                     "www.goodrx.com",
@@ -12,7 +53,8 @@
             {
                 "name": "roblox",
                 "urls": [
-                    "*.roblox.com"
+                    "*.roblox.com",
+                    "*.rbx.com"
                 ]
             },
             {
@@ -2156,7 +2198,9 @@
                     "*.dev.blockchain.info",
                     "horizon.blockchain.info",
                     "pit.*.blockchain.info",
-                    "ws.blockchain.info"
+                    "ws.blockchain.info",
+                    "ws.prod.blockchain.info",
+                    "exchange.blockchain.com"
                 ]
             },
             {
@@ -2479,8 +2523,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 278,
-            "totalUrls": 1185
+            "totalPrograms": 283,
+            "totalUrls": 1204
         }
     }
 }
