@@ -2,6 +2,14 @@
     "data": {
         "programs": [
             {
+                "name": "monolith",
+                "urls": [
+                    "api.production.tkn.zone",
+                    "kyc-events.production.tkn.zone",
+                    "card-onboarding.production.tkn.zone"
+                ]
+            },
+            {
                 "name": "celo",
                 "urls": [
                     "https://github.com/celo-org/bls-zexe",
@@ -2523,8 +2531,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 283,
-            "totalUrls": 1204
+            "totalPrograms": 284,
+            "totalUrls": 1207
         }
     }
 }
