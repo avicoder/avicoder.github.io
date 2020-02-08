@@ -955,7 +955,6 @@
                     "vault.omise.co",
                     "api.omise.co",
                     "dashboard.omise.co",
-                    "go.exchange",
                     "link.omise.co",
                     "offsite.omise.co",
                     "www.omise.co"
@@ -2538,7 +2537,7 @@
         ],
         "metaData": {
             "totalPrograms": 285,
-            "totalUrls": 1208
+            "totalUrls": 1207
         }
     }
 }
