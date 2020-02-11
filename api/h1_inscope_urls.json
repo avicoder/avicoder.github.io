@@ -2,6 +2,16 @@
     "data": {
         "programs": [
             {
+                "name": "evernote",
+                "urls": [
+                    "*.evernote.com"
+                ]
+            },
+            {
+                "name": "hcl_software",
+                "urls": []
+            },
+            {
                 "name": "endless_hosting",
                 "urls": [
                     "(*).theendlessweb.com",
@@ -1368,6 +1378,7 @@
                     "developer.gs.com",
                     "goldmansachsindices.com",
                     "marquee.gs.com",
+                    "*.ayco.com",
                     "*.claritymoney.com",
                     "*.gsselect.com"
                 ]
@@ -2545,8 +2556,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 286,
-            "totalUrls": 1211
+            "totalPrograms": 288,
+            "totalUrls": 1213
         }
     }
 }
