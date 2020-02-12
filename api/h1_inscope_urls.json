@@ -2,6 +2,19 @@
     "data": {
         "programs": [
             {
+                "name": "kindred_group",
+                "urls": [
+                    "*.unibet.com",
+                    "*.storspiller.com",
+                    "*.bingo.com",
+                    "*.mariacasino.com",
+                    "*.kolikkopelit.com",
+                    "*.casinohuone.com",
+                    "*.igame.com",
+                    "relaxcdn.unibet.com"
+                ]
+            },
+            {
                 "name": "evernote",
                 "urls": [
                     "*.evernote.com"
@@ -851,7 +864,10 @@
                     "*.luma.co.uk",
                     "*.capitalonecareers.co.uk",
                     "*.criticalstack.com",
-                    "*.intelstack.com"
+                    "*.intelstack.com",
+                    "*.capitalonecards.com",
+                    "*.theunioncard.com",
+                    "*.teamstercardnow.com"
                 ]
             },
             {
@@ -2283,7 +2299,15 @@
             },
             {
                 "name": "yelp",
-                "urls": []
+                "urls": [
+                    "www.yelp.com",
+                    "m.yelp.com",
+                    "biz.yelp.com",
+                    "www.yelpreservations.com",
+                    "https://engineeringblog.yelp.com/",
+                    "https://www.yelpblog.com/",
+                    "www.yelp-support.com"
+                ]
             },
             {
                 "name": "informatica",
@@ -2556,8 +2580,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 288,
-            "totalUrls": 1213
+            "totalPrograms": 289,
+            "totalUrls": 1231
         }
     }
 }
