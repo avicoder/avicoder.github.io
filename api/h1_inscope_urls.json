@@ -2,6 +2,12 @@
     "data": {
         "programs": [
             {
+                "name": "companyhub",
+                "urls": [
+                    "*.companyhub.com"
+                ]
+            },
+            {
                 "name": "kindred_group",
                 "urls": [
                     "*.unibet.com",
@@ -2580,8 +2586,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 289,
-            "totalUrls": 1231
+            "totalPrograms": 290,
+            "totalUrls": 1232
         }
     }
 }
