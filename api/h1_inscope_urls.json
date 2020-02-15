@@ -2,12 +2,6 @@
     "data": {
         "programs": [
             {
-                "name": "companyhub",
-                "urls": [
-                    "*.companyhub.com"
-                ]
-            },
-            {
                 "name": "kindred_group",
                 "urls": [
                     "*.unibet.com",
@@ -1393,6 +1387,7 @@
                     "*.marcus.co.uk",
                     "research.gs.com",
                     "*.gsam.com",
+                    "*.gsselect.com",
                     "*.gs-mosaic.qa.gs.com",
                     "*.gs-mosaic.gs.com",
                     "*.qaglobal-liquidity.gs.com",
@@ -1401,8 +1396,7 @@
                     "goldmansachsindices.com",
                     "marquee.gs.com",
                     "*.ayco.com",
-                    "*.claritymoney.com",
-                    "*.gsselect.com"
+                    "*.claritymoney.com"
                 ]
             },
             {
@@ -2310,9 +2304,14 @@
                     "m.yelp.com",
                     "biz.yelp.com",
                     "www.yelpreservations.com",
-                    "https://engineeringblog.yelp.com/",
-                    "https://www.yelpblog.com/",
-                    "www.yelp-support.com"
+                    "auto-api.yelp.com",
+                    "mobile-api.yelp.com",
+                    "api.yelp.com",
+                    "biz-app.yelp.com",
+                    "blog.yelp.com",
+                    "www.yelp-support.com",
+                    "yelp.nowait.com",
+                    "www.yelpwifi.com"
                 ]
             },
             {
@@ -2586,8 +2585,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 290,
-            "totalUrls": 1232
+            "totalPrograms": 289,
+            "totalUrls": 1236
         }
     }
 }
