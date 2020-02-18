@@ -2,6 +2,10 @@
     "data": {
         "programs": [
             {
+                "name": "picsart",
+                "urls": []
+            },
+            {
                 "name": "kindred_group",
                 "urls": [
                     "*.unibet.com",
@@ -73,7 +77,8 @@
                     "eaccountingprinting.stage.vismaonline.com",
                     "connect.identity.stagaws.visma.com",
                     "accountsettings.connect.identity.stagaws.visma.com",
-                    "api.home.stag.visma.com"
+                    "api.home.stag.visma.com",
+                    "mobileemployee.stag.visma.net/employee"
                 ]
             },
             {
@@ -1750,6 +1755,7 @@
                 "name": "portswigger",
                 "urls": [
                     "portswigger.net",
+                    "forum.portswigger.net",
                     "*.web-security-academy.net"
                 ]
             },
@@ -2585,8 +2591,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 289,
-            "totalUrls": 1236
+            "totalPrograms": 290,
+            "totalUrls": 1238
         }
     }
 }
