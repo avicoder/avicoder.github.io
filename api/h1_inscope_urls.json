@@ -1268,7 +1268,8 @@
                 "name": "crypto",
                 "urls": [
                     "www.crypto.com",
-                    "https://crypto.com/en/exchangebeta"
+                    "https://crypto.com/en/exchange",
+                    "app.mona.co"
                 ]
             },
             {
@@ -1346,7 +1347,7 @@
                 "urls": []
             },
             {
-                "name": "rsksmart",
+                "name": "iovlabs",
                 "urls": [
                     "https://bounty-node.rsk.co"
                 ]
@@ -1916,7 +1917,7 @@
                 ]
             },
             {
-                "name": "open_xchange",
+                "name": "open-xchange",
                 "urls": [
                     "sandbox.open-xchange.com"
                 ]
@@ -2594,7 +2595,7 @@
         ],
         "metaData": {
             "totalPrograms": 290,
-            "totalUrls": 1239
+            "totalUrls": 1240
         }
     }
 }
