@@ -77,8 +77,7 @@
                     "eaccountingprinting.stage.vismaonline.com",
                     "connect.identity.stagaws.visma.com",
                     "accountsettings.connect.identity.stagaws.visma.com",
-                    "api.home.stag.visma.com",
-                    "mobileemployee.stag.visma.net/employee"
+                    "api.home.stag.visma.com"
                 ]
             },
             {
@@ -2595,7 +2594,7 @@
         ],
         "metaData": {
             "totalPrograms": 290,
-            "totalUrls": 1240
+            "totalUrls": 1239
         }
     }
 }
