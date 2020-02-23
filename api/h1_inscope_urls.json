@@ -2529,7 +2529,6 @@
             {
                 "name": "verizonmedia",
                 "urls": [
-                    "api-secure.sports.yahoo.com",
                     "data.mail.yahoo.com",
                     "le.yahooapis.com",
                     "onepush.query.yahoo.com",
@@ -2594,7 +2593,7 @@
         ],
         "metaData": {
             "totalPrograms": 290,
-            "totalUrls": 1239
+            "totalUrls": 1238
         }
     }
 }
