@@ -2,6 +2,10 @@
     "data": {
         "programs": [
             {
+                "name": "googleapi",
+                "urls": []
+            },
+            {
                 "name": "picsart",
                 "urls": []
             },
@@ -1311,23 +1315,6 @@
                 ]
             },
             {
-                "name": "mycrypto",
-                "urls": [
-                    "beta.mycrypto.com",
-                    "www.mycrypto.com",
-                    "overflow.mycrypto.com",
-                    "support.mycrypto.com",
-                    "legacy.mycrypto.com",
-                    "download.mycrypto.com",
-                    "buy.mycrypto.com",
-                    "ambo.io",
-                    "ambo.herokuapp.com",
-                    "etherscamdb.info",
-                    "cryptoscamdb.org",
-                    "about.mycrypto.com"
-                ]
-            },
-            {
                 "name": "jamieweb",
                 "urls": [
                     "www.jamieweb.net",
@@ -2593,7 +2580,7 @@
         ],
         "metaData": {
             "totalPrograms": 290,
-            "totalUrls": 1238
+            "totalUrls": 1226
         }
     }
 }
