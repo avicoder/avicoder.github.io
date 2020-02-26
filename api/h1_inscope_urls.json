@@ -2392,7 +2392,10 @@
             {
                 "name": "harvest",
                 "urls": [
-                    "harvestapp.com"
+                    "harvestapp.com",
+                    "forecastapp.com",
+                    "id.getharvest.com",
+                    "getharvest.com"
                 ]
             },
             {
@@ -2580,7 +2583,7 @@
         ],
         "metaData": {
             "totalPrograms": 290,
-            "totalUrls": 1226
+            "totalUrls": 1229
         }
     }
 }
