@@ -693,10 +693,6 @@
                 ]
             },
             {
-                "name": "tlon",
-                "urls": []
-            },
-            {
                 "name": "kartpay",
                 "urls": [
                     "*.kartpay.com"
@@ -2581,7 +2577,7 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 290,
+            "totalPrograms": 289,
             "totalUrls": 1228
         }
     }
