@@ -81,7 +81,10 @@
                     "eaccountingprinting.stage.vismaonline.com",
                     "connect.identity.stagaws.visma.com",
                     "accountsettings.connect.identity.stagaws.visma.com",
-                    "api.home.stag.visma.com"
+                    "api.home.stag.visma.com",
+                    "app.workbox.dk",
+                    "authz.workbox.dk",
+                    "api.workbox.dk"
                 ]
             },
             {
@@ -234,7 +237,8 @@
                 "urls": [
                     "api.imaginecurve.com",
                     "vpn.imaginecurve.com",
-                    "curve.app"
+                    "curve.app",
+                    "curve.com"
                 ]
             },
             {
@@ -654,7 +658,8 @@
                     "datapod-1-ingest.Production.ForescoutCloud.net",
                     "datapod-1-query.Production.ForescoutCloud.net",
                     "mgmtpod-1-dashboard.Production.ForescoutCloud.net",
-                    "mgmtpod-1.Production.ForescoutCloud.net"
+                    "mgmtpod-1.Production.ForescoutCloud.net",
+                    "logstash-props.devicecloud.acceptance.forescoutcloud.net"
                 ]
             },
             {
@@ -2578,7 +2583,7 @@
         ],
         "metaData": {
             "totalPrograms": 289,
-            "totalUrls": 1228
+            "totalUrls": 1233
         }
     }
 }
