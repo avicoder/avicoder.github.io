@@ -2,12 +2,6 @@
     "data": {
         "programs": [
             {
-                "name": "ramp_0tawz",
-                "urls": [
-                    "www.tryramp.com"
-                ]
-            },
-            {
                 "name": "orion_labs",
                 "urls": [
                     "login.orionlabs.io/",
@@ -1432,7 +1426,9 @@
             {
                 "name": "recargapay",
                 "urls": [
-                    "api.recarga.com"
+                    "api.recarga.com",
+                    "www.recargapay.com.br/*",
+                    "secure.recarga.com/*"
                 ]
             },
             {
@@ -2605,8 +2601,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 292,
-            "totalUrls": 1241
+            "totalPrograms": 291,
+            "totalUrls": 1242
         }
     }
 }
