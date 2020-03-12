@@ -2,6 +2,13 @@
     "data": {
         "programs": [
             {
+                "name": "glassdoor",
+                "urls": [
+                    "http://www.glassdoor.com/",
+                    "http://api.glassdoor.com"
+                ]
+            },
+            {
                 "name": "orion_labs",
                 "urls": [
                     "login.orionlabs.io/",
@@ -254,8 +261,8 @@
                 "urls": [
                     "api.imaginecurve.com",
                     "vpn.imaginecurve.com",
-                    "curve.app",
-                    "curve.com"
+                    "curve.com",
+                    "curve.app"
                 ]
             },
             {
@@ -2601,8 +2608,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 291,
-            "totalUrls": 1242
+            "totalPrograms": 292,
+            "totalUrls": 1244
         }
     }
 }
