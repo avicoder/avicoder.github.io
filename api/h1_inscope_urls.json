@@ -669,12 +669,12 @@
                     "datapod-1-ingest.forescoutcloud.net",
                     "datapod-1-query.forescoutcloud.net",
                     "www.forescout.com",
-                    "datapod-1-ingest.Development.ForescoutCloud.net",
-                    "datapod-1-query.Development.ForescoutCloud.net",
-                    "mgmtpod-1-dashboard.Development.ForescoutCloud.net",
-                    "mgmtpod-1.Development.ForescoutCloud.net",
-                    "datapod-1-ingest.Testing.ForescoutCloud.net",
-                    "datapod-1-query.Testing.ForescoutCloud.net",
+                    "datapod-1-100-ingest.development.forescoutcloud.net",
+                    "datapod-1-100-query.Development.ForescoutCloud.net",
+                    "mgmtpod-1-100-dashboard.Development.ForescoutCloud.net",
+                    "mgmtpod-1-100.Development.ForescoutCloud.net",
+                    "datapod-1-100-ingest.Testing.ForescoutCloud.net",
+                    "datapod-1-100-query.Testing.ForescoutCloud.net",
                     "datapod-1-ingest.Acceptance.ForescoutCloud.net",
                     "datapod-1-query.Acceptance.ForescoutCloud.net",
                     "datapod-2-ingest.Acceptance.ForescoutCloud.net",
@@ -683,7 +683,10 @@
                     "datapod-1-query.Production.ForescoutCloud.net",
                     "mgmtpod-1-dashboard.Production.ForescoutCloud.net",
                     "mgmtpod-1.Production.ForescoutCloud.net",
-                    "logstash-props.devicecloud.acceptance.forescoutcloud.net"
+                    "logstash-props.devicecloud.acceptance.forescoutcloud.net",
+                    "datapod-1-100-druid-ingest.development.forescoutcloud.net",
+                    "datapod-1-100-druid-query.development.forescoutcloud.net",
+                    "datapod-1-100-druid-ingest.Testing.ForescoutCloud.net"
                 ]
             },
             {
@@ -2609,7 +2612,7 @@
         ],
         "metaData": {
             "totalPrograms": 292,
-            "totalUrls": 1244
+            "totalUrls": 1247
         }
     }
 }
