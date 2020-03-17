@@ -2,6 +2,18 @@
     "data": {
         "programs": [
             {
+                "name": "digitalocean",
+                "urls": [
+                    "https://cloud.digitalocean.com/",
+                    "https://api.digitalocean.com/",
+                    "https://marketplace.digitalocean.com/",
+                    "https://business.digitalocean.com/",
+                    "*.digitalocean.com",
+                    "*.digitaloceanspaces.com",
+                    "http://169.254.169.254/"
+                ]
+            },
+            {
                 "name": "glassdoor",
                 "urls": [
                     "http://www.glassdoor.com/",
@@ -586,21 +598,7 @@
             },
             {
                 "name": "people_interactive",
-                "urls": [
-                    "https://www.shaadi.com",
-                    "http://min.shaadi.com/",
-                    "http://img.shaadi.com/",
-                    "http://img1.shaadi.com/",
-                    "http://ww4.shaadi.com/",
-                    "https://img.sangam.com",
-                    "https://img1.sangam.com",
-                    "https://img2.sangam.com",
-                    "https://img1.familyshaadi.com",
-                    "https://min.sangam.com",
-                    "https://hera.sangam.com",
-                    "https://api.sangam.com",
-                    "https://www.sangam.com/"
-                ]
+                "urls": []
             },
             {
                 "name": "razer",
@@ -2611,8 +2609,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 292,
-            "totalUrls": 1247
+            "totalPrograms": 293,
+            "totalUrls": 1241
         }
     }
 }
