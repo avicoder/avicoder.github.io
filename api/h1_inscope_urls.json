@@ -684,7 +684,10 @@
                     "logstash-props.devicecloud.acceptance.forescoutcloud.net",
                     "datapod-1-100-druid-ingest.development.forescoutcloud.net",
                     "datapod-1-100-druid-query.development.forescoutcloud.net",
-                    "datapod-1-100-druid-ingest.Testing.ForescoutCloud.net"
+                    "datapod-1-100-druid-ingest.Testing.ForescoutCloud.net",
+                    "a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com",
+                    "datapod-1-100-druid-ingest.production.forescoutcloud.net",
+                    "datapod-1-100-druid-query.production.forescoutcloud.net"
                 ]
             },
             {
@@ -1414,6 +1417,7 @@
                     "goldmansachsindices.com",
                     "marquee.gs.com",
                     "*.ayco.com",
+                    "www.rocaton.com",
                     "*.claritymoney.com"
                 ]
             },
@@ -2610,7 +2614,7 @@
         ],
         "metaData": {
             "totalPrograms": 293,
-            "totalUrls": 1241
+            "totalUrls": 1245
         }
     }
 }
