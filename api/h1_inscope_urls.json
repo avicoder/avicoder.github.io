@@ -2,6 +2,17 @@
     "data": {
         "programs": [
             {
+                "name": "myndr",
+                "urls": [
+                    "osd.myndr.nl",
+                    "*.myndr.net",
+                    "www.myndr.nl",
+                    "bibliotheek.myndr.nl",
+                    "forum.myndr.nl",
+                    "*.myndr.nl"
+                ]
+            },
+            {
                 "name": "digitalocean",
                 "urls": [
                     "https://cloud.digitalocean.com/",
@@ -24,8 +35,7 @@
                 "name": "orion_labs",
                 "urls": [
                     "login.orionlabs.io/",
-                    "observatory.orionlabs.io/",
-                    "support.orionlabs.io"
+                    "observatory.orionlabs.io/"
                 ]
             },
             {
@@ -2613,8 +2623,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 293,
-            "totalUrls": 1245
+            "totalPrograms": 294,
+            "totalUrls": 1250
         }
     }
 }
