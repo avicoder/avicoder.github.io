@@ -2,6 +2,22 @@
     "data": {
         "programs": [
             {
+                "name": "qulture_rocks_x3u44",
+                "urls": [
+                    "https://qa.qulture.rocks/"
+                ]
+            },
+            {
+                "name": "everydotorg",
+                "urls": [
+                    "*.every.org"
+                ]
+            },
+            {
+                "name": "pegasys_bbp",
+                "urls": []
+            },
+            {
                 "name": "myndr",
                 "urls": [
                     "osd.myndr.nl",
@@ -640,10 +656,6 @@
                 "urls": [
                     "www.amitree.com"
                 ]
-            },
-            {
-                "name": "ddp_reward_program",
-                "urls": []
             },
             {
                 "name": "libra",
@@ -1587,10 +1599,6 @@
                     "delight.im",
                     "www.delight.im"
                 ]
-            },
-            {
-                "name": "googleplay",
-                "urls": []
             },
             {
                 "name": "upserve",
@@ -2623,8 +2631,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 294,
-            "totalUrls": 1250
+            "totalPrograms": 295,
+            "totalUrls": 1252
         }
     }
 }
