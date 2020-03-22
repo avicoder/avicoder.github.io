@@ -24,7 +24,6 @@
                     "*.myndr.net",
                     "www.myndr.nl",
                     "bibliotheek.myndr.nl",
-                    "forum.myndr.nl",
                     "*.myndr.nl"
                 ]
             },
@@ -2632,7 +2631,7 @@
         ],
         "metaData": {
             "totalPrograms": 295,
-            "totalUrls": 1252
+            "totalUrls": 1251
         }
     }
 }
