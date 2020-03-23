@@ -10,7 +10,7 @@
             {
                 "name": "everydotorg",
                 "urls": [
-                    "*.every.org"
+                    "staging.every.org"
                 ]
             },
             {
