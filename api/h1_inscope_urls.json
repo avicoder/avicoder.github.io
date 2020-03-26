@@ -2,6 +2,17 @@
     "data": {
         "programs": [
             {
+                "name": "bmwgroup",
+                "urls": [
+                    "www.bmw.de",
+                    "www.mini.de",
+                    "www.bmw-motorrad.de",
+                    "configure.bmw.de",
+                    "configure.mini.de",
+                    "konfigurator.bmw-motorrad.de"
+                ]
+            },
+            {
                 "name": "fortmatic_inc",
                 "urls": [
                     "api.fortmatic.com",
@@ -14,12 +25,6 @@
                 "name": "qulture_rocks_x3u44",
                 "urls": [
                     "https://hackerone.qulture.rocks/"
-                ]
-            },
-            {
-                "name": "everydotorg",
-                "urls": [
-                    "staging.every.org"
                 ]
             },
             {
@@ -182,7 +187,8 @@
                 "name": "roblox",
                 "urls": [
                     "*.roblox.com",
-                    "*.rbx.com"
+                    "*.rbx.com",
+                    "*.ra.roblox.com"
                 ]
             },
             {
@@ -1101,6 +1107,7 @@
                     "www.hyatt.com",
                     "world.hyatt.com",
                     "assets.hyatt.com",
+                    "https://www.hyatt.com/en-US/payment/details",
                     "newsroom.images.hyatt.com"
                 ]
             },
@@ -1242,10 +1249,6 @@
                     "swiftfinancial.com",
                     "swiftcapital.com"
                 ]
-            },
-            {
-                "name": "voatz",
-                "urls": []
             },
             {
                 "name": "mariadb",
@@ -2637,8 +2640,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 295,
-            "totalUrls": 1257
+            "totalPrograms": 294,
+            "totalUrls": 1264
         }
     }
 }
