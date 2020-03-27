@@ -1285,7 +1285,9 @@
             },
             {
                 "name": "augurproject",
-                "urls": []
+                "urls": [
+                    "https://v2.augur.net/#!/create-market"
+                ]
             },
             {
                 "name": "ibb-if",
@@ -2647,7 +2649,7 @@
         ],
         "metaData": {
             "totalPrograms": 295,
-            "totalUrls": 1266
+            "totalUrls": 1267
         }
     }
 }
