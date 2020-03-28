@@ -605,6 +605,7 @@
                 "name": "coda_bbp",
                 "urls": [
                     "https://coda.io/*",
+                    "https://coda.io/signup/email",
                     "https://airflow-prod.coda.io/*",
                     "https://data.coda.io/*",
                     "https://head.coda.io/*",
@@ -777,14 +778,6 @@
             {
                 "name": "solidus",
                 "urls": []
-            },
-            {
-                "name": "shieldox_security",
-                "urls": [
-                    "dashboard.shieldox.com",
-                    "*.shieldox.com",
-                    "*.shieldox.ai"
-                ]
             },
             {
                 "name": "trint",
@@ -2648,8 +2641,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 295,
-            "totalUrls": 1267
+            "totalPrograms": 294,
+            "totalUrls": 1265
         }
     }
 }
