@@ -32,6 +32,12 @@
                 ]
             },
             {
+                "name": "stagingdoteverydotorg",
+                "urls": [
+                    "staging.every.org"
+                ]
+            },
+            {
                 "name": "pegasys_bbp",
                 "urls": []
             },
@@ -1320,12 +1326,6 @@
                 ]
             },
             {
-                "name": "impinj",
-                "urls": [
-                    "*.impinj.com"
-                ]
-            },
-            {
                 "name": "crypto",
                 "urls": [
                     "www.crypto.com",
@@ -2127,9 +2127,7 @@
                     "jira.grab.com",
                     "wiki.grab.com",
                     "grab.careers",
-                    "mos.grabpay.com",
-                    "*.stg-myteksi.com",
-                    "*.grabtaxi.io"
+                    "mos.grabpay.com"
                 ]
             },
             {
@@ -2642,7 +2640,7 @@
         ],
         "metaData": {
             "totalPrograms": 294,
-            "totalUrls": 1265
+            "totalUrls": 1263
         }
     }
 }
