@@ -169,7 +169,11 @@
                     "api.home.stag.visma.com",
                     "app.workbox.dk",
                     "authz.workbox.dk",
-                    "api.workbox.dk"
+                    "api.workbox.dk",
+                    "myservices.stage.vismaonline.com",
+                    "admin.stage.vismaonline.com",
+                    "identity.stage.vismaonline.com",
+                    "http://myservices-api.stage.vismaonline.com/"
                 ]
             },
             {
@@ -315,8 +319,11 @@
                 ]
             },
             {
-                "name": "coingaming",
-                "urls": []
+                "name": "kopikas_entertainment",
+                "urls": [
+                    "slots.io",
+                    "*.slots.io"
+                ]
             },
             {
                 "name": "curve",
@@ -646,10 +653,6 @@
             },
             {
                 "name": "mixin",
-                "urls": []
-            },
-            {
-                "name": "people_interactive",
                 "urls": []
             },
             {
@@ -2639,8 +2642,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 294,
-            "totalUrls": 1263
+            "totalPrograms": 293,
+            "totalUrls": 1269
         }
     }
 }
