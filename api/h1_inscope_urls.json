@@ -1355,27 +1355,6 @@
                 "urls": []
             },
             {
-                "name": "mediamarktsaturn",
-                "urls": [
-                    "www.mediamarkt.de",
-                    "www.saturn.de",
-                    "www.saturn.at",
-                    "www.mediamarkt.at",
-                    "www.mediamarkt.com.tr",
-                    "www.mediamarkt.be",
-                    "www.mediamarkt.es",
-                    "www.mediamarkt.gr",
-                    "www.mediamarkt.pl",
-                    "www.mediamarkt.nl",
-                    "www.mediamarkt.ch",
-                    "www.mediaworld.it",
-                    "www.mediamarkt.se",
-                    "www.mediamarkt.hu",
-                    "www.mediamarkt.pt",
-                    "www.saturn.lu"
-                ]
-            },
-            {
                 "name": "jamieweb",
                 "urls": [
                     "www.jamieweb.net",
@@ -2642,8 +2621,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 293,
-            "totalUrls": 1269
+            "totalPrograms": 292,
+            "totalUrls": 1253
         }
     }
 }
