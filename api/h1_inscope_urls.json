@@ -147,7 +147,8 @@
                     "https://github.com/celo-org/bls-zexe",
                     "https://github.com/celo-org/celo-monorepo",
                     "https://github.com/celo-org/celo-blockchain",
-                    "https://github.com/celo-org/zexe"
+                    "https://github.com/celo-org/zexe",
+                    "http://www.celo.org/"
                 ]
             },
             {
@@ -388,7 +389,6 @@
                     "*.wavecell.com",
                     "www.8x8.com",
                     "*.sameroom.io",
-                    "*.voicenet-solutions.com",
                     "*.mycontactual.com",
                     "*.jitsi.org",
                     "support.8x8.com",
