@@ -387,6 +387,7 @@
                     "vcc-*.8x8.com",
                     "8x8.vc",
                     "*.wavecell.com",
+                    "callstats.io",
                     "www.8x8.com",
                     "*.sameroom.io",
                     "*.mycontactual.com",
@@ -1627,6 +1628,7 @@
             {
                 "name": "spotify",
                 "urls": [
+                    "assets.spotify.com",
                     "*.spotify.com",
                     "api.spotify.com",
                     "*.spotify.net",
@@ -2622,7 +2624,7 @@
         ],
         "metaData": {
             "totalPrograms": 292,
-            "totalUrls": 1253
+            "totalUrls": 1255
         }
     }
 }
