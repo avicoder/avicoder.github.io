@@ -2,6 +2,10 @@
     "data": {
         "programs": [
             {
+                "name": "tron_btfs",
+                "urls": []
+            },
+            {
                 "name": "symbol",
                 "urls": []
             },
@@ -317,13 +321,6 @@
                     "accounts.topcoder.com",
                     "app.topcoder.com",
                     "apps.topcoder.com"
-                ]
-            },
-            {
-                "name": "kopikas_entertainment",
-                "urls": [
-                    "slots.io",
-                    "*.slots.io"
                 ]
             },
             {
@@ -2624,7 +2621,7 @@
         ],
         "metaData": {
             "totalPrograms": 292,
-            "totalUrls": 1255
+            "totalUrls": 1253
         }
     }
 }
