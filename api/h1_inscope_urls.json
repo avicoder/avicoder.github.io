@@ -1606,8 +1606,7 @@
                     "hq-api.upserve.com",
                     "hq.upserve.com",
                     "https://645892349820.vulnerbug.com",
-                    "teamhelp.upserve.com",
-                    "*.upserve.com"
+                    "teamhelp.upserve.com"
                 ]
             },
             {
@@ -1873,12 +1872,7 @@
             },
             {
                 "name": "icq",
-                "urls": [
-                    "web.icq.com",
-                    "*.icq.com",
-                    "*.icq.net",
-                    "agent.mail.ru"
-                ]
+                "urls": []
             },
             {
                 "name": "secnews",
@@ -2621,7 +2615,7 @@
         ],
         "metaData": {
             "totalPrograms": 292,
-            "totalUrls": 1253
+            "totalUrls": 1248
         }
     }
 }
