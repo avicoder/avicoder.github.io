@@ -2526,6 +2526,7 @@
                     "coinbase.com",
                     "*.cbhq.net",
                     "pro.coinbase.com",
+                    "custody.coinbase.com",
                     "commerce.coinbase.com",
                     "prime.coinbase.com",
                     "paradex.io",
@@ -2615,7 +2616,7 @@
         ],
         "metaData": {
             "totalPrograms": 292,
-            "totalUrls": 1248
+            "totalUrls": 1249
         }
     }
 }
