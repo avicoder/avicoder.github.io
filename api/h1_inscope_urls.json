@@ -324,6 +324,13 @@
                 ]
             },
             {
+                "name": "kopikas_entertainment",
+                "urls": [
+                    "slots.io",
+                    "*.slots.io"
+                ]
+            },
+            {
                 "name": "curve",
                 "urls": [
                     "api.imaginecurve.com",
@@ -1330,7 +1337,7 @@
                 "name": "crypto",
                 "urls": [
                     "www.crypto.com",
-                    "https://crypto.com/en/exchange",
+                    "https://crypto.com/exchange",
                     "app.mona.co"
                 ]
             },
@@ -2615,8 +2622,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 292,
-            "totalUrls": 1249
+            "totalPrograms": 293,
+            "totalUrls": 1251
         }
     }
 }
