@@ -2,6 +2,24 @@
     "data": {
         "programs": [
             {
+                "name": "alibaba",
+                "urls": [
+                    "*.cainiao.com",
+                    "*.alibaba.com",
+                    "*.aliexpress.com",
+                    "*.taobao.com",
+                    "*.tmall.com",
+                    "*.aliyun.com",
+                    "*.alibabacloud.com",
+                    "*.1688.com",
+                    "*.dingtalk.com",
+                    "*.alibaba-inc.com",
+                    "*.aliyun-inc.com",
+                    "www.alibabagroup.com",
+                    "*.alimama.com"
+                ]
+            },
+            {
                 "name": "tron_btfs",
                 "urls": []
             },
@@ -497,10 +515,11 @@
             {
                 "name": "genasys",
                 "urls": [
-                    "staging.genasystech.co.uk/4web",
-                    "staging.genasystech.co.uk/skiapi",
-                    "staging.genasystech.co.uk/d2c",
-                    "staging.genasystech.co.uk/d2c-api"
+                    "staging.genasys.tech/4web",
+                    "staging.genasys.tech/skiapi",
+                    "staging.genasys.tech/d2c",
+                    "staging.genasys.tech/d2c-api",
+                    "staging.genasys.tech/quick"
                 ]
             },
             {
@@ -2622,8 +2641,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 293,
-            "totalUrls": 1251
+            "totalPrograms": 294,
+            "totalUrls": 1265
         }
     }
 }
