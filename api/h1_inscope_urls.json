@@ -2,6 +2,10 @@
     "data": {
         "programs": [
             {
+                "name": "facebook",
+                "urls": []
+            },
+            {
                 "name": "alibaba",
                 "urls": [
                     "*.cainiao.com",
@@ -1326,12 +1330,6 @@
                 ]
             },
             {
-                "name": "myetherwallet",
-                "urls": [
-                    "www.myetherwallet.com"
-                ]
-            },
-            {
                 "name": "liberapay",
                 "urls": [
                     "*.liberapay.com",
@@ -2642,7 +2640,7 @@
         ],
         "metaData": {
             "totalPrograms": 294,
-            "totalUrls": 1265
+            "totalUrls": 1264
         }
     }
 }
