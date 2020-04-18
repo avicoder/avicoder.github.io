@@ -698,13 +698,6 @@
                 ]
             },
             {
-                "name": "copper",
-                "urls": [
-                    "app.prosperworks.com",
-                    "www.copper.com"
-                ]
-            },
-            {
                 "name": "amitree_inc",
                 "urls": [
                     "www.amitree.com"
@@ -1451,6 +1444,7 @@
                     "marquee.gs.com",
                     "*.ayco.com",
                     "www.rocaton.com",
+                    "*.gspublishing.com",
                     "*.claritymoney.com"
                 ]
             },
@@ -2554,7 +2548,8 @@
                     "commerce.coinbase.com",
                     "prime.coinbase.com",
                     "paradex.io",
-                    "api.coinbase.com"
+                    "api.coinbase.com",
+                    "api.custody.coinbase.com"
                 ]
             },
             {
@@ -2639,7 +2634,7 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 294,
+            "totalPrograms": 293,
             "totalUrls": 1264
         }
     }
