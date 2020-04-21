@@ -24,7 +24,7 @@
                 ]
             },
             {
-                "name": "tron_btfs",
+                "name": "btfs",
                 "urls": []
             },
             {
@@ -366,7 +366,8 @@
                 "urls": [
                     "*.infra.lifeomic.com",
                     "*.dev.lifeomic.com",
-                    "*.dev.jupiterone.io"
+                    "*.dev.jupiterone.io",
+                    "https://apps.wellness.dev.lifeomic.com"
                 ]
             },
             {
@@ -2635,7 +2636,7 @@
         ],
         "metaData": {
             "totalPrograms": 293,
-            "totalUrls": 1264
+            "totalUrls": 1265
         }
     }
 }
