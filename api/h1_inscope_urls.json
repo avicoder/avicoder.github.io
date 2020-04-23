@@ -246,15 +246,6 @@
                 ]
             },
             {
-                "name": "localizejs",
-                "urls": [
-                    "localizestaging.com",
-                    "api.localizestaging.com",
-                    "localize.live/staging",
-                    "cdn.localizestaging.com"
-                ]
-            },
-            {
                 "name": "investnext",
                 "urls": [
                     "mg3.investnext.com",
@@ -910,7 +901,7 @@
                 "urls": []
             },
             {
-                "name": "zeit",
+                "name": "vercel",
                 "urls": [
                     "*.zeit.co",
                     "*.zeit.sh",
@@ -2639,8 +2630,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 294,
-            "totalUrls": 1265
+            "totalPrograms": 293,
+            "totalUrls": 1261
         }
     }
 }
