@@ -957,7 +957,6 @@
                     "*.luma.co.uk",
                     "*.capitalonecareers.co.uk",
                     "*.criticalstack.com",
-                    "*.intelstack.com",
                     "*.capitalonecards.com",
                     "*.theunioncard.com",
                     "*.teamstercardnow.com"
@@ -2631,7 +2630,7 @@
         ],
         "metaData": {
             "totalPrograms": 293,
-            "totalUrls": 1261
+            "totalUrls": 1260
         }
     }
 }
