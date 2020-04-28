@@ -2,6 +2,12 @@
     "data": {
         "programs": [
             {
+                "name": "rghost",
+                "urls": [
+                    "rghost.net"
+                ]
+            },
+            {
                 "name": "amazonvrp",
                 "urls": []
             },
@@ -770,24 +776,6 @@
             {
                 "name": "equifax",
                 "urls": []
-            },
-            {
-                "name": "refereum",
-                "urls": [
-                    "refereum.com",
-                    "webjob-twitch.refereum.com",
-                    "webjob-gameplay.refereum.com",
-                    "twitch.refereum.com",
-                    "static.refereum.com",
-                    "sandbox.refereum.com",
-                    "partner.refereum.com",
-                    "notificationsapi.refereum.com",
-                    "identityapi.refereum.com",
-                    "api.refereum.com",
-                    "admin-ge2.refereum.com",
-                    "actionservice.refereum.com",
-                    "account.refereum.com"
-                ]
             },
             {
                 "name": "kartpay",
@@ -2135,7 +2123,8 @@
                 "urls": [
                     "ok.ru",
                     "*.ok.ru",
-                    "tamtam.chat"
+                    "tamtam.chat",
+                    "ok.me"
                 ]
             },
             {
@@ -2630,7 +2619,7 @@
         ],
         "metaData": {
             "totalPrograms": 293,
-            "totalUrls": 1260
+            "totalUrls": 1249
         }
     }
 }
