@@ -109,8 +109,9 @@
             {
                 "name": "orion_labs",
                 "urls": [
-                    "login.orionlabs.io/",
-                    "observatory.orionlabs.io/"
+                    "login.orionlabs.io",
+                    "observatory.orionlabs.io",
+                    "api.orionlabs.io"
                 ]
             },
             {
@@ -2338,7 +2339,8 @@
                     "blog.yelp.com",
                     "www.yelp-support.com",
                     "yelp.nowait.com",
-                    "www.yelpwifi.com"
+                    "www.yelpwifi.com",
+                    "app.yelpwifi.com"
                 ]
             },
             {
@@ -2619,7 +2621,7 @@
         ],
         "metaData": {
             "totalPrograms": 293,
-            "totalUrls": 1249
+            "totalUrls": 1251
         }
     }
 }
