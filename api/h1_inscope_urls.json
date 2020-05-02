@@ -2,6 +2,17 @@
     "data": {
         "programs": [
             {
+                "name": "cengage",
+                "urls": [
+                    "https://ng.cengage.com/*",
+                    "https://ng.cengage.com/static/nb/login.html",
+                    "webassign.net",
+                    "www.webassign.net",
+                    "api.webassign.net",
+                    "demo.webassign.net"
+                ]
+            },
+            {
                 "name": "rghost",
                 "urls": [
                     "rghost.net"
@@ -1608,7 +1619,8 @@
                     "hq-api.upserve.com",
                     "hq.upserve.com",
                     "https://645892349820.vulnerbug.com",
-                    "teamhelp.upserve.com"
+                    "teamhelp.upserve.com",
+                    "*.upserve.com"
                 ]
             },
             {
@@ -2620,8 +2632,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 293,
-            "totalUrls": 1251
+            "totalPrograms": 294,
+            "totalUrls": 1258
         }
     }
 }
