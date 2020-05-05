@@ -2,12 +2,20 @@
     "data": {
         "programs": [
             {
+                "name": "nisc",
+                "urls": [
+                    "*.nisc.coop",
+                    "*.capturis.com",
+                    "*.nisc-mic.coop",
+                    "*.igear.coop"
+                ]
+            },
+            {
                 "name": "cengage",
                 "urls": [
                     "https://ng.cengage.com/*",
                     "https://ng.cengage.com/static/nb/login.html",
                     "webassign.net",
-                    "www.webassign.net",
                     "api.webassign.net",
                     "demo.webassign.net"
                 ]
@@ -83,10 +91,6 @@
                 "urls": [
                     "staging.every.org"
                 ]
-            },
-            {
-                "name": "pegasys_bbp",
-                "urls": []
             },
             {
                 "name": "myndr",
@@ -2447,19 +2451,6 @@
                 ]
             },
             {
-                "name": "wepay",
-                "urls": [
-                    "stage.wepay.com",
-                    "www.wepay.com",
-                    "stage-home.wepay.com",
-                    "home.wepay.com",
-                    "go.wepay.com",
-                    "stage-go.wepay.com",
-                    "stage.wepayapi.com",
-                    "www.wepayapi.com"
-                ]
-            },
-            {
                 "name": "twitter",
                 "urls": [
                     "*.twitter.com",
@@ -2632,8 +2623,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 294,
-            "totalUrls": 1258
+            "totalPrograms": 293,
+            "totalUrls": 1253
         }
     }
 }
