@@ -11,16 +11,6 @@
                 ]
             },
             {
-                "name": "cengage",
-                "urls": [
-                    "https://ng.cengage.com/*",
-                    "https://ng.cengage.com/static/nb/login.html",
-                    "webassign.net",
-                    "api.webassign.net",
-                    "demo.webassign.net"
-                ]
-            },
-            {
                 "name": "rghost",
                 "urls": [
                     "rghost.net"
@@ -2623,8 +2613,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 293,
-            "totalUrls": 1253
+            "totalPrograms": 292,
+            "totalUrls": 1248
         }
     }
 }
