@@ -3,12 +3,7 @@
         "programs": [
             {
                 "name": "nisc",
-                "urls": [
-                    "*.nisc.coop",
-                    "*.capturis.com",
-                    "*.nisc-mic.coop",
-                    "*.igear.coop"
-                ]
+                "urls": []
             },
             {
                 "name": "rghost",
@@ -2614,7 +2609,7 @@
         ],
         "metaData": {
             "totalPrograms": 292,
-            "totalUrls": 1248
+            "totalUrls": 1244
         }
     }
 }
