@@ -2194,6 +2194,7 @@
                     "your-store.myshopify.com",
                     "partners.shopify.com",
                     "accounts.shopify.com",
+                    "*.shopifykloud.com",
                     "*.shopify.com",
                     "exchangemarketplace.com"
                 ]
@@ -2609,7 +2610,7 @@
         ],
         "metaData": {
             "totalPrograms": 292,
-            "totalUrls": 1244
+            "totalUrls": 1245
         }
     }
 }
