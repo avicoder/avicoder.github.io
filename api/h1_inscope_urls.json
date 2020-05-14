@@ -451,40 +451,6 @@
                 ]
             },
             {
-                "name": "mtn_group",
-                "urls": [
-                    "mtn.com",
-                    "Mtn.co.za",
-                    "Mtn.com.af",
-                    "Mtn.bj",
-                    "Mtn.cm",
-                    "Mtncameroon.net",
-                    "Mtncongo.net",
-                    "Mtn.ci",
-                    "Mtn.com.gh",
-                    "Areeba.com.gn",
-                    "Irancell.ir",
-                    "Lonestarcell.com",
-                    "Mtnonline.com",
-                    "Mtn.co.rw",
-                    "Mtn.sd",
-                    "Mtn.co.sz",
-                    "Mtn.co.ug",
-                    "Mtn.com.ye",
-                    "Mtnzambia.co.zm",
-                    "Mtnbusiness.com",
-                    "Mtnbusiness.com.ng",
-                    "Mtnblog.co.za",
-                    "Mtnfootball.com",
-                    "Mtnplay.co.za",
-                    "Mtnzakhele.co.za",
-                    "mtnselfcare.co.zm",
-                    "mtnplay.co.zm",
-                    "mtngbissau.com",
-                    "www.mtn.zm"
-                ]
-            },
-            {
                 "name": "datastax",
                 "urls": [
                     "https://www.datastax.com/",
@@ -1885,10 +1851,6 @@
                 ]
             },
             {
-                "name": "icq",
-                "urls": []
-            },
-            {
                 "name": "secnews",
                 "urls": [
                     "*.secnews.gr"
@@ -2620,8 +2582,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 294,
-            "totalUrls": 1247
+            "totalPrograms": 292,
+            "totalUrls": 1218
         }
     }
 }
