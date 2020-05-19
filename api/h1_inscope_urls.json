@@ -2,6 +2,18 @@
     "data": {
         "programs": [
             {
+                "name": "paddypowerbetfair",
+                "urls": [
+                    "*.betfair.com",
+                    "*.paddypower.com",
+                    "*.betfair.es",
+                    "*.betfair.it",
+                    "*.betfair.ro",
+                    "*.betfair.se",
+                    "*.paddypower.it"
+                ]
+            },
+            {
                 "name": "nisc",
                 "urls": []
             },
@@ -198,6 +210,8 @@
                     "*.marriott.com",
                     "*.starwoodhotels.com",
                     "eleganthotels.com",
+                    "apps.ritzcarlton.com",
+                    "homes-and-villas.marriott.com",
                     "www.ritzcarlton.com"
                 ]
             },
@@ -2575,8 +2589,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 291,
-            "totalUrls": 1216
+            "totalPrograms": 292,
+            "totalUrls": 1225
         }
     }
 }
