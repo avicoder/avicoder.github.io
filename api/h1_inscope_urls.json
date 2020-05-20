@@ -2,6 +2,16 @@
     "data": {
         "programs": [
             {
+                "name": "xiaomi",
+                "urls": [
+                    "*.mi.com",
+                    "*.xiaomi.com",
+                    "*.miui.com",
+                    "*.xiaomiyoupin.com",
+                    "*.miwifi.com"
+                ]
+            },
+            {
                 "name": "paddypowerbetfair",
                 "urls": [
                     "*.betfair.com",
@@ -2589,8 +2599,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 292,
-            "totalUrls": 1225
+            "totalPrograms": 293,
+            "totalUrls": 1230
         }
     }
 }
