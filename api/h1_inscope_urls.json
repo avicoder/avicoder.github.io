@@ -392,6 +392,12 @@
                 ]
             },
             {
+                "name": "h1-ctf",
+                "urls": [
+                    "*.bountypay.h1ctf.com"
+                ]
+            },
+            {
                 "name": "lifeomic",
                 "urls": [
                     "*.infra.lifeomic.com",
@@ -1732,7 +1738,6 @@
             {
                 "name": "plaid",
                 "urls": [
-                    "api.plaid.com",
                     "production.plaid.com",
                     "dashboard.plaid.com",
                     "cdn.plaid.com",
@@ -2599,7 +2604,7 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 293,
+            "totalPrograms": 294,
             "totalUrls": 1230
         }
     }
