@@ -1741,7 +1741,6 @@
                     "production.plaid.com",
                     "dashboard.plaid.com",
                     "cdn.plaid.com",
-                    "link.plaid.com",
                     "my.plaid.com",
                     "demo.plaid.com"
                 ]
@@ -2605,7 +2604,7 @@
         ],
         "metaData": {
             "totalPrograms": 294,
-            "totalUrls": 1230
+            "totalUrls": 1229
         }
     }
 }
