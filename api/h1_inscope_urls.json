@@ -2,6 +2,12 @@
     "data": {
         "programs": [
             {
+                "name": "ips",
+                "urls": [
+                    "https://d18papeh5u7ohm.cloudfront.net"
+                ]
+            },
+            {
                 "name": "xiaomi",
                 "urls": [
                     "*.mi.com",
@@ -304,7 +310,7 @@
                     "webex.nutanix.com",
                     "events.nutanix.com",
                     "my.nutanix.com",
-                    "jira-dc-prod.nutanix.com",
+                    "jira.nutanix.com",
                     "nutanix.com",
                     "developer.nutanix.com",
                     "next.nutanix.com",
@@ -313,7 +319,14 @@
                     "productsizer.nutanix.com",
                     "gp.nutanix.com",
                     "stage-billing.nutanix.com",
-                    "mops.nutanix.com"
+                    "mops.nutanix.com",
+                    "idp.nutanix.com",
+                    "cpq.nutanix.com",
+                    "iot.nutanix.com",
+                    "frame.nutanix.com",
+                    "beam.nutanix.com",
+                    "*.nutanix.com",
+                    "testdrive.nutanix.com"
                 ]
             },
             {
@@ -970,7 +983,8 @@
                 "name": "smartsheet",
                 "urls": [
                     "app.smartsheet.com",
-                    "api.smartsheet.com/2.0"
+                    "api.smartsheet.com/2.0",
+                    "admin.smartsheet.com"
                 ]
             },
             {
@@ -1639,7 +1653,6 @@
                     "api.spotify.com",
                     "*.spotify.net",
                     "*.spotifyforbrands.com",
-                    "com.spotify.kids",
                     "backstage.io"
                 ]
             },
@@ -2066,7 +2079,6 @@
                     "werkenbijdefensie.nl",
                     "mijn.werkenbijdefensie.nl",
                     "werkenbijderet.nl",
-                    "werkenbijmcdonalds.nl",
                     "www.werkenbijbakertilly.nl",
                     "careers.evonik.com",
                     "devmaximum.com"
@@ -2236,7 +2248,8 @@
                     "demo.urbandoor.com",
                     "provider.demo.urbandoor.com",
                     "admin.demo.urbandoor.com",
-                    "*.hoteltonight-test.com"
+                    "*.hoteltonight-test.com",
+                    "luckey.partners"
                 ]
             },
             {
@@ -2610,8 +2623,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 295,
-            "totalUrls": 1231
+            "totalPrograms": 296,
+            "totalUrls": 1239
         }
     }
 }
