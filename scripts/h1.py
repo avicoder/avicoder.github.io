@@ -36,7 +36,6 @@ while nextpage:
     cursor = res.json()['data']['teams']['pageInfo']['endCursor']
     length = len(res.json()['data']['teams']['edges'])
 
-    print res.text
 
     # for each program
 
