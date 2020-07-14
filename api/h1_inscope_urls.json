@@ -75,20 +75,6 @@
                 ]
             },
             {
-                "name": "ui",
-                "urls": [
-                    "*.ubnt.com",
-                    "community.ui.com",
-                    "*.ui.com",
-                    "store.ui.com",
-                    "ir.ui.com",
-                    "forum-es.ui.com",
-                    "forum-pt.ui.com",
-                    "help.ui.com",
-                    "blog.ui.com"
-                ]
-            },
-            {
                 "name": "starbucks",
                 "urls": [
                     "gift.starbucks.co.jp",
@@ -110,6 +96,20 @@
                     "www.starbucks.com.sg",
                     "www.teavana.com",
                     "www.starbucksreserve.com"
+                ]
+            },
+            {
+                "name": "ui",
+                "urls": [
+                    "*.ubnt.com",
+                    "community.ui.com",
+                    "*.ui.com",
+                    "store.ui.com",
+                    "ir.ui.com",
+                    "forum-es.ui.com",
+                    "forum-pt.ui.com",
+                    "help.ui.com",
+                    "blog.ui.com"
                 ]
             },
             {
@@ -814,6 +814,10 @@
                 ]
             },
             {
+                "name": "logitech",
+                "urls": []
+            },
+            {
                 "name": "airtable",
                 "urls": [
                     "staging.airtable.com",
@@ -821,14 +825,6 @@
                     "*.staging.airtable.com",
                     "api-staging.airtable.com"
                 ]
-            },
-            {
-                "name": "logitech",
-                "urls": []
-            },
-            {
-                "name": "badoo",
-                "urls": []
             },
             {
                 "name": "8x8",
@@ -855,6 +851,10 @@
                 ]
             },
             {
+                "name": "badoo",
+                "urls": []
+            },
+            {
                 "name": "xiaomi",
                 "urls": [
                     "*.mi.com",
@@ -879,6 +879,25 @@
                 ]
             },
             {
+                "name": "alibaba",
+                "urls": [
+                    "*.lazada.sg",
+                    "*.cainiao.com",
+                    "*.alibaba.com",
+                    "*.aliexpress.com",
+                    "*.taobao.com",
+                    "*.tmall.com",
+                    "*.aliyun.com",
+                    "*.alibabacloud.com",
+                    "*.1688.com",
+                    "*.dingtalk.com",
+                    "*.alibaba-inc.com",
+                    "*.aliyun-inc.com",
+                    "www.alibabagroup.com",
+                    "*.alimama.com"
+                ]
+            },
+            {
                 "name": "cloudflare",
                 "urls": []
             },
@@ -897,25 +916,6 @@
             {
                 "name": "expressionengine",
                 "urls": []
-            },
-            {
-                "name": "alibaba",
-                "urls": [
-                    "*.lazada.sg",
-                    "*.cainiao.com",
-                    "*.alibaba.com",
-                    "*.aliexpress.com",
-                    "*.taobao.com",
-                    "*.tmall.com",
-                    "*.aliyun.com",
-                    "*.alibabacloud.com",
-                    "*.1688.com",
-                    "*.dingtalk.com",
-                    "*.alibaba-inc.com",
-                    "*.aliyun-inc.com",
-                    "www.alibabagroup.com",
-                    "*.alimama.com"
-                ]
             },
             {
                 "name": "vhx",
@@ -1403,6 +1403,12 @@
                 ]
             },
             {
+                "name": "rubygems",
+                "urls": [
+                    "rubygems.org"
+                ]
+            },
+            {
                 "name": "blockchain",
                 "urls": [
                     "*.blockchain.com",
@@ -1428,12 +1434,6 @@
                     "ws.blockchain.info",
                     "ws.prod.blockchain.info",
                     "exchange.blockchain.com"
-                ]
-            },
-            {
-                "name": "rubygems",
-                "urls": [
-                    "rubygems.org"
                 ]
             },
             {
@@ -1565,7 +1565,10 @@
                     "www.crypto.com",
                     "https://crypto.com/exchange",
                     "app.mona.co",
-                    "https://auth.crypto.com/"
+                    "https://auth.crypto.com/",
+                    "https://merchant.crypto.com",
+                    "pay.crypto.com",
+                    "js.crypto.com"
                 ]
             },
             {
@@ -1758,6 +1761,15 @@
                 "urls": []
             },
             {
+                "name": "drive_net_inc",
+                "urls": [
+                    "www.drive2.ru",
+                    "api.drive2.ru",
+                    "*.d-cd.net",
+                    "*.drive2.ru"
+                ]
+            },
+            {
                 "name": "coda_bbp",
                 "urls": [
                     "https://coda.io/*",
@@ -1783,15 +1795,6 @@
                 "urls": []
             },
             {
-                "name": "drive_net_inc",
-                "urls": [
-                    "www.drive2.ru",
-                    "api.drive2.ru",
-                    "*.d-cd.net",
-                    "*.drive2.ru"
-                ]
-            },
-            {
                 "name": "bitmex",
                 "urls": [
                     "www.bitmex.com",
@@ -1806,6 +1809,12 @@
             {
                 "name": "mobisystems_ltd",
                 "urls": []
+            },
+            {
+                "name": "lemlist",
+                "urls": [
+                    "app.lemlist.com"
+                ]
             },
             {
                 "name": "notepad-plus-plus",
@@ -1830,12 +1839,6 @@
             {
                 "name": "xilinx",
                 "urls": []
-            },
-            {
-                "name": "lemlist",
-                "urls": [
-                    "app.lemlist.com"
-                ]
             },
             {
                 "name": "stagingdoteverydotorg",
@@ -1976,6 +1979,12 @@
                 "urls": []
             },
             {
+                "name": "tronfoundation",
+                "urls": [
+                    "https://github.com/tronprotocol/java-tron"
+                ]
+            },
+            {
                 "name": "savedroid",
                 "urls": [
                     "*.api.savedroid.de",
@@ -1999,9 +2008,9 @@
                 ]
             },
             {
-                "name": "tronfoundation",
+                "name": "gener8",
                 "urls": [
-                    "https://github.com/tronprotocol/java-tron"
+                    "*.gener8ads.com"
                 ]
             },
             {
@@ -2051,12 +2060,6 @@
                 "urls": [
                     "api.gmelius.com",
                     "www.gmelius.com"
-                ]
-            },
-            {
-                "name": "gener8",
-                "urls": [
-                    "*.gener8ads.com"
                 ]
             },
             {
@@ -2572,6 +2575,12 @@
                 "urls": []
             },
             {
+                "name": "finra-vdp",
+                "urls": [
+                    "*.finra.org"
+                ]
+            },
+            {
                 "name": "wordpress",
                 "urls": [
                     "*.wordpress.org",
@@ -2760,8 +2769,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 303,
-            "totalUrls": 1341
+            "totalPrograms": 304,
+            "totalUrls": 1345
         }
     }
 }
