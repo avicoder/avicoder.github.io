@@ -855,6 +855,12 @@
                 "urls": []
             },
             {
+                "name": "quora",
+                "urls": [
+                    "*.quora.com"
+                ]
+            },
+            {
                 "name": "xiaomi",
                 "urls": [
                     "*.mi.com",
@@ -870,12 +876,6 @@
                     "www.backblaze.com",
                     "*.backblazeb2.com",
                     "*.backblaze.com"
-                ]
-            },
-            {
-                "name": "quora",
-                "urls": [
-                    "*.quora.com"
                 ]
             },
             {
@@ -1403,12 +1403,6 @@
                 ]
             },
             {
-                "name": "rubygems",
-                "urls": [
-                    "rubygems.org"
-                ]
-            },
-            {
                 "name": "blockchain",
                 "urls": [
                     "*.blockchain.com",
@@ -1434,6 +1428,12 @@
                     "ws.blockchain.info",
                     "ws.prod.blockchain.info",
                     "exchange.blockchain.com"
+                ]
+            },
+            {
+                "name": "rubygems",
+                "urls": [
+                    "rubygems.org"
                 ]
             },
             {
@@ -1736,6 +1736,14 @@
                 ]
             },
             {
+                "name": "smartsheet",
+                "urls": [
+                    "app.smartsheet.com",
+                    "api.smartsheet.com/2.0",
+                    "admin.smartsheet.com"
+                ]
+            },
+            {
                 "name": "creditkarma",
                 "urls": [
                     "https://*.creditkarma.com",
@@ -1746,14 +1754,6 @@
                     "https://help.creditkarma.com",
                     "https://blog.creditkarma.com/",
                     "https://www.creditkarma.com/savings"
-                ]
-            },
-            {
-                "name": "smartsheet",
-                "urls": [
-                    "app.smartsheet.com",
-                    "api.smartsheet.com/2.0",
-                    "admin.smartsheet.com"
                 ]
             },
             {
