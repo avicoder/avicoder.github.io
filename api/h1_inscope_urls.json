@@ -608,14 +608,14 @@
                 ]
             },
             {
+                "name": "nodejs-ecosystem",
+                "urls": []
+            },
+            {
                 "name": "concrete5",
                 "urls": [
                     "concrete5.marketplace.addon"
                 ]
-            },
-            {
-                "name": "nodejs-ecosystem",
-                "urls": []
             },
             {
                 "name": "maximum",
@@ -741,14 +741,6 @@
                 "urls": []
             },
             {
-                "name": "algolia",
-                "urls": [
-                    "www.algolia.com",
-                    "*.algolia.net",
-                    "*.algolianet.com"
-                ]
-            },
-            {
                 "name": "kindred_group",
                 "urls": [
                     "*.unibet.com",
@@ -762,11 +754,11 @@
                 ]
             },
             {
-                "name": "files",
+                "name": "algolia",
                 "urls": [
-                    "app.files.com",
-                    "your-assigned-subdomain.files.com",
-                    "www.files.com"
+                    "www.algolia.com",
+                    "*.algolia.net",
+                    "*.algolianet.com"
                 ]
             },
             {
@@ -779,6 +771,14 @@
                     "*.betfair.ro",
                     "*.betfair.se",
                     "*.paddypower.it"
+                ]
+            },
+            {
+                "name": "files",
+                "urls": [
+                    "app.files.com",
+                    "your-assigned-subdomain.files.com",
+                    "www.files.com"
                 ]
             },
             {
@@ -855,6 +855,14 @@
                 "urls": []
             },
             {
+                "name": "backblaze",
+                "urls": [
+                    "www.backblaze.com",
+                    "*.backblazeb2.com",
+                    "*.backblaze.com"
+                ]
+            },
+            {
                 "name": "quora",
                 "urls": [
                     "*.quora.com"
@@ -868,14 +876,6 @@
                     "*.miui.com",
                     "*.xiaomiyoupin.com",
                     "*.miwifi.com"
-                ]
-            },
-            {
-                "name": "backblaze",
-                "urls": [
-                    "www.backblaze.com",
-                    "*.backblazeb2.com",
-                    "*.backblaze.com"
                 ]
             },
             {
@@ -1263,6 +1263,19 @@
                 ]
             },
             {
+                "name": "playstation",
+                "urls": [
+                    "*.playstation.net",
+                    "*.sonyentertainmentnetwork.com",
+                    "*.api.playstation.com",
+                    "my.playstation.com",
+                    "store.playstation.com",
+                    "social.playstation.com",
+                    "transact.playstation.com",
+                    "wallets.api.playstation.com"
+                ]
+            },
+            {
                 "name": "urbandictionary",
                 "urls": [
                     "*.urbandictionary.com",
@@ -1276,19 +1289,6 @@
                     "*.urbanup.com",
                     "help.urbandictionary.com",
                     "*.urbandictionary.store"
-                ]
-            },
-            {
-                "name": "playstation",
-                "urls": [
-                    "*.playstation.net",
-                    "*.sonyentertainmentnetwork.com",
-                    "*.api.playstation.com",
-                    "my.playstation.com",
-                    "store.playstation.com",
-                    "social.playstation.com",
-                    "transact.playstation.com",
-                    "wallets.api.playstation.com"
                 ]
             },
             {
@@ -1959,19 +1959,19 @@
                 "urls": []
             },
             {
-                "name": "smtp2go",
-                "urls": [
-                    "smtp2go.com",
-                    "app.smtp2go.com"
-                ]
-            },
-            {
                 "name": "trycourier",
                 "urls": [
                     "www.trycourier.app",
                     "api.trycourier.app",
                     "*.ct0.app",
                     "www.trycourier.com"
+                ]
+            },
+            {
+                "name": "smtp2go",
+                "urls": [
+                    "smtp2go.com",
+                    "app.smtp2go.com"
                 ]
             },
             {
@@ -2223,6 +2223,21 @@
                 ]
             },
             {
+                "name": "allegro",
+                "urls": [
+                    "*.allegro.pl.allegrosandbox.pl"
+                ]
+            },
+            {
+                "name": "kubernetes",
+                "urls": [
+                    "https://prow.k8s.io",
+                    "https://kubernetes.io",
+                    "k8s.io",
+                    "kubernetes-csi.github.io"
+                ]
+            },
+            {
                 "name": "django",
                 "urls": []
             },
@@ -2253,15 +2268,20 @@
                 ]
             },
             {
-                "name": "cfptime",
+                "name": "ycombinator",
                 "urls": [
-                    "www.cfptime.org"
+                    "*.ycombinator.com",
+                    "www.workatastartup.com",
+                    "www.startupschool.org",
+                    "blog.ycombinator.com",
+                    "conference.startupschool.org",
+                    "www.ycombinator.com"
                 ]
             },
             {
-                "name": "allegro",
+                "name": "cfptime",
                 "urls": [
-                    "*.allegro.pl.allegrosandbox.pl"
+                    "www.cfptime.org"
                 ]
             },
             {
@@ -2339,15 +2359,6 @@
             {
                 "name": "curl",
                 "urls": []
-            },
-            {
-                "name": "kubernetes",
-                "urls": [
-                    "https://prow.k8s.io",
-                    "https://kubernetes.io",
-                    "k8s.io",
-                    "kubernetes-csi.github.io"
-                ]
             },
             {
                 "name": "worklytics",
@@ -2577,7 +2588,8 @@
             {
                 "name": "finra-vdp",
                 "urls": [
-                    "*.finra.org"
+                    "*.finra.org",
+                    "https://ews.qa.finra.org/*"
                 ]
             },
             {
@@ -2769,8 +2781,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 304,
-            "totalUrls": 1345
+            "totalPrograms": 305,
+            "totalUrls": 1352
         }
     }
 }
