@@ -1403,6 +1403,20 @@
                 ]
             },
             {
+                "name": "palo_alto_software",
+                "urls": [
+                    "app.liveplan.com",
+                    "app.outpost.co",
+                    "api.outpost.co",
+                    "www.paloalto.com",
+                    "www.liveplan.com",
+                    "www.outpost.co",
+                    "www.teamoutpost.com",
+                    "www.bplans.com",
+                    "www.mplans.com"
+                ]
+            },
+            {
                 "name": "blockchain",
                 "urls": [
                     "*.blockchain.com",
@@ -1441,6 +1455,14 @@
                 "urls": []
             },
             {
+                "name": "datastax",
+                "urls": [
+                    "https://www.datastax.com/",
+                    "https://downloads.datastax.com",
+                    "https://docs.datastax.com/"
+                ]
+            },
+            {
                 "name": "nutanix",
                 "urls": [
                     "support.nutanix.com",
@@ -1468,31 +1490,9 @@
                 ]
             },
             {
-                "name": "datastax",
-                "urls": [
-                    "https://www.datastax.com/",
-                    "https://downloads.datastax.com",
-                    "https://docs.datastax.com/"
-                ]
-            },
-            {
                 "name": "smule",
                 "urls": [
                     "*.smule.com"
-                ]
-            },
-            {
-                "name": "palo_alto_software",
-                "urls": [
-                    "app.liveplan.com",
-                    "app.outpost.co",
-                    "api.outpost.co",
-                    "www.paloalto.com",
-                    "www.liveplan.com",
-                    "www.outpost.co",
-                    "www.teamoutpost.com",
-                    "www.bplans.com",
-                    "www.mplans.com"
                 ]
             },
             {
@@ -1937,6 +1937,12 @@
                 ]
             },
             {
+                "name": "wellsfargo",
+                "urls": [
+                    "*.wellsfargo.com"
+                ]
+            },
+            {
                 "name": "passit",
                 "urls": [
                     "app.passit.io"
@@ -1946,12 +1952,6 @@
                 "name": "engel_volkers",
                 "urls": [
                     "*.engelvoelkers.com"
-                ]
-            },
-            {
-                "name": "wellsfargo",
-                "urls": [
-                    "*.wellsfargo.com"
                 ]
             },
             {
@@ -2002,15 +2002,15 @@
                 ]
             },
             {
-                "name": "qulture_rocks_x3u44",
-                "urls": [
-                    "https://hackerone.qulture.rocks/"
-                ]
-            },
-            {
                 "name": "gener8",
                 "urls": [
                     "*.gener8ads.com"
+                ]
+            },
+            {
+                "name": "qulture_rocks_x3u44",
+                "urls": [
+                    "https://hackerone.qulture.rocks/"
                 ]
             },
             {
@@ -2063,6 +2063,12 @@
                 ]
             },
             {
+                "name": "ozon",
+                "urls": [
+                    "www.ozon.ru"
+                ]
+            },
+            {
                 "name": "teradici",
                 "urls": []
             },
@@ -2081,23 +2087,17 @@
                 ]
             },
             {
+                "name": "bumble",
+                "urls": []
+            },
+            {
                 "name": "evernote",
                 "urls": [
                     "*.evernote.com"
                 ]
             },
             {
-                "name": "ozon",
-                "urls": [
-                    "www.ozon.ru"
-                ]
-            },
-            {
                 "name": "paragonie",
-                "urls": []
-            },
-            {
-                "name": "bumble",
                 "urls": []
             },
             {
@@ -2586,7 +2586,7 @@
                 "urls": []
             },
             {
-                "name": "finra-vdp",
+                "name": "finra",
                 "urls": [
                     "*.finra.org",
                     "https://ews.qa.finra.org/*"
