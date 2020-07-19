@@ -1817,13 +1817,9 @@
                 ]
             },
             {
-                "name": "notepad-plus-plus",
-                "urls": []
-            },
-            {
-                "name": "mariadb",
+                "name": "stagingdoteverydotorg",
                 "urls": [
-                    "mariadb.org"
+                    "staging.every.org"
                 ]
             },
             {
@@ -1837,14 +1833,18 @@
                 ]
             },
             {
-                "name": "xilinx",
+                "name": "notepad-plus-plus",
                 "urls": []
             },
             {
-                "name": "stagingdoteverydotorg",
+                "name": "mariadb",
                 "urls": [
-                    "staging.every.org"
+                    "mariadb.org"
                 ]
+            },
+            {
+                "name": "xilinx",
+                "urls": []
             },
             {
                 "name": "cengage",
