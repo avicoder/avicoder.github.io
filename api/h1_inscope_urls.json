@@ -1926,6 +1926,12 @@
                 ]
             },
             {
+                "name": "passit",
+                "urls": [
+                    "app.passit.io"
+                ]
+            },
+            {
                 "name": "keybank",
                 "urls": [
                     "*.key.com",
@@ -1940,12 +1946,6 @@
                 "name": "wellsfargo",
                 "urls": [
                     "*.wellsfargo.com"
-                ]
-            },
-            {
-                "name": "passit",
-                "urls": [
-                    "app.passit.io"
                 ]
             },
             {
@@ -2101,6 +2101,12 @@
                 "urls": []
             },
             {
+                "name": "parrot_sec",
+                "urls": [
+                    "https://www.parrot.sh"
+                ]
+            },
+            {
                 "name": "nodejs",
                 "urls": []
             },
@@ -2118,12 +2124,6 @@
                 "name": "codeigniter",
                 "urls": [
                     "www.codeigniter.com"
-                ]
-            },
-            {
-                "name": "parrot_sec",
-                "urls": [
-                    "https://www.parrot.sh"
                 ]
             },
             {
