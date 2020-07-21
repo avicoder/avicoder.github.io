@@ -795,6 +795,13 @@
                 ]
             },
             {
+                "name": "stripo",
+                "urls": [
+                    "my.stripo.email",
+                    "stripo.email"
+                ]
+            },
+            {
                 "name": "imgur",
                 "urls": []
             },
@@ -804,13 +811,6 @@
                     "*.ratelimited.me",
                     "ratelimited.me",
                     "api.ratelimited.me"
-                ]
-            },
-            {
-                "name": "stripo",
-                "urls": [
-                    "my.stripo.email",
-                    "stripo.email"
                 ]
             },
             {
@@ -855,6 +855,22 @@
                 "urls": []
             },
             {
+                "name": "quora",
+                "urls": [
+                    "*.quora.com"
+                ]
+            },
+            {
+                "name": "xiaomi",
+                "urls": [
+                    "*.mi.com",
+                    "*.xiaomi.com",
+                    "*.miui.com",
+                    "*.xiaomiyoupin.com",
+                    "*.miwifi.com"
+                ]
+            },
+            {
                 "name": "alibaba",
                 "urls": [
                     "*.lazada.sg",
@@ -879,22 +895,6 @@
                     "www.backblaze.com",
                     "*.backblazeb2.com",
                     "*.backblaze.com"
-                ]
-            },
-            {
-                "name": "quora",
-                "urls": [
-                    "*.quora.com"
-                ]
-            },
-            {
-                "name": "xiaomi",
-                "urls": [
-                    "*.mi.com",
-                    "*.xiaomi.com",
-                    "*.miui.com",
-                    "*.xiaomiyoupin.com",
-                    "*.miwifi.com"
                 ]
             },
             {
@@ -1016,12 +1016,6 @@
                 ]
             },
             {
-                "name": "coursera",
-                "urls": [
-                    "www.coursera.org"
-                ]
-            },
-            {
                 "name": "greenhouse",
                 "urls": [
                     "app.greenhouse.io",
@@ -1031,6 +1025,12 @@
                     "support.greenhouse.io",
                     "jss.greenhouse.io",
                     "www.greenhouse.io"
+                ]
+            },
+            {
+                "name": "coursera",
+                "urls": [
+                    "www.coursera.org"
                 ]
             },
             {
@@ -1455,14 +1455,6 @@
                 "urls": []
             },
             {
-                "name": "datastax",
-                "urls": [
-                    "https://www.datastax.com/",
-                    "https://downloads.datastax.com",
-                    "https://docs.datastax.com/"
-                ]
-            },
-            {
                 "name": "nutanix",
                 "urls": [
                     "support.nutanix.com",
@@ -1490,9 +1482,43 @@
                 ]
             },
             {
+                "name": "datastax",
+                "urls": [
+                    "https://www.datastax.com/",
+                    "https://downloads.datastax.com",
+                    "https://docs.datastax.com/"
+                ]
+            },
+            {
                 "name": "smule",
                 "urls": [
                     "*.smule.com"
+                ]
+            },
+            {
+                "name": "clario",
+                "urls": [
+                    "https://account.mackeeper.com",
+                    "https://api.account.opendoor.ltd",
+                    "https://clario.co",
+                    "https://adblocking.clario.co",
+                    "https://api-ne.clario.co",
+                    "https://chat-crm.clario.co",
+                    "https://chat.clario.co",
+                    "https://crm.clario.co",
+                    "https://dcs.clario.co",
+                    "https://dl.clario.co",
+                    "https://event.clario.co",
+                    "https://get-unbounce.clario.co",
+                    "https://inapp.clario.co",
+                    "https://static-cdn.clario.co",
+                    "https://sz.clario.co",
+                    "https://updater.clario.co",
+                    "https://updatetracker.clario.co",
+                    "https://webapi.clario.co",
+                    "https://yapi.clario.co",
+                    "*.kromtech.com",
+                    "*.mackeeper.com"
                 ]
             },
             {
@@ -1550,16 +1576,6 @@
                 ]
             },
             {
-                "name": "prospect_io_gjk6b",
-                "urls": [
-                    "app.prospect.io"
-                ]
-            },
-            {
-                "name": "phabricator",
-                "urls": []
-            },
-            {
                 "name": "crypto",
                 "urls": [
                     "www.crypto.com",
@@ -1570,6 +1586,16 @@
                     "pay.crypto.com",
                     "js.crypto.com"
                 ]
+            },
+            {
+                "name": "prospect_io_gjk6b",
+                "urls": [
+                    "app.prospect.io"
+                ]
+            },
+            {
+                "name": "phabricator",
+                "urls": []
             },
             {
                 "name": "vercel",
@@ -1757,19 +1783,6 @@
                 ]
             },
             {
-                "name": "cert",
-                "urls": []
-            },
-            {
-                "name": "drive_net_inc",
-                "urls": [
-                    "www.drive2.ru",
-                    "api.drive2.ru",
-                    "*.d-cd.net",
-                    "*.drive2.ru"
-                ]
-            },
-            {
                 "name": "coda_bbp",
                 "urls": [
                     "https://coda.io/*",
@@ -1784,6 +1797,19 @@
                     "https://user-profile-prod.coda.io/*",
                     "https://*.coda.io/*",
                     "https://user-profile-test.coda.io/*"
+                ]
+            },
+            {
+                "name": "cert",
+                "urls": []
+            },
+            {
+                "name": "drive_net_inc",
+                "urls": [
+                    "www.drive2.ru",
+                    "api.drive2.ru",
+                    "*.d-cd.net",
+                    "*.drive2.ru"
                 ]
             },
             {
@@ -1803,18 +1829,18 @@
                 ]
             },
             {
+                "name": "lemlist",
+                "urls": [
+                    "app.lemlist.com"
+                ]
+            },
+            {
                 "name": "ruby",
                 "urls": []
             },
             {
                 "name": "mobisystems_ltd",
                 "urls": []
-            },
-            {
-                "name": "lemlist",
-                "urls": [
-                    "app.lemlist.com"
-                ]
             },
             {
                 "name": "stagingdoteverydotorg",
@@ -2008,15 +2034,15 @@
                 ]
             },
             {
-                "name": "qulture_rocks_x3u44",
-                "urls": [
-                    "https://hackerone.qulture.rocks/"
-                ]
-            },
-            {
                 "name": "ozon",
                 "urls": [
                     "www.ozon.ru"
+                ]
+            },
+            {
+                "name": "qulture_rocks_x3u44",
+                "urls": [
+                    "https://hackerone.qulture.rocks/"
                 ]
             },
             {
@@ -2127,6 +2153,13 @@
                 ]
             },
             {
+                "name": "polymail_inc",
+                "urls": [
+                    "app.polymail.io",
+                    "welovepg.polymail.io"
+                ]
+            },
+            {
                 "name": "ibb-perl",
                 "urls": []
             },
@@ -2172,13 +2205,6 @@
                 "urls": [
                     "*.koho.ca",
                     "*.koho.app"
-                ]
-            },
-            {
-                "name": "polymail_inc",
-                "urls": [
-                    "app.polymail.io",
-                    "welovepg.polymail.io"
                 ]
             },
             {
@@ -2504,6 +2530,13 @@
                 ]
             },
             {
+                "name": "finra",
+                "urls": [
+                    "*.finra.org",
+                    "https://ews.qa.finra.org/*"
+                ]
+            },
+            {
                 "name": "versioncake",
                 "urls": []
             },
@@ -2515,13 +2548,6 @@
                 "name": "aodocs",
                 "urls": [
                     "https://ao-docs.appspot.com/api/explorer"
-                ]
-            },
-            {
-                "name": "finra",
-                "urls": [
-                    "*.finra.org",
-                    "https://ews.qa.finra.org/*"
                 ]
             },
             {
@@ -2573,7 +2599,7 @@
             {
                 "name": "remb_hydraulics",
                 "urls": [
-                    "hydraulics-group.com",
+                    "*.hydraulics-group.com",
                     "remb.sharepoint.com",
                     "rembconnect.be",
                     "rem-b.com",
@@ -2774,8 +2800,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 305,
-            "totalUrls": 1346
+            "totalPrograms": 306,
+            "totalUrls": 1367
         }
     }
 }
