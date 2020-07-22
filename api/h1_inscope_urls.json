@@ -75,6 +75,20 @@
                 ]
             },
             {
+                "name": "ui",
+                "urls": [
+                    "*.ubnt.com",
+                    "community.ui.com",
+                    "*.ui.com",
+                    "store.ui.com",
+                    "ir.ui.com",
+                    "forum-es.ui.com",
+                    "forum-pt.ui.com",
+                    "help.ui.com",
+                    "blog.ui.com"
+                ]
+            },
+            {
                 "name": "starbucks",
                 "urls": [
                     "gift.starbucks.co.jp",
@@ -96,20 +110,6 @@
                     "www.starbucks.com.sg",
                     "www.teavana.com",
                     "www.starbucksreserve.com"
-                ]
-            },
-            {
-                "name": "ui",
-                "urls": [
-                    "*.ubnt.com",
-                    "community.ui.com",
-                    "*.ui.com",
-                    "store.ui.com",
-                    "ir.ui.com",
-                    "forum-es.ui.com",
-                    "forum-pt.ui.com",
-                    "help.ui.com",
-                    "blog.ui.com"
                 ]
             },
             {
@@ -1639,6 +1639,12 @@
                 ]
             },
             {
+                "name": "duckduckgo",
+                "urls": [
+                    "*.duckduckgo.com"
+                ]
+            },
+            {
                 "name": "pillarproject",
                 "urls": []
             },
@@ -1647,12 +1653,6 @@
                 "urls": [
                     "*.pubg.com",
                     "*.pubgesports.com"
-                ]
-            },
-            {
-                "name": "duckduckgo",
-                "urls": [
-                    "*.duckduckgo.com"
                 ]
             },
             {
@@ -2001,6 +2001,12 @@
                 ]
             },
             {
+                "name": "gener8",
+                "urls": [
+                    "*.gener8ads.com"
+                ]
+            },
+            {
                 "name": "blockstack",
                 "urls": []
             },
@@ -2025,12 +2031,6 @@
                     "app.starlingbank.com",
                     "oauth.starlingbank.com",
                     "www.starlingbank.com"
-                ]
-            },
-            {
-                "name": "gener8",
-                "urls": [
-                    "*.gener8ads.com"
                 ]
             },
             {
