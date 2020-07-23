@@ -544,8 +544,8 @@
                     "mobile-api.yelp.com",
                     "api.yelp.com",
                     "biz-app.yelp.com",
-                    "blog.yelp.com",
                     "www.yelp-support.com",
+                    "blog.yelp.com",
                     "yelp.nowait.com",
                     "www.yelpwifi.com",
                     "app.yelpwifi.com"
@@ -750,6 +750,7 @@
                     "*.kolikkopelit.com",
                     "*.casinohuone.com",
                     "*.igame.com",
+                    "*.vladcazino.ro",
                     "relaxcdn.unibet.com"
                 ]
             },
@@ -944,29 +945,6 @@
                 ]
             },
             {
-                "name": "grammarly",
-                "urls": [
-                    "www.grammarly.com",
-                    "auth.grammarly.com",
-                    "capi.grammarly.com",
-                    "dox.grammarly.com",
-                    "irbis.grammarly.com",
-                    "app.grammarly.com",
-                    "gnar.grammarly.com",
-                    "admin-panel.grammarly.com",
-                    "data.grammarly.com",
-                    "*.grammarly.io",
-                    "*.grammarly.net",
-                    "datareport.grammarly.com",
-                    "subscription.grammarly.com",
-                    "institution.grammarly.com",
-                    "account.grammarly.com",
-                    "g-mail.grammarly.com",
-                    "grammarly.ai",
-                    "food.grammarly.io"
-                ]
-            },
-            {
                 "name": "tts",
                 "urls": [
                     "https://federalist-proxy.app.cloud.gov",
@@ -1016,6 +994,29 @@
                 ]
             },
             {
+                "name": "grammarly",
+                "urls": [
+                    "www.grammarly.com",
+                    "auth.grammarly.com",
+                    "capi.grammarly.com",
+                    "dox.grammarly.com",
+                    "irbis.grammarly.com",
+                    "app.grammarly.com",
+                    "gnar.grammarly.com",
+                    "admin-panel.grammarly.com",
+                    "data.grammarly.com",
+                    "*.grammarly.io",
+                    "*.grammarly.net",
+                    "datareport.grammarly.com",
+                    "subscription.grammarly.com",
+                    "institution.grammarly.com",
+                    "account.grammarly.com",
+                    "g-mail.grammarly.com",
+                    "grammarly.ai",
+                    "food.grammarly.io"
+                ]
+            },
+            {
                 "name": "greenhouse",
                 "urls": [
                     "app.greenhouse.io",
@@ -1034,10 +1035,6 @@
                 ]
             },
             {
-                "name": "keybase",
-                "urls": []
-            },
-            {
                 "name": "tomtom",
                 "urls": [
                     "*.tomtom.com",
@@ -1047,15 +1044,19 @@
                 ]
             },
             {
-                "name": "weblate",
-                "urls": [
-                    "hosted.weblate.org"
-                ]
+                "name": "keybase",
+                "urls": []
             },
             {
                 "name": "nordvpn",
                 "urls": [
                     "*.nordvpn.com"
+                ]
+            },
+            {
+                "name": "weblate",
+                "urls": [
+                    "hosted.weblate.org"
                 ]
             },
             {
@@ -1561,18 +1562,18 @@
                 ]
             },
             {
-                "name": "flickr",
-                "urls": [
-                    "*.flickr.com"
-                ]
-            },
-            {
                 "name": "magisto",
                 "urls": [
                     "magisto.com,www.magisto.com",
                     "*.magisto.com",
                     "staging.magisto.com",
                     "applause1.magisto.com"
+                ]
+            },
+            {
+                "name": "flickr",
+                "urls": [
+                    "*.flickr.com"
                 ]
             },
             {
@@ -1817,6 +1818,12 @@
                 "urls": []
             },
             {
+                "name": "lemlist",
+                "urls": [
+                    "app.lemlist.com"
+                ]
+            },
+            {
                 "name": "revive_adserver",
                 "urls": []
             },
@@ -1826,12 +1833,6 @@
                     "www.bitmex.com",
                     "public.bitmex.com",
                     "*.bitmex.com"
-                ]
-            },
-            {
-                "name": "lemlist",
-                "urls": [
-                    "app.lemlist.com"
                 ]
             },
             {
@@ -1952,6 +1953,12 @@
                 ]
             },
             {
+                "name": "wellsfargo",
+                "urls": [
+                    "*.wellsfargo.com"
+                ]
+            },
+            {
                 "name": "passit",
                 "urls": [
                     "app.passit.io"
@@ -1969,12 +1976,6 @@
                 ]
             },
             {
-                "name": "wellsfargo",
-                "urls": [
-                    "*.wellsfargo.com"
-                ]
-            },
-            {
                 "name": "engel_volkers",
                 "urls": [
                     "*.engelvoelkers.com"
@@ -1983,6 +1984,12 @@
             {
                 "name": "stellar",
                 "urls": []
+            },
+            {
+                "name": "gener8",
+                "urls": [
+                    "*.gener8ads.com"
+                ]
             },
             {
                 "name": "trycourier",
@@ -2001,9 +2008,9 @@
                 ]
             },
             {
-                "name": "gener8",
+                "name": "ozon",
                 "urls": [
-                    "*.gener8ads.com"
+                    "www.ozon.ru"
                 ]
             },
             {
@@ -2031,12 +2038,6 @@
                     "app.starlingbank.com",
                     "oauth.starlingbank.com",
                     "www.starlingbank.com"
-                ]
-            },
-            {
-                "name": "ozon",
-                "urls": [
-                    "www.ozon.ru"
                 ]
             },
             {
@@ -2801,7 +2802,7 @@
         ],
         "metaData": {
             "totalPrograms": 306,
-            "totalUrls": 1367
+            "totalUrls": 1368
         }
     }
 }
