@@ -526,6 +526,12 @@
                 ]
             },
             {
+                "name": "udemy",
+                "urls": [
+                    "www.udemy.com"
+                ]
+            },
+            {
                 "name": "mapbox",
                 "urls": [
                     "www.mapbox.com",
@@ -783,6 +789,13 @@
                 ]
             },
             {
+                "name": "stripo",
+                "urls": [
+                    "my.stripo.email",
+                    "stripo.email"
+                ]
+            },
+            {
                 "name": "chaturbate",
                 "urls": [
                     "https://chaturbate.com",
@@ -793,13 +806,6 @@
                     "https://billingsupport.chaturbate.com",
                     "https://status.chaturbate.com",
                     "https://secure.chaturbate.com"
-                ]
-            },
-            {
-                "name": "stripo",
-                "urls": [
-                    "my.stripo.email",
-                    "stripo.email"
                 ]
             },
             {
@@ -856,22 +862,6 @@
                 "urls": []
             },
             {
-                "name": "quora",
-                "urls": [
-                    "*.quora.com"
-                ]
-            },
-            {
-                "name": "xiaomi",
-                "urls": [
-                    "*.mi.com",
-                    "*.xiaomi.com",
-                    "*.miui.com",
-                    "*.xiaomiyoupin.com",
-                    "*.miwifi.com"
-                ]
-            },
-            {
                 "name": "alibaba",
                 "urls": [
                     "*.lazada.sg",
@@ -888,6 +878,22 @@
                     "*.aliyun-inc.com",
                     "www.alibabagroup.com",
                     "*.alimama.com"
+                ]
+            },
+            {
+                "name": "quora",
+                "urls": [
+                    "*.quora.com"
+                ]
+            },
+            {
+                "name": "xiaomi",
+                "urls": [
+                    "*.mi.com",
+                    "*.xiaomi.com",
+                    "*.miui.com",
+                    "*.xiaomiyoupin.com",
+                    "*.miwifi.com"
                 ]
             },
             {
@@ -1277,6 +1283,10 @@
                 ]
             },
             {
+                "name": "equifax",
+                "urls": []
+            },
+            {
                 "name": "urbandictionary",
                 "urls": [
                     "*.urbandictionary.com",
@@ -1291,10 +1301,6 @@
                     "help.urbandictionary.com",
                     "*.urbandictionary.store"
                 ]
-            },
-            {
-                "name": "equifax",
-                "urls": []
             },
             {
                 "name": "capital-one",
@@ -1456,6 +1462,14 @@
                 "urls": []
             },
             {
+                "name": "datastax",
+                "urls": [
+                    "https://www.datastax.com/",
+                    "https://downloads.datastax.com",
+                    "https://docs.datastax.com/"
+                ]
+            },
+            {
                 "name": "nutanix",
                 "urls": [
                     "support.nutanix.com",
@@ -1480,14 +1494,6 @@
                     "beam.nutanix.com",
                     "*.nutanix.com",
                     "testdrive.nutanix.com"
-                ]
-            },
-            {
-                "name": "datastax",
-                "urls": [
-                    "https://www.datastax.com/",
-                    "https://downloads.datastax.com",
-                    "https://docs.datastax.com/"
                 ]
             },
             {
@@ -2024,15 +2030,6 @@
                 ]
             },
             {
-                "name": "savedroid",
-                "urls": [
-                    "*.api.savedroid.de",
-                    "api.savedroid.com/*",
-                    "gobitcoinking.com",
-                    "*.savedroid.com"
-                ]
-            },
-            {
                 "name": "starling_bank",
                 "urls": [
                     "app.starlingbank.com",
@@ -2100,6 +2097,12 @@
                 ]
             },
             {
+                "name": "parrot_sec",
+                "urls": [
+                    "https://www.parrot.sh"
+                ]
+            },
+            {
                 "name": "cuvva",
                 "urls": [
                     "*.int.cuvva.co",
@@ -2126,12 +2129,6 @@
             {
                 "name": "paragonie",
                 "urls": []
-            },
-            {
-                "name": "parrot_sec",
-                "urls": [
-                    "https://www.parrot.sh"
-                ]
             },
             {
                 "name": "nodejs",
@@ -2202,6 +2199,15 @@
                 ]
             },
             {
+                "name": "kubernetes",
+                "urls": [
+                    "https://prow.k8s.io",
+                    "https://kubernetes.io",
+                    "k8s.io",
+                    "kubernetes-csi.github.io"
+                ]
+            },
+            {
                 "name": "koho",
                 "urls": [
                     "*.koho.ca",
@@ -2211,6 +2217,12 @@
             {
                 "name": "globaleaks",
                 "urls": []
+            },
+            {
+                "name": "allegro",
+                "urls": [
+                    "*.allegro.pl.allegrosandbox.pl"
+                ]
             },
             {
                 "name": "forescout_technologies",
@@ -2247,21 +2259,6 @@
                 "urls": [
                     "platform.thecoalition.com",
                     "api.thecoalition.com"
-                ]
-            },
-            {
-                "name": "allegro",
-                "urls": [
-                    "*.allegro.pl.allegrosandbox.pl"
-                ]
-            },
-            {
-                "name": "kubernetes",
-                "urls": [
-                    "https://prow.k8s.io",
-                    "https://kubernetes.io",
-                    "k8s.io",
-                    "kubernetes-csi.github.io"
                 ]
             },
             {
@@ -2527,7 +2524,8 @@
             {
                 "name": "uphabit",
                 "urls": [
-                    "api.uphabit.com"
+                    "api.uphabit.com",
+                    "web.uphabit.com"
                 ]
             },
             {
@@ -2591,10 +2589,6 @@
             },
             {
                 "name": "ibb-squid-cache",
-                "urls": []
-            },
-            {
-                "name": "symbol",
                 "urls": []
             },
             {
@@ -2801,8 +2795,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 306,
-            "totalUrls": 1368
+            "totalPrograms": 305,
+            "totalUrls": 1366
         }
     }
 }
