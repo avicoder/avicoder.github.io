@@ -75,20 +75,6 @@
                 ]
             },
             {
-                "name": "ui",
-                "urls": [
-                    "*.ubnt.com",
-                    "community.ui.com",
-                    "*.ui.com",
-                    "store.ui.com",
-                    "ir.ui.com",
-                    "forum-es.ui.com",
-                    "forum-pt.ui.com",
-                    "help.ui.com",
-                    "blog.ui.com"
-                ]
-            },
-            {
                 "name": "starbucks",
                 "urls": [
                     "gift.starbucks.co.jp",
@@ -110,6 +96,20 @@
                     "www.starbucks.com.sg",
                     "www.teavana.com",
                     "www.starbucksreserve.com"
+                ]
+            },
+            {
+                "name": "ui",
+                "urls": [
+                    "*.ubnt.com",
+                    "community.ui.com",
+                    "*.ui.com",
+                    "store.ui.com",
+                    "ir.ui.com",
+                    "forum-es.ui.com",
+                    "forum-pt.ui.com",
+                    "help.ui.com",
+                    "blog.ui.com"
                 ]
             },
             {
@@ -1173,6 +1173,18 @@
                 ]
             },
             {
+                "name": "line",
+                "urls": [
+                    "*.line.me",
+                    "*.line-apps.com",
+                    "*.line.naver.jp",
+                    "live.line.me",
+                    "music.line.me",
+                    "news.line.me",
+                    "store.line.me"
+                ]
+            },
+            {
                 "name": "internet",
                 "urls": []
             },
@@ -1184,18 +1196,6 @@
                     "*.deliveroo-data-test.io",
                     "*.deliveroo.*",
                     "*.deliveroo-streams.net"
-                ]
-            },
-            {
-                "name": "line",
-                "urls": [
-                    "*.line.me",
-                    "*.line-apps.com",
-                    "*.line.naver.jp",
-                    "live.line.me",
-                    "music.line.me",
-                    "news.line.me",
-                    "store.line.me"
                 ]
             },
             {
@@ -1382,6 +1382,20 @@
                 "urls": []
             },
             {
+                "name": "palo_alto_software",
+                "urls": [
+                    "app.liveplan.com",
+                    "app.outpost.co",
+                    "api.outpost.co",
+                    "www.paloalto.com",
+                    "www.liveplan.com",
+                    "www.outpost.co",
+                    "www.teamoutpost.com",
+                    "www.bplans.com",
+                    "www.mplans.com"
+                ]
+            },
+            {
                 "name": "innogames",
                 "urls": [
                     "*.innogames.com",
@@ -1407,20 +1421,6 @@
                     "*.dev.lifeomic.com",
                     "*.dev.jupiterone.io",
                     "https://apps.wellness.dev.lifeomic.com"
-                ]
-            },
-            {
-                "name": "palo_alto_software",
-                "urls": [
-                    "app.liveplan.com",
-                    "app.outpost.co",
-                    "api.outpost.co",
-                    "www.paloalto.com",
-                    "www.liveplan.com",
-                    "www.outpost.co",
-                    "www.teamoutpost.com",
-                    "www.bplans.com",
-                    "www.mplans.com"
                 ]
             },
             {
@@ -1568,6 +1568,18 @@
                 ]
             },
             {
+                "name": "crypto",
+                "urls": [
+                    "www.crypto.com",
+                    "https://crypto.com/exchange",
+                    "app.mona.co",
+                    "https://auth.crypto.com/",
+                    "https://merchant.crypto.com",
+                    "pay.crypto.com",
+                    "js.crypto.com"
+                ]
+            },
+            {
                 "name": "magisto",
                 "urls": [
                     "magisto.com,www.magisto.com",
@@ -1580,18 +1592,6 @@
                 "name": "flickr",
                 "urls": [
                     "*.flickr.com"
-                ]
-            },
-            {
-                "name": "crypto",
-                "urls": [
-                    "www.crypto.com",
-                    "https://crypto.com/exchange",
-                    "app.mona.co",
-                    "https://auth.crypto.com/",
-                    "https://merchant.crypto.com",
-                    "pay.crypto.com",
-                    "js.crypto.com"
                 ]
             },
             {
@@ -1696,6 +1696,15 @@
                 "urls": []
             },
             {
+                "name": "endless_hosting",
+                "urls": [
+                    "(*).theendlessweb.com",
+                    "(*).endlcdn.site",
+                    "console-idrac.djelectro.me",
+                    "idrac.djelectro.me"
+                ]
+            },
+            {
                 "name": "jnj_mobile",
                 "urls": []
             },
@@ -1722,15 +1731,6 @@
                     "https://apps-staging.pingone.com/*",
                     "https://ort-authenticator.pingone.com/*",
                     "https://ort-desktop.pingone.com/*"
-                ]
-            },
-            {
-                "name": "endless_hosting",
-                "urls": [
-                    "(*).theendlessweb.com",
-                    "(*).endlcdn.site",
-                    "console-idrac.djelectro.me",
-                    "idrac.djelectro.me"
                 ]
             },
             {
@@ -1774,6 +1774,12 @@
                     "app.smartsheet.com",
                     "api.smartsheet.com/2.0",
                     "admin.smartsheet.com"
+                ]
+            },
+            {
+                "name": "lemlist",
+                "urls": [
+                    "app.lemlist.com"
                 ]
             },
             {
@@ -1824,12 +1830,6 @@
                 "urls": []
             },
             {
-                "name": "lemlist",
-                "urls": [
-                    "app.lemlist.com"
-                ]
-            },
-            {
                 "name": "revive_adserver",
                 "urls": []
             },
@@ -1868,6 +1868,12 @@
             {
                 "name": "notepad-plus-plus",
                 "urls": []
+            },
+            {
+                "name": "wellsfargo",
+                "urls": [
+                    "*.wellsfargo.com"
+                ]
             },
             {
                 "name": "mariadb",
@@ -1959,12 +1965,6 @@
                 ]
             },
             {
-                "name": "wellsfargo",
-                "urls": [
-                    "*.wellsfargo.com"
-                ]
-            },
-            {
                 "name": "passit",
                 "urls": [
                     "app.passit.io"
@@ -1988,14 +1988,14 @@
                 ]
             },
             {
-                "name": "stellar",
-                "urls": []
-            },
-            {
                 "name": "gener8",
                 "urls": [
                     "*.gener8ads.com"
                 ]
+            },
+            {
+                "name": "stellar",
+                "urls": []
             },
             {
                 "name": "trycourier",
@@ -2339,6 +2339,10 @@
                 ]
             },
             {
+                "name": "wink_jq3al",
+                "urls": []
+            },
+            {
                 "name": "liberapay",
                 "urls": [
                     "*.liberapay.com",
@@ -2363,10 +2367,6 @@
             },
             {
                 "name": "picsart",
-                "urls": []
-            },
-            {
-                "name": "wink_jq3al",
                 "urls": []
             },
             {
@@ -2476,6 +2476,13 @@
                 ]
             },
             {
+                "name": "uphabit",
+                "urls": [
+                    "api.uphabit.com",
+                    "web.uphabit.com"
+                ]
+            },
+            {
                 "name": "matic-network",
                 "urls": []
             },
@@ -2520,13 +2527,6 @@
             {
                 "name": "aspen",
                 "urls": []
-            },
-            {
-                "name": "uphabit",
-                "urls": [
-                    "api.uphabit.com",
-                    "web.uphabit.com"
-                ]
             },
             {
                 "name": "finra",
