@@ -605,6 +605,10 @@
                 "urls": []
             },
             {
+                "name": "nodejs-ecosystem",
+                "urls": []
+            },
+            {
                 "name": "vanilla",
                 "urls": [
                     "*.vanillaforums.com",
@@ -612,10 +616,6 @@
                     "*.vanillastaging.com",
                     "*.vanilladevelopment.com"
                 ]
-            },
-            {
-                "name": "nodejs-ecosystem",
-                "urls": []
             },
             {
                 "name": "concrete5",
