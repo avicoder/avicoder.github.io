@@ -526,17 +526,17 @@
                 ]
             },
             {
-                "name": "udemy",
-                "urls": [
-                    "www.udemy.com"
-                ]
-            },
-            {
                 "name": "mapbox",
                 "urls": [
                     "www.mapbox.com",
                     "https://docs.mapbox.com/api/",
                     "api.mapbox.com"
+                ]
+            },
+            {
+                "name": "udemy",
+                "urls": [
+                    "www.udemy.com"
                 ]
             },
             {
@@ -905,10 +905,6 @@
                 ]
             },
             {
-                "name": "cloudflare",
-                "urls": []
-            },
-            {
                 "name": "marriott",
                 "urls": [
                     "*.marriott.com",
@@ -919,6 +915,10 @@
                     "airandcar.marriott.com",
                     "www.ritzcarlton.com"
                 ]
+            },
+            {
+                "name": "cloudflare",
+                "urls": []
             },
             {
                 "name": "expressionengine",
@@ -2215,6 +2215,16 @@
                 ]
             },
             {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr"
+                ]
+            },
+            {
                 "name": "globaleaks",
                 "urls": []
             },
@@ -2327,16 +2337,6 @@
             {
                 "name": "hcl_software",
                 "urls": []
-            },
-            {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr"
-                ]
             },
             {
                 "name": "wink_jq3al",
@@ -2463,6 +2463,10 @@
                 "urls": []
             },
             {
+                "name": "googleapi",
+                "urls": []
+            },
+            {
                 "name": "libra",
                 "urls": []
             },
@@ -2499,10 +2503,6 @@
             },
             {
                 "name": "loofah",
-                "urls": []
-            },
-            {
-                "name": "googleapi",
                 "urls": []
             },
             {
@@ -2729,12 +2729,6 @@
                 ]
             },
             {
-                "name": "ncsc_uk",
-                "urls": [
-                    "*.ncsc.gov.uk"
-                ]
-            },
-            {
                 "name": "fanduel",
                 "urls": [
                     "fdbox.net",
@@ -2795,8 +2789,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 305,
-            "totalUrls": 1366
+            "totalPrograms": 304,
+            "totalUrls": 1365
         }
     }
 }
