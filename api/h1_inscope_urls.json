@@ -75,6 +75,20 @@
                 ]
             },
             {
+                "name": "ui",
+                "urls": [
+                    "*.ubnt.com",
+                    "community.ui.com",
+                    "*.ui.com",
+                    "store.ui.com",
+                    "ir.ui.com",
+                    "forum-es.ui.com",
+                    "forum-pt.ui.com",
+                    "help.ui.com",
+                    "blog.ui.com"
+                ]
+            },
+            {
                 "name": "starbucks",
                 "urls": [
                     "gift.starbucks.co.jp",
@@ -96,20 +110,6 @@
                     "www.starbucks.com.sg",
                     "www.teavana.com",
                     "www.starbucksreserve.com"
-                ]
-            },
-            {
-                "name": "ui",
-                "urls": [
-                    "*.ubnt.com",
-                    "community.ui.com",
-                    "*.ui.com",
-                    "store.ui.com",
-                    "ir.ui.com",
-                    "forum-es.ui.com",
-                    "forum-pt.ui.com",
-                    "help.ui.com",
-                    "blog.ui.com"
                 ]
             },
             {
@@ -526,17 +526,17 @@
                 ]
             },
             {
+                "name": "udemy",
+                "urls": [
+                    "www.udemy.com"
+                ]
+            },
+            {
                 "name": "mapbox",
                 "urls": [
                     "www.mapbox.com",
                     "https://docs.mapbox.com/api/",
                     "api.mapbox.com"
-                ]
-            },
-            {
-                "name": "udemy",
-                "urls": [
-                    "www.udemy.com"
                 ]
             },
             {
@@ -555,12 +555,6 @@
                     "yelp.nowait.com",
                     "www.yelpwifi.com",
                     "app.yelpwifi.com"
-                ]
-            },
-            {
-                "name": "infogram",
-                "urls": [
-                    "infogram.com"
                 ]
             },
             {
@@ -584,6 +578,12 @@
                 ]
             },
             {
+                "name": "infogram",
+                "urls": [
+                    "infogram.com"
+                ]
+            },
+            {
                 "name": "localtapiola",
                 "urls": [
                     "www.lahitapiola.fi",
@@ -601,11 +601,11 @@
                 ]
             },
             {
-                "name": "ibb-php",
+                "name": "nodejs-ecosystem",
                 "urls": []
             },
             {
-                "name": "nodejs-ecosystem",
+                "name": "ibb-php",
                 "urls": []
             },
             {
@@ -712,6 +712,18 @@
                 ]
             },
             {
+                "name": "paddypowerbetfair",
+                "urls": [
+                    "*.betfair.com",
+                    "*.paddypower.com",
+                    "*.betfair.es",
+                    "*.betfair.it",
+                    "*.betfair.ro",
+                    "*.betfair.se",
+                    "*.paddypower.it"
+                ]
+            },
+            {
                 "name": "irccloud",
                 "urls": [
                     "www.irccloud.com",
@@ -743,10 +755,6 @@
                 ]
             },
             {
-                "name": "kaspersky",
-                "urls": []
-            },
-            {
                 "name": "kindred_group",
                 "urls": [
                     "*.unibet.com",
@@ -761,23 +769,15 @@
                 ]
             },
             {
+                "name": "kaspersky",
+                "urls": []
+            },
+            {
                 "name": "algolia",
                 "urls": [
                     "www.algolia.com",
                     "*.algolia.net",
                     "*.algolianet.com"
-                ]
-            },
-            {
-                "name": "paddypowerbetfair",
-                "urls": [
-                    "*.betfair.com",
-                    "*.paddypower.com",
-                    "*.betfair.es",
-                    "*.betfair.it",
-                    "*.betfair.ro",
-                    "*.betfair.se",
-                    "*.paddypower.it"
                 ]
             },
             {
@@ -819,10 +819,6 @@
                     "ratelimited.me",
                     "api.ratelimited.me"
                 ]
-            },
-            {
-                "name": "logitech",
-                "urls": []
             },
             {
                 "name": "airtable",
@@ -1164,15 +1160,6 @@
                 ]
             },
             {
-                "name": "casper",
-                "urls": [
-                    "www.casper.com",
-                    "bedpost.casper.com",
-                    "operator.casper.tools",
-                    "casper.com/admin"
-                ]
-            },
-            {
                 "name": "line",
                 "urls": [
                     "*.line.me",
@@ -1182,6 +1169,15 @@
                     "music.line.me",
                     "news.line.me",
                     "store.line.me"
+                ]
+            },
+            {
+                "name": "casper",
+                "urls": [
+                    "www.casper.com",
+                    "bedpost.casper.com",
+                    "operator.casper.tools",
+                    "casper.com/admin"
                 ]
             },
             {
@@ -1452,6 +1448,14 @@
                 ]
             },
             {
+                "name": "datastax",
+                "urls": [
+                    "https://www.datastax.com/",
+                    "https://downloads.datastax.com",
+                    "https://docs.datastax.com/"
+                ]
+            },
+            {
                 "name": "rubygems",
                 "urls": [
                     "rubygems.org"
@@ -1460,14 +1464,6 @@
             {
                 "name": "nintendo",
                 "urls": []
-            },
-            {
-                "name": "datastax",
-                "urls": [
-                    "https://www.datastax.com/",
-                    "https://downloads.datastax.com",
-                    "https://docs.datastax.com/"
-                ]
             },
             {
                 "name": "nutanix",
@@ -1622,14 +1618,6 @@
                 ]
             },
             {
-                "name": "recargapay",
-                "urls": [
-                    "api.recarga.com",
-                    "www.recargapay.com.br/*",
-                    "secure.recarga.com/*"
-                ]
-            },
-            {
                 "name": "plaid",
                 "urls": [
                     "production.plaid.com",
@@ -1637,6 +1625,14 @@
                     "cdn.plaid.com",
                     "my.plaid.com",
                     "demo.plaid.com"
+                ]
+            },
+            {
+                "name": "recargapay",
+                "urls": [
+                    "api.recarga.com",
+                    "www.recargapay.com.br/*",
+                    "secure.recarga.com/*"
                 ]
             },
             {
@@ -1998,6 +1994,12 @@
                 "urls": []
             },
             {
+                "name": "ozon",
+                "urls": [
+                    "www.ozon.ru"
+                ]
+            },
+            {
                 "name": "trycourier",
                 "urls": [
                     "www.trycourier.app",
@@ -2011,12 +2013,6 @@
                 "urls": [
                     "smtp2go.com",
                     "app.smtp2go.com"
-                ]
-            },
-            {
-                "name": "ozon",
-                "urls": [
-                    "www.ozon.ru"
                 ]
             },
             {
@@ -2447,6 +2443,13 @@
                 "urls": []
             },
             {
+                "name": "uphabit",
+                "urls": [
+                    "api.uphabit.com",
+                    "web.uphabit.com"
+                ]
+            },
+            {
                 "name": "btfs",
                 "urls": []
             },
@@ -2477,13 +2480,6 @@
                     "app.investnext.com",
                     "altogroup.investnextdemo.co",
                     "app.investnextdemo.co"
-                ]
-            },
-            {
-                "name": "uphabit",
-                "urls": [
-                    "api.uphabit.com",
-                    "web.uphabit.com"
                 ]
             },
             {
@@ -2522,6 +2518,14 @@
                     "github.com/oasislabs/ed25519",
                     "github.com/oasislabs/bsaes.js",
                     "*.testnet.oasiscloud.io"
+                ]
+            },
+            {
+                "name": "rockset",
+                "urls": [
+                    "console.rockset.com",
+                    "docs.rockset.com",
+                    "api.rs2.usw2.rockset.com"
                 ]
             },
             {
@@ -2590,6 +2594,12 @@
             {
                 "name": "ibb-squid-cache",
                 "urls": []
+            },
+            {
+                "name": "codefi_bbp",
+                "urls": [
+                    "activate.codefi.network"
+                ]
             },
             {
                 "name": "remb_hydraulics",
@@ -2789,8 +2799,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 304,
-            "totalUrls": 1365
+            "totalPrograms": 305,
+            "totalUrls": 1369
         }
     }
 }
