@@ -25,7 +25,67 @@
             },
             {
                 "name": "adobe",
-                "urls": []
+                "urls": [
+                    "*.acrobat.com",
+                    "*.adobe.io",
+                    "*.adobeaemcloud.com",
+                    "*.adobecqms.net",
+                    "*.bizible.com",
+                    "*.marketo.com",
+                    "*.mixamo.com",
+                    "*.omniture.com",
+                    "*.phonegap.com",
+                    "*.tubemogul.com",
+                    "*.typekit.com",
+                    "account.adobe.com",
+                    "accounts.adobe.com",
+                    "acrobat.adobe.com",
+                    "acrobatoauth.adobe.com",
+                    "adminconsole.adobe.com",
+                    "adobeid.services.adobe.com",
+                    "adobelogin.com",
+                    "adobestock.com",
+                    "assets.adobe.com",
+                    "auth.services.adobe.com",
+                    "behance.net",
+                    "campaign.adobe.com",
+                    "captivateprime.adobe.com",
+                    "cbconnection.adobe.com",
+                    "cloud.acrobat.com",
+                    "coldfusion.adobe.com",
+                    "commerce.adobe.com",
+                    "community.adobe.com",
+                    "create.adobe.com",
+                    "creative.adobe.com",
+                    "creativecloud.adobe.com",
+                    "documentcloud.adobe.com",
+                    "documents.adobe.com",
+                    "edex.adobe.com",
+                    "exchange.adobe.com",
+                    "experience.adobe.com",
+                    "experiencecloud.adobe.com",
+                    "fonts.adobe.com",
+                    "gps.echosign.com",
+                    "helpx.adobe.com",
+                    "licenses.adobe.com",
+                    "licensing.adobe.com",
+                    "lightroom.adobe.com",
+                    "marketing-assets.adobe.com",
+                    "marketing.adobe.com",
+                    "mobilemarketing.adobe.com",
+                    "partners.adobe.com",
+                    "photoshop.com",
+                    "platform.adobe.com",
+                    "portfolio.adobe.com",
+                    "secure.echosign.com",
+                    "shop.adobe.com",
+                    "spark.adobe.com",
+                    "status.adobe.com",
+                    "stock.adobe.com",
+                    "substance3d.com",
+                    "theblog.adobe.com",
+                    "xd.adobe.com"
+                ]
             },
             {
                 "name": "ibm",
@@ -75,20 +135,6 @@
                 ]
             },
             {
-                "name": "ui",
-                "urls": [
-                    "*.ubnt.com",
-                    "community.ui.com",
-                    "*.ui.com",
-                    "store.ui.com",
-                    "ir.ui.com",
-                    "forum-es.ui.com",
-                    "forum-pt.ui.com",
-                    "help.ui.com",
-                    "blog.ui.com"
-                ]
-            },
-            {
                 "name": "starbucks",
                 "urls": [
                     "gift.starbucks.co.jp",
@@ -110,6 +156,20 @@
                     "www.starbucks.com.sg",
                     "www.teavana.com",
                     "www.starbucksreserve.com"
+                ]
+            },
+            {
+                "name": "ui",
+                "urls": [
+                    "*.ubnt.com",
+                    "community.ui.com",
+                    "*.ui.com",
+                    "store.ui.com",
+                    "ir.ui.com",
+                    "forum-es.ui.com",
+                    "forum-pt.ui.com",
+                    "help.ui.com",
+                    "blog.ui.com"
                 ]
             },
             {
@@ -135,15 +195,6 @@
                     "*.shopifykloud.com",
                     "*.shopify.com",
                     "exchangemarketplace.com"
-                ]
-            },
-            {
-                "name": "zomato",
-                "urls": [
-                    "*.zomato.com",
-                    "winecellar.zomato.com",
-                    "*.zdev.net",
-                    "www.zomatobook.com"
                 ]
             },
             {
@@ -176,6 +227,15 @@
                     "loanbuilder.com",
                     "swiftfinancial.com",
                     "swiftcapital.com"
+                ]
+            },
+            {
+                "name": "zomato",
+                "urls": [
+                    "*.zomato.com",
+                    "winecellar.zomato.com",
+                    "*.zdev.net",
+                    "www.zomatobook.com"
                 ]
             },
             {
@@ -745,6 +805,10 @@
                 "urls": []
             },
             {
+                "name": "kaspersky",
+                "urls": []
+            },
+            {
                 "name": "dashlane",
                 "urls": [
                     "ws1.dashlane.com",
@@ -767,10 +831,6 @@
                     "*.vladcazino.ro",
                     "relaxcdn.unibet.com"
                 ]
-            },
-            {
-                "name": "kaspersky",
-                "urls": []
             },
             {
                 "name": "algolia",
@@ -978,7 +1038,6 @@
                     "https://api.data.gov",
                     "*.login.gov",
                     "dashboard-beta.fr.cloud.gov",
-                    "*.search.usa.gov",
                     "tock.18f.gov",
                     "*.code.gov",
                     "www.fedramp.gov",
@@ -991,7 +1050,6 @@
                     "https://federalist-docs.18f.gov",
                     "https://manage.data.gov",
                     "https://vote.gov",
-                    "https://analytics.usa.gov",
                     "https://18f.gsa.gov"
                 ]
             },
@@ -1688,6 +1746,12 @@
                 "urls": []
             },
             {
+                "name": "lemlist",
+                "urls": [
+                    "app.lemlist.com"
+                ]
+            },
+            {
                 "name": "ibb-openssl",
                 "urls": []
             },
@@ -1773,12 +1837,6 @@
                 ]
             },
             {
-                "name": "lemlist",
-                "urls": [
-                    "app.lemlist.com"
-                ]
-            },
-            {
                 "name": "creditkarma",
                 "urls": [
                     "https://*.creditkarma.com",
@@ -1838,18 +1896,18 @@
                 ]
             },
             {
+                "name": "stagingdoteverydotorg",
+                "urls": [
+                    "staging.every.org"
+                ]
+            },
+            {
                 "name": "ruby",
                 "urls": []
             },
             {
                 "name": "mobisystems_ltd",
                 "urls": []
-            },
-            {
-                "name": "stagingdoteverydotorg",
-                "urls": [
-                    "staging.every.org"
-                ]
             },
             {
                 "name": "bitwarden",
@@ -1990,6 +2048,13 @@
                 ]
             },
             {
+                "name": "smtp2go",
+                "urls": [
+                    "smtp2go.com",
+                    "app.smtp2go.com"
+                ]
+            },
+            {
                 "name": "stellar",
                 "urls": []
             },
@@ -2006,13 +2071,6 @@
                     "api.trycourier.app",
                     "*.ct0.app",
                     "www.trycourier.com"
-                ]
-            },
-            {
-                "name": "smtp2go",
-                "urls": [
-                    "smtp2go.com",
-                    "app.smtp2go.com"
                 ]
             },
             {
@@ -2174,6 +2232,16 @@
                 ]
             },
             {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr"
+                ]
+            },
+            {
                 "name": "ibb-apache",
                 "urls": []
             },
@@ -2208,16 +2276,6 @@
                 "urls": [
                     "*.koho.ca",
                     "*.koho.app"
-                ]
-            },
-            {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr"
                 ]
             },
             {
@@ -2322,6 +2380,18 @@
                 ]
             },
             {
+                "name": "fortmatic_inc",
+                "urls": [
+                    "api.fortmatic.com",
+                    "x2.fortmatic.com",
+                    "auth.magic.link",
+                    "dashboard.magic.link",
+                    "api.magic.link",
+                    "dashboard.fortmatic.com",
+                    "fortmatic.com"
+                ]
+            },
+            {
                 "name": "makerdao_bbp",
                 "urls": [
                     "forum.makerdao.com",
@@ -2348,18 +2418,6 @@
             {
                 "name": "sweatco_ltd",
                 "urls": []
-            },
-            {
-                "name": "fortmatic_inc",
-                "urls": [
-                    "api.fortmatic.com",
-                    "x2.fortmatic.com",
-                    "auth.magic.link",
-                    "dashboard.magic.link",
-                    "api.magic.link",
-                    "dashboard.fortmatic.com",
-                    "fortmatic.com"
-                ]
             },
             {
                 "name": "picsart",
@@ -2487,6 +2545,14 @@
                 "urls": []
             },
             {
+                "name": "rockset",
+                "urls": [
+                    "console.rockset.com",
+                    "docs.rockset.com",
+                    "api.rs2.usw2.rockset.com"
+                ]
+            },
+            {
                 "name": "ibb-nginx",
                 "urls": []
             },
@@ -2518,14 +2584,6 @@
                     "github.com/oasislabs/ed25519",
                     "github.com/oasislabs/bsaes.js",
                     "*.testnet.oasiscloud.io"
-                ]
-            },
-            {
-                "name": "rockset",
-                "urls": [
-                    "console.rockset.com",
-                    "docs.rockset.com",
-                    "api.rs2.usw2.rockset.com"
                 ]
             },
             {
@@ -2615,6 +2673,14 @@
             {
                 "name": "github-security-lab",
                 "urls": []
+            },
+            {
+                "name": "watson_group",
+                "urls": [
+                    "www.superdrug.com",
+                    "https://www.superdrug.com/blog",
+                    "*.superdrug.com"
+                ]
             },
             {
                 "name": "wordpress",
@@ -2799,8 +2865,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 305,
-            "totalUrls": 1369
+            "totalPrograms": 306,
+            "totalUrls": 1429
         }
     }
 }
