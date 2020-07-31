@@ -135,6 +135,20 @@
                 ]
             },
             {
+                "name": "ui",
+                "urls": [
+                    "*.ubnt.com",
+                    "community.ui.com",
+                    "*.ui.com",
+                    "store.ui.com",
+                    "ir.ui.com",
+                    "forum-es.ui.com",
+                    "forum-pt.ui.com",
+                    "help.ui.com",
+                    "blog.ui.com"
+                ]
+            },
+            {
                 "name": "starbucks",
                 "urls": [
                     "gift.starbucks.co.jp",
@@ -156,20 +170,6 @@
                     "www.starbucks.com.sg",
                     "www.teavana.com",
                     "www.starbucksreserve.com"
-                ]
-            },
-            {
-                "name": "ui",
-                "urls": [
-                    "*.ubnt.com",
-                    "community.ui.com",
-                    "*.ui.com",
-                    "store.ui.com",
-                    "ir.ui.com",
-                    "forum-es.ui.com",
-                    "forum-pt.ui.com",
-                    "help.ui.com",
-                    "blog.ui.com"
                 ]
             },
             {
@@ -538,11 +538,14 @@
                     "kit.snapchat.com",
                     "snappublisher.snapchat.com",
                     "geofilters.snapchat.com",
+                    "ads.snapchat.com",
                     "www.bitmoji.com",
                     "www.bitstrips.com",
                     "www.scan.me",
                     "scan.snapchat.com",
-                    "spectacles.com"
+                    "spectacles.com",
+                    "map.snapchat.com",
+                    "story.snapchat.com"
                 ]
             },
             {
@@ -881,15 +884,6 @@
                 ]
             },
             {
-                "name": "airtable",
-                "urls": [
-                    "staging.airtable.com",
-                    "*.staging-airtableblocks.com",
-                    "*.staging.airtable.com",
-                    "api-staging.airtable.com"
-                ]
-            },
-            {
                 "name": "8x8",
                 "urls": [
                     "*.ucverse.com",
@@ -914,13 +908,22 @@
                 ]
             },
             {
+                "name": "airtable",
+                "urls": [
+                    "staging.airtable.com",
+                    "*.staging-airtableblocks.com",
+                    "*.staging.airtable.com",
+                    "api-staging.airtable.com"
+                ]
+            },
+            {
                 "name": "badoo",
                 "urls": []
             },
             {
                 "name": "alibaba",
                 "urls": [
-                    "*.lazada.sg",
+                    "*.lazada.*",
                     "*.cainiao.com",
                     "*.alibaba.com",
                     "*.aliexpress.com",
@@ -1301,6 +1304,19 @@
                 "urls": []
             },
             {
+                "name": "playstation",
+                "urls": [
+                    "*.playstation.net",
+                    "*.sonyentertainmentnetwork.com",
+                    "*.api.playstation.com",
+                    "my.playstation.com",
+                    "store.playstation.com",
+                    "social.playstation.com",
+                    "transact.playstation.com",
+                    "wallets.api.playstation.com"
+                ]
+            },
+            {
                 "name": "upserve",
                 "urls": [
                     "app.upserve.com",
@@ -1321,19 +1337,6 @@
                     "https://645892349820.vulnerbug.com",
                     "teamhelp.upserve.com",
                     "*.upserve.com"
-                ]
-            },
-            {
-                "name": "playstation",
-                "urls": [
-                    "*.playstation.net",
-                    "*.sonyentertainmentnetwork.com",
-                    "*.api.playstation.com",
-                    "my.playstation.com",
-                    "store.playstation.com",
-                    "social.playstation.com",
-                    "transact.playstation.com",
-                    "wallets.api.playstation.com"
                 ]
             },
             {
@@ -1742,14 +1745,14 @@
                 ]
             },
             {
-                "name": "torproject",
-                "urls": []
-            },
-            {
                 "name": "lemlist",
                 "urls": [
                     "app.lemlist.com"
                 ]
+            },
+            {
+                "name": "torproject",
+                "urls": []
             },
             {
                 "name": "ibb-openssl",
@@ -2476,6 +2479,13 @@
                 ]
             },
             {
+                "name": "uphabit",
+                "urls": [
+                    "api.uphabit.com",
+                    "web.uphabit.com"
+                ]
+            },
+            {
                 "name": "lendinghome",
                 "urls": [
                     "*.lh-matrix.com",
@@ -2499,13 +2509,6 @@
             {
                 "name": "solidus",
                 "urls": []
-            },
-            {
-                "name": "uphabit",
-                "urls": [
-                    "api.uphabit.com",
-                    "web.uphabit.com"
-                ]
             },
             {
                 "name": "btfs",
@@ -2612,6 +2615,14 @@
                 ]
             },
             {
+                "name": "watson_group",
+                "urls": [
+                    "www.superdrug.com",
+                    "https://www.superdrug.com/blog",
+                    "*.superdrug.com"
+                ]
+            },
+            {
                 "name": "bunq",
                 "urls": [
                     "api.bunq.com"
@@ -2673,14 +2684,6 @@
             {
                 "name": "github-security-lab",
                 "urls": []
-            },
-            {
-                "name": "watson_group",
-                "urls": [
-                    "www.superdrug.com",
-                    "https://www.superdrug.com/blog",
-                    "*.superdrug.com"
-                ]
             },
             {
                 "name": "wordpress",
@@ -2866,7 +2869,7 @@
         ],
         "metaData": {
             "totalPrograms": 306,
-            "totalUrls": 1429
+            "totalUrls": 1432
         }
     }
 }
