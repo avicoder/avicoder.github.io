@@ -84,7 +84,8 @@
                     "stock.adobe.com",
                     "substance3d.com",
                     "theblog.adobe.com",
-                    "xd.adobe.com"
+                    "xd.adobe.com",
+                    "*.adobe.com"
                 ]
             },
             {
@@ -757,6 +758,18 @@
                 "urls": []
             },
             {
+                "name": "paddypowerbetfair",
+                "urls": [
+                    "*.betfair.com",
+                    "*.paddypower.com",
+                    "*.betfair.es",
+                    "*.betfair.it",
+                    "*.betfair.ro",
+                    "*.betfair.se",
+                    "*.paddypower.it"
+                ]
+            },
+            {
                 "name": "unikrn",
                 "urls": [
                     "unikrn.com",
@@ -775,18 +788,6 @@
                 ]
             },
             {
-                "name": "paddypowerbetfair",
-                "urls": [
-                    "*.betfair.com",
-                    "*.paddypower.com",
-                    "*.betfair.es",
-                    "*.betfair.it",
-                    "*.betfair.ro",
-                    "*.betfair.se",
-                    "*.paddypower.it"
-                ]
-            },
-            {
                 "name": "irccloud",
                 "urls": [
                     "www.irccloud.com",
@@ -800,26 +801,16 @@
                 ]
             },
             {
-                "name": "formassembly",
+                "name": "khanacademy",
                 "urls": []
             },
             {
-                "name": "khanacademy",
+                "name": "formassembly",
                 "urls": []
             },
             {
                 "name": "kaspersky",
                 "urls": []
-            },
-            {
-                "name": "dashlane",
-                "urls": [
-                    "ws1.dashlane.com",
-                    "www.dashlane.com",
-                    "console.dashlane.com",
-                    "app.dashlane.com",
-                    "logs.dashlane.com"
-                ]
             },
             {
                 "name": "kindred_group",
@@ -833,6 +824,16 @@
                     "*.igame.com",
                     "*.vladcazino.ro",
                     "relaxcdn.unibet.com"
+                ]
+            },
+            {
+                "name": "dashlane",
+                "urls": [
+                    "ws1.dashlane.com",
+                    "www.dashlane.com",
+                    "console.dashlane.com",
+                    "app.dashlane.com",
+                    "logs.dashlane.com"
                 ]
             },
             {
@@ -940,6 +941,14 @@
                 ]
             },
             {
+                "name": "backblaze",
+                "urls": [
+                    "www.backblaze.com",
+                    "*.backblazeb2.com",
+                    "*.backblaze.com"
+                ]
+            },
+            {
                 "name": "quora",
                 "urls": [
                     "*.quora.com"
@@ -953,14 +962,6 @@
                     "*.miui.com",
                     "*.xiaomiyoupin.com",
                     "*.miwifi.com"
-                ]
-            },
-            {
-                "name": "backblaze",
-                "urls": [
-                    "www.backblaze.com",
-                    "*.backblazeb2.com",
-                    "*.backblaze.com"
                 ]
             },
             {
@@ -1198,6 +1199,18 @@
                 ]
             },
             {
+                "name": "line",
+                "urls": [
+                    "*.line.me",
+                    "*.line-apps.com",
+                    "*.line.naver.jp",
+                    "live.line.me",
+                    "music.line.me",
+                    "news.line.me",
+                    "store.line.me"
+                ]
+            },
+            {
                 "name": "shipt",
                 "urls": [
                     "app.shipt.com",
@@ -1218,18 +1231,6 @@
                 "name": "binary",
                 "urls": [
                     "*.binary.com"
-                ]
-            },
-            {
-                "name": "line",
-                "urls": [
-                    "*.line.me",
-                    "*.line-apps.com",
-                    "*.line.naver.jp",
-                    "live.line.me",
-                    "music.line.me",
-                    "news.line.me",
-                    "store.line.me"
                 ]
             },
             {
@@ -1439,20 +1440,6 @@
                 "urls": []
             },
             {
-                "name": "palo_alto_software",
-                "urls": [
-                    "app.liveplan.com",
-                    "app.outpost.co",
-                    "api.outpost.co",
-                    "www.paloalto.com",
-                    "www.liveplan.com",
-                    "www.outpost.co",
-                    "www.teamoutpost.com",
-                    "www.bplans.com",
-                    "www.mplans.com"
-                ]
-            },
-            {
                 "name": "innogames",
                 "urls": [
                     "*.innogames.com",
@@ -1472,12 +1459,34 @@
                 ]
             },
             {
+                "name": "palo_alto_software",
+                "urls": [
+                    "app.liveplan.com",
+                    "app.outpost.co",
+                    "api.outpost.co",
+                    "www.paloalto.com",
+                    "www.liveplan.com",
+                    "www.outpost.co",
+                    "www.teamoutpost.com",
+                    "www.bplans.com",
+                    "www.mplans.com"
+                ]
+            },
+            {
                 "name": "lifeomic",
                 "urls": [
                     "*.infra.lifeomic.com",
                     "*.dev.lifeomic.com",
                     "*.dev.jupiterone.io",
                     "https://apps.wellness.dev.lifeomic.com"
+                ]
+            },
+            {
+                "name": "datastax",
+                "urls": [
+                    "https://www.datastax.com/",
+                    "https://downloads.datastax.com",
+                    "https://docs.datastax.com/"
                 ]
             },
             {
@@ -1506,14 +1515,6 @@
                     "ws.blockchain.info",
                     "ws.prod.blockchain.info",
                     "exchange.blockchain.com"
-                ]
-            },
-            {
-                "name": "datastax",
-                "urls": [
-                    "https://www.datastax.com/",
-                    "https://downloads.datastax.com",
-                    "https://docs.datastax.com/"
                 ]
             },
             {
@@ -2039,6 +2040,13 @@
                 ]
             },
             {
+                "name": "smtp2go",
+                "urls": [
+                    "smtp2go.com",
+                    "app.smtp2go.com"
+                ]
+            },
+            {
                 "name": "engel_volkers",
                 "urls": [
                     "*.engelvoelkers.com"
@@ -2048,13 +2056,6 @@
                 "name": "gener8",
                 "urls": [
                     "*.gener8ads.com"
-                ]
-            },
-            {
-                "name": "smtp2go",
-                "urls": [
-                    "smtp2go.com",
-                    "app.smtp2go.com"
                 ]
             },
             {
@@ -2215,6 +2216,16 @@
                 ]
             },
             {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr"
+                ]
+            },
+            {
                 "name": "ibb-perl",
                 "urls": []
             },
@@ -2232,16 +2243,6 @@
                 "name": "amitree_inc",
                 "urls": [
                     "www.amitree.com"
-                ]
-            },
-            {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr"
                 ]
             },
             {
@@ -2266,6 +2267,12 @@
                 ]
             },
             {
+                "name": "allegro",
+                "urls": [
+                    "*.allegro.pl.allegrosandbox.pl"
+                ]
+            },
+            {
                 "name": "kubernetes",
                 "urls": [
                     "https://prow.k8s.io",
@@ -2284,12 +2291,6 @@
             {
                 "name": "globaleaks",
                 "urls": []
-            },
-            {
-                "name": "allegro",
-                "urls": [
-                    "*.allegro.pl.allegrosandbox.pl"
-                ]
             },
             {
                 "name": "forescout_technologies",
@@ -2869,7 +2870,7 @@
         ],
         "metaData": {
             "totalPrograms": 306,
-            "totalUrls": 1432
+            "totalUrls": 1433
         }
     }
 }
