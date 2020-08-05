@@ -126,6 +126,20 @@
                 "urls": []
             },
             {
+                "name": "magento",
+                "urls": [
+                    "marketplace.magento.com",
+                    "magentocommerce.com",
+                    "repo.magento.com",
+                    "magento.com",
+                    "u.magento.com",
+                    "imagine.magento.com",
+                    "magentolive.com",
+                    "account.magento.com",
+                    "accounts.magento.cloud"
+                ]
+            },
+            {
                 "name": "slack",
                 "urls": [
                     "slack.com",
@@ -171,20 +185,6 @@
                     "www.starbucks.com.sg",
                     "www.teavana.com",
                     "www.starbucksreserve.com"
-                ]
-            },
-            {
-                "name": "magento",
-                "urls": [
-                    "marketplace.magento.com",
-                    "magentocommerce.com",
-                    "repo.magento.com",
-                    "magento.com",
-                    "u.magento.com",
-                    "imagine.magento.com",
-                    "magentolive.com",
-                    "account.magento.com",
-                    "accounts.magento.cloud"
                 ]
             },
             {
@@ -809,10 +809,6 @@
                 "urls": []
             },
             {
-                "name": "kaspersky",
-                "urls": []
-            },
-            {
                 "name": "kindred_group",
                 "urls": [
                     "*.unibet.com",
@@ -825,6 +821,10 @@
                     "*.vladcazino.ro",
                     "relaxcdn.unibet.com"
                 ]
+            },
+            {
+                "name": "kaspersky",
+                "urls": []
             },
             {
                 "name": "dashlane",
@@ -853,13 +853,6 @@
                 ]
             },
             {
-                "name": "stripo",
-                "urls": [
-                    "my.stripo.email",
-                    "stripo.email"
-                ]
-            },
-            {
                 "name": "chaturbate",
                 "urls": [
                     "https://chaturbate.com",
@@ -870,6 +863,13 @@
                     "https://billingsupport.chaturbate.com",
                     "https://status.chaturbate.com",
                     "https://secure.chaturbate.com"
+                ]
+            },
+            {
+                "name": "stripo",
+                "urls": [
+                    "my.stripo.email",
+                    "stripo.email"
                 ]
             },
             {
@@ -941,6 +941,16 @@
                 ]
             },
             {
+                "name": "xiaomi",
+                "urls": [
+                    "*.mi.com",
+                    "*.xiaomi.com",
+                    "*.miui.com",
+                    "*.xiaomiyoupin.com",
+                    "*.miwifi.com"
+                ]
+            },
+            {
                 "name": "backblaze",
                 "urls": [
                     "www.backblaze.com",
@@ -952,16 +962,6 @@
                 "name": "quora",
                 "urls": [
                     "*.quora.com"
-                ]
-            },
-            {
-                "name": "xiaomi",
-                "urls": [
-                    "*.mi.com",
-                    "*.xiaomi.com",
-                    "*.miui.com",
-                    "*.xiaomiyoupin.com",
-                    "*.miwifi.com"
                 ]
             },
             {
@@ -1275,6 +1275,19 @@
                 ]
             },
             {
+                "name": "playstation",
+                "urls": [
+                    "*.playstation.net",
+                    "*.sonyentertainmentnetwork.com",
+                    "*.api.playstation.com",
+                    "my.playstation.com",
+                    "store.playstation.com",
+                    "social.playstation.com",
+                    "transact.playstation.com",
+                    "wallets.api.playstation.com"
+                ]
+            },
+            {
                 "name": "trustpilot",
                 "urls": [
                     "*api.trustpilot.com",
@@ -1303,19 +1316,6 @@
             {
                 "name": "discourse",
                 "urls": []
-            },
-            {
-                "name": "playstation",
-                "urls": [
-                    "*.playstation.net",
-                    "*.sonyentertainmentnetwork.com",
-                    "*.api.playstation.com",
-                    "my.playstation.com",
-                    "store.playstation.com",
-                    "social.playstation.com",
-                    "transact.playstation.com",
-                    "wallets.api.playstation.com"
-                ]
             },
             {
                 "name": "equifax",
@@ -1906,10 +1906,6 @@
                 "urls": []
             },
             {
-                "name": "mobisystems_ltd",
-                "urls": []
-            },
-            {
                 "name": "bitwarden",
                 "urls": [
                     "bitwarden.com",
@@ -1918,6 +1914,16 @@
                     "vault.bitwarden.com",
                     "help.bitwarden.com"
                 ]
+            },
+            {
+                "name": "engel_volkers",
+                "urls": [
+                    "*.engelvoelkers.com"
+                ]
+            },
+            {
+                "name": "mobisystems_ltd",
+                "urls": []
             },
             {
                 "name": "xilinx",
@@ -2040,12 +2046,6 @@
                 "urls": [
                     "smtp2go.com",
                     "app.smtp2go.com"
-                ]
-            },
-            {
-                "name": "engel_volkers",
-                "urls": [
-                    "*.engelvoelkers.com"
                 ]
             },
             {
@@ -2205,6 +2205,16 @@
                 "urls": []
             },
             {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr"
+                ]
+            },
+            {
                 "name": "codeigniter",
                 "urls": [
                     "www.codeigniter.com"
@@ -2215,16 +2225,6 @@
                 "urls": [
                     "app.polymail.io",
                     "welovepg.polymail.io"
-                ]
-            },
-            {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr"
                 ]
             },
             {
@@ -2362,6 +2362,15 @@
                 ]
             },
             {
+                "name": "makerdao_bbp",
+                "urls": [
+                    "forum.makerdao.com",
+                    "chat.makerdao.com",
+                    "blog.makerdao.com",
+                    "support.makerdao.com"
+                ]
+            },
+            {
                 "name": "genasys",
                 "urls": [
                     "staging.genasys.tech/4web",
@@ -2389,15 +2398,6 @@
                     "api.magic.link",
                     "dashboard.fortmatic.com",
                     "fortmatic.com"
-                ]
-            },
-            {
-                "name": "makerdao_bbp",
-                "urls": [
-                    "forum.makerdao.com",
-                    "chat.makerdao.com",
-                    "blog.makerdao.com",
-                    "support.makerdao.com"
                 ]
             },
             {
@@ -2512,6 +2512,14 @@
                 "urls": []
             },
             {
+                "name": "rockset",
+                "urls": [
+                    "console.rockset.com",
+                    "docs.rockset.com",
+                    "api.rs2.usw2.rockset.com"
+                ]
+            },
+            {
                 "name": "nokogiri",
                 "urls": []
             },
@@ -2543,14 +2551,6 @@
             {
                 "name": "matic-network",
                 "urls": []
-            },
-            {
-                "name": "rockset",
-                "urls": [
-                    "console.rockset.com",
-                    "docs.rockset.com",
-                    "api.rs2.usw2.rockset.com"
-                ]
             },
             {
                 "name": "ibb-nginx",
