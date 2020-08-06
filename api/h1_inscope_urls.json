@@ -704,6 +704,10 @@
                 "urls": []
             },
             {
+                "name": "sg-vdp",
+                "urls": []
+            },
+            {
                 "name": "harvest",
                 "urls": [
                     "harvestapp.com",
@@ -711,10 +715,6 @@
                     "id.getharvest.com",
                     "getharvest.com"
                 ]
-            },
-            {
-                "name": "sg-vdp",
-                "urls": []
             },
             {
                 "name": "nextcloud",
@@ -845,6 +845,13 @@
                 ]
             },
             {
+                "name": "stripo",
+                "urls": [
+                    "my.stripo.email",
+                    "stripo.email"
+                ]
+            },
+            {
                 "name": "files",
                 "urls": [
                     "app.files.com",
@@ -863,25 +870,6 @@
                     "https://billingsupport.chaturbate.com",
                     "https://status.chaturbate.com",
                     "https://secure.chaturbate.com"
-                ]
-            },
-            {
-                "name": "stripo",
-                "urls": [
-                    "my.stripo.email",
-                    "stripo.email"
-                ]
-            },
-            {
-                "name": "imgur",
-                "urls": []
-            },
-            {
-                "name": "ratelimited",
-                "urls": [
-                    "*.ratelimited.me",
-                    "ratelimited.me",
-                    "api.ratelimited.me"
                 ]
             },
             {
@@ -909,17 +897,16 @@
                 ]
             },
             {
-                "name": "airtable",
-                "urls": [
-                    "staging.airtable.com",
-                    "*.staging-airtableblocks.com",
-                    "*.staging.airtable.com",
-                    "api-staging.airtable.com"
-                ]
+                "name": "imgur",
+                "urls": []
             },
             {
-                "name": "badoo",
-                "urls": []
+                "name": "ratelimited",
+                "urls": [
+                    "*.ratelimited.me",
+                    "ratelimited.me",
+                    "api.ratelimited.me"
+                ]
             },
             {
                 "name": "alibaba",
@@ -939,6 +926,19 @@
                     "www.alibabagroup.com",
                     "*.alimama.com"
                 ]
+            },
+            {
+                "name": "airtable",
+                "urls": [
+                    "staging.airtable.com",
+                    "*.staging-airtableblocks.com",
+                    "*.staging.airtable.com",
+                    "api-staging.airtable.com"
+                ]
+            },
+            {
+                "name": "badoo",
+                "urls": []
             },
             {
                 "name": "xiaomi",
@@ -2181,6 +2181,16 @@
                 "urls": []
             },
             {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr"
+                ]
+            },
+            {
                 "name": "evernote",
                 "urls": [
                     "*.evernote.com"
@@ -2203,16 +2213,6 @@
             {
                 "name": "nodejs",
                 "urls": []
-            },
-            {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr"
-                ]
             },
             {
                 "name": "codeigniter",
@@ -2362,6 +2362,18 @@
                 ]
             },
             {
+                "name": "fortmatic_inc",
+                "urls": [
+                    "api.fortmatic.com",
+                    "x2.fortmatic.com",
+                    "auth.magic.link",
+                    "dashboard.magic.link",
+                    "api.magic.link",
+                    "dashboard.fortmatic.com",
+                    "fortmatic.com"
+                ]
+            },
+            {
                 "name": "makerdao_bbp",
                 "urls": [
                     "forum.makerdao.com",
@@ -2386,18 +2398,6 @@
                     "www.streak.com",
                     "api.streak.com",
                     "mailfoogae.appspot.com"
-                ]
-            },
-            {
-                "name": "fortmatic_inc",
-                "urls": [
-                    "api.fortmatic.com",
-                    "x2.fortmatic.com",
-                    "auth.magic.link",
-                    "dashboard.magic.link",
-                    "api.magic.link",
-                    "dashboard.fortmatic.com",
-                    "fortmatic.com"
                 ]
             },
             {
