@@ -236,6 +236,7 @@
                     "*.zomato.com",
                     "winecellar.zomato.com",
                     "*.zdev.net",
+                    "*.zomans.com",
                     "www.zomatobook.com"
                 ]
             },
@@ -353,6 +354,14 @@
                 ]
             },
             {
+                "name": "glassdoor",
+                "urls": [
+                    "http://www.glassdoor.com/",
+                    "http://api.glassdoor.com",
+                    "https://help.glassdoor.com/"
+                ]
+            },
+            {
                 "name": "github",
                 "urls": [
                     "GitHub.com",
@@ -366,14 +375,6 @@
                     "jobs.github.com",
                     "semmle.net",
                     "semmle.com"
-                ]
-            },
-            {
-                "name": "glassdoor",
-                "urls": [
-                    "http://www.glassdoor.com/",
-                    "http://api.glassdoor.com",
-                    "https://help.glassdoor.com/"
                 ]
             },
             {
@@ -845,6 +846,30 @@
                 ]
             },
             {
+                "name": "8x8",
+                "urls": [
+                    "*.ucverse.com",
+                    "*.8x8.com",
+                    "*.packet8.net",
+                    "*.easycontactnow.com",
+                    "*.dxi.eu",
+                    "accountmanager.8x8.com",
+                    "*.contactnow.8x8.com",
+                    "sso.8x8.com",
+                    "*.jit.si",
+                    "vcc-*.8x8.com",
+                    "8x8.vc",
+                    "*.wavecell.com",
+                    "callstats.io",
+                    "www.8x8.com",
+                    "*.sameroom.io",
+                    "*.mycontactual.com",
+                    "*.jitsi.org",
+                    "support.8x8.com",
+                    "get8x8.com"
+                ]
+            },
+            {
                 "name": "stripo",
                 "urls": [
                     "my.stripo.email",
@@ -870,30 +895,6 @@
                     "https://billingsupport.chaturbate.com",
                     "https://status.chaturbate.com",
                     "https://secure.chaturbate.com"
-                ]
-            },
-            {
-                "name": "8x8",
-                "urls": [
-                    "*.ucverse.com",
-                    "*.8x8.com",
-                    "*.packet8.net",
-                    "*.easycontactnow.com",
-                    "*.dxi.eu",
-                    "accountmanager.8x8.com",
-                    "*.contactnow.8x8.com",
-                    "sso.8x8.com",
-                    "*.jit.si",
-                    "vcc-*.8x8.com",
-                    "8x8.vc",
-                    "*.wavecell.com",
-                    "callstats.io",
-                    "www.8x8.com",
-                    "*.sameroom.io",
-                    "*.mycontactual.com",
-                    "*.jitsi.org",
-                    "support.8x8.com",
-                    "get8x8.com"
                 ]
             },
             {
@@ -1626,6 +1627,15 @@
                 ]
             },
             {
+                "name": "magisto",
+                "urls": [
+                    "magisto.com,www.magisto.com",
+                    "*.magisto.com",
+                    "staging.magisto.com",
+                    "applause1.magisto.com"
+                ]
+            },
+            {
                 "name": "crypto",
                 "urls": [
                     "www.crypto.com",
@@ -1635,15 +1645,6 @@
                     "https://merchant.crypto.com",
                     "pay.crypto.com",
                     "js.crypto.com"
-                ]
-            },
-            {
-                "name": "magisto",
-                "urls": [
-                    "magisto.com,www.magisto.com",
-                    "*.magisto.com",
-                    "staging.magisto.com",
-                    "applause1.magisto.com"
                 ]
             },
             {
@@ -1729,6 +1730,12 @@
                 "urls": []
             },
             {
+                "name": "lemlist",
+                "urls": [
+                    "app.lemlist.com"
+                ]
+            },
+            {
                 "name": "helium",
                 "urls": [
                     "ota.helium.com",
@@ -1752,12 +1759,6 @@
                     "(*).endlcdn.site",
                     "console-idrac.djelectro.me",
                     "idrac.djelectro.me"
-                ]
-            },
-            {
-                "name": "lemlist",
-                "urls": [
-                    "app.lemlist.com"
                 ]
             },
             {
@@ -1934,6 +1935,10 @@
                 "urls": []
             },
             {
+                "name": "cengage",
+                "urls": []
+            },
+            {
                 "name": "wellsfargo",
                 "urls": [
                     "*.wellsfargo.com"
@@ -1944,10 +1949,6 @@
                 "urls": [
                     "mariadb.org"
                 ]
-            },
-            {
-                "name": "cengage",
-                "urls": []
             },
             {
                 "name": "zenly",
@@ -2021,7 +2022,8 @@
                     "zurich.topcoder.com",
                     "accounts.topcoder.com",
                     "app.topcoder.com",
-                    "apps.topcoder.com"
+                    "apps.topcoder.com",
+                    "challenges.topcoder.com"
                 ]
             },
             {
@@ -2157,6 +2159,16 @@
                 ]
             },
             {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr"
+                ]
+            },
+            {
                 "name": "parrot_sec",
                 "urls": [
                     "https://parrotlinux.org"
@@ -2179,16 +2191,6 @@
             {
                 "name": "bumble",
                 "urls": []
-            },
-            {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr"
-                ]
             },
             {
                 "name": "evernote",
@@ -2242,6 +2244,13 @@
                 "urls": []
             },
             {
+                "name": "koho",
+                "urls": [
+                    "*.koho.ca",
+                    "*.koho.app"
+                ]
+            },
+            {
                 "name": "ibb-apache",
                 "urls": []
             },
@@ -2275,13 +2284,6 @@
                     "https://kubernetes.io",
                     "k8s.io",
                     "kubernetes-csi.github.io"
-                ]
-            },
-            {
-                "name": "koho",
-                "urls": [
-                    "*.koho.ca",
-                    "*.koho.app"
                 ]
             },
             {
@@ -2591,6 +2593,14 @@
                 "urls": []
             },
             {
+                "name": "watson_group",
+                "urls": [
+                    "www.superdrug.com",
+                    "https://www.superdrug.com/blog",
+                    "*.superdrug.com"
+                ]
+            },
+            {
                 "name": "finra",
                 "urls": [
                     "*.finra.org",
@@ -2609,14 +2619,6 @@
                 "name": "aodocs",
                 "urls": [
                     "https://ao-docs.appspot.com/api/explorer"
-                ]
-            },
-            {
-                "name": "watson_group",
-                "urls": [
-                    "www.superdrug.com",
-                    "https://www.superdrug.com/blog",
-                    "*.superdrug.com"
                 ]
             },
             {
@@ -2862,7 +2864,7 @@
         ],
         "metaData": {
             "totalPrograms": 304,
-            "totalUrls": 1433
+            "totalUrls": 1435
         }
     }
 }
