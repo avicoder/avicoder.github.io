@@ -828,6 +828,13 @@
                 "urls": []
             },
             {
+                "name": "stripo",
+                "urls": [
+                    "my.stripo.email",
+                    "stripo.email"
+                ]
+            },
+            {
                 "name": "dashlane",
                 "urls": [
                     "ws1.dashlane.com",
@@ -867,13 +874,6 @@
                     "*.jitsi.org",
                     "support.8x8.com",
                     "get8x8.com"
-                ]
-            },
-            {
-                "name": "stripo",
-                "urls": [
-                    "my.stripo.email",
-                    "stripo.email"
                 ]
             },
             {
@@ -942,6 +942,14 @@
                 "urls": []
             },
             {
+                "name": "backblaze",
+                "urls": [
+                    "www.backblaze.com",
+                    "*.backblazeb2.com",
+                    "*.backblaze.com"
+                ]
+            },
+            {
                 "name": "xiaomi",
                 "urls": [
                     "*.mi.com",
@@ -949,14 +957,6 @@
                     "*.miui.com",
                     "*.xiaomiyoupin.com",
                     "*.miwifi.com"
-                ]
-            },
-            {
-                "name": "backblaze",
-                "urls": [
-                    "www.backblaze.com",
-                    "*.backblazeb2.com",
-                    "*.backblaze.com"
                 ]
             },
             {
@@ -1437,10 +1437,6 @@
                 ]
             },
             {
-                "name": "ibb-python",
-                "urls": []
-            },
-            {
                 "name": "innogames",
                 "urls": [
                     "*.innogames.com",
@@ -1472,6 +1468,10 @@
                     "www.bplans.com",
                     "www.mplans.com"
                 ]
+            },
+            {
+                "name": "ibb-python",
+                "urls": []
             },
             {
                 "name": "lifeomic",
@@ -1592,16 +1592,6 @@
                 "urls": []
             },
             {
-                "name": "pixiv",
-                "urls": [
-                    "booth.pm",
-                    "sketch.pixiv.net",
-                    "accounts.pixiv.net",
-                    "www.pixiv.net",
-                    "hub.vroid.com"
-                ]
-            },
-            {
                 "name": "goldmansachs",
                 "urls": [
                     "*.goldmansachs.com",
@@ -1624,6 +1614,16 @@
                     "www.rocaton.com",
                     "*.gspublishing.com",
                     "*.claritymoney.com"
+                ]
+            },
+            {
+                "name": "pixiv",
+                "urls": [
+                    "booth.pm",
+                    "sketch.pixiv.net",
+                    "accounts.pixiv.net",
+                    "www.pixiv.net",
+                    "hub.vroid.com"
                 ]
             },
             {
@@ -1881,14 +1881,6 @@
                 ]
             },
             {
-                "name": "monero",
-                "urls": []
-            },
-            {
-                "name": "revive_adserver",
-                "urls": []
-            },
-            {
                 "name": "bitmex",
                 "urls": [
                     "www.bitmex.com",
@@ -1897,10 +1889,22 @@
                 ]
             },
             {
+                "name": "monero",
+                "urls": []
+            },
+            {
+                "name": "revive_adserver",
+                "urls": []
+            },
+            {
                 "name": "stagingdoteverydotorg",
                 "urls": [
                     "staging.every.org"
                 ]
+            },
+            {
+                "name": "cengage",
+                "urls": []
             },
             {
                 "name": "ruby",
@@ -1935,10 +1939,6 @@
                 "urls": []
             },
             {
-                "name": "cengage",
-                "urls": []
-            },
-            {
                 "name": "wellsfargo",
                 "urls": [
                     "*.wellsfargo.com"
@@ -1948,15 +1948,6 @@
                 "name": "mariadb",
                 "urls": [
                     "mariadb.org"
-                ]
-            },
-            {
-                "name": "zenly",
-                "urls": [
-                    "api.znly.co",
-                    "rpc.znly.co",
-                    "rpc-kcp.znly.co",
-                    "zen.ly"
                 ]
             },
             {
@@ -2024,6 +2015,15 @@
                     "app.topcoder.com",
                     "apps.topcoder.com",
                     "challenges.topcoder.com"
+                ]
+            },
+            {
+                "name": "zenly",
+                "urls": [
+                    "api.znly.co",
+                    "rpc.znly.co",
+                    "rpc-kcp.znly.co",
+                    "zen.ly"
                 ]
             },
             {
@@ -2165,7 +2165,11 @@
                     "www.amazon.co.uk",
                     "www.amazon.co.jp",
                     "www.amazon.de",
-                    "www.amazon.fr"
+                    "www.amazon.fr",
+                    "www.amazon.com.mx",
+                    "www.amazon.es",
+                    "www.amazon.in",
+                    "www.amazon.ca"
                 ]
             },
             {
@@ -2328,6 +2332,10 @@
                 ]
             },
             {
+                "name": "hcl_software",
+                "urls": []
+            },
+            {
                 "name": "django",
                 "urls": []
             },
@@ -2403,10 +2411,6 @@
                 ]
             },
             {
-                "name": "hcl_software",
-                "urls": []
-            },
-            {
                 "name": "wink_jq3al",
                 "urls": []
             },
@@ -2420,6 +2424,15 @@
             {
                 "name": "sweatco_ltd",
                 "urls": []
+            },
+            {
+                "name": "insolar",
+                "urls": [
+                    "wallet.test.insolar.io",
+                    "wallet-api.test.insolar.io",
+                    "*.insolar.io",
+                    "be.test.insolar.io"
+                ]
             },
             {
                 "name": "picsart",
@@ -2437,15 +2450,6 @@
                 "name": "worklytics",
                 "urls": [
                     "*.worklytics.co"
-                ]
-            },
-            {
-                "name": "insolar",
-                "urls": [
-                    "wallet.test.insolar.io",
-                    "wallet-api.test.insolar.io",
-                    "*.insolar.io",
-                    "be.test.insolar.io"
                 ]
             },
             {
@@ -2860,11 +2864,19 @@
             {
                 "name": "tencent",
                 "urls": []
+            },
+            {
+                "name": "bugpoc",
+                "urls": [
+                    "*.bugpoc.com",
+                    "*.bugpoc.ninja",
+                    "calc.buggywebsite.com"
+                ]
             }
         ],
         "metaData": {
-            "totalPrograms": 304,
-            "totalUrls": 1435
+            "totalPrograms": 305,
+            "totalUrls": 1442
         }
     }
 }
