@@ -853,6 +853,19 @@
                 ]
             },
             {
+                "name": "chaturbate",
+                "urls": [
+                    "https://chaturbate.com",
+                    "*.highwebmedia.com",
+                    "m.chaturbate.com",
+                    "blog.chaturbate.com",
+                    "*.securegatewayaccess.com",
+                    "https://billingsupport.chaturbate.com",
+                    "https://status.chaturbate.com",
+                    "https://secure.chaturbate.com"
+                ]
+            },
+            {
                 "name": "8x8",
                 "urls": [
                     "*.ucverse.com",
@@ -882,19 +895,6 @@
                     "app.files.com",
                     "your-assigned-subdomain.files.com",
                     "www.files.com"
-                ]
-            },
-            {
-                "name": "chaturbate",
-                "urls": [
-                    "https://chaturbate.com",
-                    "*.highwebmedia.com",
-                    "m.chaturbate.com",
-                    "blog.chaturbate.com",
-                    "*.securegatewayaccess.com",
-                    "https://billingsupport.chaturbate.com",
-                    "https://status.chaturbate.com",
-                    "https://secure.chaturbate.com"
                 ]
             },
             {
@@ -1627,15 +1627,6 @@
                 ]
             },
             {
-                "name": "magisto",
-                "urls": [
-                    "magisto.com,www.magisto.com",
-                    "*.magisto.com",
-                    "staging.magisto.com",
-                    "applause1.magisto.com"
-                ]
-            },
-            {
                 "name": "crypto",
                 "urls": [
                     "www.crypto.com",
@@ -1645,6 +1636,15 @@
                     "https://merchant.crypto.com",
                     "pay.crypto.com",
                     "js.crypto.com"
+                ]
+            },
+            {
+                "name": "magisto",
+                "urls": [
+                    "magisto.com,www.magisto.com",
+                    "*.magisto.com",
+                    "staging.magisto.com",
+                    "applause1.magisto.com"
                 ]
             },
             {
