@@ -85,7 +85,8 @@
                     "substance3d.com",
                     "theblog.adobe.com",
                     "xd.adobe.com",
-                    "*.adobe.com"
+                    "*.adobe.com",
+                    "*.scene7.com"
                 ]
             },
             {
@@ -828,23 +829,6 @@
                 "urls": []
             },
             {
-                "name": "stripo",
-                "urls": [
-                    "my.stripo.email",
-                    "stripo.email"
-                ]
-            },
-            {
-                "name": "dashlane",
-                "urls": [
-                    "ws1.dashlane.com",
-                    "www.dashlane.com",
-                    "console.dashlane.com",
-                    "app.dashlane.com",
-                    "logs.dashlane.com"
-                ]
-            },
-            {
                 "name": "8x8",
                 "urls": [
                     "*.ucverse.com",
@@ -866,6 +850,23 @@
                     "*.jitsi.org",
                     "support.8x8.com",
                     "get8x8.com"
+                ]
+            },
+            {
+                "name": "stripo",
+                "urls": [
+                    "my.stripo.email",
+                    "stripo.email"
+                ]
+            },
+            {
+                "name": "dashlane",
+                "urls": [
+                    "ws1.dashlane.com",
+                    "www.dashlane.com",
+                    "console.dashlane.com",
+                    "app.dashlane.com",
+                    "logs.dashlane.com"
                 ]
             },
             {
@@ -926,6 +927,15 @@
                     "*.aliyun-inc.com",
                     "www.alibabagroup.com",
                     "*.alimama.com"
+                ]
+            },
+            {
+                "name": "acronis",
+                "urls": [
+                    "beta-baas.acronis.com",
+                    "*-api-*.acronis.com",
+                    "*.acronis.com",
+                    "account.acronis.com"
                 ]
             },
             {
@@ -1244,6 +1254,18 @@
                 ]
             },
             {
+                "name": "omise",
+                "urls": [
+                    "vault.omise.co",
+                    "api.omise.co",
+                    "dashboard.omise.co",
+                    "link.omise.co",
+                    "offsite.omise.co",
+                    "dashboard2.omise.co",
+                    "www.omise.co"
+                ]
+            },
+            {
                 "name": "internet",
                 "urls": []
             },
@@ -1255,18 +1277,6 @@
                     "*.deliveroo-data-test.io",
                     "*.deliveroo.*",
                     "*.deliveroo-streams.net"
-                ]
-            },
-            {
-                "name": "omise",
-                "urls": [
-                    "vault.omise.co",
-                    "api.omise.co",
-                    "dashboard.omise.co",
-                    "link.omise.co",
-                    "offsite.omise.co",
-                    "dashboard2.omise.co",
-                    "www.omise.co"
                 ]
             },
             {
@@ -1556,6 +1566,18 @@
                 ]
             },
             {
+                "name": "crypto",
+                "urls": [
+                    "www.crypto.com",
+                    "https://crypto.com/exchange",
+                    "app.mona.co",
+                    "https://auth.crypto.com/",
+                    "https://merchant.crypto.com",
+                    "pay.crypto.com",
+                    "js.crypto.com"
+                ]
+            },
+            {
                 "name": "clario",
                 "urls": [
                     "https://account.mackeeper.com",
@@ -1588,22 +1610,6 @@
                 ]
             },
             {
-                "name": "crypto",
-                "urls": [
-                    "www.crypto.com",
-                    "https://crypto.com/exchange",
-                    "app.mona.co",
-                    "https://auth.crypto.com/",
-                    "https://merchant.crypto.com",
-                    "pay.crypto.com",
-                    "js.crypto.com"
-                ]
-            },
-            {
-                "name": "glasswire",
-                "urls": []
-            },
-            {
                 "name": "goldmansachs",
                 "urls": [
                     "*.goldmansachs.com",
@@ -1627,6 +1633,10 @@
                     "*.gspublishing.com",
                     "*.claritymoney.com"
                 ]
+            },
+            {
+                "name": "glasswire",
+                "urls": []
             },
             {
                 "name": "pixiv",
@@ -1762,20 +1772,20 @@
                 ]
             },
             {
-                "name": "jnj_mobile",
-                "urls": []
-            },
-            {
-                "name": "ibb-openssl",
-                "urls": []
-            },
-            {
                 "name": "smartsheet",
                 "urls": [
                     "app.smartsheet.com",
                     "api.smartsheet.com/2.0",
                     "admin.smartsheet.com"
                 ]
+            },
+            {
+                "name": "jnj_mobile",
+                "urls": []
+            },
+            {
+                "name": "ibb-openssl",
+                "urls": []
             },
             {
                 "name": "trint",
@@ -1907,6 +1917,12 @@
                 "urls": []
             },
             {
+                "name": "engel_volkers",
+                "urls": [
+                    "*.engelvoelkers.com"
+                ]
+            },
+            {
                 "name": "ruby",
                 "urls": []
             },
@@ -1921,14 +1937,14 @@
                 ]
             },
             {
-                "name": "engel_volkers",
-                "urls": [
-                    "*.engelvoelkers.com"
-                ]
-            },
-            {
                 "name": "mobisystems_ltd",
                 "urls": []
+            },
+            {
+                "name": "wellsfargo",
+                "urls": [
+                    "*.wellsfargo.com"
+                ]
             },
             {
                 "name": "xilinx",
@@ -1937,12 +1953,6 @@
             {
                 "name": "notepad-plus-plus",
                 "urls": []
-            },
-            {
-                "name": "wellsfargo",
-                "urls": [
-                    "*.wellsfargo.com"
-                ]
             },
             {
                 "name": "mariadb",
@@ -2027,6 +2037,12 @@
                 ]
             },
             {
+                "name": "ozon",
+                "urls": [
+                    "www.ozon.ru"
+                ]
+            },
+            {
                 "name": "passit",
                 "urls": [
                     "app.passit.io"
@@ -2057,12 +2073,6 @@
                 ]
             },
             {
-                "name": "ozon",
-                "urls": [
-                    "www.ozon.ru"
-                ]
-            },
-            {
                 "name": "stellar",
                 "urls": []
             },
@@ -2073,6 +2083,20 @@
                     "api.trycourier.app",
                     "*.ct0.app",
                     "www.trycourier.com"
+                ]
+            },
+            {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr",
+                    "www.amazon.com.mx",
+                    "www.amazon.es",
+                    "www.amazon.in",
+                    "www.amazon.ca"
                 ]
             },
             {
@@ -2091,20 +2115,6 @@
                     "app.starlingbank.com",
                     "oauth.starlingbank.com",
                     "www.starlingbank.com"
-                ]
-            },
-            {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr",
-                    "www.amazon.com.mx",
-                    "www.amazon.es",
-                    "www.amazon.in",
-                    "www.amazon.ca"
                 ]
             },
             {
@@ -2419,6 +2429,15 @@
                 ]
             },
             {
+                "name": "insolar",
+                "urls": [
+                    "wallet.test.insolar.io",
+                    "wallet-api.test.insolar.io",
+                    "*.insolar.io",
+                    "be.test.insolar.io"
+                ]
+            },
+            {
                 "name": "wink_jq3al",
                 "urls": []
             },
@@ -2432,15 +2451,6 @@
             {
                 "name": "sweatco_ltd",
                 "urls": []
-            },
-            {
-                "name": "insolar",
-                "urls": [
-                    "wallet.test.insolar.io",
-                    "wallet-api.test.insolar.io",
-                    "*.insolar.io",
-                    "be.test.insolar.io"
-                ]
             },
             {
                 "name": "picsart",
@@ -2465,6 +2475,10 @@
                 "urls": []
             },
             {
+                "name": "central-security-project",
+                "urls": []
+            },
+            {
                 "name": "natur_com_gmbh",
                 "urls": [
                     "www.natur.com"
@@ -2476,10 +2490,6 @@
                     "slots.io",
                     "*.slots.io"
                 ]
-            },
-            {
-                "name": "central-security-project",
-                "urls": []
             },
             {
                 "name": "monolith",
@@ -2883,8 +2893,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 306,
-            "totalUrls": 1445
+            "totalPrograms": 307,
+            "totalUrls": 1450
         }
     }
 }
