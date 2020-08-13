@@ -151,20 +151,6 @@
                 ]
             },
             {
-                "name": "ui",
-                "urls": [
-                    "*.ubnt.com",
-                    "community.ui.com",
-                    "*.ui.com",
-                    "store.ui.com",
-                    "ir.ui.com",
-                    "forum-es.ui.com",
-                    "forum-pt.ui.com",
-                    "help.ui.com",
-                    "blog.ui.com"
-                ]
-            },
-            {
                 "name": "starbucks",
                 "urls": [
                     "gift.starbucks.co.jp",
@@ -186,6 +172,20 @@
                     "www.starbucks.com.sg",
                     "www.teavana.com",
                     "www.starbucksreserve.com"
+                ]
+            },
+            {
+                "name": "ui",
+                "urls": [
+                    "*.ubnt.com",
+                    "community.ui.com",
+                    "*.ui.com",
+                    "store.ui.com",
+                    "ir.ui.com",
+                    "forum-es.ui.com",
+                    "forum-pt.ui.com",
+                    "help.ui.com",
+                    "blog.ui.com"
                 ]
             },
             {
@@ -308,22 +308,6 @@
                 ]
             },
             {
-                "name": "vimeo",
-                "urls": [
-                    "www.vimeo.com",
-                    "player.vimeo.com",
-                    "api.vimeo.com",
-                    "*.cloud.vimeo.com",
-                    "vimeopro.com",
-                    "vimeo.com/ondemand",
-                    "vimeo.com/api",
-                    "*.vimeo.com",
-                    "checkout.vimeo.com",
-                    "vimeo.com/create",
-                    "vimeo.magisto.com"
-                ]
-            },
-            {
                 "name": "valve",
                 "urls": [
                     "www.dota2.com",
@@ -341,6 +325,22 @@
                     "developer.valvesoftware.com",
                     "storefront.steampowered.com",
                     "wiki.teamfortress.com"
+                ]
+            },
+            {
+                "name": "vimeo",
+                "urls": [
+                    "www.vimeo.com",
+                    "player.vimeo.com",
+                    "api.vimeo.com",
+                    "*.cloud.vimeo.com",
+                    "vimeopro.com",
+                    "vimeo.com/ondemand",
+                    "vimeo.com/api",
+                    "*.vimeo.com",
+                    "checkout.vimeo.com",
+                    "vimeo.com/create",
+                    "vimeo.magisto.com"
                 ]
             },
             {
@@ -528,6 +528,19 @@
                 ]
             },
             {
+                "name": "dropbox",
+                "urls": [
+                    "www.dropbox.com",
+                    "paper.dropbox.com",
+                    "showcase.dropbox.com",
+                    "app.hellosign.com",
+                    "api.hellosign.com",
+                    "api.helloworks.com",
+                    "portal.helloworks.com",
+                    "dropboxforum.com"
+                ]
+            },
+            {
                 "name": "open-xchange",
                 "urls": [
                     "sandbox.open-xchange.com"
@@ -559,19 +572,6 @@
                     "api.pornhub.com",
                     "ht.pornhub.com",
                     "www.pornhubpremium.com"
-                ]
-            },
-            {
-                "name": "dropbox",
-                "urls": [
-                    "www.dropbox.com",
-                    "paper.dropbox.com",
-                    "showcase.dropbox.com",
-                    "app.hellosign.com",
-                    "api.hellosign.com",
-                    "api.helloworks.com",
-                    "portal.helloworks.com",
-                    "dropboxforum.com"
                 ]
             },
             {
@@ -644,6 +644,10 @@
                 ]
             },
             {
+                "name": "sg-vdp",
+                "urls": []
+            },
+            {
                 "name": "infogram",
                 "urls": [
                     "infogram.com"
@@ -703,10 +707,6 @@
             },
             {
                 "name": "owncloud",
-                "urls": []
-            },
-            {
-                "name": "sg-vdp",
                 "urls": []
             },
             {
@@ -878,6 +878,14 @@
                 ]
             },
             {
+                "name": "files",
+                "urls": [
+                    "app.files.com",
+                    "your-assigned-subdomain.files.com",
+                    "www.files.com"
+                ]
+            },
+            {
                 "name": "chaturbate",
                 "urls": [
                     "https://chaturbate.com",
@@ -891,16 +899,17 @@
                 ]
             },
             {
-                "name": "files",
-                "urls": [
-                    "app.files.com",
-                    "your-assigned-subdomain.files.com",
-                    "www.files.com"
-                ]
-            },
-            {
                 "name": "imgur",
                 "urls": []
+            },
+            {
+                "name": "acronis",
+                "urls": [
+                    "beta-baas.acronis.com",
+                    "*-api-*.acronis.com",
+                    "*.acronis.com",
+                    "account.acronis.com"
+                ]
             },
             {
                 "name": "ratelimited",
@@ -927,15 +936,6 @@
                     "*.aliyun-inc.com",
                     "www.alibabagroup.com",
                     "*.alimama.com"
-                ]
-            },
-            {
-                "name": "acronis",
-                "urls": [
-                    "beta-baas.acronis.com",
-                    "*-api-*.acronis.com",
-                    "*.acronis.com",
-                    "account.acronis.com"
                 ]
             },
             {
@@ -1266,6 +1266,19 @@
                 ]
             },
             {
+                "name": "playstation",
+                "urls": [
+                    "*.playstation.net",
+                    "*.sonyentertainmentnetwork.com",
+                    "*.api.playstation.com",
+                    "my.playstation.com",
+                    "store.playstation.com",
+                    "social.playstation.com",
+                    "transact.playstation.com",
+                    "wallets.api.playstation.com"
+                ]
+            },
+            {
                 "name": "internet",
                 "urls": []
             },
@@ -1277,19 +1290,6 @@
                     "*.deliveroo-data-test.io",
                     "*.deliveroo.*",
                     "*.deliveroo-streams.net"
-                ]
-            },
-            {
-                "name": "playstation",
-                "urls": [
-                    "*.playstation.net",
-                    "*.sonyentertainmentnetwork.com",
-                    "*.api.playstation.com",
-                    "my.playstation.com",
-                    "store.playstation.com",
-                    "social.playstation.com",
-                    "transact.playstation.com",
-                    "wallets.api.playstation.com"
                 ]
             },
             {
@@ -1664,6 +1664,14 @@
                 ]
             },
             {
+                "name": "recargapay",
+                "urls": [
+                    "api.recarga.com",
+                    "www.recargapay.com.br/*",
+                    "secure.recarga.com/*"
+                ]
+            },
+            {
                 "name": "top_echelon_software",
                 "urls": [
                     "www.topechelon.com",
@@ -1698,14 +1706,6 @@
                     "cdn.plaid.com",
                     "my.plaid.com",
                     "demo.plaid.com"
-                ]
-            },
-            {
-                "name": "recargapay",
-                "urls": [
-                    "api.recarga.com",
-                    "www.recargapay.com.br/*",
-                    "secure.recarga.com/*"
                 ]
             },
             {
@@ -2507,15 +2507,6 @@
                 ]
             },
             {
-                "name": "lendinghome",
-                "urls": [
-                    "*.lh-matrix.com",
-                    "*.lhcapital-matrix.com",
-                    "*.lendinghome.com",
-                    "*.lhcapitalmanagement.com"
-                ]
-            },
-            {
                 "name": "upgrade",
                 "urls": [
                     "*.upgrade.com"
@@ -2611,16 +2602,16 @@
                 ]
             },
             {
-                "name": "aspen",
-                "urls": []
-            },
-            {
                 "name": "watson_group",
                 "urls": [
                     "www.superdrug.com",
                     "https://www.superdrug.com/blog",
                     "*.superdrug.com"
                 ]
+            },
+            {
+                "name": "aspen",
+                "urls": []
             },
             {
                 "name": "finra",
@@ -2887,14 +2878,13 @@
                 "name": "bugpoc",
                 "urls": [
                     "*.bugpoc.com",
-                    "*.bugpoc.ninja",
-                    "calc.buggywebsite.com"
+                    "*.bugpoc.ninja"
                 ]
             }
         ],
         "metaData": {
-            "totalPrograms": 307,
-            "totalUrls": 1450
+            "totalPrograms": 306,
+            "totalUrls": 1445
         }
     }
 }
