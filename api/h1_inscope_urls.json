@@ -790,6 +790,16 @@
                 ]
             },
             {
+                "name": "dashlane",
+                "urls": [
+                    "ws1.dashlane.com",
+                    "www.dashlane.com",
+                    "console.dashlane.com",
+                    "app.dashlane.com",
+                    "logs.dashlane.com"
+                ]
+            },
+            {
                 "name": "irccloud",
                 "urls": [
                     "www.irccloud.com",
@@ -860,16 +870,6 @@
                 ]
             },
             {
-                "name": "dashlane",
-                "urls": [
-                    "ws1.dashlane.com",
-                    "www.dashlane.com",
-                    "console.dashlane.com",
-                    "app.dashlane.com",
-                    "logs.dashlane.com"
-                ]
-            },
-            {
                 "name": "algolia",
                 "urls": [
                     "www.algolia.com",
@@ -899,10 +899,6 @@
                 ]
             },
             {
-                "name": "imgur",
-                "urls": []
-            },
-            {
                 "name": "acronis",
                 "urls": [
                     "beta-baas.acronis.com",
@@ -910,6 +906,10 @@
                     "*.acronis.com",
                     "account.acronis.com"
                 ]
+            },
+            {
+                "name": "imgur",
+                "urls": []
             },
             {
                 "name": "ratelimited",
@@ -952,14 +952,6 @@
                 "urls": []
             },
             {
-                "name": "backblaze",
-                "urls": [
-                    "www.backblaze.com",
-                    "*.backblazeb2.com",
-                    "*.backblaze.com"
-                ]
-            },
-            {
                 "name": "xiaomi",
                 "urls": [
                     "*.mi.com",
@@ -967,6 +959,14 @@
                     "*.miui.com",
                     "*.xiaomiyoupin.com",
                     "*.miwifi.com"
+                ]
+            },
+            {
+                "name": "backblaze",
+                "urls": [
+                    "www.backblaze.com",
+                    "*.backblazeb2.com",
+                    "*.backblaze.com"
                 ]
             },
             {
@@ -1147,22 +1147,6 @@
                 ]
             },
             {
-                "name": "moneybird",
-                "urls": [
-                    "https://moneybird.com",
-                    "https://moneybirdstorage.com"
-                ]
-            },
-            {
-                "name": "livestream",
-                "urls": [
-                    "*.livestream.com",
-                    "www.livestream.com",
-                    "*.new.livestream.com",
-                    "donations.livestream.com"
-                ]
-            },
-            {
                 "name": "mediamarktsaturn",
                 "urls": [
                     "www.mediamarkt.de",
@@ -1181,6 +1165,22 @@
                     "www.mediamarkt.hu",
                     "www.mediamarkt.pt",
                     "www.saturn.lu"
+                ]
+            },
+            {
+                "name": "moneybird",
+                "urls": [
+                    "https://moneybird.com",
+                    "https://moneybirdstorage.com"
+                ]
+            },
+            {
+                "name": "livestream",
+                "urls": [
+                    "*.livestream.com",
+                    "www.livestream.com",
+                    "*.new.livestream.com",
+                    "donations.livestream.com"
                 ]
             },
             {
@@ -1254,18 +1254,6 @@
                 ]
             },
             {
-                "name": "omise",
-                "urls": [
-                    "vault.omise.co",
-                    "api.omise.co",
-                    "dashboard.omise.co",
-                    "link.omise.co",
-                    "offsite.omise.co",
-                    "dashboard2.omise.co",
-                    "www.omise.co"
-                ]
-            },
-            {
                 "name": "playstation",
                 "urls": [
                     "*.playstation.net",
@@ -1276,6 +1264,18 @@
                     "social.playstation.com",
                     "transact.playstation.com",
                     "wallets.api.playstation.com"
+                ]
+            },
+            {
+                "name": "omise",
+                "urls": [
+                    "vault.omise.co",
+                    "api.omise.co",
+                    "dashboard.omise.co",
+                    "link.omise.co",
+                    "offsite.omise.co",
+                    "dashboard2.omise.co",
+                    "www.omise.co"
                 ]
             },
             {
@@ -1437,16 +1437,6 @@
                 ]
             },
             {
-                "name": "lyst",
-                "urls": [
-                    "*.lyst.com",
-                    "cdna.lystit.com",
-                    "mobileapi.lystit.com",
-                    "*.lystit.com",
-                    "*.lyst.co"
-                ]
-            },
-            {
                 "name": "innogames",
                 "urls": [
                     "*.innogames.com",
@@ -1463,6 +1453,16 @@
                     "xs1.grepolis.com",
                     "tribalwars.cash",
                     "xs1.tribalwars.cash"
+                ]
+            },
+            {
+                "name": "lyst",
+                "urls": [
+                    "*.lyst.com",
+                    "cdna.lystit.com",
+                    "mobileapi.lystit.com",
+                    "*.lystit.com",
+                    "*.lyst.co"
                 ]
             },
             {
@@ -1903,6 +1903,10 @@
                 "urls": []
             },
             {
+                "name": "cengage",
+                "urls": []
+            },
+            {
                 "name": "revive_adserver",
                 "urls": []
             },
@@ -1911,10 +1915,6 @@
                 "urls": [
                     "staging.every.org"
                 ]
-            },
-            {
-                "name": "cengage",
-                "urls": []
             },
             {
                 "name": "engel_volkers",
