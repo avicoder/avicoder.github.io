@@ -86,7 +86,8 @@
                     "theblog.adobe.com",
                     "xd.adobe.com",
                     "*.adobe.com",
-                    "*.scene7.com"
+                    "*.scene7.com",
+                    "*.omtrdc.net"
                 ]
             },
             {
@@ -835,10 +836,6 @@
                 ]
             },
             {
-                "name": "kaspersky",
-                "urls": []
-            },
-            {
                 "name": "8x8",
                 "urls": [
                     "*.ucverse.com",
@@ -863,10 +860,23 @@
                 ]
             },
             {
+                "name": "kaspersky",
+                "urls": []
+            },
+            {
                 "name": "stripo",
                 "urls": [
                     "my.stripo.email",
                     "stripo.email"
+                ]
+            },
+            {
+                "name": "acronis",
+                "urls": [
+                    "beta-baas.acronis.com",
+                    "*-api-*.acronis.com",
+                    "*.acronis.com",
+                    "account.acronis.com"
                 ]
             },
             {
@@ -896,15 +906,6 @@
                     "https://billingsupport.chaturbate.com",
                     "https://status.chaturbate.com",
                     "https://secure.chaturbate.com"
-                ]
-            },
-            {
-                "name": "acronis",
-                "urls": [
-                    "beta-baas.acronis.com",
-                    "*-api-*.acronis.com",
-                    "*.acronis.com",
-                    "account.acronis.com"
                 ]
             },
             {
@@ -1299,6 +1300,15 @@
                 ]
             },
             {
+                "name": "quantopian",
+                "urls": [
+                    "www.quantopian.com",
+                    "blog.quantopian.com",
+                    "*.dynoquant.com",
+                    "*.quantshack.com"
+                ]
+            },
+            {
                 "name": "trustpilot",
                 "urls": [
                     "*api.trustpilot.com",
@@ -1313,15 +1323,6 @@
                     "*emailsignature.trustpilot.com",
                     "*share.trustpilot.com",
                     "*business.trustpilot.com"
-                ]
-            },
-            {
-                "name": "quantopian",
-                "urls": [
-                    "www.quantopian.com",
-                    "blog.quantopian.com",
-                    "*.dynoquant.com",
-                    "*.quantshack.com"
                 ]
             },
             {
@@ -1401,18 +1402,6 @@
                 "urls": []
             },
             {
-                "name": "owox",
-                "urls": []
-            },
-            {
-                "name": "robinhood",
-                "urls": [
-                    "robinhood.com",
-                    "api.robinhood.com",
-                    "nummus.robinhood.com"
-                ]
-            },
-            {
                 "name": "visma",
                 "urls": [
                     "eaccounting.stage.vismaonline.com",
@@ -1427,6 +1416,18 @@
                     "admin.stage.vismaonline.com",
                     "identity.stage.vismaonline.com",
                     "http://myservices-api.stage.vismaonline.com/"
+                ]
+            },
+            {
+                "name": "owox",
+                "urls": []
+            },
+            {
+                "name": "robinhood",
+                "urls": [
+                    "robinhood.com",
+                    "api.robinhood.com",
+                    "nummus.robinhood.com"
                 ]
             },
             {
@@ -1604,12 +1605,6 @@
                 ]
             },
             {
-                "name": "smule",
-                "urls": [
-                    "*.smule.com"
-                ]
-            },
-            {
                 "name": "goldmansachs",
                 "urls": [
                     "*.goldmansachs.com",
@@ -1632,6 +1627,12 @@
                     "www.rocaton.com",
                     "*.gspublishing.com",
                     "*.claritymoney.com"
+                ]
+            },
+            {
+                "name": "smule",
+                "urls": [
+                    "*.smule.com"
                 ]
             },
             {
@@ -1955,12 +1956,6 @@
                 "urls": []
             },
             {
-                "name": "mariadb",
-                "urls": [
-                    "mariadb.org"
-                ]
-            },
-            {
                 "name": "topcoder",
                 "urls": [
                     "www.topcoder.com",
@@ -2028,6 +2023,12 @@
                 ]
             },
             {
+                "name": "mariadb",
+                "urls": [
+                    "mariadb.org"
+                ]
+            },
+            {
                 "name": "zenly",
                 "urls": [
                     "api.znly.co",
@@ -2060,6 +2061,15 @@
                 ]
             },
             {
+                "name": "trycourier",
+                "urls": [
+                    "www.trycourier.app",
+                    "api.trycourier.app",
+                    "*.ct0.app",
+                    "www.trycourier.com"
+                ]
+            },
+            {
                 "name": "smtp2go",
                 "urls": [
                     "smtp2go.com",
@@ -2067,22 +2077,13 @@
                 ]
             },
             {
-                "name": "gener8",
-                "urls": [
-                    "*.gener8ads.com"
-                ]
-            },
-            {
                 "name": "stellar",
                 "urls": []
             },
             {
-                "name": "trycourier",
+                "name": "gener8",
                 "urls": [
-                    "www.trycourier.app",
-                    "api.trycourier.app",
-                    "*.ct0.app",
-                    "www.trycourier.com"
+                    "*.gener8ads.com"
                 ]
             },
             {
@@ -2884,7 +2885,7 @@
         ],
         "metaData": {
             "totalPrograms": 306,
-            "totalUrls": 1445
+            "totalUrls": 1446
         }
     }
 }
