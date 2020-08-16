@@ -356,14 +356,6 @@
                 ]
             },
             {
-                "name": "glassdoor",
-                "urls": [
-                    "http://www.glassdoor.com/",
-                    "http://api.glassdoor.com",
-                    "https://help.glassdoor.com/"
-                ]
-            },
-            {
                 "name": "github",
                 "urls": [
                     "GitHub.com",
@@ -377,6 +369,14 @@
                     "jobs.github.com",
                     "semmle.net",
                     "semmle.com"
+                ]
+            },
+            {
+                "name": "glassdoor",
+                "urls": [
+                    "http://www.glassdoor.com/",
+                    "http://api.glassdoor.com",
+                    "https://help.glassdoor.com/"
                 ]
             },
             {
@@ -864,19 +864,19 @@
                 "urls": []
             },
             {
-                "name": "stripo",
-                "urls": [
-                    "my.stripo.email",
-                    "stripo.email"
-                ]
-            },
-            {
                 "name": "acronis",
                 "urls": [
                     "beta-baas.acronis.com",
                     "*-api-*.acronis.com",
                     "*.acronis.com",
                     "account.acronis.com"
+                ]
+            },
+            {
+                "name": "stripo",
+                "urls": [
+                    "my.stripo.email",
+                    "stripo.email"
                 ]
             },
             {
