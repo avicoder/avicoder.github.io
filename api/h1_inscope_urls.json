@@ -1849,6 +1849,15 @@
                 ]
             },
             {
+                "name": "drive_net_inc",
+                "urls": [
+                    "www.drive2.ru",
+                    "api.drive2.ru",
+                    "*.d-cd.net",
+                    "*.drive2.ru"
+                ]
+            },
+            {
                 "name": "creditkarma",
                 "urls": [
                     "https://*.creditkarma.com",
@@ -1881,15 +1890,6 @@
             {
                 "name": "cert",
                 "urls": []
-            },
-            {
-                "name": "drive_net_inc",
-                "urls": [
-                    "www.drive2.ru",
-                    "api.drive2.ru",
-                    "*.d-cd.net",
-                    "*.drive2.ru"
-                ]
             },
             {
                 "name": "bitmex",
