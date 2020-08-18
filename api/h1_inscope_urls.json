@@ -814,14 +814,6 @@
                 ]
             },
             {
-                "name": "khanacademy",
-                "urls": []
-            },
-            {
-                "name": "formassembly",
-                "urls": []
-            },
-            {
                 "name": "kindred_group",
                 "urls": [
                     "*.unibet.com",
@@ -850,7 +842,7 @@
                     "vcc-*.8x8.com",
                     "8x8.vc",
                     "*.wavecell.com",
-                    "callstats.io",
+                    "*.callstats.io",
                     "www.8x8.com",
                     "*.sameroom.io",
                     "*.mycontactual.com",
@@ -858,6 +850,14 @@
                     "support.8x8.com",
                     "get8x8.com"
                 ]
+            },
+            {
+                "name": "khanacademy",
+                "urls": []
+            },
+            {
+                "name": "formassembly",
+                "urls": []
             },
             {
                 "name": "kaspersky",
@@ -1215,11 +1215,7 @@
                 "urls": [
                     "*.line.me",
                     "*.line-apps.com",
-                    "*.line.naver.jp",
-                    "live.line.me",
-                    "music.line.me",
-                    "news.line.me",
-                    "store.line.me"
+                    "*.line.naver.jp"
                 ]
             },
             {
@@ -1246,15 +1242,6 @@
                 ]
             },
             {
-                "name": "casper",
-                "urls": [
-                    "www.casper.com",
-                    "bedpost.casper.com",
-                    "operator.casper.tools",
-                    "casper.com/admin"
-                ]
-            },
-            {
                 "name": "playstation",
                 "urls": [
                     "*.playstation.net",
@@ -1265,6 +1252,15 @@
                     "social.playstation.com",
                     "transact.playstation.com",
                     "wallets.api.playstation.com"
+                ]
+            },
+            {
+                "name": "casper",
+                "urls": [
+                    "www.casper.com",
+                    "bedpost.casper.com",
+                    "operator.casper.tools",
+                    "casper.com/admin"
                 ]
             },
             {
@@ -1394,14 +1390,6 @@
                 ]
             },
             {
-                "name": "rocket_chat",
-                "urls": []
-            },
-            {
-                "name": "bime",
-                "urls": []
-            },
-            {
                 "name": "visma",
                 "urls": [
                     "eaccounting.stage.vismaonline.com",
@@ -1417,6 +1405,14 @@
                     "identity.stage.vismaonline.com",
                     "http://myservices-api.stage.vismaonline.com/"
                 ]
+            },
+            {
+                "name": "rocket_chat",
+                "urls": []
+            },
+            {
+                "name": "bime",
+                "urls": []
             },
             {
                 "name": "owox",
@@ -1769,7 +1765,8 @@
                     "(*).theendlessweb.com",
                     "(*).endlcdn.site",
                     "console-idrac.djelectro.me",
-                    "idrac.djelectro.me"
+                    "idrac.djelectro.me",
+                    "(*).itsendless.org"
                 ]
             },
             {
@@ -2081,12 +2078,6 @@
                 "urls": []
             },
             {
-                "name": "gener8",
-                "urls": [
-                    "*.gener8ads.com"
-                ]
-            },
-            {
                 "name": "amazonvrp",
                 "urls": [
                     "www.amazon.com",
@@ -2098,6 +2089,12 @@
                     "www.amazon.es",
                     "www.amazon.in",
                     "www.amazon.ca"
+                ]
+            },
+            {
+                "name": "gener8",
+                "urls": [
+                    "*.gener8ads.com"
                 ]
             },
             {
@@ -2314,6 +2311,10 @@
                 "urls": []
             },
             {
+                "name": "phpbb",
+                "urls": []
+            },
+            {
                 "name": "forescout_technologies",
                 "urls": [
                     "mgmtpod-1.forescoutcloud.net",
@@ -2351,15 +2352,20 @@
                 ]
             },
             {
+                "name": "makerdao_bbp",
+                "urls": [
+                    "forum.makerdao.com",
+                    "chat.makerdao.com",
+                    "blog.makerdao.com",
+                    "support.makerdao.com"
+                ]
+            },
+            {
                 "name": "hcl_software",
                 "urls": []
             },
             {
                 "name": "django",
-                "urls": []
-            },
-            {
-                "name": "phpbb",
                 "urls": []
             },
             {
@@ -2400,15 +2406,6 @@
                     "api.magic.link",
                     "dashboard.fortmatic.com",
                     "fortmatic.com"
-                ]
-            },
-            {
-                "name": "makerdao_bbp",
-                "urls": [
-                    "forum.makerdao.com",
-                    "chat.makerdao.com",
-                    "blog.makerdao.com",
-                    "support.makerdao.com"
                 ]
             },
             {
@@ -2695,6 +2692,14 @@
                 "urls": []
             },
             {
+                "name": "coingaming",
+                "urls": []
+            },
+            {
+                "name": "solana-bbp",
+                "urls": []
+            },
+            {
                 "name": "wordpress",
                 "urls": [
                     "*.wordpress.org",
@@ -2884,8 +2889,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 306,
-            "totalUrls": 1446
+            "totalPrograms": 308,
+            "totalUrls": 1443
         }
     }
 }
