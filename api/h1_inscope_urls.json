@@ -814,6 +814,15 @@
                 ]
             },
             {
+                "name": "acronis",
+                "urls": [
+                    "beta-baas.acronis.com",
+                    "*-api-*.acronis.com",
+                    "*.acronis.com",
+                    "account.acronis.com"
+                ]
+            },
+            {
                 "name": "kindred_group",
                 "urls": [
                     "*.unibet.com",
@@ -862,15 +871,6 @@
             {
                 "name": "kaspersky",
                 "urls": []
-            },
-            {
-                "name": "acronis",
-                "urls": [
-                    "beta-baas.acronis.com",
-                    "*-api-*.acronis.com",
-                    "*.acronis.com",
-                    "account.acronis.com"
-                ]
             },
             {
                 "name": "stripo",
@@ -963,17 +963,17 @@
                 ]
             },
             {
+                "name": "quora",
+                "urls": [
+                    "*.quora.com"
+                ]
+            },
+            {
                 "name": "backblaze",
                 "urls": [
                     "www.backblaze.com",
                     "*.backblazeb2.com",
                     "*.backblaze.com"
-                ]
-            },
-            {
-                "name": "quora",
-                "urls": [
-                    "*.quora.com"
                 ]
             },
             {
@@ -1105,18 +1105,18 @@
                 ]
             },
             {
-                "name": "coursera",
-                "urls": [
-                    "www.coursera.org"
-                ]
-            },
-            {
                 "name": "tomtom",
                 "urls": [
                     "*.tomtom.com",
                     "api.tomtom.com",
                     "*.tomtomgroup.com",
                     "*.teleatlas.com"
+                ]
+            },
+            {
+                "name": "coursera",
+                "urls": [
+                    "www.coursera.org"
                 ]
             },
             {
@@ -1219,6 +1219,19 @@
                 ]
             },
             {
+                "name": "playstation",
+                "urls": [
+                    "*.playstation.net",
+                    "*.sonyentertainmentnetwork.com",
+                    "*.api.playstation.com",
+                    "my.playstation.com",
+                    "store.playstation.com",
+                    "social.playstation.com",
+                    "transact.playstation.com",
+                    "wallets.api.playstation.com"
+                ]
+            },
+            {
                 "name": "shipt",
                 "urls": [
                     "app.shipt.com",
@@ -1239,19 +1252,6 @@
                 "name": "binary",
                 "urls": [
                     "*.binary.com"
-                ]
-            },
-            {
-                "name": "playstation",
-                "urls": [
-                    "*.playstation.net",
-                    "*.sonyentertainmentnetwork.com",
-                    "*.api.playstation.com",
-                    "my.playstation.com",
-                    "store.playstation.com",
-                    "social.playstation.com",
-                    "transact.playstation.com",
-                    "wallets.api.playstation.com"
                 ]
             },
             {
@@ -1299,7 +1299,6 @@
                 "name": "quantopian",
                 "urls": [
                     "www.quantopian.com",
-                    "blog.quantopian.com",
                     "*.dynoquant.com",
                     "*.quantshack.com"
                 ]
@@ -1526,16 +1525,6 @@
                 ]
             },
             {
-                "name": "rubygems",
-                "urls": [
-                    "rubygems.org"
-                ]
-            },
-            {
-                "name": "nintendo",
-                "urls": []
-            },
-            {
                 "name": "nutanix",
                 "urls": [
                     "support.nutanix.com",
@@ -1561,6 +1550,16 @@
                     "*.nutanix.com",
                     "testdrive.nutanix.com"
                 ]
+            },
+            {
+                "name": "rubygems",
+                "urls": [
+                    "rubygems.org"
+                ]
+            },
+            {
+                "name": "nintendo",
+                "urls": []
             },
             {
                 "name": "crypto",
@@ -1737,6 +1736,16 @@
                 "urls": []
             },
             {
+                "name": "endless_hosting",
+                "urls": [
+                    "(*).theendlessweb.com",
+                    "(*).endlcdn.site",
+                    "console-idrac.djelectro.me",
+                    "idrac.djelectro.me",
+                    "(*).itsendless.org"
+                ]
+            },
+            {
                 "name": "lemlist",
                 "urls": [
                     "app.lemlist.com"
@@ -1757,16 +1766,6 @@
                     "portswigger.net",
                     "forum.portswigger.net",
                     "*.web-security-academy.net"
-                ]
-            },
-            {
-                "name": "endless_hosting",
-                "urls": [
-                    "(*).theendlessweb.com",
-                    "(*).endlcdn.site",
-                    "console-idrac.djelectro.me",
-                    "idrac.djelectro.me",
-                    "(*).itsendless.org"
                 ]
             },
             {
@@ -2026,18 +2025,18 @@
                 ]
             },
             {
+                "name": "ozon",
+                "urls": [
+                    "www.ozon.ru"
+                ]
+            },
+            {
                 "name": "zenly",
                 "urls": [
                     "api.znly.co",
                     "rpc.znly.co",
                     "rpc-kcp.znly.co",
                     "zen.ly"
-                ]
-            },
-            {
-                "name": "ozon",
-                "urls": [
-                    "www.ozon.ru"
                 ]
             },
             {
@@ -2890,7 +2889,7 @@
         ],
         "metaData": {
             "totalPrograms": 308,
-            "totalUrls": 1443
+            "totalUrls": 1442
         }
     }
 }
