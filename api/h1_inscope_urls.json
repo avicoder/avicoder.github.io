@@ -356,6 +356,14 @@
                 ]
             },
             {
+                "name": "glassdoor",
+                "urls": [
+                    "http://www.glassdoor.com/",
+                    "http://api.glassdoor.com",
+                    "https://help.glassdoor.com/"
+                ]
+            },
+            {
                 "name": "github",
                 "urls": [
                     "GitHub.com",
@@ -369,14 +377,6 @@
                     "jobs.github.com",
                     "semmle.net",
                     "semmle.com"
-                ]
-            },
-            {
-                "name": "glassdoor",
-                "urls": [
-                    "http://www.glassdoor.com/",
-                    "http://api.glassdoor.com",
-                    "https://help.glassdoor.com/"
                 ]
             },
             {
@@ -791,6 +791,30 @@
                 ]
             },
             {
+                "name": "8x8",
+                "urls": [
+                    "*.ucverse.com",
+                    "*.8x8.com",
+                    "*.packet8.net",
+                    "*.easycontactnow.com",
+                    "*.dxi.eu",
+                    "accountmanager.8x8.com",
+                    "*.contactnow.8x8.com",
+                    "sso.8x8.com",
+                    "*.jit.si",
+                    "vcc-*.8x8.com",
+                    "8x8.vc",
+                    "*.wavecell.com",
+                    "*.callstats.io",
+                    "www.8x8.com",
+                    "*.sameroom.io",
+                    "*.mycontactual.com",
+                    "*.jitsi.org",
+                    "support.8x8.com",
+                    "get8x8.com"
+                ]
+            },
+            {
                 "name": "dashlane",
                 "urls": [
                     "ws1.dashlane.com",
@@ -834,30 +858,6 @@
                     "*.igame.com",
                     "*.vladcazino.ro",
                     "relaxcdn.unibet.com"
-                ]
-            },
-            {
-                "name": "8x8",
-                "urls": [
-                    "*.ucverse.com",
-                    "*.8x8.com",
-                    "*.packet8.net",
-                    "*.easycontactnow.com",
-                    "*.dxi.eu",
-                    "accountmanager.8x8.com",
-                    "*.contactnow.8x8.com",
-                    "sso.8x8.com",
-                    "*.jit.si",
-                    "vcc-*.8x8.com",
-                    "8x8.vc",
-                    "*.wavecell.com",
-                    "*.callstats.io",
-                    "www.8x8.com",
-                    "*.sameroom.io",
-                    "*.mycontactual.com",
-                    "*.jitsi.org",
-                    "support.8x8.com",
-                    "get8x8.com"
                 ]
             },
             {
@@ -1205,17 +1205,17 @@
                 ]
             },
             {
-                "name": "matomo",
-                "urls": [
-                    "https://www.innocraft.cloud/"
-                ]
-            },
-            {
                 "name": "line",
                 "urls": [
                     "*.line.me",
                     "*.line-apps.com",
                     "*.line.naver.jp"
+                ]
+            },
+            {
+                "name": "matomo",
+                "urls": [
+                    "https://www.innocraft.cloud/"
                 ]
             },
             {
@@ -1228,7 +1228,9 @@
                     "store.playstation.com",
                     "social.playstation.com",
                     "transact.playstation.com",
-                    "wallets.api.playstation.com"
+                    "wallets.api.playstation.com",
+                    "direct.playstation.com",
+                    "api.direct.playstation.com"
                 ]
             },
             {
@@ -1368,6 +1370,23 @@
                 ]
             },
             {
+                "name": "visma",
+                "urls": [
+                    "eaccounting.stage.vismaonline.com",
+                    "eaccountingprinting.stage.vismaonline.com",
+                    "connect.identity.stagaws.visma.com",
+                    "accountsettings.connect.identity.stagaws.visma.com",
+                    "api.home.stag.visma.com",
+                    "app.workbox.dk",
+                    "authz.workbox.dk",
+                    "api.workbox.dk",
+                    "myservices.stage.vismaonline.com",
+                    "admin.stage.vismaonline.com",
+                    "identity.stage.vismaonline.com",
+                    "http://myservices-api.stage.vismaonline.com/"
+                ]
+            },
+            {
                 "name": "capital-one",
                 "urls": [
                     "*.capitalone.com",
@@ -1389,32 +1408,11 @@
                 ]
             },
             {
-                "name": "visma",
-                "urls": [
-                    "eaccounting.stage.vismaonline.com",
-                    "eaccountingprinting.stage.vismaonline.com",
-                    "connect.identity.stagaws.visma.com",
-                    "accountsettings.connect.identity.stagaws.visma.com",
-                    "api.home.stag.visma.com",
-                    "app.workbox.dk",
-                    "authz.workbox.dk",
-                    "api.workbox.dk",
-                    "myservices.stage.vismaonline.com",
-                    "admin.stage.vismaonline.com",
-                    "identity.stage.vismaonline.com",
-                    "http://myservices-api.stage.vismaonline.com/"
-                ]
-            },
-            {
                 "name": "rocket_chat",
                 "urls": []
             },
             {
                 "name": "bime",
-                "urls": []
-            },
-            {
-                "name": "owox",
                 "urls": []
             },
             {
@@ -1424,6 +1422,10 @@
                     "api.robinhood.com",
                     "nummus.robinhood.com"
                 ]
+            },
+            {
+                "name": "owox",
+                "urls": []
             },
             {
                 "name": "avito",
@@ -2263,17 +2265,6 @@
                 "urls": []
             },
             {
-                "name": "koho",
-                "urls": [
-                    "*.koho.ca",
-                    "*.koho.app"
-                ]
-            },
-            {
-                "name": "ibb-apache",
-                "urls": []
-            },
-            {
                 "name": "delight_im",
                 "urls": [
                     "moviecontentfilter.com",
@@ -2283,6 +2274,17 @@
                     "delight.im",
                     "www.delight.im"
                 ]
+            },
+            {
+                "name": "koho",
+                "urls": [
+                    "*.koho.ca",
+                    "*.koho.app"
+                ]
+            },
+            {
+                "name": "ibb-apache",
+                "urls": []
             },
             {
                 "name": "filezilla",
@@ -2312,6 +2314,15 @@
             {
                 "name": "phpbb",
                 "urls": []
+            },
+            {
+                "name": "makerdao_bbp",
+                "urls": [
+                    "forum.makerdao.com",
+                    "chat.makerdao.com",
+                    "blog.makerdao.com",
+                    "support.makerdao.com"
+                ]
             },
             {
                 "name": "forescout_technologies",
@@ -2348,15 +2359,6 @@
                 "urls": [
                     "platform.thecoalition.com",
                     "api.thecoalition.com"
-                ]
-            },
-            {
-                "name": "makerdao_bbp",
-                "urls": [
-                    "forum.makerdao.com",
-                    "chat.makerdao.com",
-                    "blog.makerdao.com",
-                    "support.makerdao.com"
                 ]
             },
             {
@@ -2450,6 +2452,10 @@
                 "urls": []
             },
             {
+                "name": "curl",
+                "urls": []
+            },
+            {
                 "name": "picsart",
                 "urls": []
             },
@@ -2458,13 +2464,15 @@
                 "urls": []
             },
             {
-                "name": "curl",
-                "urls": []
-            },
-            {
                 "name": "worklytics",
                 "urls": [
                     "*.worklytics.co"
+                ]
+            },
+            {
+                "name": "dropcontact",
+                "urls": [
+                    "www.dropcontact.io"
                 ]
             },
             {
@@ -2486,6 +2494,14 @@
                 "urls": [
                     "slots.io",
                     "*.slots.io"
+                ]
+            },
+            {
+                "name": "watson_group",
+                "urls": [
+                    "www.superdrug.com",
+                    "https://www.superdrug.com/blog",
+                    "*.superdrug.com"
                 ]
             },
             {
@@ -2596,14 +2612,6 @@
                     "github.com/oasislabs/ed25519",
                     "github.com/oasislabs/bsaes.js",
                     "*.testnet.oasiscloud.io"
-                ]
-            },
-            {
-                "name": "watson_group",
-                "urls": [
-                    "www.superdrug.com",
-                    "https://www.superdrug.com/blog",
-                    "*.superdrug.com"
                 ]
             },
             {
@@ -2888,8 +2896,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 308,
-            "totalUrls": 1442
+            "totalPrograms": 309,
+            "totalUrls": 1445
         }
     }
 }
