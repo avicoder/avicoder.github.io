@@ -1114,15 +1114,15 @@
                 ]
             },
             {
-                "name": "coursera",
-                "urls": [
-                    "www.coursera.org"
-                ]
-            },
-            {
                 "name": "nordvpn",
                 "urls": [
                     "*.nordvpn.com"
+                ]
+            },
+            {
+                "name": "coursera",
+                "urls": [
+                    "www.coursera.org"
                 ]
             },
             {
@@ -1197,19 +1197,19 @@
                 ]
             },
             {
-                "name": "goodrx",
-                "urls": [
-                    "www.goodrx.com",
-                    "gold.goodrx.com",
-                    "heydoctor.goodrx.com"
-                ]
-            },
-            {
                 "name": "line",
                 "urls": [
                     "*.line.me",
                     "*.line-apps.com",
                     "*.line.naver.jp"
+                ]
+            },
+            {
+                "name": "goodrx",
+                "urls": [
+                    "www.goodrx.com",
+                    "gold.goodrx.com",
+                    "heydoctor.goodrx.com"
                 ]
             },
             {
@@ -1454,16 +1454,6 @@
                 ]
             },
             {
-                "name": "lyst",
-                "urls": [
-                    "*.lyst.com",
-                    "cdna.lystit.com",
-                    "mobileapi.lystit.com",
-                    "*.lystit.com",
-                    "*.lyst.co"
-                ]
-            },
-            {
                 "name": "palo_alto_software",
                 "urls": [
                     "app.liveplan.com",
@@ -1475,6 +1465,16 @@
                     "www.teamoutpost.com",
                     "www.bplans.com",
                     "www.mplans.com"
+                ]
+            },
+            {
+                "name": "lyst",
+                "urls": [
+                    "*.lyst.com",
+                    "cdna.lystit.com",
+                    "mobileapi.lystit.com",
+                    "*.lystit.com",
+                    "*.lyst.co"
                 ]
             },
             {
@@ -1554,28 +1554,6 @@
                 ]
             },
             {
-                "name": "rubygems",
-                "urls": [
-                    "rubygems.org"
-                ]
-            },
-            {
-                "name": "nintendo",
-                "urls": []
-            },
-            {
-                "name": "crypto",
-                "urls": [
-                    "www.crypto.com",
-                    "https://crypto.com/exchange",
-                    "app.mona.co",
-                    "https://auth.crypto.com/",
-                    "https://merchant.crypto.com",
-                    "pay.crypto.com",
-                    "js.crypto.com"
-                ]
-            },
-            {
                 "name": "clario",
                 "urls": [
                     "https://account.mackeeper.com",
@@ -1599,6 +1577,28 @@
                     "https://yapi.clario.co",
                     "*.kromtech.com",
                     "*.mackeeper.com"
+                ]
+            },
+            {
+                "name": "rubygems",
+                "urls": [
+                    "rubygems.org"
+                ]
+            },
+            {
+                "name": "nintendo",
+                "urls": []
+            },
+            {
+                "name": "crypto",
+                "urls": [
+                    "www.crypto.com",
+                    "https://crypto.com/exchange",
+                    "app.mona.co",
+                    "https://auth.crypto.com/",
+                    "https://merchant.crypto.com",
+                    "pay.crypto.com",
+                    "js.crypto.com"
                 ]
             },
             {
@@ -1711,15 +1711,15 @@
                 "urls": []
             },
             {
-                "name": "eobotcom",
-                "urls": [
-                    "eobot.com"
-                ]
-            },
-            {
                 "name": "duckduckgo",
                 "urls": [
                     "*.duckduckgo.com"
+                ]
+            },
+            {
+                "name": "eobotcom",
+                "urls": [
+                    "eobot.com"
                 ]
             },
             {
@@ -1812,10 +1812,6 @@
                 ]
             },
             {
-                "name": "ibb-data",
-                "urls": []
-            },
-            {
                 "name": "lob",
                 "urls": [
                     "api.lob.com",
@@ -1838,6 +1834,10 @@
                     "docs.lob.com",
                     "mock.lob.com"
                 ]
+            },
+            {
+                "name": "ibb-data",
+                "urls": []
             },
             {
                 "name": "chainlink",
@@ -2420,6 +2420,12 @@
                 ]
             },
             {
+                "name": "dropcontact",
+                "urls": [
+                    "www.dropcontact.io"
+                ]
+            },
+            {
                 "name": "streak_com",
                 "urls": [
                     "www.streak.com",
@@ -2467,12 +2473,6 @@
                 "name": "worklytics",
                 "urls": [
                     "*.worklytics.co"
-                ]
-            },
-            {
-                "name": "dropcontact",
-                "urls": [
-                    "www.dropcontact.io"
                 ]
             },
             {
@@ -2740,6 +2740,10 @@
                 ]
             },
             {
+                "name": "ips",
+                "urls": []
+            },
+            {
                 "name": "rockstargames",
                 "urls": [
                     "socialclub.rockstargames.com",
@@ -2896,7 +2900,7 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 309,
+            "totalPrograms": 310,
             "totalUrls": 1445
         }
     }
