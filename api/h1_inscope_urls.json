@@ -298,17 +298,6 @@
                 ]
             },
             {
-                "name": "gitlab",
-                "urls": [
-                    "customers.gitlab.com",
-                    "gitter.im",
-                    "registry.gitlab.com",
-                    "gitlab.com",
-                    "api.gitter.im",
-                    "ws*.gitter.im"
-                ]
-            },
-            {
                 "name": "valve",
                 "urls": [
                     "www.dota2.com",
@@ -326,6 +315,17 @@
                     "developer.valvesoftware.com",
                     "storefront.steampowered.com",
                     "wiki.teamfortress.com"
+                ]
+            },
+            {
+                "name": "gitlab",
+                "urls": [
+                    "customers.gitlab.com",
+                    "gitter.im",
+                    "registry.gitlab.com",
+                    "gitlab.com",
+                    "api.gitter.im",
+                    "ws*.gitter.im"
                 ]
             },
             {
@@ -619,6 +619,7 @@
                     "biz-app.yelp.com",
                     "www.yelp-support.com",
                     "blog.yelp.com",
+                    "restaurants.yelp.com",
                     "yelp.nowait.com",
                     "www.yelpwifi.com",
                     "app.yelpwifi.com"
@@ -655,6 +656,10 @@
                 ]
             },
             {
+                "name": "nodejs-ecosystem",
+                "urls": []
+            },
+            {
                 "name": "localtapiola",
                 "urls": [
                     "www.lahitapiola.fi",
@@ -670,10 +675,6 @@
                     "verovelvollisuustiedot.lahitapiola.fi",
                     "sijoitusvakuutus.lahitapiola.fi"
                 ]
-            },
-            {
-                "name": "nodejs-ecosystem",
-                "urls": []
             },
             {
                 "name": "ibb-php",
@@ -825,6 +826,19 @@
                 ]
             },
             {
+                "name": "acronis",
+                "urls": [
+                    "beta-baas.acronis.com",
+                    "*-api-*.acronis.com",
+                    "*.acronis.com",
+                    "account.acronis.com"
+                ]
+            },
+            {
+                "name": "khanacademy",
+                "urls": []
+            },
+            {
                 "name": "irccloud",
                 "urls": [
                     "www.irccloud.com",
@@ -835,15 +849,6 @@
                     "irc.irccloud.com",
                     "team-irc.irccloud.com",
                     "blog.irccloud.com"
-                ]
-            },
-            {
-                "name": "acronis",
-                "urls": [
-                    "beta-baas.acronis.com",
-                    "*-api-*.acronis.com",
-                    "*.acronis.com",
-                    "account.acronis.com"
                 ]
             },
             {
@@ -859,10 +864,6 @@
                     "*.vladcazino.ro",
                     "relaxcdn.unibet.com"
                 ]
-            },
-            {
-                "name": "khanacademy",
-                "urls": []
             },
             {
                 "name": "formassembly",
@@ -953,6 +954,12 @@
                 "urls": []
             },
             {
+                "name": "quora",
+                "urls": [
+                    "*.quora.com"
+                ]
+            },
+            {
                 "name": "xiaomi",
                 "urls": [
                     "*.mi.com",
@@ -960,12 +967,6 @@
                     "*.miui.com",
                     "*.xiaomiyoupin.com",
                     "*.miwifi.com"
-                ]
-            },
-            {
-                "name": "quora",
-                "urls": [
-                    "*.quora.com"
                 ]
             },
             {
@@ -1093,6 +1094,15 @@
                 ]
             },
             {
+                "name": "tomtom",
+                "urls": [
+                    "*.tomtom.com",
+                    "api.tomtom.com",
+                    "*.tomtomgroup.com",
+                    "*.teleatlas.com"
+                ]
+            },
+            {
                 "name": "greenhouse",
                 "urls": [
                     "app.greenhouse.io",
@@ -1102,15 +1112,6 @@
                     "support.greenhouse.io",
                     "jss.greenhouse.io",
                     "www.greenhouse.io"
-                ]
-            },
-            {
-                "name": "tomtom",
-                "urls": [
-                    "*.tomtom.com",
-                    "api.tomtom.com",
-                    "*.tomtomgroup.com",
-                    "*.teleatlas.com"
                 ]
             },
             {
@@ -1554,6 +1555,10 @@
                 ]
             },
             {
+                "name": "nintendo",
+                "urls": []
+            },
+            {
                 "name": "clario",
                 "urls": [
                     "https://account.mackeeper.com",
@@ -1584,10 +1589,6 @@
                 "urls": [
                     "rubygems.org"
                 ]
-            },
-            {
-                "name": "nintendo",
-                "urls": []
             },
             {
                 "name": "crypto",
@@ -1734,10 +1735,6 @@
                 "urls": []
             },
             {
-                "name": "gocd",
-                "urls": []
-            },
-            {
                 "name": "endless_hosting",
                 "urls": [
                     "(*).theendlessweb.com",
@@ -1746,6 +1743,10 @@
                     "idrac.djelectro.me",
                     "(*).itsendless.org"
                 ]
+            },
+            {
+                "name": "gocd",
+                "urls": []
             },
             {
                 "name": "lemlist",
@@ -1898,11 +1899,11 @@
                 ]
             },
             {
-                "name": "monero",
+                "name": "cengage",
                 "urls": []
             },
             {
-                "name": "cengage",
+                "name": "monero",
                 "urls": []
             },
             {
@@ -1938,6 +1939,12 @@
             {
                 "name": "mobisystems_ltd",
                 "urls": []
+            },
+            {
+                "name": "ozon",
+                "urls": [
+                    "www.ozon.ru"
+                ]
             },
             {
                 "name": "wellsfargo",
@@ -2024,12 +2031,6 @@
                 "name": "mariadb",
                 "urls": [
                     "mariadb.org"
-                ]
-            },
-            {
-                "name": "ozon",
-                "urls": [
-                    "www.ozon.ru"
                 ]
             },
             {
@@ -2230,6 +2231,12 @@
                 ]
             },
             {
+                "name": "dropcontact",
+                "urls": [
+                    "www.dropcontact.io"
+                ]
+            },
+            {
                 "name": "paragonie",
                 "urls": []
             },
@@ -2420,12 +2427,6 @@
                 ]
             },
             {
-                "name": "dropcontact",
-                "urls": [
-                    "www.dropcontact.io"
-                ]
-            },
-            {
                 "name": "streak_com",
                 "urls": [
                     "www.streak.com",
@@ -2476,6 +2477,14 @@
                 ]
             },
             {
+                "name": "watson_group",
+                "urls": [
+                    "www.superdrug.com",
+                    "https://www.superdrug.com/blog",
+                    "*.superdrug.com"
+                ]
+            },
+            {
                 "name": "wordpoints",
                 "urls": []
             },
@@ -2494,14 +2503,6 @@
                 "urls": [
                     "slots.io",
                     "*.slots.io"
-                ]
-            },
-            {
-                "name": "watson_group",
-                "urls": [
-                    "www.superdrug.com",
-                    "https://www.superdrug.com/blog",
-                    "*.superdrug.com"
                 ]
             },
             {
@@ -2566,6 +2567,12 @@
             {
                 "name": "libra",
                 "urls": []
+            },
+            {
+                "name": "codefi_bbp",
+                "urls": [
+                    "activate.codefi.network"
+                ]
             },
             {
                 "name": "investnext",
@@ -2640,6 +2647,16 @@
                 ]
             },
             {
+                "name": "rebellion-defense",
+                "urls": [
+                    "*.rebelliondefence.com",
+                    "*.rebelliondefense.com",
+                    "*.moochirp.io",
+                    "*.mooch.rip",
+                    "www.rebelliondefense.com"
+                ]
+            },
+            {
                 "name": "bunq",
                 "urls": [
                     "api.bunq.com"
@@ -2676,12 +2693,6 @@
             {
                 "name": "ibb-squid-cache",
                 "urls": []
-            },
-            {
-                "name": "codefi_bbp",
-                "urls": [
-                    "activate.codefi.network"
-                ]
             },
             {
                 "name": "remb_hydraulics",
@@ -2900,8 +2911,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 310,
-            "totalUrls": 1445
+            "totalPrograms": 311,
+            "totalUrls": 1451
         }
     }
 }
