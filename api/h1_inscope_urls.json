@@ -1198,19 +1198,19 @@
                 ]
             },
             {
-                "name": "line",
-                "urls": [
-                    "*.line.me",
-                    "*.line-apps.com",
-                    "*.line.naver.jp"
-                ]
-            },
-            {
                 "name": "goodrx",
                 "urls": [
                     "www.goodrx.com",
                     "gold.goodrx.com",
                     "heydoctor.goodrx.com"
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    "*.line.me",
+                    "*.line-apps.com",
+                    "*.line.naver.jp"
                 ]
             },
             {
@@ -2043,6 +2043,15 @@
                 ]
             },
             {
+                "name": "trycourier",
+                "urls": [
+                    "www.trycourier.app",
+                    "api.trycourier.app",
+                    "*.ct0.app",
+                    "www.trycourier.com"
+                ]
+            },
+            {
                 "name": "passit",
                 "urls": [
                     "app.passit.io"
@@ -2057,15 +2066,6 @@
                     "*.hellowallet.com",
                     "*.laurelroad.com",
                     "*.cainbrothers.com"
-                ]
-            },
-            {
-                "name": "trycourier",
-                "urls": [
-                    "www.trycourier.app",
-                    "api.trycourier.app",
-                    "*.ct0.app",
-                    "www.trycourier.com"
                 ]
             },
             {
