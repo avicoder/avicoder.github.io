@@ -494,10 +494,6 @@
                 ]
             },
             {
-                "name": "informatica",
-                "urls": []
-            },
-            {
                 "name": "newrelic",
                 "urls": [
                     "*.newrelic.com",
@@ -527,6 +523,10 @@
                     "rpm.newrelic.com",
                     "one.newrelic.com"
                 ]
+            },
+            {
+                "name": "informatica",
+                "urls": []
             },
             {
                 "name": "dropbox",
@@ -950,14 +950,14 @@
                 ]
             },
             {
-                "name": "badoo",
-                "urls": []
-            },
-            {
                 "name": "quora",
                 "urls": [
                     "*.quora.com"
                 ]
+            },
+            {
+                "name": "badoo",
+                "urls": []
             },
             {
                 "name": "xiaomi",
@@ -994,10 +994,6 @@
                 "urls": []
             },
             {
-                "name": "expressionengine",
-                "urls": []
-            },
-            {
                 "name": "vhx",
                 "urls": [
                     "vhx.tv",
@@ -1005,6 +1001,10 @@
                     "api.vhx.tv",
                     "*.vhx.tv"
                 ]
+            },
+            {
+                "name": "expressionengine",
+                "urls": []
             },
             {
                 "name": "brave",
@@ -1170,22 +1170,6 @@
                 ]
             },
             {
-                "name": "moneybird",
-                "urls": [
-                    "https://moneybird.com",
-                    "https://moneybirdstorage.com"
-                ]
-            },
-            {
-                "name": "livestream",
-                "urls": [
-                    "*.livestream.com",
-                    "www.livestream.com",
-                    "*.new.livestream.com",
-                    "donations.livestream.com"
-                ]
-            },
-            {
                 "name": "digitalocean",
                 "urls": [
                     "https://cloud.digitalocean.com/",
@@ -1198,11 +1182,27 @@
                 ]
             },
             {
+                "name": "moneybird",
+                "urls": [
+                    "https://moneybird.com",
+                    "https://moneybirdstorage.com"
+                ]
+            },
+            {
                 "name": "goodrx",
                 "urls": [
                     "www.goodrx.com",
                     "gold.goodrx.com",
                     "heydoctor.goodrx.com"
+                ]
+            },
+            {
+                "name": "livestream",
+                "urls": [
+                    "*.livestream.com",
+                    "www.livestream.com",
+                    "*.new.livestream.com",
+                    "donations.livestream.com"
                 ]
             },
             {
@@ -1279,10 +1279,6 @@
                 ]
             },
             {
-                "name": "internet",
-                "urls": []
-            },
-            {
                 "name": "deliveroo",
                 "urls": [
                     "*.deliveroo-data.net",
@@ -1291,6 +1287,10 @@
                     "*.deliveroo.*",
                     "*.deliveroo-streams.net"
                 ]
+            },
+            {
+                "name": "internet",
+                "urls": []
             },
             {
                 "name": "kartpay",
@@ -1483,6 +1483,33 @@
                 "urls": []
             },
             {
+                "name": "nutanix",
+                "urls": [
+                    "support.nutanix.com",
+                    "ticket.nutanix.com",
+                    "webex.nutanix.com",
+                    "events.nutanix.com",
+                    "my.nutanix.com",
+                    "jira.nutanix.com",
+                    "nutanix.com",
+                    "developer.nutanix.com",
+                    "next.nutanix.com",
+                    "install.nutanix.com",
+                    "bootcamp.nutanix.com",
+                    "productsizer.nutanix.com",
+                    "gp.nutanix.com",
+                    "stage-billing.nutanix.com",
+                    "mops.nutanix.com",
+                    "idp.nutanix.com",
+                    "cpq.nutanix.com",
+                    "iot.nutanix.com",
+                    "frame.nutanix.com",
+                    "beam.nutanix.com",
+                    "*.nutanix.com",
+                    "testdrive.nutanix.com"
+                ]
+            },
+            {
                 "name": "lifeomic",
                 "urls": [
                     "*.infra.lifeomic.com",
@@ -1525,33 +1552,6 @@
                     "ws.blockchain.info",
                     "ws.prod.blockchain.info",
                     "exchange.blockchain.com"
-                ]
-            },
-            {
-                "name": "nutanix",
-                "urls": [
-                    "support.nutanix.com",
-                    "ticket.nutanix.com",
-                    "webex.nutanix.com",
-                    "events.nutanix.com",
-                    "my.nutanix.com",
-                    "jira.nutanix.com",
-                    "nutanix.com",
-                    "developer.nutanix.com",
-                    "next.nutanix.com",
-                    "install.nutanix.com",
-                    "bootcamp.nutanix.com",
-                    "productsizer.nutanix.com",
-                    "gp.nutanix.com",
-                    "stage-billing.nutanix.com",
-                    "mops.nutanix.com",
-                    "idp.nutanix.com",
-                    "cpq.nutanix.com",
-                    "iot.nutanix.com",
-                    "frame.nutanix.com",
-                    "beam.nutanix.com",
-                    "*.nutanix.com",
-                    "testdrive.nutanix.com"
                 ]
             },
             {
@@ -1917,6 +1917,12 @@
                 ]
             },
             {
+                "name": "ozon",
+                "urls": [
+                    "www.ozon.ru"
+                ]
+            },
+            {
                 "name": "engel_volkers",
                 "urls": [
                     "*.engelvoelkers.com"
@@ -1939,12 +1945,6 @@
             {
                 "name": "mobisystems_ltd",
                 "urls": []
-            },
-            {
-                "name": "ozon",
-                "urls": [
-                    "www.ozon.ru"
-                ]
             },
             {
                 "name": "wellsfargo",
@@ -2191,6 +2191,12 @@
                 ]
             },
             {
+                "name": "dropcontact",
+                "urls": [
+                    "www.dropcontact.io"
+                ]
+            },
+            {
                 "name": "parrot_sec",
                 "urls": [
                     "https://parrotlinux.org"
@@ -2228,12 +2234,6 @@
                     "www.myndr.nl",
                     "bibliotheek.myndr.nl",
                     "*.myndr.nl"
-                ]
-            },
-            {
-                "name": "dropcontact",
-                "urls": [
-                    "www.dropcontact.io"
                 ]
             },
             {
@@ -2633,6 +2633,16 @@
                 ]
             },
             {
+                "name": "rebellion-defense",
+                "urls": [
+                    "*.rebelliondefence.com",
+                    "*.rebelliondefense.com",
+                    "*.moochirp.io",
+                    "*.mooch.rip",
+                    "www.rebelliondefense.com"
+                ]
+            },
+            {
                 "name": "versioncake",
                 "urls": []
             },
@@ -2644,16 +2654,6 @@
                 "name": "aodocs",
                 "urls": [
                     "https://ao-docs.appspot.com/api/explorer"
-                ]
-            },
-            {
-                "name": "rebellion-defense",
-                "urls": [
-                    "*.rebelliondefence.com",
-                    "*.rebelliondefense.com",
-                    "*.moochirp.io",
-                    "*.mooch.rip",
-                    "www.rebelliondefense.com"
                 ]
             },
             {
