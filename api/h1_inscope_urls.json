@@ -774,24 +774,6 @@
                 ]
             },
             {
-                "name": "unikrn",
-                "urls": [
-                    "unikrn.com",
-                    "unikoingold.com",
-                    "auctionbot.unikrn.com",
-                    "news.unikrn.com",
-                    "crm.unikrn.com",
-                    "jet-api.unikrn.com",
-                    "connekt-api.unikrn.com",
-                    "auth.unikrn.com",
-                    "cp-ng.pinion.gg",
-                    "affiliates.unikrn.com",
-                    "pinion.gg",
-                    "t.unikrn.com",
-                    "bingo-api.unikrn.com"
-                ]
-            },
-            {
                 "name": "8x8",
                 "urls": [
                     "*.ucverse.com",
@@ -816,13 +798,21 @@
                 ]
             },
             {
-                "name": "dashlane",
+                "name": "unikrn",
                 "urls": [
-                    "ws1.dashlane.com",
-                    "www.dashlane.com",
-                    "console.dashlane.com",
-                    "app.dashlane.com",
-                    "logs.dashlane.com"
+                    "unikrn.com",
+                    "unikoingold.com",
+                    "auctionbot.unikrn.com",
+                    "news.unikrn.com",
+                    "crm.unikrn.com",
+                    "jet-api.unikrn.com",
+                    "connekt-api.unikrn.com",
+                    "auth.unikrn.com",
+                    "cp-ng.pinion.gg",
+                    "affiliates.unikrn.com",
+                    "pinion.gg",
+                    "t.unikrn.com",
+                    "bingo-api.unikrn.com"
                 ]
             },
             {
@@ -832,6 +822,16 @@
                     "*-api-*.acronis.com",
                     "*.acronis.com",
                     "account.acronis.com"
+                ]
+            },
+            {
+                "name": "dashlane",
+                "urls": [
+                    "ws1.dashlane.com",
+                    "www.dashlane.com",
+                    "console.dashlane.com",
+                    "app.dashlane.com",
+                    "logs.dashlane.com"
                 ]
             },
             {
@@ -1170,14 +1170,6 @@
                 ]
             },
             {
-                "name": "goodrx",
-                "urls": [
-                    "www.goodrx.com",
-                    "gold.goodrx.com",
-                    "heydoctor.goodrx.com"
-                ]
-            },
-            {
                 "name": "digitalocean",
                 "urls": [
                     "https://cloud.digitalocean.com/",
@@ -1187,6 +1179,14 @@
                     "*.digitalocean.com",
                     "*.digitaloceanspaces.com",
                     "http://169.254.169.254/"
+                ]
+            },
+            {
+                "name": "goodrx",
+                "urls": [
+                    "www.goodrx.com",
+                    "gold.goodrx.com",
+                    "heydoctor.goodrx.com"
                 ]
             },
             {
@@ -1258,6 +1258,16 @@
                 ]
             },
             {
+                "name": "deliveroo",
+                "urls": [
+                    "*.deliveroo-data.net",
+                    "*.deliveroo-data.io",
+                    "*.deliveroo-data-test.io",
+                    "*.deliveroo.*",
+                    "*.deliveroo-streams.net"
+                ]
+            },
+            {
                 "name": "casper",
                 "urls": [
                     "www.casper.com",
@@ -1276,16 +1286,6 @@
                     "offsite.omise.co",
                     "dashboard2.omise.co",
                     "www.omise.co"
-                ]
-            },
-            {
-                "name": "deliveroo",
-                "urls": [
-                    "*.deliveroo-data.net",
-                    "*.deliveroo-data.io",
-                    "*.deliveroo-data-test.io",
-                    "*.deliveroo.*",
-                    "*.deliveroo-streams.net"
                 ]
             },
             {
@@ -1450,6 +1450,33 @@
                 ]
             },
             {
+                "name": "nutanix",
+                "urls": [
+                    "support.nutanix.com",
+                    "ticket.nutanix.com",
+                    "webex.nutanix.com",
+                    "events.nutanix.com",
+                    "my.nutanix.com",
+                    "jira.nutanix.com",
+                    "nutanix.com",
+                    "developer.nutanix.com",
+                    "next.nutanix.com",
+                    "install.nutanix.com",
+                    "bootcamp.nutanix.com",
+                    "productsizer.nutanix.com",
+                    "gp.nutanix.com",
+                    "stage-billing.nutanix.com",
+                    "mops.nutanix.com",
+                    "idp.nutanix.com",
+                    "cpq.nutanix.com",
+                    "iot.nutanix.com",
+                    "frame.nutanix.com",
+                    "beam.nutanix.com",
+                    "*.nutanix.com",
+                    "testdrive.nutanix.com"
+                ]
+            },
+            {
                 "name": "innogames",
                 "urls": [
                     "*.innogames.com",
@@ -1476,33 +1503,6 @@
                     "mobileapi.lystit.com",
                     "*.lystit.com",
                     "*.lyst.co"
-                ]
-            },
-            {
-                "name": "nutanix",
-                "urls": [
-                    "support.nutanix.com",
-                    "ticket.nutanix.com",
-                    "webex.nutanix.com",
-                    "events.nutanix.com",
-                    "my.nutanix.com",
-                    "jira.nutanix.com",
-                    "nutanix.com",
-                    "developer.nutanix.com",
-                    "next.nutanix.com",
-                    "install.nutanix.com",
-                    "bootcamp.nutanix.com",
-                    "productsizer.nutanix.com",
-                    "gp.nutanix.com",
-                    "stage-billing.nutanix.com",
-                    "mops.nutanix.com",
-                    "idp.nutanix.com",
-                    "cpq.nutanix.com",
-                    "iot.nutanix.com",
-                    "frame.nutanix.com",
-                    "beam.nutanix.com",
-                    "*.nutanix.com",
-                    "testdrive.nutanix.com"
                 ]
             },
             {
@@ -1924,6 +1924,14 @@
                 ]
             },
             {
+                "name": "bitmex",
+                "urls": [
+                    "www.bitmex.com",
+                    "public.bitmex.com",
+                    "*.bitmex.com"
+                ]
+            },
+            {
                 "name": "creditkarma",
                 "urls": [
                     "https://*.creditkarma.com",
@@ -1963,14 +1971,6 @@
             {
                 "name": "cert",
                 "urls": []
-            },
-            {
-                "name": "bitmex",
-                "urls": [
-                    "www.bitmex.com",
-                    "public.bitmex.com",
-                    "*.bitmex.com"
-                ]
             },
             {
                 "name": "cengage",
@@ -2070,17 +2070,6 @@
                 ]
             },
             {
-                "name": "smtp2go",
-                "urls": [
-                    "smtp2go.com",
-                    "app.smtp2go.com"
-                ]
-            },
-            {
-                "name": "stellar",
-                "urls": []
-            },
-            {
                 "name": "amazonvrp",
                 "urls": [
                     "www.amazon.com",
@@ -2093,6 +2082,17 @@
                     "www.amazon.in",
                     "www.amazon.ca"
                 ]
+            },
+            {
+                "name": "smtp2go",
+                "urls": [
+                    "smtp2go.com",
+                    "app.smtp2go.com"
+                ]
+            },
+            {
+                "name": "stellar",
+                "urls": []
             },
             {
                 "name": "gener8",
