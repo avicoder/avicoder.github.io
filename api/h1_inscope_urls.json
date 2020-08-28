@@ -87,7 +87,8 @@
                     "xd.adobe.com",
                     "*.adobe.com",
                     "*.scene7.com",
-                    "*.omtrdc.net"
+                    "*.omtrdc.net",
+                    "*.adobeconnect.com"
                 ]
             },
             {
@@ -432,7 +433,10 @@
                     "developer.zendesk.com",
                     "h1-your-domain.zendesk.com",
                     "*.zendesk.com/connect*",
-                    "apps.zendesk.com"
+                    "apps.zendesk.com",
+                    "app.smooch.io",
+                    "api.smooch.io",
+                    "smooch.io"
                 ]
             },
             {
@@ -1115,15 +1119,15 @@
                 ]
             },
             {
-                "name": "nordvpn",
-                "urls": [
-                    "*.nordvpn.com"
-                ]
-            },
-            {
                 "name": "coursera",
                 "urls": [
                     "www.coursera.org"
+                ]
+            },
+            {
+                "name": "nordvpn",
+                "urls": [
+                    "*.nordvpn.com"
                 ]
             },
             {
@@ -1182,18 +1186,19 @@
                 ]
             },
             {
-                "name": "goodrx",
-                "urls": [
-                    "www.goodrx.com",
-                    "gold.goodrx.com",
-                    "heydoctor.goodrx.com"
-                ]
-            },
-            {
                 "name": "moneybird",
                 "urls": [
                     "https://moneybird.com",
                     "https://moneybirdstorage.com"
+                ]
+            },
+            {
+                "name": "goodrx",
+                "urls": [
+                    "www.goodrx.com",
+                    "gold.goodrx.com",
+                    "heydoctor.goodrx.com",
+                    "api.heydoctor.com"
                 ]
             },
             {
@@ -1510,20 +1515,20 @@
                 "urls": []
             },
             {
+                "name": "datastax",
+                "urls": [
+                    "https://www.datastax.com/",
+                    "https://downloads.datastax.com",
+                    "https://docs.datastax.com/"
+                ]
+            },
+            {
                 "name": "lifeomic",
                 "urls": [
                     "*.infra.lifeomic.com",
                     "*.dev.lifeomic.com",
                     "https://apps.wellness.dev.lifeomic.com",
                     "https://lifeology.dev.lifeomic.com"
-                ]
-            },
-            {
-                "name": "datastax",
-                "urls": [
-                    "https://www.datastax.com/",
-                    "https://downloads.datastax.com",
-                    "https://docs.datastax.com/"
                 ]
             },
             {
@@ -1585,12 +1590,6 @@
                 "urls": []
             },
             {
-                "name": "rubygems",
-                "urls": [
-                    "rubygems.org"
-                ]
-            },
-            {
                 "name": "crypto",
                 "urls": [
                     "www.crypto.com",
@@ -1600,6 +1599,12 @@
                     "https://merchant.crypto.com",
                     "pay.crypto.com",
                     "js.crypto.com"
+                ]
+            },
+            {
+                "name": "rubygems",
+                "urls": [
+                    "rubygems.org"
                 ]
             },
             {
@@ -1638,6 +1643,15 @@
                 "urls": []
             },
             {
+                "name": "magisto",
+                "urls": [
+                    "magisto.com,www.magisto.com",
+                    "*.magisto.com",
+                    "staging.magisto.com",
+                    "applause1.magisto.com"
+                ]
+            },
+            {
                 "name": "pixiv",
                 "urls": [
                     "booth.pm",
@@ -1645,15 +1659,6 @@
                     "accounts.pixiv.net",
                     "www.pixiv.net",
                     "hub.vroid.com"
-                ]
-            },
-            {
-                "name": "magisto",
-                "urls": [
-                    "magisto.com,www.magisto.com",
-                    "*.magisto.com",
-                    "staging.magisto.com",
-                    "applause1.magisto.com"
                 ]
             },
             {
@@ -1668,20 +1673,6 @@
                     "api.recarga.com",
                     "www.recargapay.com.br/*",
                     "secure.recarga.com/*"
-                ]
-            },
-            {
-                "name": "top_echelon_software",
-                "urls": [
-                    "www.topechelon.com",
-                    "bigbiller.topechelon.com",
-                    "bb3api.topechelon.com"
-                ]
-            },
-            {
-                "name": "prospect_io_gjk6b",
-                "urls": [
-                    "app.prospect.io"
                 ]
             },
             {
@@ -1749,6 +1740,20 @@
                     "app.topcoder.com",
                     "apps.topcoder.com",
                     "challenges.topcoder.com"
+                ]
+            },
+            {
+                "name": "top_echelon_software",
+                "urls": [
+                    "www.topechelon.com",
+                    "bigbiller.topechelon.com",
+                    "bb3api.topechelon.com"
+                ]
+            },
+            {
+                "name": "prospect_io_gjk6b",
+                "urls": [
+                    "app.prospect.io"
                 ]
             },
             {
@@ -1981,6 +1986,12 @@
                 "urls": []
             },
             {
+                "name": "ozon",
+                "urls": [
+                    "www.ozon.ru"
+                ]
+            },
+            {
                 "name": "revive_adserver",
                 "urls": []
             },
@@ -1988,12 +1999,6 @@
                 "name": "stagingdoteverydotorg",
                 "urls": [
                     "staging.every.org"
-                ]
-            },
-            {
-                "name": "ozon",
-                "urls": [
-                    "www.ozon.ru"
                 ]
             },
             {
@@ -2044,6 +2049,20 @@
                 ]
             },
             {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr",
+                    "www.amazon.com.mx",
+                    "www.amazon.es",
+                    "www.amazon.in",
+                    "www.amazon.ca"
+                ]
+            },
+            {
                 "name": "trycourier",
                 "urls": [
                     "www.trycourier.app",
@@ -2067,20 +2086,6 @@
                     "*.hellowallet.com",
                     "*.laurelroad.com",
                     "*.cainbrothers.com"
-                ]
-            },
-            {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr",
-                    "www.amazon.com.mx",
-                    "www.amazon.es",
-                    "www.amazon.in",
-                    "www.amazon.ca"
                 ]
             },
             {
@@ -2438,20 +2443,28 @@
                 ]
             },
             {
-                "name": "streak_com",
-                "urls": [
-                    "www.streak.com",
-                    "api.streak.com",
-                    "mailfoogae.appspot.com"
-                ]
-            },
-            {
                 "name": "insolar",
                 "urls": [
                     "wallet.test.insolar.io",
                     "wallet-api.test.insolar.io",
                     "*.insolar.io",
                     "be.test.insolar.io"
+                ]
+            },
+            {
+                "name": "watson_group",
+                "urls": [
+                    "www.superdrug.com",
+                    "https://www.superdrug.com/blog",
+                    "*.superdrug.com"
+                ]
+            },
+            {
+                "name": "streak_com",
+                "urls": [
+                    "www.streak.com",
+                    "api.streak.com",
+                    "mailfoogae.appspot.com"
                 ]
             },
             {
@@ -2485,14 +2498,6 @@
                 "name": "worklytics",
                 "urls": [
                     "*.worklytics.co"
-                ]
-            },
-            {
-                "name": "watson_group",
-                "urls": [
-                    "www.superdrug.com",
-                    "https://www.superdrug.com/blog",
-                    "*.superdrug.com"
                 ]
             },
             {
@@ -2640,10 +2645,6 @@
                 ]
             },
             {
-                "name": "aspen",
-                "urls": []
-            },
-            {
                 "name": "rebellion-defense",
                 "urls": [
                     "*.rebelliondefence.com",
@@ -2652,6 +2653,10 @@
                     "*.mooch.rip",
                     "www.rebelliondefense.com"
                 ]
+            },
+            {
+                "name": "aspen",
+                "urls": []
             },
             {
                 "name": "versioncake",
@@ -2923,7 +2928,7 @@
         ],
         "metaData": {
             "totalPrograms": 312,
-            "totalUrls": 1457
+            "totalUrls": 1462
         }
     }
 }
