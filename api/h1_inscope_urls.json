@@ -873,6 +873,9 @@
                     "*.casinohuone.com",
                     "*.igame.com",
                     "*.vladcazino.ro",
+                    "unibet.me",
+                    "maria.casino",
+                    "stly.eu",
                     "relaxcdn.unibet.com"
                 ]
             },
@@ -1007,16 +1010,16 @@
                 ]
             },
             {
-                "name": "expressionengine",
-                "urls": []
-            },
-            {
                 "name": "brave",
                 "urls": [
                     "publishers.basicattentiontoken.org",
                     "brave.com",
                     "basicattentiontoken.org"
                 ]
+            },
+            {
+                "name": "expressionengine",
+                "urls": []
             },
             {
                 "name": "showmax",
@@ -1532,6 +1535,32 @@
                 ]
             },
             {
+                "name": "clario",
+                "urls": [
+                    "https://account.mackeeper.com",
+                    "https://api.account.opendoor.ltd",
+                    "https://clario.co",
+                    "https://adblocking.clario.co",
+                    "https://api-ne.clario.co",
+                    "https://chat-crm.clario.co",
+                    "https://chat.clario.co",
+                    "https://crm.clario.co",
+                    "https://dcs.clario.co",
+                    "https://dl.clario.co",
+                    "https://event.clario.co",
+                    "https://get-unbounce.clario.co",
+                    "https://inapp.clario.co",
+                    "https://static-cdn.clario.co",
+                    "https://sz.clario.co",
+                    "https://updater.clario.co",
+                    "https://updatetracker.clario.co",
+                    "https://webapi.clario.co",
+                    "https://yapi.clario.co",
+                    "*.kromtech.com",
+                    "*.mackeeper.com"
+                ]
+            },
+            {
                 "name": "blockchain",
                 "urls": [
                     "*.blockchain.com",
@@ -1557,32 +1586,6 @@
                     "ws.blockchain.info",
                     "ws.prod.blockchain.info",
                     "exchange.blockchain.com"
-                ]
-            },
-            {
-                "name": "clario",
-                "urls": [
-                    "https://account.mackeeper.com",
-                    "https://api.account.opendoor.ltd",
-                    "https://clario.co",
-                    "https://adblocking.clario.co",
-                    "https://api-ne.clario.co",
-                    "https://chat-crm.clario.co",
-                    "https://chat.clario.co",
-                    "https://crm.clario.co",
-                    "https://dcs.clario.co",
-                    "https://dl.clario.co",
-                    "https://event.clario.co",
-                    "https://get-unbounce.clario.co",
-                    "https://inapp.clario.co",
-                    "https://static-cdn.clario.co",
-                    "https://sz.clario.co",
-                    "https://updater.clario.co",
-                    "https://updatetracker.clario.co",
-                    "https://webapi.clario.co",
-                    "https://yapi.clario.co",
-                    "*.kromtech.com",
-                    "*.mackeeper.com"
                 ]
             },
             {
@@ -1643,15 +1646,6 @@
                 "urls": []
             },
             {
-                "name": "magisto",
-                "urls": [
-                    "magisto.com,www.magisto.com",
-                    "*.magisto.com",
-                    "staging.magisto.com",
-                    "applause1.magisto.com"
-                ]
-            },
-            {
                 "name": "pixiv",
                 "urls": [
                     "booth.pm",
@@ -1659,6 +1653,15 @@
                     "accounts.pixiv.net",
                     "www.pixiv.net",
                     "hub.vroid.com"
+                ]
+            },
+            {
+                "name": "magisto",
+                "urls": [
+                    "magisto.com,www.magisto.com",
+                    "*.magisto.com",
+                    "staging.magisto.com",
+                    "applause1.magisto.com"
                 ]
             },
             {
@@ -1860,6 +1863,17 @@
                 "urls": []
             },
             {
+                "name": "pingidentity",
+                "urls": [
+                    "https://ort-admin.pingone.com/*",
+                    "https://console-staging.pingone.com/*",
+                    "https://api-staging.pingone.com/*",
+                    "https://apps-staging.pingone.com/*",
+                    "https://ort-authenticator.pingone.com/*",
+                    "https://ort-desktop.pingone.com/*"
+                ]
+            },
+            {
                 "name": "trint",
                 "urls": [
                     "graphql2.trint.com",
@@ -1871,17 +1885,6 @@
                     "editor-sessions.trint.com",
                     "media.trint.com",
                     "embed.trint.com"
-                ]
-            },
-            {
-                "name": "pingidentity",
-                "urls": [
-                    "https://ort-admin.pingone.com/*",
-                    "https://console-staging.pingone.com/*",
-                    "https://api-staging.pingone.com/*",
-                    "https://apps-staging.pingone.com/*",
-                    "https://ort-authenticator.pingone.com/*",
-                    "https://ort-desktop.pingone.com/*"
                 ]
             },
             {
@@ -1920,6 +1923,19 @@
                 ]
             },
             {
+                "name": "creditkarma",
+                "urls": [
+                    "https://*.creditkarma.com",
+                    "https://accounts.creditkarma.com",
+                    "https://www.creditkarma.ca",
+                    "https://tax.creditkarma.com",
+                    "https://api.creditkarma.com",
+                    "https://help.creditkarma.com",
+                    "https://blog.creditkarma.com/",
+                    "https://www.creditkarma.com/savings"
+                ]
+            },
+            {
                 "name": "drive_net_inc",
                 "urls": [
                     "www.drive2.ru",
@@ -1934,19 +1950,6 @@
                     "www.bitmex.com",
                     "public.bitmex.com",
                     "*.bitmex.com"
-                ]
-            },
-            {
-                "name": "creditkarma",
-                "urls": [
-                    "https://*.creditkarma.com",
-                    "https://accounts.creditkarma.com",
-                    "https://www.creditkarma.ca",
-                    "https://tax.creditkarma.com",
-                    "https://api.creditkarma.com",
-                    "https://help.creditkarma.com",
-                    "https://blog.creditkarma.com/",
-                    "https://www.creditkarma.com/savings"
                 ]
             },
             {
@@ -1982,17 +1985,13 @@
                 "urls": []
             },
             {
-                "name": "monero",
-                "urls": []
-            },
-            {
                 "name": "ozon",
                 "urls": [
                     "www.ozon.ru"
                 ]
             },
             {
-                "name": "revive_adserver",
+                "name": "monero",
                 "urls": []
             },
             {
@@ -2000,6 +1999,10 @@
                 "urls": [
                     "staging.every.org"
                 ]
+            },
+            {
+                "name": "revive_adserver",
+                "urls": []
             },
             {
                 "name": "ruby",
@@ -2018,6 +2021,20 @@
             {
                 "name": "mobisystems_ltd",
                 "urls": []
+            },
+            {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr",
+                    "www.amazon.com.mx",
+                    "www.amazon.es",
+                    "www.amazon.in",
+                    "www.amazon.ca"
+                ]
             },
             {
                 "name": "wellsfargo",
@@ -2046,20 +2063,6 @@
                     "rpc.znly.co",
                     "rpc-kcp.znly.co",
                     "zen.ly"
-                ]
-            },
-            {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr",
-                    "www.amazon.com.mx",
-                    "www.amazon.es",
-                    "www.amazon.in",
-                    "www.amazon.ca"
                 ]
             },
             {
@@ -2306,6 +2309,14 @@
                 ]
             },
             {
+                "name": "watson_group",
+                "urls": [
+                    "www.superdrug.com",
+                    "https://www.superdrug.com/blog",
+                    "*.superdrug.com"
+                ]
+            },
+            {
                 "name": "ibb-apache",
                 "urls": []
             },
@@ -2452,14 +2463,6 @@
                 ]
             },
             {
-                "name": "watson_group",
-                "urls": [
-                    "www.superdrug.com",
-                    "https://www.superdrug.com/blog",
-                    "*.superdrug.com"
-                ]
-            },
-            {
                 "name": "streak_com",
                 "urls": [
                     "www.streak.com",
@@ -2600,8 +2603,25 @@
                 ]
             },
             {
+                "name": "simple_poll",
+                "urls": [
+                    "https://simplepoll.rocks",
+                    "simplegoals.app"
+                ]
+            },
+            {
                 "name": "matic-network",
                 "urls": []
+            },
+            {
+                "name": "rebellion-defense",
+                "urls": [
+                    "*.rebelliondefence.com",
+                    "*.rebelliondefense.com",
+                    "*.moochirp.io",
+                    "*.mooch.rip",
+                    "www.rebelliondefense.com"
+                ]
             },
             {
                 "name": "ibb-nginx",
@@ -2642,16 +2662,6 @@
                 "urls": [
                     "*.finra.org",
                     "https://ews.qa.finra.org/*"
-                ]
-            },
-            {
-                "name": "rebellion-defense",
-                "urls": [
-                    "*.rebelliondefence.com",
-                    "*.rebelliondefense.com",
-                    "*.moochirp.io",
-                    "*.mooch.rip",
-                    "www.rebelliondefense.com"
                 ]
             },
             {
@@ -2927,8 +2937,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 312,
-            "totalUrls": 1462
+            "totalPrograms": 313,
+            "totalUrls": 1467
         }
     }
 }
