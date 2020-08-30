@@ -1010,16 +1010,16 @@
                 ]
             },
             {
+                "name": "expressionengine",
+                "urls": []
+            },
+            {
                 "name": "brave",
                 "urls": [
                     "publishers.basicattentiontoken.org",
                     "brave.com",
                     "basicattentiontoken.org"
                 ]
-            },
-            {
-                "name": "expressionengine",
-                "urls": []
             },
             {
                 "name": "showmax",
@@ -2610,6 +2610,10 @@
                 ]
             },
             {
+                "name": "coingaming",
+                "urls": []
+            },
+            {
                 "name": "matic-network",
                 "urls": []
             },
@@ -2733,10 +2737,6 @@
             },
             {
                 "name": "github-security-lab",
-                "urls": []
-            },
-            {
-                "name": "coingaming",
                 "urls": []
             },
             {
