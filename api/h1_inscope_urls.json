@@ -630,6 +630,10 @@
                 ]
             },
             {
+                "name": "nodejs-ecosystem",
+                "urls": []
+            },
+            {
                 "name": "hyatt",
                 "urls": [
                     "hyatt.com",
@@ -648,10 +652,6 @@
                     "upsell.hyatt.com",
                     "newsroom.images.hyatt.com"
                 ]
-            },
-            {
-                "name": "nodejs-ecosystem",
-                "urls": []
             },
             {
                 "name": "sg-vdp",
@@ -2057,6 +2057,12 @@
                 ]
             },
             {
+                "name": "passit",
+                "urls": [
+                    "app.passit.io"
+                ]
+            },
+            {
                 "name": "zenly",
                 "urls": [
                     "api.znly.co",
@@ -2072,12 +2078,6 @@
                     "api.trycourier.app",
                     "*.ct0.app",
                     "www.trycourier.com"
-                ]
-            },
-            {
-                "name": "passit",
-                "urls": [
-                    "app.passit.io"
                 ]
             },
             {
@@ -2556,6 +2556,13 @@
                 "urls": []
             },
             {
+                "name": "simple_poll",
+                "urls": [
+                    "https://simplepoll.rocks",
+                    "simplegoals.app"
+                ]
+            },
+            {
                 "name": "btfs",
                 "urls": []
             },
@@ -2600,13 +2607,6 @@
                     "app.investnext.com",
                     "altogroup.investnextdemo.co",
                     "app.investnextdemo.co"
-                ]
-            },
-            {
-                "name": "simple_poll",
-                "urls": [
-                    "https://simplepoll.rocks",
-                    "simplegoals.app"
                 ]
             },
             {
