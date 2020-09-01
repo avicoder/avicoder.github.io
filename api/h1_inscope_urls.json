@@ -580,20 +580,20 @@
                 ]
             },
             {
+                "name": "roblox",
+                "urls": [
+                    "*.roblox.com",
+                    "*.rbx.com",
+                    "*.ra.roblox.com"
+                ]
+            },
+            {
                 "name": "ok",
                 "urls": [
                     "ok.ru",
                     "*.ok.ru",
                     "tamtam.chat",
                     "ok.me"
-                ]
-            },
-            {
-                "name": "roblox",
-                "urls": [
-                    "*.roblox.com",
-                    "*.rbx.com",
-                    "*.ra.roblox.com"
                 ]
             },
             {
@@ -630,10 +630,6 @@
                 ]
             },
             {
-                "name": "nodejs-ecosystem",
-                "urls": []
-            },
-            {
                 "name": "hyatt",
                 "urls": [
                     "hyatt.com",
@@ -652,6 +648,10 @@
                     "upsell.hyatt.com",
                     "newsroom.images.hyatt.com"
                 ]
+            },
+            {
+                "name": "nodejs-ecosystem",
+                "urls": []
             },
             {
                 "name": "sg-vdp",
@@ -754,16 +754,16 @@
                 ]
             },
             {
+                "name": "wakatime",
+                "urls": []
+            },
+            {
                 "name": "instacart",
                 "urls": [
                     "www.instacart.com",
                     "api.instacart.com",
                     "shoppers.instacart.com"
                 ]
-            },
-            {
-                "name": "wakatime",
-                "urls": []
             },
             {
                 "name": "paddypowerbetfair",
@@ -775,6 +775,15 @@
                     "*.betfair.ro",
                     "*.betfair.se",
                     "*.paddypower.it"
+                ]
+            },
+            {
+                "name": "acronis",
+                "urls": [
+                    "beta-baas.acronis.com",
+                    "*-api-*.acronis.com",
+                    "*.acronis.com",
+                    "account.acronis.com"
                 ]
             },
             {
@@ -817,15 +826,6 @@
                     "pinion.gg",
                     "t.unikrn.com",
                     "bingo-api.unikrn.com"
-                ]
-            },
-            {
-                "name": "acronis",
-                "urls": [
-                    "beta-baas.acronis.com",
-                    "*-api-*.acronis.com",
-                    "*.acronis.com",
-                    "account.acronis.com"
                 ]
             },
             {
@@ -1156,6 +1156,14 @@
                 ]
             },
             {
+                "name": "line",
+                "urls": [
+                    "*.line.me",
+                    "*.line-apps.com",
+                    "*.line.naver.jp"
+                ]
+            },
+            {
                 "name": "mediamarktsaturn",
                 "urls": [
                     "www.mediamarkt.de",
@@ -1211,14 +1219,6 @@
                     "www.livestream.com",
                     "*.new.livestream.com",
                     "donations.livestream.com"
-                ]
-            },
-            {
-                "name": "line",
-                "urls": [
-                    "*.line.me",
-                    "*.line-apps.com",
-                    "*.line.naver.jp"
                 ]
             },
             {
@@ -1363,22 +1363,6 @@
                 ]
             },
             {
-                "name": "urbandictionary",
-                "urls": [
-                    "*.urbandictionary.com",
-                    "*.urbandictionary.net",
-                    "*.urbandictionary.biz",
-                    "urbandictionary.github.io",
-                    "*.urbandictionary.org",
-                    "*.ud.wtf",
-                    "*.udimg.com",
-                    "*.urbandictionary.blog",
-                    "*.urbanup.com",
-                    "help.urbandictionary.com",
-                    "*.urbandictionary.store"
-                ]
-            },
-            {
                 "name": "visma",
                 "urls": [
                     "eaccounting.stage.vismaonline.com",
@@ -1393,6 +1377,22 @@
                     "admin.stage.vismaonline.com",
                     "identity.stage.vismaonline.com",
                     "http://myservices-api.stage.vismaonline.com/"
+                ]
+            },
+            {
+                "name": "urbandictionary",
+                "urls": [
+                    "*.urbandictionary.com",
+                    "*.urbandictionary.net",
+                    "*.urbandictionary.biz",
+                    "urbandictionary.github.io",
+                    "*.urbandictionary.org",
+                    "*.ud.wtf",
+                    "*.udimg.com",
+                    "*.urbandictionary.blog",
+                    "*.urbanup.com",
+                    "help.urbandictionary.com",
+                    "*.urbandictionary.store"
                 ]
             },
             {
@@ -1611,6 +1611,12 @@
                 ]
             },
             {
+                "name": "smule",
+                "urls": [
+                    "*.smule.com"
+                ]
+            },
+            {
                 "name": "goldmansachs",
                 "urls": [
                     "*.goldmansachs.com",
@@ -1636,12 +1642,6 @@
                 ]
             },
             {
-                "name": "smule",
-                "urls": [
-                    "*.smule.com"
-                ]
-            },
-            {
                 "name": "glasswire",
                 "urls": []
             },
@@ -1662,20 +1662,6 @@
                     "*.magisto.com",
                     "staging.magisto.com",
                     "applause1.magisto.com"
-                ]
-            },
-            {
-                "name": "flickr",
-                "urls": [
-                    "*.flickr.com"
-                ]
-            },
-            {
-                "name": "recargapay",
-                "urls": [
-                    "api.recarga.com",
-                    "www.recargapay.com.br/*",
-                    "secure.recarga.com/*"
                 ]
             },
             {
@@ -1746,6 +1732,20 @@
                 ]
             },
             {
+                "name": "flickr",
+                "urls": [
+                    "*.flickr.com"
+                ]
+            },
+            {
+                "name": "recargapay",
+                "urls": [
+                    "api.recarga.com",
+                    "www.recargapay.com.br/*",
+                    "secure.recarga.com/*"
+                ]
+            },
+            {
                 "name": "top_echelon_software",
                 "urls": [
                     "www.topechelon.com",
@@ -1806,6 +1806,10 @@
                 ]
             },
             {
+                "name": "rails",
+                "urls": []
+            },
+            {
                 "name": "endless_hosting",
                 "urls": [
                     "(*).theendlessweb.com",
@@ -1816,8 +1820,13 @@
                 ]
             },
             {
-                "name": "rails",
-                "urls": []
+                "name": "helium",
+                "urls": [
+                    "ota.helium.com",
+                    "burrow.helium.systems",
+                    "console.helium.com",
+                    "www.helium.com"
+                ]
             },
             {
                 "name": "gocd",
@@ -1827,15 +1836,6 @@
                 "name": "lemlist",
                 "urls": [
                     "app.lemlist.com"
-                ]
-            },
-            {
-                "name": "helium",
-                "urls": [
-                    "ota.helium.com",
-                    "burrow.helium.systems",
-                    "console.helium.com",
-                    "www.helium.com"
                 ]
             },
             {
@@ -2005,6 +2005,20 @@
                 "urls": []
             },
             {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr",
+                    "www.amazon.com.mx",
+                    "www.amazon.es",
+                    "www.amazon.in",
+                    "www.amazon.ca"
+                ]
+            },
+            {
                 "name": "ruby",
                 "urls": []
             },
@@ -2021,20 +2035,6 @@
             {
                 "name": "mobisystems_ltd",
                 "urls": []
-            },
-            {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr",
-                    "www.amazon.com.mx",
-                    "www.amazon.es",
-                    "www.amazon.in",
-                    "www.amazon.ca"
-                ]
             },
             {
                 "name": "wellsfargo",
@@ -2137,28 +2137,18 @@
                 ]
             },
             {
-                "name": "affirm",
-                "urls": [
-                    "http://hackerone.affirm-odin.com/",
-                    "https://direct-hackerone.affirm-odin.com/",
-                    "https://vcn-hackerone.affirm-odin.com/"
-                ]
-            },
-            {
-                "name": "amitree_inc",
-                "urls": [
-                    "www.amitree.com"
-                ]
-            },
-            {
                 "name": "qulture_rocks_x3u44",
                 "urls": [
                     "https://hackerone.qulture.rocks/"
                 ]
             },
             {
-                "name": "teradici",
-                "urls": []
+                "name": "affirm",
+                "urls": [
+                    "http://hackerone.affirm-odin.com/",
+                    "https://direct-hackerone.affirm-odin.com/",
+                    "https://vcn-hackerone.affirm-odin.com/"
+                ]
             },
             {
                 "name": "ecobee",
@@ -2201,6 +2191,16 @@
                     "capture.ecobee.com",
                     "utilities.ecobee.com"
                 ]
+            },
+            {
+                "name": "amitree_inc",
+                "urls": [
+                    "www.amitree.com"
+                ]
+            },
+            {
+                "name": "teradici",
+                "urls": []
             },
             {
                 "name": "gmelius",
@@ -2494,6 +2494,14 @@
                 "urls": []
             },
             {
+                "name": "rockset",
+                "urls": [
+                    "console.rockset.com",
+                    "docs.rockset.com",
+                    "api.rs2.usw2.rockset.com"
+                ]
+            },
+            {
                 "name": "hyperledger",
                 "urls": []
             },
@@ -2540,6 +2548,13 @@
                 ]
             },
             {
+                "name": "simple_poll",
+                "urls": [
+                    "https://simplepoll.rocks",
+                    "simplegoals.app"
+                ]
+            },
+            {
                 "name": "upgrade",
                 "urls": [
                     "*.upgrade.com"
@@ -2556,23 +2571,8 @@
                 "urls": []
             },
             {
-                "name": "simple_poll",
-                "urls": [
-                    "https://simplepoll.rocks",
-                    "simplegoals.app"
-                ]
-            },
-            {
                 "name": "btfs",
                 "urls": []
-            },
-            {
-                "name": "rockset",
-                "urls": [
-                    "console.rockset.com",
-                    "docs.rockset.com",
-                    "api.rs2.usw2.rockset.com"
-                ]
             },
             {
                 "name": "nokogiri",
