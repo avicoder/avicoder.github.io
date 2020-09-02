@@ -603,6 +603,26 @@
                 ]
             },
             {
+                "name": "hyatt",
+                "urls": [
+                    "hyatt.com",
+                    "www.hyatt.com",
+                    "world.hyatt.com",
+                    "assets.hyatt.com",
+                    "salesportal.hyatt.com",
+                    "meetings.hyatt.com",
+                    "ebsext.oft.hyatt.com",
+                    "mobileapp.hyatt.com",
+                    "plannerrequest.hyatt.com",
+                    "public.hyatt.com",
+                    "roominglist.hyatt.com",
+                    "soaext.oft.hyatt.com",
+                    "sso.oft.hyatt.com",
+                    "upsell.hyatt.com",
+                    "newsroom.images.hyatt.com"
+                ]
+            },
+            {
                 "name": "mapbox",
                 "urls": [
                     "www.mapbox.com",
@@ -627,26 +647,6 @@
                     "yelp.nowait.com",
                     "www.yelpwifi.com",
                     "app.yelpwifi.com"
-                ]
-            },
-            {
-                "name": "hyatt",
-                "urls": [
-                    "hyatt.com",
-                    "www.hyatt.com",
-                    "world.hyatt.com",
-                    "assets.hyatt.com",
-                    "salesportal.hyatt.com",
-                    "meetings.hyatt.com",
-                    "ebsext.oft.hyatt.com",
-                    "mobileapp.hyatt.com",
-                    "plannerrequest.hyatt.com",
-                    "public.hyatt.com",
-                    "roominglist.hyatt.com",
-                    "soaext.oft.hyatt.com",
-                    "sso.oft.hyatt.com",
-                    "upsell.hyatt.com",
-                    "newsroom.images.hyatt.com"
                 ]
             },
             {
@@ -829,6 +829,10 @@
                 ]
             },
             {
+                "name": "khanacademy",
+                "urls": []
+            },
+            {
                 "name": "dashlane",
                 "urls": [
                     "ws1.dashlane.com",
@@ -844,10 +848,6 @@
                     "my.stripo.email",
                     "stripo.email"
                 ]
-            },
-            {
-                "name": "khanacademy",
-                "urls": []
             },
             {
                 "name": "irccloud",
@@ -876,6 +876,7 @@
                     "unibet.me",
                     "maria.casino",
                     "stly.eu",
+                    "*.ottokasino.com",
                     "relaxcdn.unibet.com"
                 ]
             },
@@ -1010,16 +1011,16 @@
                 ]
             },
             {
-                "name": "expressionengine",
-                "urls": []
-            },
-            {
                 "name": "brave",
                 "urls": [
                     "publishers.basicattentiontoken.org",
                     "brave.com",
                     "basicattentiontoken.org"
                 ]
+            },
+            {
+                "name": "expressionengine",
+                "urls": []
             },
             {
                 "name": "showmax",
@@ -1593,6 +1594,12 @@
                 "urls": []
             },
             {
+                "name": "smule",
+                "urls": [
+                    "*.smule.com"
+                ]
+            },
+            {
                 "name": "crypto",
                 "urls": [
                     "www.crypto.com",
@@ -1608,12 +1615,6 @@
                 "name": "rubygems",
                 "urls": [
                     "rubygems.org"
-                ]
-            },
-            {
-                "name": "smule",
-                "urls": [
-                    "*.smule.com"
                 ]
             },
             {
@@ -1642,6 +1643,15 @@
                 ]
             },
             {
+                "name": "magisto",
+                "urls": [
+                    "magisto.com,www.magisto.com",
+                    "*.magisto.com",
+                    "staging.magisto.com",
+                    "applause1.magisto.com"
+                ]
+            },
+            {
                 "name": "glasswire",
                 "urls": []
             },
@@ -1653,15 +1663,6 @@
                     "accounts.pixiv.net",
                     "www.pixiv.net",
                     "hub.vroid.com"
-                ]
-            },
-            {
-                "name": "magisto",
-                "urls": [
-                    "magisto.com,www.magisto.com",
-                    "*.magisto.com",
-                    "staging.magisto.com",
-                    "applause1.magisto.com"
                 ]
             },
             {
@@ -1732,6 +1733,15 @@
                 ]
             },
             {
+                "name": "vercel",
+                "urls": [
+                    "*.vercel.com",
+                    "*.vercel.sh",
+                    "*.now.systems",
+                    "zeit-cdn.net"
+                ]
+            },
+            {
                 "name": "flickr",
                 "urls": [
                     "*.flickr.com"
@@ -1762,15 +1772,6 @@
             {
                 "name": "phabricator",
                 "urls": []
-            },
-            {
-                "name": "vercel",
-                "urls": [
-                    "*.vercel.com",
-                    "*.vercel.sh",
-                    "*.now.systems",
-                    "zeit-cdn.net"
-                ]
             },
             {
                 "name": "plaid",
@@ -2039,7 +2040,12 @@
             {
                 "name": "wellsfargo",
                 "urls": [
-                    "*.wellsfargo.com"
+                    "*.wellsfargo.com",
+                    "*.wf.com",
+                    "*.wellsfargoadvisors.com",
+                    "*.mworld.com",
+                    "*.wystar.com",
+                    "*.advisor-connection.com"
                 ]
             },
             {
@@ -2212,7 +2218,7 @@
             {
                 "name": "dropcontact",
                 "urls": [
-                    "www.dropcontact.io"
+                    "app.dropcontact.io"
                 ]
             },
             {
@@ -2471,6 +2477,10 @@
                 ]
             },
             {
+                "name": "picsart",
+                "urls": []
+            },
+            {
                 "name": "wink_jq3al",
                 "urls": []
             },
@@ -2487,10 +2497,6 @@
             },
             {
                 "name": "curl",
-                "urls": []
-            },
-            {
-                "name": "picsart",
                 "urls": []
             },
             {
@@ -2938,7 +2944,7 @@
         ],
         "metaData": {
             "totalPrograms": 313,
-            "totalUrls": 1467
+            "totalUrls": 1473
         }
     }
 }
