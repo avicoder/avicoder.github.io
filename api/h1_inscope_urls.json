@@ -357,6 +357,14 @@
                 ]
             },
             {
+                "name": "glassdoor",
+                "urls": [
+                    "http://www.glassdoor.com/",
+                    "http://api.glassdoor.com",
+                    "https://help.glassdoor.com/"
+                ]
+            },
+            {
                 "name": "github",
                 "urls": [
                     "GitHub.com",
@@ -370,14 +378,6 @@
                     "jobs.github.com",
                     "semmle.net",
                     "semmle.com"
-                ]
-            },
-            {
-                "name": "glassdoor",
-                "urls": [
-                    "http://www.glassdoor.com/",
-                    "http://api.glassdoor.com",
-                    "https://help.glassdoor.com/"
                 ]
             },
             {
@@ -1500,6 +1500,7 @@
                     "xs.grepolis.com",
                     "xs0.grepolis.com",
                     "xs1.grepolis.com",
+                    "support.innogames.com",
                     "tribalwars.cash",
                     "xs1.tribalwars.cash"
                 ]
@@ -1515,16 +1516,16 @@
                 ]
             },
             {
-                "name": "ibb-python",
-                "urls": []
-            },
-            {
                 "name": "datastax",
                 "urls": [
                     "https://www.datastax.com/",
                     "https://downloads.datastax.com",
                     "https://docs.datastax.com/"
                 ]
+            },
+            {
+                "name": "ibb-python",
+                "urls": []
             },
             {
                 "name": "lifeomic",
@@ -1590,14 +1591,14 @@
                 ]
             },
             {
-                "name": "nintendo",
-                "urls": []
-            },
-            {
                 "name": "smule",
                 "urls": [
                     "*.smule.com"
                 ]
+            },
+            {
+                "name": "nintendo",
+                "urls": []
             },
             {
                 "name": "crypto",
@@ -2547,6 +2548,10 @@
                 ]
             },
             {
+                "name": "solidus",
+                "urls": []
+            },
+            {
                 "name": "uphabit",
                 "urls": [
                     "api.uphabit.com",
@@ -2571,10 +2576,6 @@
                 "urls": [
                     "jenkins.eslint.org"
                 ]
-            },
-            {
-                "name": "solidus",
-                "urls": []
             },
             {
                 "name": "btfs",
@@ -2684,6 +2685,10 @@
             },
             {
                 "name": "defectdojo",
+                "urls": []
+            },
+            {
+                "name": "agoric",
                 "urls": []
             },
             {
@@ -2943,8 +2948,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 313,
-            "totalUrls": 1473
+            "totalPrograms": 314,
+            "totalUrls": 1474
         }
     }
 }
