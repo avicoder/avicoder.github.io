@@ -87,7 +87,7 @@
                     "xd.adobe.com",
                     "*.adobe.com",
                     "*.scene7.com",
-                    "*.omtrdc.net",
+                    "*.tt.omtrdc.net",
                     "*.adobeconnect.com"
                 ]
             },
@@ -821,11 +821,7 @@
                     "jet-api.unikrn.com",
                     "connekt-api.unikrn.com",
                     "auth.unikrn.com",
-                    "cp-ng.pinion.gg",
-                    "affiliates.unikrn.com",
-                    "pinion.gg",
-                    "t.unikrn.com",
-                    "bingo-api.unikrn.com"
+                    "affiliates.unikrn.com"
                 ]
             },
             {
@@ -1186,6 +1182,21 @@
                 ]
             },
             {
+                "name": "playstation",
+                "urls": [
+                    "*.playstation.net",
+                    "*.sonyentertainmentnetwork.com",
+                    "*.api.playstation.com",
+                    "my.playstation.com",
+                    "store.playstation.com",
+                    "social.playstation.com",
+                    "transact.playstation.com",
+                    "wallets.api.playstation.com",
+                    "direct.playstation.com",
+                    "api.direct.playstation.com"
+                ]
+            },
+            {
                 "name": "digitalocean",
                 "urls": [
                     "https://cloud.digitalocean.com/",
@@ -1220,21 +1231,6 @@
                     "www.livestream.com",
                     "*.new.livestream.com",
                     "donations.livestream.com"
-                ]
-            },
-            {
-                "name": "playstation",
-                "urls": [
-                    "*.playstation.net",
-                    "*.sonyentertainmentnetwork.com",
-                    "*.api.playstation.com",
-                    "my.playstation.com",
-                    "store.playstation.com",
-                    "social.playstation.com",
-                    "transact.playstation.com",
-                    "wallets.api.playstation.com",
-                    "direct.playstation.com",
-                    "api.direct.playstation.com"
                 ]
             },
             {
@@ -1537,6 +1533,18 @@
                 ]
             },
             {
+                "name": "crypto",
+                "urls": [
+                    "www.crypto.com",
+                    "https://crypto.com/exchange",
+                    "app.mona.co",
+                    "https://auth.crypto.com/",
+                    "https://merchant.crypto.com",
+                    "pay.crypto.com",
+                    "js.crypto.com"
+                ]
+            },
+            {
                 "name": "clario",
                 "urls": [
                     "https://account.mackeeper.com",
@@ -1599,18 +1607,6 @@
             {
                 "name": "nintendo",
                 "urls": []
-            },
-            {
-                "name": "crypto",
-                "urls": [
-                    "www.crypto.com",
-                    "https://crypto.com/exchange",
-                    "app.mona.co",
-                    "https://auth.crypto.com/",
-                    "https://merchant.crypto.com",
-                    "pay.crypto.com",
-                    "js.crypto.com"
-                ]
             },
             {
                 "name": "rubygems",
@@ -1849,6 +1845,20 @@
                 ]
             },
             {
+                "name": "trint",
+                "urls": [
+                    "graphql2.trint.com",
+                    "app.trint.com",
+                    "upload.trint.com",
+                    "core-api.trint.com",
+                    "api.trint.com",
+                    "edit.trint.com",
+                    "editor-sessions.trint.com",
+                    "media.trint.com",
+                    "embed.trint.com"
+                ]
+            },
+            {
                 "name": "smartsheet",
                 "urls": [
                     "app.smartsheet.com",
@@ -1873,20 +1883,6 @@
                     "https://apps-staging.pingone.com/*",
                     "https://ort-authenticator.pingone.com/*",
                     "https://ort-desktop.pingone.com/*"
-                ]
-            },
-            {
-                "name": "trint",
-                "urls": [
-                    "graphql2.trint.com",
-                    "app.trint.com",
-                    "upload.trint.com",
-                    "core-api.trint.com",
-                    "api.trint.com",
-                    "edit.trint.com",
-                    "editor-sessions.trint.com",
-                    "media.trint.com",
-                    "embed.trint.com"
                 ]
             },
             {
@@ -2088,6 +2084,13 @@
                 ]
             },
             {
+                "name": "smtp2go",
+                "urls": [
+                    "smtp2go.com",
+                    "app.smtp2go.com"
+                ]
+            },
+            {
                 "name": "keybank",
                 "urls": [
                     "*.key.com",
@@ -2096,13 +2099,6 @@
                     "*.hellowallet.com",
                     "*.laurelroad.com",
                     "*.cainbrothers.com"
-                ]
-            },
-            {
-                "name": "smtp2go",
-                "urls": [
-                    "smtp2go.com",
-                    "app.smtp2go.com"
                 ]
             },
             {
@@ -2206,6 +2202,12 @@
                 ]
             },
             {
+                "name": "dropcontact",
+                "urls": [
+                    "app.dropcontact.io"
+                ]
+            },
+            {
                 "name": "teradici",
                 "urls": []
             },
@@ -2214,12 +2216,6 @@
                 "urls": [
                     "api.gmelius.com",
                     "www.gmelius.com"
-                ]
-            },
-            {
-                "name": "dropcontact",
-                "urls": [
-                    "app.dropcontact.io"
                 ]
             },
             {
@@ -2949,7 +2945,7 @@
         ],
         "metaData": {
             "totalPrograms": 314,
-            "totalUrls": 1474
+            "totalUrls": 1470
         }
     }
 }
