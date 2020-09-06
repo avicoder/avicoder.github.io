@@ -1141,6 +1141,14 @@
                 ]
             },
             {
+                "name": "line",
+                "urls": [
+                    "*.line.me",
+                    "*.line-apps.com",
+                    "*.line.naver.jp"
+                ]
+            },
+            {
                 "name": "postmates",
                 "urls": [
                     "postmates.com",
@@ -1150,14 +1158,6 @@
                     "buyer-prod.postmates.com",
                     "about.postmates.com",
                     "support.postmates.com"
-                ]
-            },
-            {
-                "name": "line",
-                "urls": [
-                    "*.line.me",
-                    "*.line-apps.com",
-                    "*.line.naver.jp"
                 ]
             },
             {
@@ -1791,6 +1791,16 @@
                 ]
             },
             {
+                "name": "endless_hosting",
+                "urls": [
+                    "(*).theendlessweb.com",
+                    "(*).endlcdn.site",
+                    "console-idrac.djelectro.me",
+                    "idrac.djelectro.me",
+                    "(*).itsendless.org"
+                ]
+            },
+            {
                 "name": "eobotcom",
                 "urls": [
                     "eobot.com"
@@ -1806,16 +1816,6 @@
             {
                 "name": "rails",
                 "urls": []
-            },
-            {
-                "name": "endless_hosting",
-                "urls": [
-                    "(*).theendlessweb.com",
-                    "(*).endlcdn.site",
-                    "console-idrac.djelectro.me",
-                    "idrac.djelectro.me",
-                    "(*).itsendless.org"
-                ]
             },
             {
                 "name": "helium",
