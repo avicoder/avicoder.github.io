@@ -1373,7 +1373,12 @@
                     "myservices.stage.vismaonline.com",
                     "admin.stage.vismaonline.com",
                     "identity.stage.vismaonline.com",
-                    "http://myservices-api.stage.vismaonline.com/"
+                    "http://myservices-api.stage.vismaonline.com/",
+                    "ai-testing.maventa.com",
+                    "testing.maventa.com",
+                    "ax-stage.maventa.com",
+                    "autointerface.stag.visma.net",
+                    "autointerface-embeddable-stage.maventa.com"
                 ]
             },
             {
@@ -1785,19 +1790,17 @@
                 "urls": []
             },
             {
-                "name": "duckduckgo",
-                "urls": [
-                    "*.duckduckgo.com"
-                ]
-            },
-            {
                 "name": "endless_hosting",
                 "urls": [
                     "(*).theendlessweb.com",
                     "(*).endlcdn.site",
-                    "console-idrac.djelectro.me",
-                    "idrac.djelectro.me",
                     "(*).itsendless.org"
+                ]
+            },
+            {
+                "name": "duckduckgo",
+                "urls": [
+                    "*.duckduckgo.com"
                 ]
             },
             {
@@ -1985,18 +1988,18 @@
                 "urls": []
             },
             {
+                "name": "stagingdoteverydotorg",
+                "urls": [
+                    "staging.every.org"
+                ]
+            },
+            {
                 "name": "cengage",
                 "urls": []
             },
             {
                 "name": "monero",
                 "urls": []
-            },
-            {
-                "name": "stagingdoteverydotorg",
-                "urls": [
-                    "staging.every.org"
-                ]
             },
             {
                 "name": "revive_adserver",
@@ -2686,6 +2689,14 @@
                 "urls": []
             },
             {
+                "name": "sixt",
+                "urls": [
+                    "www.sixt.de",
+                    "www.sixt.fr",
+                    "www.sixt.com"
+                ]
+            },
+            {
                 "name": "versioncake",
                 "urls": []
             },
@@ -2950,8 +2961,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 315,
-            "totalUrls": 1471
+            "totalPrograms": 316,
+            "totalUrls": 1477
         }
     }
 }
