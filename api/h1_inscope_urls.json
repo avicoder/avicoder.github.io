@@ -110,6 +110,10 @@
                 "urls": []
             },
             {
+                "name": "sony",
+                "urls": []
+            },
+            {
                 "name": "twitter",
                 "urls": [
                     "*.twitter.com",
@@ -123,10 +127,6 @@
                     "snappytv.com",
                     "twitterflightschool.com"
                 ]
-            },
-            {
-                "name": "sony",
-                "urls": []
             },
             {
                 "name": "magento",
@@ -357,14 +357,6 @@
                 ]
             },
             {
-                "name": "glassdoor",
-                "urls": [
-                    "http://www.glassdoor.com/",
-                    "http://api.glassdoor.com",
-                    "https://help.glassdoor.com/"
-                ]
-            },
-            {
                 "name": "github",
                 "urls": [
                     "GitHub.com",
@@ -378,6 +370,14 @@
                     "jobs.github.com",
                     "semmle.net",
                     "semmle.com"
+                ]
+            },
+            {
+                "name": "glassdoor",
+                "urls": [
+                    "http://www.glassdoor.com/",
+                    "http://api.glassdoor.com",
+                    "https://help.glassdoor.com/"
                 ]
             },
             {
@@ -486,13 +486,13 @@
                     "gamma.grab.co",
                     "drive.grab.co",
                     "manage.grab.co",
+                    "jira.grab.com",
+                    "wiki.grab.com",
                     "api.grabpay.com",
                     "*.grabpay.com",
                     "xtramile.grabpay.com",
                     "*.grabtaxi.com",
                     "*.grab.co",
-                    "jira.grab.com",
-                    "wiki.grab.com",
                     "grab.careers",
                     "mos.grabpay.com"
                 ]
@@ -811,6 +811,13 @@
                 ]
             },
             {
+                "name": "stripo",
+                "urls": [
+                    "my.stripo.email",
+                    "stripo.email"
+                ]
+            },
+            {
                 "name": "unikrn",
                 "urls": [
                     "unikrn.com",
@@ -836,13 +843,6 @@
                     "console.dashlane.com",
                     "app.dashlane.com",
                     "logs.dashlane.com"
-                ]
-            },
-            {
-                "name": "stripo",
-                "urls": [
-                    "my.stripo.email",
-                    "stripo.email"
                 ]
             },
             {
@@ -954,16 +954,6 @@
                 ]
             },
             {
-                "name": "quora",
-                "urls": [
-                    "*.quora.com"
-                ]
-            },
-            {
-                "name": "badoo",
-                "urls": []
-            },
-            {
                 "name": "xiaomi",
                 "urls": [
                     "*.mi.com",
@@ -972,6 +962,16 @@
                     "*.xiaomiyoupin.com",
                     "*.miwifi.com"
                 ]
+            },
+            {
+                "name": "quora",
+                "urls": [
+                    "*.quora.com"
+                ]
+            },
+            {
+                "name": "badoo",
+                "urls": []
             },
             {
                 "name": "backblaze",
@@ -1654,10 +1654,6 @@
                 ]
             },
             {
-                "name": "glasswire",
-                "urls": []
-            },
-            {
                 "name": "pixiv",
                 "urls": [
                     "booth.pm",
@@ -1666,6 +1662,10 @@
                     "www.pixiv.net",
                     "hub.vroid.com"
                 ]
+            },
+            {
+                "name": "glasswire",
+                "urls": []
             },
             {
                 "name": "topcoder",
@@ -1758,17 +1758,17 @@
                 ]
             },
             {
+                "name": "prospect_io_gjk6b",
+                "urls": [
+                    "app.prospect.io"
+                ]
+            },
+            {
                 "name": "top_echelon_software",
                 "urls": [
                     "www.topechelon.com",
                     "bigbiller.topechelon.com",
                     "bb3api.topechelon.com"
-                ]
-            },
-            {
-                "name": "prospect_io_gjk6b",
-                "urls": [
-                    "app.prospect.io"
                 ]
             },
             {
@@ -2002,10 +2002,6 @@
                 "urls": []
             },
             {
-                "name": "revive_adserver",
-                "urls": []
-            },
-            {
                 "name": "amazonvrp",
                 "urls": [
                     "www.amazon.com",
@@ -2018,6 +2014,10 @@
                     "www.amazon.in",
                     "www.amazon.ca"
                 ]
+            },
+            {
+                "name": "revive_adserver",
+                "urls": []
             },
             {
                 "name": "ruby",
@@ -2565,6 +2565,12 @@
                 ]
             },
             {
+                "name": "faraday_inc",
+                "urls": [
+                    "app.faraday.io"
+                ]
+            },
+            {
                 "name": "upgrade",
                 "urls": [
                     "*.upgrade.com"
@@ -2574,12 +2580,6 @@
                 "name": "eslint",
                 "urls": [
                     "jenkins.eslint.org"
-                ]
-            },
-            {
-                "name": "faraday_inc",
-                "urls": [
-                    "app.faraday.io"
                 ]
             },
             {
@@ -2640,6 +2640,14 @@
                 ]
             },
             {
+                "name": "sixt",
+                "urls": [
+                    "www.sixt.de",
+                    "www.sixt.fr",
+                    "www.sixt.com"
+                ]
+            },
+            {
                 "name": "ibb-nginx",
                 "urls": []
             },
@@ -2689,14 +2697,6 @@
                 "urls": []
             },
             {
-                "name": "sixt",
-                "urls": [
-                    "www.sixt.de",
-                    "www.sixt.fr",
-                    "www.sixt.com"
-                ]
-            },
-            {
                 "name": "versioncake",
                 "urls": []
             },
@@ -2709,6 +2709,10 @@
                 "urls": [
                     "https://ao-docs.appspot.com/api/explorer"
                 ]
+            },
+            {
+                "name": "solana-bbp",
+                "urls": []
             },
             {
                 "name": "bunq",
@@ -2761,10 +2765,6 @@
             },
             {
                 "name": "github-security-lab",
-                "urls": []
-            },
-            {
-                "name": "solana-bbp",
                 "urls": []
             },
             {
