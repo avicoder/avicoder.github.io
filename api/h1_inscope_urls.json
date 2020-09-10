@@ -758,14 +758,6 @@
                 "urls": []
             },
             {
-                "name": "instacart",
-                "urls": [
-                    "www.instacart.com",
-                    "api.instacart.com",
-                    "shoppers.instacart.com"
-                ]
-            },
-            {
                 "name": "paddypowerbetfair",
                 "urls": [
                     "*.betfair.com",
@@ -775,6 +767,14 @@
                     "*.betfair.ro",
                     "*.betfair.se",
                     "*.paddypower.it"
+                ]
+            },
+            {
+                "name": "instacart",
+                "urls": [
+                    "www.instacart.com",
+                    "api.instacart.com",
+                    "shoppers.instacart.com"
                 ]
             },
             {
@@ -859,6 +859,25 @@
                 ]
             },
             {
+                "name": "alibaba",
+                "urls": [
+                    "*.lazada.*",
+                    "*.cainiao.com",
+                    "*.alibaba.com",
+                    "*.aliexpress.com",
+                    "*.taobao.com",
+                    "*.tmall.com",
+                    "*.aliyun.com",
+                    "*.alibabacloud.com",
+                    "*.1688.com",
+                    "*.dingtalk.com",
+                    "*.alibaba-inc.com",
+                    "*.aliyun-inc.com",
+                    "www.alibabagroup.com",
+                    "*.alimama.com"
+                ]
+            },
+            {
                 "name": "kindred_group",
                 "urls": [
                     "*.unibet.com",
@@ -879,25 +898,6 @@
             {
                 "name": "formassembly",
                 "urls": []
-            },
-            {
-                "name": "alibaba",
-                "urls": [
-                    "*.lazada.*",
-                    "*.cainiao.com",
-                    "*.alibaba.com",
-                    "*.aliexpress.com",
-                    "*.taobao.com",
-                    "*.tmall.com",
-                    "*.aliyun.com",
-                    "*.alibabacloud.com",
-                    "*.1688.com",
-                    "*.dingtalk.com",
-                    "*.alibaba-inc.com",
-                    "*.aliyun-inc.com",
-                    "www.alibabagroup.com",
-                    "*.alimama.com"
-                ]
             },
             {
                 "name": "kaspersky",
@@ -1645,15 +1645,6 @@
                 ]
             },
             {
-                "name": "magisto",
-                "urls": [
-                    "magisto.com,www.magisto.com",
-                    "*.magisto.com",
-                    "staging.magisto.com",
-                    "applause1.magisto.com"
-                ]
-            },
-            {
                 "name": "pixiv",
                 "urls": [
                     "booth.pm",
@@ -1664,7 +1655,20 @@
                 ]
             },
             {
+                "name": "magisto",
+                "urls": [
+                    "magisto.com,www.magisto.com",
+                    "*.magisto.com",
+                    "staging.magisto.com",
+                    "applause1.magisto.com"
+                ]
+            },
+            {
                 "name": "glasswire",
+                "urls": []
+            },
+            {
+                "name": "mainwp",
                 "urls": []
             },
             {
@@ -2587,6 +2591,10 @@
                 "urls": []
             },
             {
+                "name": "matic-network",
+                "urls": []
+            },
+            {
                 "name": "nokogiri",
                 "urls": []
             },
@@ -2623,10 +2631,6 @@
             },
             {
                 "name": "coingaming",
-                "urls": []
-            },
-            {
-                "name": "matic-network",
                 "urls": []
             },
             {
@@ -2961,7 +2965,7 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 316,
+            "totalPrograms": 317,
             "totalUrls": 1477
         }
     }
