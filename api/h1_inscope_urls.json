@@ -631,6 +631,10 @@
                 ]
             },
             {
+                "name": "sg-vdp",
+                "urls": []
+            },
+            {
                 "name": "yelp",
                 "urls": [
                     "www.yelp.com",
@@ -648,10 +652,6 @@
                     "www.yelpwifi.com",
                     "app.yelpwifi.com"
                 ]
-            },
-            {
-                "name": "sg-vdp",
-                "urls": []
             },
             {
                 "name": "nodejs-ecosystem",
@@ -945,15 +945,6 @@
                 ]
             },
             {
-                "name": "airtable",
-                "urls": [
-                    "staging.airtable.com",
-                    "*.staging-airtableblocks.com",
-                    "*.staging.airtable.com",
-                    "api-staging.airtable.com"
-                ]
-            },
-            {
                 "name": "xiaomi",
                 "urls": [
                     "*.mi.com",
@@ -961,6 +952,15 @@
                     "*.miui.com",
                     "*.xiaomiyoupin.com",
                     "*.miwifi.com"
+                ]
+            },
+            {
+                "name": "airtable",
+                "urls": [
+                    "staging.airtable.com",
+                    "*.staging-airtableblocks.com",
+                    "*.staging.airtable.com",
+                    "api-staging.airtable.com"
                 ]
             },
             {
@@ -1141,14 +1141,6 @@
                 ]
             },
             {
-                "name": "line",
-                "urls": [
-                    "*.line.me",
-                    "*.line-apps.com",
-                    "*.line.naver.jp"
-                ]
-            },
-            {
                 "name": "playstation",
                 "urls": [
                     "*.playstation.net",
@@ -1161,6 +1153,14 @@
                     "wallets.api.playstation.com",
                     "direct.playstation.com",
                     "api.direct.playstation.com"
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    "*.line.me",
+                    "*.line-apps.com",
+                    "*.line.naver.jp"
                 ]
             },
             {
@@ -1526,6 +1526,19 @@
                 ]
             },
             {
+                "name": "crypto",
+                "urls": [
+                    "www.crypto.com",
+                    "https://crypto.com/exchange",
+                    "app.mona.co",
+                    "https://auth.crypto.com/",
+                    "https://merchant.crypto.com",
+                    "pay.crypto.com",
+                    "js.crypto.com",
+                    "https://crypto.com/defi/"
+                ]
+            },
+            {
                 "name": "datastax",
                 "urls": [
                     "https://www.datastax.com/",
@@ -1536,18 +1549,6 @@
             {
                 "name": "ibb-python",
                 "urls": []
-            },
-            {
-                "name": "crypto",
-                "urls": [
-                    "www.crypto.com",
-                    "https://crypto.com/exchange",
-                    "app.mona.co",
-                    "https://auth.crypto.com/",
-                    "https://merchant.crypto.com",
-                    "pay.crypto.com",
-                    "js.crypto.com"
-                ]
             },
             {
                 "name": "clario",
@@ -1825,6 +1826,12 @@
                 "urls": []
             },
             {
+                "name": "lemlist",
+                "urls": [
+                    "app.lemlist.com"
+                ]
+            },
+            {
                 "name": "helium",
                 "urls": [
                     "ota.helium.com",
@@ -1836,12 +1843,6 @@
             {
                 "name": "gocd",
                 "urls": []
-            },
-            {
-                "name": "lemlist",
-                "urls": [
-                    "app.lemlist.com"
-                ]
             },
             {
                 "name": "portswigger",
@@ -2109,10 +2110,6 @@
                 ]
             },
             {
-                "name": "stellar",
-                "urls": []
-            },
-            {
                 "name": "aiven_ltd",
                 "urls": [
                     "www.aiven.io",
@@ -2121,6 +2118,10 @@
                     "aivencloud.com",
                     "help.aiven.io"
                 ]
+            },
+            {
+                "name": "stellar",
+                "urls": []
             },
             {
                 "name": "gener8",
@@ -2250,6 +2251,13 @@
                 "urls": []
             },
             {
+                "name": "koho",
+                "urls": [
+                    "*.koho.ca",
+                    "*.koho.app"
+                ]
+            },
+            {
                 "name": "evernote",
                 "urls": [
                     "*.evernote.com"
@@ -2309,13 +2317,6 @@
                     "www.briefe.io",
                     "delight.im",
                     "www.delight.im"
-                ]
-            },
-            {
-                "name": "koho",
-                "urls": [
-                    "*.koho.ca",
-                    "*.koho.app"
                 ]
             },
             {
@@ -2967,7 +2968,7 @@
         ],
         "metaData": {
             "totalPrograms": 317,
-            "totalUrls": 1478
+            "totalUrls": 1479
         }
     }
 }
