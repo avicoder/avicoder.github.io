@@ -631,6 +631,10 @@
                 ]
             },
             {
+                "name": "nodejs-ecosystem",
+                "urls": []
+            },
+            {
                 "name": "sg-vdp",
                 "urls": []
             },
@@ -652,10 +656,6 @@
                     "www.yelpwifi.com",
                     "app.yelpwifi.com"
                 ]
-            },
-            {
-                "name": "nodejs-ecosystem",
-                "urls": []
             },
             {
                 "name": "infogram",
@@ -754,6 +754,10 @@
                 ]
             },
             {
+                "name": "wakatime",
+                "urls": []
+            },
+            {
                 "name": "paddypowerbetfair",
                 "urls": [
                     "*.betfair.com",
@@ -764,10 +768,6 @@
                     "*.betfair.se",
                     "*.paddypower.it"
                 ]
-            },
-            {
-                "name": "wakatime",
-                "urls": []
             },
             {
                 "name": "instacart",
@@ -1141,6 +1141,14 @@
                 ]
             },
             {
+                "name": "line",
+                "urls": [
+                    "*.line.me",
+                    "*.line-apps.com",
+                    "*.line.naver.jp"
+                ]
+            },
+            {
                 "name": "playstation",
                 "urls": [
                     "*.playstation.net",
@@ -1153,14 +1161,6 @@
                     "wallets.api.playstation.com",
                     "direct.playstation.com",
                     "api.direct.playstation.com"
-                ]
-            },
-            {
-                "name": "line",
-                "urls": [
-                    "*.line.me",
-                    "*.line-apps.com",
-                    "*.line.naver.jp"
                 ]
             },
             {
