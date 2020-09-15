@@ -912,6 +912,16 @@
                 ]
             },
             {
+                "name": "xiaomi",
+                "urls": [
+                    "*.mi.com",
+                    "*.xiaomi.com",
+                    "*.miui.com",
+                    "*.xiaomiyoupin.com",
+                    "*.miwifi.com"
+                ]
+            },
+            {
                 "name": "files",
                 "urls": [
                     "app.files.com",
@@ -942,16 +952,6 @@
                     "*.ratelimited.me",
                     "ratelimited.me",
                     "api.ratelimited.me"
-                ]
-            },
-            {
-                "name": "xiaomi",
-                "urls": [
-                    "*.mi.com",
-                    "*.xiaomi.com",
-                    "*.miui.com",
-                    "*.xiaomiyoupin.com",
-                    "*.miwifi.com"
                 ]
             },
             {
@@ -1017,6 +1017,12 @@
             {
                 "name": "expressionengine",
                 "urls": []
+            },
+            {
+                "name": "kartpay",
+                "urls": [
+                    "*.kartpay.com"
+                ]
             },
             {
                 "name": "showmax",
@@ -1141,14 +1147,6 @@
                 ]
             },
             {
-                "name": "line",
-                "urls": [
-                    "*.line.me",
-                    "*.line-apps.com",
-                    "*.line.naver.jp"
-                ]
-            },
-            {
                 "name": "playstation",
                 "urls": [
                     "*.playstation.net",
@@ -1161,6 +1159,14 @@
                     "wallets.api.playstation.com",
                     "direct.playstation.com",
                     "api.direct.playstation.com"
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    "*.line.me",
+                    "*.line-apps.com",
+                    "*.line.naver.jp"
                 ]
             },
             {
@@ -1263,6 +1269,18 @@
                 ]
             },
             {
+                "name": "omise",
+                "urls": [
+                    "vault.omise.co",
+                    "api.omise.co",
+                    "dashboard.omise.co",
+                    "link.omise.co",
+                    "offsite.omise.co",
+                    "dashboard2.omise.co",
+                    "www.omise.co"
+                ]
+            },
+            {
                 "name": "deliveroo",
                 "urls": [
                     "*.deliveroo-data.net",
@@ -1282,26 +1300,8 @@
                 ]
             },
             {
-                "name": "omise",
-                "urls": [
-                    "vault.omise.co",
-                    "api.omise.co",
-                    "dashboard.omise.co",
-                    "link.omise.co",
-                    "offsite.omise.co",
-                    "dashboard2.omise.co",
-                    "www.omise.co"
-                ]
-            },
-            {
                 "name": "internet",
                 "urls": []
-            },
-            {
-                "name": "kartpay",
-                "urls": [
-                    "*.kartpay.com"
-                ]
             },
             {
                 "name": "quantopian",
@@ -1453,6 +1453,26 @@
                 ]
             },
             {
+                "name": "innogames",
+                "urls": [
+                    "*.innogames.com",
+                    "*.innogames.de",
+                    "xs.forgeofempires.com",
+                    "xs0.forgeofempires.com",
+                    "xs1.forgeofempires.com",
+                    "*.igpayment.com",
+                    "xs.elvenar.com",
+                    "xs0.elvenar.com",
+                    "xs1.elvenar.com",
+                    "xs.grepolis.com",
+                    "xs0.grepolis.com",
+                    "xs1.grepolis.com",
+                    "support.innogames.com",
+                    "tribalwars.cash",
+                    "xs1.tribalwars.cash"
+                ]
+            },
+            {
                 "name": "avito",
                 "urls": [
                     "www.avito.ru",
@@ -1487,26 +1507,6 @@
                 ]
             },
             {
-                "name": "innogames",
-                "urls": [
-                    "*.innogames.com",
-                    "*.innogames.de",
-                    "xs.forgeofempires.com",
-                    "xs0.forgeofempires.com",
-                    "xs1.forgeofempires.com",
-                    "*.igpayment.com",
-                    "xs.elvenar.com",
-                    "xs0.elvenar.com",
-                    "xs1.elvenar.com",
-                    "xs.grepolis.com",
-                    "xs0.grepolis.com",
-                    "xs1.grepolis.com",
-                    "support.innogames.com",
-                    "tribalwars.cash",
-                    "xs1.tribalwars.cash"
-                ]
-            },
-            {
                 "name": "lyst",
                 "urls": [
                     "*.lyst.com",
@@ -1514,15 +1514,6 @@
                     "mobileapi.lystit.com",
                     "*.lystit.com",
                     "*.lyst.co"
-                ]
-            },
-            {
-                "name": "lifeomic",
-                "urls": [
-                    "*.infra.lifeomic.com",
-                    "*.dev.lifeomic.com",
-                    "https://apps.wellness.dev.lifeomic.com",
-                    "https://lifeology.dev.lifeomic.com"
                 ]
             },
             {
@@ -1536,6 +1527,15 @@
                     "pay.crypto.com",
                     "js.crypto.com",
                     "https://crypto.com/defi/"
+                ]
+            },
+            {
+                "name": "lifeomic",
+                "urls": [
+                    "*.infra.lifeomic.com",
+                    "*.dev.lifeomic.com",
+                    "https://apps.wellness.dev.lifeomic.com",
+                    "https://lifeology.dev.lifeomic.com"
                 ]
             },
             {
@@ -1615,12 +1615,6 @@
                 "urls": []
             },
             {
-                "name": "rubygems",
-                "urls": [
-                    "rubygems.org"
-                ]
-            },
-            {
                 "name": "goldmansachs",
                 "urls": [
                     "*.goldmansachs.com",
@@ -1646,13 +1640,9 @@
                 ]
             },
             {
-                "name": "pixiv",
+                "name": "rubygems",
                 "urls": [
-                    "booth.pm",
-                    "sketch.pixiv.net",
-                    "accounts.pixiv.net",
-                    "www.pixiv.net",
-                    "hub.vroid.com"
+                    "rubygems.org"
                 ]
             },
             {
@@ -1662,6 +1652,16 @@
                     "*.magisto.com",
                     "staging.magisto.com",
                     "applause1.magisto.com"
+                ]
+            },
+            {
+                "name": "pixiv",
+                "urls": [
+                    "booth.pm",
+                    "sketch.pixiv.net",
+                    "accounts.pixiv.net",
+                    "www.pixiv.net",
+                    "hub.vroid.com"
                 ]
             },
             {
@@ -1763,6 +1763,14 @@
                 ]
             },
             {
+                "name": "top_echelon_software",
+                "urls": [
+                    "www.topechelon.com",
+                    "bigbiller.topechelon.com",
+                    "bb3api.topechelon.com"
+                ]
+            },
+            {
                 "name": "prospect_io_gjk6b",
                 "urls": [
                     "app.prospect.io"
@@ -1774,14 +1782,6 @@
                     "(*).theendlessweb.com",
                     "(*).endlcdn.site",
                     "(*).itsendless.org"
-                ]
-            },
-            {
-                "name": "top_echelon_software",
-                "urls": [
-                    "www.topechelon.com",
-                    "bigbiller.topechelon.com",
-                    "bb3api.topechelon.com"
                 ]
             },
             {
@@ -1894,6 +1894,14 @@
                 ]
             },
             {
+                "name": "bitmex",
+                "urls": [
+                    "www.bitmex.com",
+                    "public.bitmex.com",
+                    "*.bitmex.com"
+                ]
+            },
+            {
                 "name": "lob",
                 "urls": [
                     "api.lob.com",
@@ -1942,20 +1950,18 @@
                 ]
             },
             {
+                "name": "ozon",
+                "urls": [
+                    "www.ozon.ru"
+                ]
+            },
+            {
                 "name": "drive_net_inc",
                 "urls": [
                     "www.drive2.ru",
                     "api.drive2.ru",
                     "*.d-cd.net",
                     "*.drive2.ru"
-                ]
-            },
-            {
-                "name": "bitmex",
-                "urls": [
-                    "www.bitmex.com",
-                    "public.bitmex.com",
-                    "*.bitmex.com"
                 ]
             },
             {
@@ -1980,12 +1986,6 @@
                 "urls": [
                     "*.engelvoelkers.com",
                     "authz.engelvoelkers.com/"
-                ]
-            },
-            {
-                "name": "ozon",
-                "urls": [
-                    "www.ozon.ru"
                 ]
             },
             {
@@ -2025,10 +2025,6 @@
                 "urls": []
             },
             {
-                "name": "ruby",
-                "urls": []
-            },
-            {
                 "name": "bitwarden",
                 "urls": [
                     "bitwarden.com",
@@ -2037,10 +2033,6 @@
                     "vault.bitwarden.com",
                     "help.bitwarden.com"
                 ]
-            },
-            {
-                "name": "mobisystems_ltd",
-                "urls": []
             },
             {
                 "name": "wellsfargo",
@@ -2052,6 +2044,14 @@
                     "*.wystar.com",
                     "*.advisor-connection.com"
                 ]
+            },
+            {
+                "name": "ruby",
+                "urls": []
+            },
+            {
+                "name": "mobisystems_ltd",
+                "urls": []
             },
             {
                 "name": "xilinx",
@@ -2083,22 +2083,6 @@
                 ]
             },
             {
-                "name": "trycourier",
-                "urls": [
-                    "www.trycourier.app",
-                    "api.trycourier.app",
-                    "*.ct0.app",
-                    "www.trycourier.com"
-                ]
-            },
-            {
-                "name": "smtp2go",
-                "urls": [
-                    "smtp2go.com",
-                    "app.smtp2go.com"
-                ]
-            },
-            {
                 "name": "keybank",
                 "urls": [
                     "*.key.com",
@@ -2117,6 +2101,22 @@
                     "api.aiven.io",
                     "aivencloud.com",
                     "help.aiven.io"
+                ]
+            },
+            {
+                "name": "trycourier",
+                "urls": [
+                    "www.trycourier.app",
+                    "api.trycourier.app",
+                    "*.ct0.app",
+                    "www.trycourier.com"
+                ]
+            },
+            {
+                "name": "smtp2go",
+                "urls": [
+                    "smtp2go.com",
+                    "app.smtp2go.com"
                 ]
             },
             {
@@ -2220,6 +2220,13 @@
                 "urls": []
             },
             {
+                "name": "koho",
+                "urls": [
+                    "*.koho.ca",
+                    "*.koho.app"
+                ]
+            },
+            {
                 "name": "gmelius",
                 "urls": [
                     "api.gmelius.com",
@@ -2249,13 +2256,6 @@
             {
                 "name": "bumble",
                 "urls": []
-            },
-            {
-                "name": "koho",
-                "urls": [
-                    "*.koho.ca",
-                    "*.koho.app"
-                ]
             },
             {
                 "name": "evernote",
@@ -2514,6 +2514,14 @@
                 ]
             },
             {
+                "name": "sixt",
+                "urls": [
+                    "www.sixt.de",
+                    "www.sixt.fr",
+                    "www.sixt.com"
+                ]
+            },
+            {
                 "name": "hyperledger",
                 "urls": []
             },
@@ -2551,6 +2559,13 @@
                 ]
             },
             {
+                "name": "simple_poll",
+                "urls": [
+                    "https://simplepoll.rocks",
+                    "simplegoals.app"
+                ]
+            },
+            {
                 "name": "monolith",
                 "urls": [
                     "api.production.tkn.zone",
@@ -2567,13 +2582,6 @@
                 "urls": [
                     "api.uphabit.com",
                     "web.uphabit.com"
-                ]
-            },
-            {
-                "name": "simple_poll",
-                "urls": [
-                    "https://simplepoll.rocks",
-                    "simplegoals.app"
                 ]
             },
             {
@@ -2595,14 +2603,6 @@
             {
                 "name": "matic-network",
                 "urls": []
-            },
-            {
-                "name": "sixt",
-                "urls": [
-                    "www.sixt.de",
-                    "www.sixt.fr",
-                    "www.sixt.com"
-                ]
             },
             {
                 "name": "nokogiri",
