@@ -754,10 +754,6 @@
                 ]
             },
             {
-                "name": "wakatime",
-                "urls": []
-            },
-            {
                 "name": "paddypowerbetfair",
                 "urls": [
                     "*.betfair.com",
@@ -768,6 +764,10 @@
                     "*.betfair.se",
                     "*.paddypower.it"
                 ]
+            },
+            {
+                "name": "wakatime",
+                "urls": []
             },
             {
                 "name": "instacart",
@@ -859,6 +859,24 @@
                 ]
             },
             {
+                "name": "kindred_group",
+                "urls": [
+                    "*.unibet.com",
+                    "*.storspiller.com",
+                    "*.bingo.com",
+                    "*.mariacasino.com",
+                    "*.kolikkopelit.com",
+                    "*.casinohuone.com",
+                    "*.igame.com",
+                    "*.vladcazino.ro",
+                    "unibet.me",
+                    "maria.casino",
+                    "stly.eu",
+                    "*.ottokasino.com",
+                    "relaxcdn.unibet.com"
+                ]
+            },
+            {
                 "name": "alibaba",
                 "urls": [
                     "*.lazada.*",
@@ -878,38 +896,12 @@
                 ]
             },
             {
-                "name": "kindred_group",
-                "urls": [
-                    "*.unibet.com",
-                    "*.storspiller.com",
-                    "*.bingo.com",
-                    "*.mariacasino.com",
-                    "*.kolikkopelit.com",
-                    "*.casinohuone.com",
-                    "*.igame.com",
-                    "*.vladcazino.ro",
-                    "unibet.me",
-                    "maria.casino",
-                    "stly.eu",
-                    "*.ottokasino.com",
-                    "relaxcdn.unibet.com"
-                ]
-            },
-            {
                 "name": "formassembly",
                 "urls": []
             },
             {
                 "name": "kaspersky",
                 "urls": []
-            },
-            {
-                "name": "algolia",
-                "urls": [
-                    "www.algolia.com",
-                    "*.algolia.net",
-                    "*.algolianet.com"
-                ]
             },
             {
                 "name": "xiaomi",
@@ -919,6 +911,14 @@
                     "*.miui.com",
                     "*.xiaomiyoupin.com",
                     "*.miwifi.com"
+                ]
+            },
+            {
+                "name": "algolia",
+                "urls": [
+                    "www.algolia.com",
+                    "*.algolia.net",
+                    "*.algolianet.com"
                 ]
             },
             {
@@ -1435,10 +1435,6 @@
                 ]
             },
             {
-                "name": "owox",
-                "urls": []
-            },
-            {
                 "name": "palo_alto_software",
                 "urls": [
                     "app.liveplan.com",
@@ -1451,6 +1447,10 @@
                     "www.bplans.com",
                     "www.mplans.com"
                 ]
+            },
+            {
+                "name": "owox",
+                "urls": []
             },
             {
                 "name": "innogames",
@@ -1611,10 +1611,6 @@
                 ]
             },
             {
-                "name": "nintendo",
-                "urls": []
-            },
-            {
                 "name": "goldmansachs",
                 "urls": [
                     "*.goldmansachs.com",
@@ -1638,6 +1634,10 @@
                     "*.gspublishing.com",
                     "*.claritymoney.com"
                 ]
+            },
+            {
+                "name": "nintendo",
+                "urls": []
             },
             {
                 "name": "rubygems",
@@ -1867,6 +1867,17 @@
                 ]
             },
             {
+                "name": "pingidentity",
+                "urls": [
+                    "https://ort-admin.pingone.com/*",
+                    "https://console-staging.pingone.com/*",
+                    "https://api-staging.pingone.com/*",
+                    "https://apps-staging.pingone.com/*",
+                    "https://ort-authenticator.pingone.com/*",
+                    "https://ort-desktop.pingone.com/*"
+                ]
+            },
+            {
                 "name": "smartsheet",
                 "urls": [
                     "app.smartsheet.com",
@@ -1881,17 +1892,6 @@
             {
                 "name": "ibb-openssl",
                 "urls": []
-            },
-            {
-                "name": "pingidentity",
-                "urls": [
-                    "https://ort-admin.pingone.com/*",
-                    "https://console-staging.pingone.com/*",
-                    "https://api-staging.pingone.com/*",
-                    "https://apps-staging.pingone.com/*",
-                    "https://ort-authenticator.pingone.com/*",
-                    "https://ort-desktop.pingone.com/*"
-                ]
             },
             {
                 "name": "bitmex",
@@ -1950,6 +1950,13 @@
                 ]
             },
             {
+                "name": "engel_volkers",
+                "urls": [
+                    "*.engelvoelkers.com",
+                    "authz.engelvoelkers.com/"
+                ]
+            },
+            {
                 "name": "ozon",
                 "urls": [
                     "www.ozon.ru"
@@ -1982,31 +1989,6 @@
                 ]
             },
             {
-                "name": "engel_volkers",
-                "urls": [
-                    "*.engelvoelkers.com",
-                    "authz.engelvoelkers.com/"
-                ]
-            },
-            {
-                "name": "cert",
-                "urls": []
-            },
-            {
-                "name": "stagingdoteverydotorg",
-                "urls": [
-                    "staging.every.org"
-                ]
-            },
-            {
-                "name": "cengage",
-                "urls": []
-            },
-            {
-                "name": "monero",
-                "urls": []
-            },
-            {
                 "name": "amazonvrp",
                 "urls": [
                     "www.amazon.com",
@@ -2019,6 +2001,24 @@
                     "www.amazon.in",
                     "www.amazon.ca"
                 ]
+            },
+            {
+                "name": "cengage",
+                "urls": []
+            },
+            {
+                "name": "cert",
+                "urls": []
+            },
+            {
+                "name": "stagingdoteverydotorg",
+                "urls": [
+                    "staging.every.org"
+                ]
+            },
+            {
+                "name": "monero",
+                "urls": []
             },
             {
                 "name": "revive_adserver",
@@ -2487,6 +2487,14 @@
                 "urls": []
             },
             {
+                "name": "sixt",
+                "urls": [
+                    "www.sixt.de",
+                    "www.sixt.fr",
+                    "www.sixt.com"
+                ]
+            },
+            {
                 "name": "wink_jq3al",
                 "urls": []
             },
@@ -2506,19 +2514,17 @@
                 "urls": []
             },
             {
+                "name": "faraday_inc",
+                "urls": [
+                    "app.faraday.io"
+                ]
+            },
+            {
                 "name": "rockset",
                 "urls": [
                     "console.rockset.com",
                     "docs.rockset.com",
                     "api.rs2.usw2.rockset.com"
-                ]
-            },
-            {
-                "name": "sixt",
-                "urls": [
-                    "www.sixt.de",
-                    "www.sixt.fr",
-                    "www.sixt.com"
                 ]
             },
             {
@@ -2529,12 +2535,6 @@
                 "name": "worklytics",
                 "urls": [
                     "*.worklytics.co"
-                ]
-            },
-            {
-                "name": "faraday_inc",
-                "urls": [
-                    "app.faraday.io"
                 ]
             },
             {
@@ -2911,7 +2911,7 @@
                 "name": "insulet_corporation",
                 "urls": [
                     "www.poddercentral.com",
-                    "https://www.myomnipod.com"
+                    "https://www.omnipod.com"
                 ]
             },
             {
