@@ -821,7 +821,6 @@
                 "name": "unikrn",
                 "urls": [
                     "unikrn.com",
-                    "unikoingold.com",
                     "auctionbot.unikrn.com",
                     "news.unikrn.com",
                     "crm.unikrn.com",
@@ -877,6 +876,16 @@
                 ]
             },
             {
+                "name": "xiaomi",
+                "urls": [
+                    "*.mi.com",
+                    "*.xiaomi.com",
+                    "*.miui.com",
+                    "*.xiaomiyoupin.com",
+                    "*.miwifi.com"
+                ]
+            },
+            {
                 "name": "alibaba",
                 "urls": [
                     "*.lazada.*",
@@ -902,16 +911,6 @@
             {
                 "name": "kaspersky",
                 "urls": []
-            },
-            {
-                "name": "xiaomi",
-                "urls": [
-                    "*.mi.com",
-                    "*.xiaomi.com",
-                    "*.miui.com",
-                    "*.xiaomiyoupin.com",
-                    "*.miwifi.com"
-                ]
             },
             {
                 "name": "algolia",
@@ -970,6 +969,12 @@
                 ]
             },
             {
+                "name": "kartpay",
+                "urls": [
+                    "*.kartpay.com"
+                ]
+            },
+            {
                 "name": "badoo",
                 "urls": []
             },
@@ -998,6 +1003,14 @@
                 "urls": []
             },
             {
+                "name": "brave",
+                "urls": [
+                    "publishers.basicattentiontoken.org",
+                    "brave.com",
+                    "basicattentiontoken.org"
+                ]
+            },
+            {
                 "name": "vhx",
                 "urls": [
                     "vhx.tv",
@@ -1007,22 +1020,8 @@
                 ]
             },
             {
-                "name": "brave",
-                "urls": [
-                    "publishers.basicattentiontoken.org",
-                    "brave.com",
-                    "basicattentiontoken.org"
-                ]
-            },
-            {
                 "name": "expressionengine",
                 "urls": []
-            },
-            {
-                "name": "kartpay",
-                "urls": [
-                    "*.kartpay.com"
-                ]
             },
             {
                 "name": "showmax",
@@ -1427,14 +1426,6 @@
                 "urls": []
             },
             {
-                "name": "robinhood",
-                "urls": [
-                    "robinhood.com",
-                    "api.robinhood.com",
-                    "nummus.robinhood.com"
-                ]
-            },
-            {
                 "name": "palo_alto_software",
                 "urls": [
                     "app.liveplan.com",
@@ -1446,6 +1437,14 @@
                     "www.teamoutpost.com",
                     "www.bplans.com",
                     "www.mplans.com"
+                ]
+            },
+            {
+                "name": "robinhood",
+                "urls": [
+                    "robinhood.com",
+                    "api.robinhood.com",
+                    "nummus.robinhood.com"
                 ]
             },
             {
@@ -1646,29 +1645,6 @@
                 ]
             },
             {
-                "name": "magisto",
-                "urls": [
-                    "magisto.com,www.magisto.com",
-                    "*.magisto.com",
-                    "staging.magisto.com",
-                    "applause1.magisto.com"
-                ]
-            },
-            {
-                "name": "pixiv",
-                "urls": [
-                    "booth.pm",
-                    "sketch.pixiv.net",
-                    "accounts.pixiv.net",
-                    "www.pixiv.net",
-                    "hub.vroid.com"
-                ]
-            },
-            {
-                "name": "glasswire",
-                "urls": []
-            },
-            {
                 "name": "topcoder",
                 "urls": [
                     "www.topcoder.com",
@@ -1734,6 +1710,29 @@
                     "apps.topcoder.com",
                     "challenges.topcoder.com"
                 ]
+            },
+            {
+                "name": "magisto",
+                "urls": [
+                    "magisto.com,www.magisto.com",
+                    "*.magisto.com",
+                    "staging.magisto.com",
+                    "applause1.magisto.com"
+                ]
+            },
+            {
+                "name": "pixiv",
+                "urls": [
+                    "booth.pm",
+                    "sketch.pixiv.net",
+                    "accounts.pixiv.net",
+                    "www.pixiv.net",
+                    "hub.vroid.com"
+                ]
+            },
+            {
+                "name": "glasswire",
+                "urls": []
             },
             {
                 "name": "mainwp",
@@ -2422,6 +2421,14 @@
                 ]
             },
             {
+                "name": "streak_com",
+                "urls": [
+                    "www.streak.com",
+                    "api.streak.com",
+                    "mailfoogae.appspot.com"
+                ]
+            },
+            {
                 "name": "ed",
                 "urls": [
                     "https://securitytxt.org/",
@@ -2472,14 +2479,6 @@
                     "wallet-api.test.insolar.io",
                     "*.insolar.io",
                     "be.test.insolar.io"
-                ]
-            },
-            {
-                "name": "streak_com",
-                "urls": [
-                    "www.streak.com",
-                    "api.streak.com",
-                    "mailfoogae.appspot.com"
                 ]
             },
             {
@@ -2968,7 +2967,7 @@
         ],
         "metaData": {
             "totalPrograms": 317,
-            "totalUrls": 1479
+            "totalUrls": 1478
         }
     }
 }
