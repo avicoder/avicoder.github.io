@@ -597,12 +597,6 @@
                 ]
             },
             {
-                "name": "udemy",
-                "urls": [
-                    "www.udemy.com"
-                ]
-            },
-            {
                 "name": "hyatt",
                 "urls": [
                     "hyatt.com",
@@ -620,6 +614,12 @@
                     "sso.oft.hyatt.com",
                     "upsell.hyatt.com",
                     "newsroom.images.hyatt.com"
+                ]
+            },
+            {
+                "name": "udemy",
+                "urls": [
+                    "www.udemy.com"
                 ]
             },
             {
@@ -793,6 +793,8 @@
                     "8x8.vc",
                     "*.wavecell.com",
                     "*.callstats.io",
+                    "*.8x8e2e.com",
+                    "*.8x8pilot.com",
                     "www.8x8.com",
                     "*.sameroom.io",
                     "*.mycontactual.com",
@@ -802,19 +804,19 @@
                 ]
             },
             {
+                "name": "stripo",
+                "urls": [
+                    "my.stripo.email",
+                    "stripo.email"
+                ]
+            },
+            {
                 "name": "acronis",
                 "urls": [
                     "beta-baas.acronis.com",
                     "*-api-*.acronis.com",
                     "*.acronis.com",
                     "account.acronis.com"
-                ]
-            },
-            {
-                "name": "stripo",
-                "urls": [
-                    "my.stripo.email",
-                    "stripo.email"
                 ]
             },
             {
@@ -842,6 +844,16 @@
                     "console.dashlane.com",
                     "app.dashlane.com",
                     "logs.dashlane.com"
+                ]
+            },
+            {
+                "name": "xiaomi",
+                "urls": [
+                    "*.mi.com",
+                    "*.xiaomi.com",
+                    "*.miui.com",
+                    "*.xiaomiyoupin.com",
+                    "*.miwifi.com"
                 ]
             },
             {
@@ -873,16 +885,6 @@
                     "stly.eu",
                     "*.ottokasino.com",
                     "relaxcdn.unibet.com"
-                ]
-            },
-            {
-                "name": "xiaomi",
-                "urls": [
-                    "*.mi.com",
-                    "*.xiaomi.com",
-                    "*.miui.com",
-                    "*.xiaomiyoupin.com",
-                    "*.miwifi.com"
                 ]
             },
             {
@@ -1506,6 +1508,32 @@
                 ]
             },
             {
+                "name": "clario",
+                "urls": [
+                    "https://account.mackeeper.com",
+                    "https://api.account.opendoor.ltd",
+                    "https://clario.co",
+                    "https://adblocking.clario.co",
+                    "https://api-ne.clario.co",
+                    "https://chat-crm.clario.co",
+                    "https://chat.clario.co",
+                    "https://crm.clario.co",
+                    "https://dcs.clario.co",
+                    "https://dl.clario.co",
+                    "https://event.clario.co",
+                    "https://get-unbounce.clario.co",
+                    "https://inapp.clario.co",
+                    "https://static-cdn.clario.co",
+                    "https://sz.clario.co",
+                    "https://updater.clario.co",
+                    "https://updatetracker.clario.co",
+                    "https://webapi.clario.co",
+                    "https://yapi.clario.co",
+                    "*.kromtech.com",
+                    "*.mackeeper.com"
+                ]
+            },
+            {
                 "name": "lyst",
                 "urls": [
                     "*.lyst.com",
@@ -1548,32 +1576,6 @@
             {
                 "name": "ibb-python",
                 "urls": []
-            },
-            {
-                "name": "clario",
-                "urls": [
-                    "https://account.mackeeper.com",
-                    "https://api.account.opendoor.ltd",
-                    "https://clario.co",
-                    "https://adblocking.clario.co",
-                    "https://api-ne.clario.co",
-                    "https://chat-crm.clario.co",
-                    "https://chat.clario.co",
-                    "https://crm.clario.co",
-                    "https://dcs.clario.co",
-                    "https://dl.clario.co",
-                    "https://event.clario.co",
-                    "https://get-unbounce.clario.co",
-                    "https://inapp.clario.co",
-                    "https://static-cdn.clario.co",
-                    "https://sz.clario.co",
-                    "https://updater.clario.co",
-                    "https://updatetracker.clario.co",
-                    "https://webapi.clario.co",
-                    "https://yapi.clario.co",
-                    "*.kromtech.com",
-                    "*.mackeeper.com"
-                ]
             },
             {
                 "name": "blockchain",
@@ -2139,6 +2141,10 @@
                 ]
             },
             {
+                "name": "nodejs",
+                "urls": []
+            },
+            {
                 "name": "starling_bank",
                 "urls": [
                     "app.starlingbank.com",
@@ -2274,10 +2280,6 @@
             },
             {
                 "name": "paragonie",
-                "urls": []
-            },
-            {
-                "name": "nodejs",
                 "urls": []
             },
             {
@@ -2698,6 +2700,10 @@
                 ]
             },
             {
+                "name": "solana-bbp",
+                "urls": []
+            },
+            {
                 "name": "aspen",
                 "urls": []
             },
@@ -2714,10 +2720,6 @@
                 "urls": [
                     "https://ao-docs.appspot.com/api/explorer"
                 ]
-            },
-            {
-                "name": "solana-bbp",
-                "urls": []
             },
             {
                 "name": "bunq",
@@ -2967,7 +2969,7 @@
         ],
         "metaData": {
             "totalPrograms": 317,
-            "totalUrls": 1478
+            "totalUrls": 1480
         }
     }
 }
