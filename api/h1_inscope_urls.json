@@ -833,6 +833,16 @@
                 ]
             },
             {
+                "name": "xiaomi",
+                "urls": [
+                    "*.mi.com",
+                    "*.xiaomi.com",
+                    "*.miui.com",
+                    "*.xiaomiyoupin.com",
+                    "*.miwifi.com"
+                ]
+            },
+            {
                 "name": "khanacademy",
                 "urls": []
             },
@@ -847,13 +857,22 @@
                 ]
             },
             {
-                "name": "xiaomi",
+                "name": "alibaba",
                 "urls": [
-                    "*.mi.com",
-                    "*.xiaomi.com",
-                    "*.miui.com",
-                    "*.xiaomiyoupin.com",
-                    "*.miwifi.com"
+                    "*.lazada.*",
+                    "*.cainiao.com",
+                    "*.alibaba.com",
+                    "*.aliexpress.com",
+                    "*.taobao.com",
+                    "*.tmall.com",
+                    "*.aliyun.com",
+                    "*.alibabacloud.com",
+                    "*.1688.com",
+                    "*.dingtalk.com",
+                    "*.alibaba-inc.com",
+                    "*.aliyun-inc.com",
+                    "www.alibabagroup.com",
+                    "*.alimama.com"
                 ]
             },
             {
@@ -885,25 +904,6 @@
                     "stly.eu",
                     "*.ottokasino.com",
                     "relaxcdn.unibet.com"
-                ]
-            },
-            {
-                "name": "alibaba",
-                "urls": [
-                    "*.lazada.*",
-                    "*.cainiao.com",
-                    "*.alibaba.com",
-                    "*.aliexpress.com",
-                    "*.taobao.com",
-                    "*.tmall.com",
-                    "*.aliyun.com",
-                    "*.alibabacloud.com",
-                    "*.1688.com",
-                    "*.dingtalk.com",
-                    "*.alibaba-inc.com",
-                    "*.aliyun-inc.com",
-                    "www.alibabagroup.com",
-                    "*.alimama.com"
                 ]
             },
             {
@@ -1005,20 +1005,20 @@
                 "urls": []
             },
             {
-                "name": "brave",
-                "urls": [
-                    "publishers.basicattentiontoken.org",
-                    "brave.com",
-                    "basicattentiontoken.org"
-                ]
-            },
-            {
                 "name": "vhx",
                 "urls": [
                     "vhx.tv",
                     "embed.vhx.tv",
                     "api.vhx.tv",
                     "*.vhx.tv"
+                ]
+            },
+            {
+                "name": "brave",
+                "urls": [
+                    "publishers.basicattentiontoken.org",
+                    "brave.com",
+                    "basicattentiontoken.org"
                 ]
             },
             {
@@ -1424,10 +1424,6 @@
                 "urls": []
             },
             {
-                "name": "bime",
-                "urls": []
-            },
-            {
                 "name": "palo_alto_software",
                 "urls": [
                     "app.liveplan.com",
@@ -1440,6 +1436,10 @@
                     "www.bplans.com",
                     "www.mplans.com"
                 ]
+            },
+            {
+                "name": "bime",
+                "urls": []
             },
             {
                 "name": "robinhood",
@@ -1471,6 +1471,32 @@
                     "support.innogames.com",
                     "tribalwars.cash",
                     "xs1.tribalwars.cash"
+                ]
+            },
+            {
+                "name": "clario",
+                "urls": [
+                    "https://account.mackeeper.com",
+                    "https://api.account.opendoor.ltd",
+                    "https://clario.co",
+                    "https://adblocking.clario.co",
+                    "https://api-ne.clario.co",
+                    "https://chat-crm.clario.co",
+                    "https://chat.clario.co",
+                    "https://crm.clario.co",
+                    "https://dcs.clario.co",
+                    "https://dl.clario.co",
+                    "https://event.clario.co",
+                    "https://get-unbounce.clario.co",
+                    "https://inapp.clario.co",
+                    "https://static-cdn.clario.co",
+                    "https://sz.clario.co",
+                    "https://updater.clario.co",
+                    "https://updatetracker.clario.co",
+                    "https://webapi.clario.co",
+                    "https://yapi.clario.co",
+                    "*.kromtech.com",
+                    "*.mackeeper.com"
                 ]
             },
             {
@@ -1508,42 +1534,6 @@
                 ]
             },
             {
-                "name": "clario",
-                "urls": [
-                    "https://account.mackeeper.com",
-                    "https://api.account.opendoor.ltd",
-                    "https://clario.co",
-                    "https://adblocking.clario.co",
-                    "https://api-ne.clario.co",
-                    "https://chat-crm.clario.co",
-                    "https://chat.clario.co",
-                    "https://crm.clario.co",
-                    "https://dcs.clario.co",
-                    "https://dl.clario.co",
-                    "https://event.clario.co",
-                    "https://get-unbounce.clario.co",
-                    "https://inapp.clario.co",
-                    "https://static-cdn.clario.co",
-                    "https://sz.clario.co",
-                    "https://updater.clario.co",
-                    "https://updatetracker.clario.co",
-                    "https://webapi.clario.co",
-                    "https://yapi.clario.co",
-                    "*.kromtech.com",
-                    "*.mackeeper.com"
-                ]
-            },
-            {
-                "name": "lyst",
-                "urls": [
-                    "*.lyst.com",
-                    "cdna.lystit.com",
-                    "mobileapi.lystit.com",
-                    "*.lystit.com",
-                    "*.lyst.co"
-                ]
-            },
-            {
                 "name": "crypto",
                 "urls": [
                     "www.crypto.com",
@@ -1554,6 +1544,16 @@
                     "pay.crypto.com",
                     "js.crypto.com",
                     "https://crypto.com/defi/"
+                ]
+            },
+            {
+                "name": "lyst",
+                "urls": [
+                    "*.lyst.com",
+                    "cdna.lystit.com",
+                    "mobileapi.lystit.com",
+                    "*.lystit.com",
+                    "*.lyst.co"
                 ]
             },
             {
@@ -2110,7 +2110,8 @@
                     "www.trycourier.app",
                     "api.trycourier.app",
                     "*.ct0.app",
-                    "www.trycourier.com"
+                    "api.courier.com",
+                    "www.courier.com"
                 ]
             },
             {
@@ -2283,6 +2284,15 @@
                 "urls": []
             },
             {
+                "name": "watson_group",
+                "urls": [
+                    "www.superdrug.com",
+                    "https://www.parknshop.com/",
+                    "https://www.superdrug.com/blog",
+                    "*.superdrug.com"
+                ]
+            },
+            {
                 "name": "codeigniter",
                 "urls": [
                     "www.codeigniter.com"
@@ -2315,7 +2325,8 @@
                     "datapod-1-100-druid-ingest.Testing.ForescoutCloud.net",
                     "a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com",
                     "datapod-1-100-druid-ingest.production.forescoutcloud.net",
-                    "datapod-1-100-druid-query.production.forescoutcloud.net"
+                    "datapod-1-100-druid-query.production.forescoutcloud.net",
+                    "https://forescout.service-now.com/"
                 ]
             },
             {
@@ -2348,15 +2359,6 @@
                     "www.briefe.io",
                     "delight.im",
                     "www.delight.im"
-                ]
-            },
-            {
-                "name": "watson_group",
-                "urls": [
-                    "www.superdrug.com",
-                    "https://www.parknshop.com/",
-                    "https://www.superdrug.com/blog",
-                    "*.superdrug.com"
                 ]
             },
             {
@@ -2484,16 +2486,16 @@
                 ]
             },
             {
-                "name": "picsart",
-                "urls": []
-            },
-            {
                 "name": "sixt",
                 "urls": [
                     "www.sixt.de",
                     "www.sixt.fr",
                     "www.sixt.com"
                 ]
+            },
+            {
+                "name": "picsart",
+                "urls": []
             },
             {
                 "name": "wink_jq3al",
@@ -2969,7 +2971,7 @@
         ],
         "metaData": {
             "totalPrograms": 317,
-            "totalUrls": 1480
+            "totalUrls": 1482
         }
     }
 }
