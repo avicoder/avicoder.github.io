@@ -923,6 +923,12 @@
                 ]
             },
             {
+                "name": "quora",
+                "urls": [
+                    "*.quora.com"
+                ]
+            },
+            {
                 "name": "files",
                 "urls": [
                     "app.files.com",
@@ -965,12 +971,6 @@
                 ]
             },
             {
-                "name": "quora",
-                "urls": [
-                    "*.quora.com"
-                ]
-            },
-            {
                 "name": "kartpay",
                 "urls": [
                     "*.kartpay.com"
@@ -979,14 +979,6 @@
             {
                 "name": "badoo",
                 "urls": []
-            },
-            {
-                "name": "backblaze",
-                "urls": [
-                    "www.backblaze.com",
-                    "*.backblazeb2.com",
-                    "*.backblaze.com"
-                ]
             },
             {
                 "name": "marriott",
@@ -2970,8 +2962,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 317,
-            "totalUrls": 1482
+            "totalPrograms": 316,
+            "totalUrls": 1479
         }
     }
 }
