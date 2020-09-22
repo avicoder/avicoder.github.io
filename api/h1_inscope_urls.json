@@ -770,14 +770,6 @@
                 "urls": []
             },
             {
-                "name": "instacart",
-                "urls": [
-                    "www.instacart.com",
-                    "api.instacart.com",
-                    "shoppers.instacart.com"
-                ]
-            },
-            {
                 "name": "8x8",
                 "urls": [
                     "*.ucverse.com",
@@ -801,6 +793,14 @@
                     "*.jitsi.org",
                     "support.8x8.com",
                     "get8x8.com"
+                ]
+            },
+            {
+                "name": "instacart",
+                "urls": [
+                    "www.instacart.com",
+                    "api.instacart.com",
+                    "shoppers.instacart.com"
                 ]
             },
             {
@@ -1466,6 +1466,19 @@
                 ]
             },
             {
+                "name": "crypto",
+                "urls": [
+                    "www.crypto.com",
+                    "https://crypto.com/exchange",
+                    "app.mona.co",
+                    "https://auth.crypto.com/",
+                    "https://merchant.crypto.com",
+                    "pay.crypto.com",
+                    "js.crypto.com",
+                    "https://crypto.com/defi/"
+                ]
+            },
+            {
                 "name": "clario",
                 "urls": [
                     "https://account.mackeeper.com",
@@ -1523,19 +1536,6 @@
                     "beam.nutanix.com",
                     "*.nutanix.com",
                     "testdrive.nutanix.com"
-                ]
-            },
-            {
-                "name": "crypto",
-                "urls": [
-                    "www.crypto.com",
-                    "https://crypto.com/exchange",
-                    "app.mona.co",
-                    "https://auth.crypto.com/",
-                    "https://merchant.crypto.com",
-                    "pay.crypto.com",
-                    "js.crypto.com",
-                    "https://crypto.com/defi/"
                 ]
             },
             {
@@ -1950,6 +1950,20 @@
                 ]
             },
             {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr",
+                    "www.amazon.com.mx",
+                    "www.amazon.es",
+                    "www.amazon.in",
+                    "www.amazon.ca"
+                ]
+            },
+            {
                 "name": "ozon",
                 "urls": [
                     "www.ozon.ru"
@@ -1982,20 +1996,6 @@
                 ]
             },
             {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr",
-                    "www.amazon.com.mx",
-                    "www.amazon.es",
-                    "www.amazon.in",
-                    "www.amazon.ca"
-                ]
-            },
-            {
                 "name": "cengage",
                 "urls": []
             },
@@ -2010,11 +2010,11 @@
                 ]
             },
             {
-                "name": "monero",
+                "name": "revive_adserver",
                 "urls": []
             },
             {
-                "name": "revive_adserver",
+                "name": "monero",
                 "urls": []
             },
             {
@@ -2208,6 +2208,15 @@
                 ]
             },
             {
+                "name": "watson_group",
+                "urls": [
+                    "www.superdrug.com",
+                    "https://www.parknshop.com/",
+                    "https://www.superdrug.com/blog",
+                    "*.superdrug.com"
+                ]
+            },
+            {
                 "name": "dropcontact",
                 "urls": [
                     "app.dropcontact.io"
@@ -2274,15 +2283,6 @@
             {
                 "name": "paragonie",
                 "urls": []
-            },
-            {
-                "name": "watson_group",
-                "urls": [
-                    "www.superdrug.com",
-                    "https://www.parknshop.com/",
-                    "https://www.superdrug.com/blog",
-                    "*.superdrug.com"
-                ]
             },
             {
                 "name": "codeigniter",
@@ -2396,6 +2396,14 @@
                 ]
             },
             {
+                "name": "sixt",
+                "urls": [
+                    "www.sixt.de",
+                    "www.sixt.fr",
+                    "www.sixt.com"
+                ]
+            },
+            {
                 "name": "coalition",
                 "urls": [
                     "platform.thecoalition.com",
@@ -2475,14 +2483,6 @@
                     "wallet-api.test.insolar.io",
                     "*.insolar.io",
                     "be.test.insolar.io"
-                ]
-            },
-            {
-                "name": "sixt",
-                "urls": [
-                    "www.sixt.de",
-                    "www.sixt.fr",
-                    "www.sixt.com"
                 ]
             },
             {
@@ -2577,6 +2577,17 @@
                 "urls": [
                     "api.uphabit.com",
                     "web.uphabit.com"
+                ]
+            },
+            {
+                "name": "zivver",
+                "urls": [
+                    "app.zivver.com",
+                    "collector.zivver.com",
+                    "downloads.zivver.com",
+                    "start.zivvermeet.com",
+                    "docs.zivver.com",
+                    "img.zivver.com"
                 ]
             },
             {
@@ -2962,8 +2973,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 316,
-            "totalUrls": 1479
+            "totalPrograms": 317,
+            "totalUrls": 1485
         }
     }
 }
