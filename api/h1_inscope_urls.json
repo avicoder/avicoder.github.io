@@ -766,10 +766,6 @@
                 ]
             },
             {
-                "name": "wakatime",
-                "urls": []
-            },
-            {
                 "name": "8x8",
                 "urls": [
                     "*.ucverse.com",
@@ -794,6 +790,10 @@
                     "support.8x8.com",
                     "get8x8.com"
                 ]
+            },
+            {
+                "name": "wakatime",
+                "urls": []
             },
             {
                 "name": "instacart",
@@ -1018,15 +1018,6 @@
                 "urls": []
             },
             {
-                "name": "showmax",
-                "urls": [
-                    "https://www.showmax.com",
-                    "https://secure.showmax.com",
-                    "https://api.showmax.com",
-                    "https://stories.showmax.com"
-                ]
-            },
-            {
                 "name": "tts",
                 "urls": [
                     "https://federalist-proxy.app.cloud.gov",
@@ -1071,6 +1062,15 @@
                     "https://manage.data.gov",
                     "https://vote.gov",
                     "https://18f.gsa.gov"
+                ]
+            },
+            {
+                "name": "showmax",
+                "urls": [
+                    "https://www.showmax.com",
+                    "https://secure.showmax.com",
+                    "https://api.showmax.com",
+                    "https://stories.showmax.com"
                 ]
             },
             {
@@ -1391,6 +1391,10 @@
                 ]
             },
             {
+                "name": "rocket_chat",
+                "urls": []
+            },
+            {
                 "name": "capital-one",
                 "urls": [
                     "*.capitalone.com",
@@ -1410,10 +1414,6 @@
                     "*.theunioncard.com",
                     "*.teamstercardnow.com"
                 ]
-            },
-            {
-                "name": "rocket_chat",
-                "urls": []
             },
             {
                 "name": "palo_alto_software",
@@ -1479,36 +1479,20 @@
                 ]
             },
             {
-                "name": "clario",
-                "urls": [
-                    "https://account.mackeeper.com",
-                    "https://api.account.opendoor.ltd",
-                    "https://clario.co",
-                    "https://adblocking.clario.co",
-                    "https://api-ne.clario.co",
-                    "https://chat-crm.clario.co",
-                    "https://chat.clario.co",
-                    "https://crm.clario.co",
-                    "https://dcs.clario.co",
-                    "https://dl.clario.co",
-                    "https://event.clario.co",
-                    "https://get-unbounce.clario.co",
-                    "https://inapp.clario.co",
-                    "https://static-cdn.clario.co",
-                    "https://sz.clario.co",
-                    "https://updater.clario.co",
-                    "https://updatetracker.clario.co",
-                    "https://webapi.clario.co",
-                    "https://yapi.clario.co",
-                    "*.kromtech.com",
-                    "*.mackeeper.com"
-                ]
-            },
-            {
                 "name": "avito",
                 "urls": [
                     "www.avito.ru",
                     "m.avito.ru"
+                ]
+            },
+            {
+                "name": "lyst",
+                "urls": [
+                    "*.lyst.com",
+                    "cdna.lystit.com",
+                    "mobileapi.lystit.com",
+                    "*.lystit.com",
+                    "*.lyst.co"
                 ]
             },
             {
@@ -1539,13 +1523,37 @@
                 ]
             },
             {
-                "name": "lyst",
+                "name": "clario",
                 "urls": [
-                    "*.lyst.com",
-                    "cdna.lystit.com",
-                    "mobileapi.lystit.com",
-                    "*.lystit.com",
-                    "*.lyst.co"
+                    "https://account.mackeeper.com",
+                    "https://api.account.opendoor.ltd",
+                    "https://clario.co",
+                    "https://adblocking.clario.co",
+                    "https://api-ne.clario.co",
+                    "https://chat-crm.clario.co",
+                    "https://chat.clario.co",
+                    "https://crm.clario.co",
+                    "https://dcs.clario.co",
+                    "https://dl.clario.co",
+                    "https://event.clario.co",
+                    "https://get-unbounce.clario.co",
+                    "https://inapp.clario.co",
+                    "https://static-cdn.clario.co",
+                    "https://sz.clario.co",
+                    "https://updater.clario.co",
+                    "https://updatetracker.clario.co",
+                    "https://webapi.clario.co",
+                    "https://yapi.clario.co",
+                    "*.kromtech.com",
+                    "*.mackeeper.com"
+                ]
+            },
+            {
+                "name": "datastax",
+                "urls": [
+                    "https://www.datastax.com/",
+                    "https://downloads.datastax.com",
+                    "https://docs.datastax.com/"
                 ]
             },
             {
@@ -1555,14 +1563,6 @@
                     "*.dev.lifeomic.com",
                     "https://apps.wellness.dev.lifeomic.com",
                     "https://lifeology.dev.lifeomic.com"
-                ]
-            },
-            {
-                "name": "datastax",
-                "urls": [
-                    "https://www.datastax.com/",
-                    "https://downloads.datastax.com",
-                    "https://docs.datastax.com/"
                 ]
             },
             {
@@ -1601,41 +1601,6 @@
                 "name": "smule",
                 "urls": [
                     "*.smule.com"
-                ]
-            },
-            {
-                "name": "goldmansachs",
-                "urls": [
-                    "*.goldmansachs.com",
-                    "*.gs.com",
-                    "*.goldman.com",
-                    "*.marcus.com",
-                    "*.honestdollar.com",
-                    "*.marcus.co.uk",
-                    "research.gs.com",
-                    "*.gsam.com",
-                    "*.gsselect.com",
-                    "*.gs-mosaic.qa.gs.com",
-                    "*.gs-mosaic.gs.com",
-                    "*.qaglobal-liquidity.gs.com",
-                    "*.global-liquidity.gs.com",
-                    "developer.gs.com",
-                    "goldmansachsindices.com",
-                    "marquee.gs.com",
-                    "*.ayco.com",
-                    "www.rocaton.com",
-                    "*.gspublishing.com",
-                    "*.claritymoney.com"
-                ]
-            },
-            {
-                "name": "nintendo",
-                "urls": []
-            },
-            {
-                "name": "rubygems",
-                "urls": [
-                    "rubygems.org"
                 ]
             },
             {
@@ -1703,6 +1668,41 @@
                     "app.topcoder.com",
                     "apps.topcoder.com",
                     "challenges.topcoder.com"
+                ]
+            },
+            {
+                "name": "goldmansachs",
+                "urls": [
+                    "*.goldmansachs.com",
+                    "*.gs.com",
+                    "*.goldman.com",
+                    "*.marcus.com",
+                    "*.honestdollar.com",
+                    "*.marcus.co.uk",
+                    "research.gs.com",
+                    "*.gsam.com",
+                    "*.gsselect.com",
+                    "*.gs-mosaic.qa.gs.com",
+                    "*.gs-mosaic.gs.com",
+                    "*.qaglobal-liquidity.gs.com",
+                    "*.global-liquidity.gs.com",
+                    "developer.gs.com",
+                    "goldmansachsindices.com",
+                    "marquee.gs.com",
+                    "*.ayco.com",
+                    "www.rocaton.com",
+                    "*.gspublishing.com",
+                    "*.claritymoney.com"
+                ]
+            },
+            {
+                "name": "nintendo",
+                "urls": []
+            },
+            {
+                "name": "rubygems",
+                "urls": [
+                    "rubygems.org"
                 ]
             },
             {
@@ -1996,18 +1996,18 @@
                 ]
             },
             {
+                "name": "stagingdoteverydotorg",
+                "urls": [
+                    "staging.every.org"
+                ]
+            },
+            {
                 "name": "cengage",
                 "urls": []
             },
             {
                 "name": "cert",
                 "urls": []
-            },
-            {
-                "name": "stagingdoteverydotorg",
-                "urls": [
-                    "staging.every.org"
-                ]
             },
             {
                 "name": "revive_adserver",
@@ -2087,6 +2087,10 @@
                 ]
             },
             {
+                "name": "stellar",
+                "urls": []
+            },
+            {
                 "name": "aiven_ltd",
                 "urls": [
                     "www.aiven.io",
@@ -2114,10 +2118,6 @@
                 ]
             },
             {
-                "name": "stellar",
-                "urls": []
-            },
-            {
                 "name": "gener8",
                 "urls": [
                     "*.gener8ads.com"
@@ -2143,6 +2143,12 @@
                     "app.starlingbank.com",
                     "oauth.starlingbank.com",
                     "www.starlingbank.com"
+                ]
+            },
+            {
+                "name": "amitree_inc",
+                "urls": [
+                    "www.amitree.com"
                 ]
             },
             {
@@ -2199,12 +2205,6 @@
                     "schedulepilot.labs.ecobee.com",
                     "capture.ecobee.com",
                     "utilities.ecobee.com"
-                ]
-            },
-            {
-                "name": "amitree_inc",
-                "urls": [
-                    "www.amitree.com"
                 ]
             },
             {
