@@ -820,6 +820,16 @@
                 ]
             },
             {
+                "name": "xiaomi",
+                "urls": [
+                    "*.mi.com",
+                    "*.xiaomi.com",
+                    "*.miui.com",
+                    "*.xiaomiyoupin.com",
+                    "*.miwifi.com"
+                ]
+            },
+            {
                 "name": "unikrn",
                 "urls": [
                     "unikrn.com",
@@ -830,16 +840,6 @@
                     "connekt-api.unikrn.com",
                     "auth.unikrn.com",
                     "affiliates.unikrn.com"
-                ]
-            },
-            {
-                "name": "xiaomi",
-                "urls": [
-                    "*.mi.com",
-                    "*.xiaomi.com",
-                    "*.miui.com",
-                    "*.xiaomiyoupin.com",
-                    "*.miwifi.com"
                 ]
             },
             {
@@ -889,6 +889,10 @@
                 ]
             },
             {
+                "name": "kaspersky",
+                "urls": []
+            },
+            {
                 "name": "kindred_group",
                 "urls": [
                     "*.unibet.com",
@@ -905,10 +909,6 @@
                     "*.ottokasino.com",
                     "relaxcdn.unibet.com"
                 ]
-            },
-            {
-                "name": "kaspersky",
-                "urls": []
             },
             {
                 "name": "formassembly",
@@ -1163,6 +1163,15 @@
                 ]
             },
             {
+                "name": "livestream",
+                "urls": [
+                    "*.livestream.com",
+                    "www.livestream.com",
+                    "*.new.livestream.com",
+                    "donations.livestream.com"
+                ]
+            },
+            {
                 "name": "postmates",
                 "urls": [
                     "postmates.com",
@@ -1221,15 +1230,6 @@
                     "gold.goodrx.com",
                     "heydoctor.goodrx.com",
                     "api.heydoctor.com"
-                ]
-            },
-            {
-                "name": "livestream",
-                "urls": [
-                    "*.livestream.com",
-                    "www.livestream.com",
-                    "*.new.livestream.com",
-                    "donations.livestream.com"
                 ]
             },
             {
@@ -1330,6 +1330,28 @@
                 "urls": []
             },
             {
+                "name": "visma",
+                "urls": [
+                    "eaccounting.stage.vismaonline.com",
+                    "eaccountingprinting.stage.vismaonline.com",
+                    "connect.identity.stagaws.visma.com",
+                    "accountsettings.connect.identity.stagaws.visma.com",
+                    "api.home.stag.visma.com",
+                    "app.workbox.dk",
+                    "authz.workbox.dk",
+                    "api.workbox.dk",
+                    "myservices.stage.vismaonline.com",
+                    "admin.stage.vismaonline.com",
+                    "identity.stage.vismaonline.com",
+                    "http://myservices-api.stage.vismaonline.com/",
+                    "ai-testing.maventa.com",
+                    "testing.maventa.com",
+                    "ax-stage.maventa.com",
+                    "autointerface.stag.visma.net",
+                    "autointerface-embeddable-stage.maventa.com"
+                ]
+            },
+            {
                 "name": "upserve",
                 "urls": [
                     "app.upserve.com",
@@ -1353,28 +1375,6 @@
                 ]
             },
             {
-                "name": "visma",
-                "urls": [
-                    "eaccounting.stage.vismaonline.com",
-                    "eaccountingprinting.stage.vismaonline.com",
-                    "connect.identity.stagaws.visma.com",
-                    "accountsettings.connect.identity.stagaws.visma.com",
-                    "api.home.stag.visma.com",
-                    "app.workbox.dk",
-                    "authz.workbox.dk",
-                    "api.workbox.dk",
-                    "myservices.stage.vismaonline.com",
-                    "admin.stage.vismaonline.com",
-                    "identity.stage.vismaonline.com",
-                    "http://myservices-api.stage.vismaonline.com/",
-                    "ai-testing.maventa.com",
-                    "testing.maventa.com",
-                    "ax-stage.maventa.com",
-                    "autointerface.stag.visma.net",
-                    "autointerface-embeddable-stage.maventa.com"
-                ]
-            },
-            {
                 "name": "urbandictionary",
                 "urls": [
                     "*.urbandictionary.com",
@@ -1389,10 +1389,6 @@
                     "help.urbandictionary.com",
                     "*.urbandictionary.store"
                 ]
-            },
-            {
-                "name": "rocket_chat",
-                "urls": []
             },
             {
                 "name": "capital-one",
@@ -1414,6 +1410,10 @@
                     "*.theunioncard.com",
                     "*.teamstercardnow.com"
                 ]
+            },
+            {
+                "name": "rocket_chat",
+                "urls": []
             },
             {
                 "name": "palo_alto_software",
@@ -1888,6 +1888,12 @@
                 "urls": []
             },
             {
+                "name": "ozon",
+                "urls": [
+                    "www.ozon.ru"
+                ]
+            },
+            {
                 "name": "bitmex",
                 "urls": [
                     "www.bitmex.com",
@@ -1917,6 +1923,13 @@
                     "blog.lob.com",
                     "docs.lob.com",
                     "mock.lob.com"
+                ]
+            },
+            {
+                "name": "engel_volkers",
+                "urls": [
+                    "*.engelvoelkers.com",
+                    "authz.engelvoelkers.com/"
                 ]
             },
             {
@@ -1955,19 +1968,6 @@
                     "https://help.creditkarma.com",
                     "https://blog.creditkarma.com/",
                     "https://www.creditkarma.com/savings"
-                ]
-            },
-            {
-                "name": "engel_volkers",
-                "urls": [
-                    "*.engelvoelkers.com",
-                    "authz.engelvoelkers.com/"
-                ]
-            },
-            {
-                "name": "ozon",
-                "urls": [
-                    "www.ozon.ru"
                 ]
             },
             {
@@ -2159,6 +2159,18 @@
                 ]
             },
             {
+                "name": "watson_group",
+                "urls": [
+                    "https://www.superdrug.com",
+                    "https://www.parknshop.com/",
+                    "https://www.theperfumeshop.com/",
+                    "https://www.superdrug.com/blog",
+                    "https://www.theperfumeshop.com/blog",
+                    "*.superdrug.com",
+                    "*.theperfumeshop.com"
+                ]
+            },
+            {
                 "name": "affirm",
                 "urls": [
                     "http://hackerone.affirm-odin.com/",
@@ -2206,15 +2218,6 @@
                     "schedulepilot.labs.ecobee.com",
                     "capture.ecobee.com",
                     "utilities.ecobee.com"
-                ]
-            },
-            {
-                "name": "watson_group",
-                "urls": [
-                    "www.superdrug.com",
-                    "https://www.parknshop.com/",
-                    "https://www.superdrug.com/blog",
-                    "*.superdrug.com"
                 ]
             },
             {
@@ -2975,7 +2978,7 @@
         ],
         "metaData": {
             "totalPrograms": 317,
-            "totalUrls": 1486
+            "totalUrls": 1489
         }
     }
 }
