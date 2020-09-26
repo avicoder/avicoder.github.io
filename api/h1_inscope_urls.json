@@ -631,11 +631,11 @@
                 ]
             },
             {
-                "name": "sg-vdp",
+                "name": "nodejs-ecosystem",
                 "urls": []
             },
             {
-                "name": "nodejs-ecosystem",
+                "name": "sg-vdp",
                 "urls": []
             },
             {
@@ -1018,6 +1018,15 @@
                 "urls": []
             },
             {
+                "name": "tomtom",
+                "urls": [
+                    "*.tomtom.com",
+                    "api.tomtom.com",
+                    "*.tomtomgroup.com",
+                    "*.teleatlas.com"
+                ]
+            },
+            {
                 "name": "tts",
                 "urls": [
                     "https://federalist-proxy.app.cloud.gov",
@@ -1097,15 +1106,6 @@
                 ]
             },
             {
-                "name": "tomtom",
-                "urls": [
-                    "*.tomtom.com",
-                    "api.tomtom.com",
-                    "*.tomtomgroup.com",
-                    "*.teleatlas.com"
-                ]
-            },
-            {
                 "name": "greenhouse",
                 "urls": [
                     "app.greenhouse.io",
@@ -1130,10 +1130,6 @@
                 ]
             },
             {
-                "name": "keybase",
-                "urls": []
-            },
-            {
                 "name": "playstation",
                 "urls": [
                     "*.playstation.net",
@@ -1147,6 +1143,10 @@
                     "direct.playstation.com",
                     "api.direct.playstation.com"
                 ]
+            },
+            {
+                "name": "keybase",
+                "urls": []
             },
             {
                 "name": "weblate",
@@ -1184,27 +1184,6 @@
                 ]
             },
             {
-                "name": "mediamarktsaturn",
-                "urls": [
-                    "www.mediamarkt.de",
-                    "www.saturn.de",
-                    "www.saturn.at",
-                    "www.mediamarkt.at",
-                    "www.mediamarkt.com.tr",
-                    "www.mediamarkt.be",
-                    "www.mediamarkt.es",
-                    "www.mediamarkt.gr",
-                    "www.mediamarkt.pl",
-                    "www.mediamarkt.nl",
-                    "www.mediamarkt.ch",
-                    "www.mediaworld.it",
-                    "www.mediamarkt.se",
-                    "www.mediamarkt.hu",
-                    "www.mediamarkt.pt",
-                    "www.saturn.lu"
-                ]
-            },
-            {
                 "name": "digitalocean",
                 "urls": [
                     "https://cloud.digitalocean.com/",
@@ -1230,6 +1209,27 @@
                     "gold.goodrx.com",
                     "heydoctor.goodrx.com",
                     "api.heydoctor.com"
+                ]
+            },
+            {
+                "name": "mediamarktsaturn",
+                "urls": [
+                    "www.mediamarkt.de",
+                    "www.saturn.de",
+                    "www.saturn.at",
+                    "www.mediamarkt.at",
+                    "www.mediamarkt.com.tr",
+                    "www.mediamarkt.be",
+                    "www.mediamarkt.es",
+                    "www.mediamarkt.gr",
+                    "www.mediamarkt.pl",
+                    "www.mediamarkt.nl",
+                    "www.mediamarkt.ch",
+                    "www.mediaworld.it",
+                    "www.mediamarkt.se",
+                    "www.mediamarkt.hu",
+                    "www.mediamarkt.pt",
+                    "www.saturn.lu"
                 ]
             },
             {
@@ -1330,28 +1330,6 @@
                 "urls": []
             },
             {
-                "name": "visma",
-                "urls": [
-                    "eaccounting.stage.vismaonline.com",
-                    "eaccountingprinting.stage.vismaonline.com",
-                    "connect.identity.stagaws.visma.com",
-                    "accountsettings.connect.identity.stagaws.visma.com",
-                    "api.home.stag.visma.com",
-                    "app.workbox.dk",
-                    "authz.workbox.dk",
-                    "api.workbox.dk",
-                    "myservices.stage.vismaonline.com",
-                    "admin.stage.vismaonline.com",
-                    "identity.stage.vismaonline.com",
-                    "http://myservices-api.stage.vismaonline.com/",
-                    "ai-testing.maventa.com",
-                    "testing.maventa.com",
-                    "ax-stage.maventa.com",
-                    "autointerface.stag.visma.net",
-                    "autointerface-embeddable-stage.maventa.com"
-                ]
-            },
-            {
                 "name": "upserve",
                 "urls": [
                     "app.upserve.com",
@@ -1372,6 +1350,28 @@
                     "https://645892349820.vulnerbug.com",
                     "teamhelp.upserve.com",
                     "*.upserve.com"
+                ]
+            },
+            {
+                "name": "visma",
+                "urls": [
+                    "eaccounting.stage.vismaonline.com",
+                    "eaccountingprinting.stage.vismaonline.com",
+                    "connect.identity.stagaws.visma.com",
+                    "accountsettings.connect.identity.stagaws.visma.com",
+                    "api.home.stag.visma.com",
+                    "app.workbox.dk",
+                    "authz.workbox.dk",
+                    "api.workbox.dk",
+                    "myservices.stage.vismaonline.com",
+                    "admin.stage.vismaonline.com",
+                    "identity.stage.vismaonline.com",
+                    "http://myservices-api.stage.vismaonline.com/",
+                    "ai-testing.maventa.com",
+                    "testing.maventa.com",
+                    "ax-stage.maventa.com",
+                    "autointerface.stag.visma.net",
+                    "autointerface-embeddable-stage.maventa.com"
                 ]
             },
             {
@@ -1466,6 +1466,33 @@
                 ]
             },
             {
+                "name": "nutanix",
+                "urls": [
+                    "support.nutanix.com",
+                    "ticket.nutanix.com",
+                    "webex.nutanix.com",
+                    "events.nutanix.com",
+                    "my.nutanix.com",
+                    "jira.nutanix.com",
+                    "nutanix.com",
+                    "developer.nutanix.com",
+                    "next.nutanix.com",
+                    "install.nutanix.com",
+                    "bootcamp.nutanix.com",
+                    "productsizer.nutanix.com",
+                    "gp.nutanix.com",
+                    "stage-billing.nutanix.com",
+                    "mops.nutanix.com",
+                    "idp.nutanix.com",
+                    "cpq.nutanix.com",
+                    "iot.nutanix.com",
+                    "frame.nutanix.com",
+                    "beam.nutanix.com",
+                    "*.nutanix.com",
+                    "testdrive.nutanix.com"
+                ]
+            },
+            {
                 "name": "crypto",
                 "urls": [
                     "www.crypto.com",
@@ -1520,33 +1547,6 @@
                     "mobileapi.lystit.com",
                     "*.lystit.com",
                     "*.lyst.co"
-                ]
-            },
-            {
-                "name": "nutanix",
-                "urls": [
-                    "support.nutanix.com",
-                    "ticket.nutanix.com",
-                    "webex.nutanix.com",
-                    "events.nutanix.com",
-                    "my.nutanix.com",
-                    "jira.nutanix.com",
-                    "nutanix.com",
-                    "developer.nutanix.com",
-                    "next.nutanix.com",
-                    "install.nutanix.com",
-                    "bootcamp.nutanix.com",
-                    "productsizer.nutanix.com",
-                    "gp.nutanix.com",
-                    "stage-billing.nutanix.com",
-                    "mops.nutanix.com",
-                    "idp.nutanix.com",
-                    "cpq.nutanix.com",
-                    "iot.nutanix.com",
-                    "frame.nutanix.com",
-                    "beam.nutanix.com",
-                    "*.nutanix.com",
-                    "testdrive.nutanix.com"
                 ]
             },
             {
@@ -2135,6 +2135,18 @@
                 ]
             },
             {
+                "name": "watson_group",
+                "urls": [
+                    "https://www.superdrug.com",
+                    "https://www.parknshop.com/",
+                    "https://www.theperfumeshop.com/",
+                    "https://www.superdrug.com/blog",
+                    "https://www.theperfumeshop.com/blog",
+                    "*.superdrug.com",
+                    "*.theperfumeshop.com"
+                ]
+            },
+            {
                 "name": "qulture_rocks_x3u44",
                 "urls": [
                     "https://hackerone.qulture.rocks/"
@@ -2156,18 +2168,6 @@
                 "name": "amitree_inc",
                 "urls": [
                     "www.amitree.com"
-                ]
-            },
-            {
-                "name": "watson_group",
-                "urls": [
-                    "https://www.superdrug.com",
-                    "https://www.parknshop.com/",
-                    "https://www.theperfumeshop.com/",
-                    "https://www.superdrug.com/blog",
-                    "https://www.theperfumeshop.com/blog",
-                    "*.superdrug.com",
-                    "*.theperfumeshop.com"
                 ]
             },
             {
