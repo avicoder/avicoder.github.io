@@ -623,16 +623,16 @@
                 ]
             },
             {
+                "name": "nodejs-ecosystem",
+                "urls": []
+            },
+            {
                 "name": "mapbox",
                 "urls": [
                     "www.mapbox.com",
                     "https://docs.mapbox.com/api/",
                     "api.mapbox.com"
                 ]
-            },
-            {
-                "name": "nodejs-ecosystem",
-                "urls": []
             },
             {
                 "name": "sg-vdp",
