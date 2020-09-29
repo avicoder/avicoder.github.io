@@ -155,6 +155,8 @@
             {
                 "name": "starbucks",
                 "urls": [
+                    "www.teavana.com",
+                    "www.starbucksreserve.com",
                     "gift.starbucks.co.jp",
                     "login.starbucks.co.jp",
                     "www.starbucks.co.jp",
@@ -168,12 +170,12 @@
                     "app.starbucks.com",
                     "www.istarbucks.co.kr",
                     "card.starbucks.com.sg",
+                    "www.starbucks.com.sg",
                     "ec.starbucks.com.cn",
                     "preview.starbucks.com",
                     "cart.starbucks.co.jp",
-                    "www.starbucks.com.sg",
-                    "www.teavana.com",
-                    "www.starbucksreserve.com"
+                    "openapi.starbucks.com",
+                    "secureui.starbucks.com"
                 ]
             },
             {
@@ -635,10 +637,6 @@
                 ]
             },
             {
-                "name": "sg-vdp",
-                "urls": []
-            },
-            {
                 "name": "yelp",
                 "urls": [
                     "www.yelp.com",
@@ -656,6 +654,10 @@
                     "www.yelpwifi.com",
                     "app.yelpwifi.com"
                 ]
+            },
+            {
+                "name": "sg-vdp",
+                "urls": []
             },
             {
                 "name": "infogram",
@@ -1106,6 +1108,12 @@
                 ]
             },
             {
+                "name": "nordvpn",
+                "urls": [
+                    "*.nordvpn.com"
+                ]
+            },
+            {
                 "name": "greenhouse",
                 "urls": [
                     "app.greenhouse.io",
@@ -1121,12 +1129,6 @@
                 "name": "coursera",
                 "urls": [
                     "www.coursera.org"
-                ]
-            },
-            {
-                "name": "nordvpn",
-                "urls": [
-                    "*.nordvpn.com"
                 ]
             },
             {
@@ -1322,11 +1324,11 @@
                 ]
             },
             {
-                "name": "discourse",
+                "name": "equifax",
                 "urls": []
             },
             {
-                "name": "equifax",
+                "name": "discourse",
                 "urls": []
             },
             {
@@ -1446,6 +1448,33 @@
                 "urls": []
             },
             {
+                "name": "clario",
+                "urls": [
+                    "https://account.mackeeper.com",
+                    "https://api.account.opendoor.ltd",
+                    "https://clario.co",
+                    "https://account.clario.co",
+                    "https://adblocking.clario.co",
+                    "https://api-ne.clario.co",
+                    "https://chat-crm.clario.co",
+                    "https://chat.clario.co",
+                    "https://crm.clario.co",
+                    "https://dcs.clario.co",
+                    "https://dl.clario.co",
+                    "https://event.clario.co",
+                    "https://get-unbounce.clario.co",
+                    "https://inapp.clario.co",
+                    "https://static-cdn.clario.co",
+                    "https://sz.clario.co",
+                    "https://updater.clario.co",
+                    "https://updatetracker.clario.co",
+                    "https://webapi.clario.co",
+                    "https://yapi.clario.co",
+                    "*.kromtech.com",
+                    "*.mackeeper.com"
+                ]
+            },
+            {
                 "name": "innogames",
                 "urls": [
                     "*.innogames.com",
@@ -1503,33 +1532,6 @@
                     "pay.crypto.com",
                     "js.crypto.com",
                     "https://crypto.com/defi/"
-                ]
-            },
-            {
-                "name": "clario",
-                "urls": [
-                    "https://account.mackeeper.com",
-                    "https://api.account.opendoor.ltd",
-                    "https://clario.co",
-                    "https://account.clario.co",
-                    "https://adblocking.clario.co",
-                    "https://api-ne.clario.co",
-                    "https://chat-crm.clario.co",
-                    "https://chat.clario.co",
-                    "https://crm.clario.co",
-                    "https://dcs.clario.co",
-                    "https://dl.clario.co",
-                    "https://event.clario.co",
-                    "https://get-unbounce.clario.co",
-                    "https://inapp.clario.co",
-                    "https://static-cdn.clario.co",
-                    "https://sz.clario.co",
-                    "https://updater.clario.co",
-                    "https://updatetracker.clario.co",
-                    "https://webapi.clario.co",
-                    "https://yapi.clario.co",
-                    "*.kromtech.com",
-                    "*.mackeeper.com"
                 ]
             },
             {
@@ -1816,6 +1818,15 @@
                 ]
             },
             {
+                "name": "helium",
+                "urls": [
+                    "ota.helium.com",
+                    "burrow.helium.systems",
+                    "console.helium.com",
+                    "www.helium.com"
+                ]
+            },
+            {
                 "name": "rails",
                 "urls": []
             },
@@ -1823,15 +1834,6 @@
                 "name": "lemlist",
                 "urls": [
                     "app.lemlist.com"
-                ]
-            },
-            {
-                "name": "helium",
-                "urls": [
-                    "ota.helium.com",
-                    "burrow.helium.systems",
-                    "console.helium.com",
-                    "www.helium.com"
                 ]
             },
             {
@@ -1844,6 +1846,14 @@
                     "portswigger.net",
                     "forum.portswigger.net",
                     "*.web-security-academy.net"
+                ]
+            },
+            {
+                "name": "smartsheet",
+                "urls": [
+                    "app.smartsheet.com",
+                    "api.smartsheet.com/2.0",
+                    "admin.smartsheet.com"
                 ]
             },
             {
@@ -1869,14 +1879,6 @@
                     "https://apps-staging.pingone.com/*",
                     "https://ort-authenticator.pingone.com/*",
                     "https://ort-desktop.pingone.com/*"
-                ]
-            },
-            {
-                "name": "smartsheet",
-                "urls": [
-                    "app.smartsheet.com",
-                    "api.smartsheet.com/2.0",
-                    "admin.smartsheet.com"
                 ]
             },
             {
@@ -2019,13 +2021,13 @@
                 "urls": []
             },
             {
-                "name": "bitwarden",
+                "name": "cs_money",
                 "urls": [
-                    "bitwarden.com",
-                    "api.bitwarden.com",
-                    "identity.bitwarden.com",
-                    "vault.bitwarden.com",
-                    "help.bitwarden.com"
+                    "cs.money",
+                    "new.cs.money",
+                    "support.cs.money",
+                    "wiki.cs.money",
+                    "3d.cs.money"
                 ]
             },
             {
@@ -2040,11 +2042,21 @@
                 ]
             },
             {
-                "name": "ruby",
-                "urls": []
+                "name": "bitwarden",
+                "urls": [
+                    "bitwarden.com",
+                    "api.bitwarden.com",
+                    "identity.bitwarden.com",
+                    "vault.bitwarden.com",
+                    "help.bitwarden.com"
+                ]
             },
             {
                 "name": "mobisystems_ltd",
+                "urls": []
+            },
+            {
+                "name": "ruby",
                 "urls": []
             },
             {
@@ -2977,8 +2989,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 317,
-            "totalUrls": 1489
+            "totalPrograms": 318,
+            "totalUrls": 1496
         }
     }
 }
