@@ -168,7 +168,7 @@
                     "www.starbucks.ca",
                     "www.starbucks.com",
                     "app.starbucks.com",
-                    "www.istarbucks.co.kr",
+                    "www.starbucks.co.kr",
                     "card.starbucks.com.sg",
                     "www.starbucks.com.sg",
                     "ec.starbucks.com.cn",
@@ -629,14 +629,6 @@
                 "urls": []
             },
             {
-                "name": "mapbox",
-                "urls": [
-                    "www.mapbox.com",
-                    "https://docs.mapbox.com/api/",
-                    "api.mapbox.com"
-                ]
-            },
-            {
                 "name": "yelp",
                 "urls": [
                     "www.yelp.com",
@@ -653,6 +645,14 @@
                     "yelp.nowait.com",
                     "www.yelpwifi.com",
                     "app.yelpwifi.com"
+                ]
+            },
+            {
+                "name": "mapbox",
+                "urls": [
+                    "www.mapbox.com",
+                    "https://docs.mapbox.com/api/",
+                    "api.mapbox.com"
                 ]
             },
             {
@@ -806,6 +806,15 @@
                 ]
             },
             {
+                "name": "acronis",
+                "urls": [
+                    "beta-baas.acronis.com",
+                    "*-api-*.acronis.com",
+                    "*.acronis.com",
+                    "account.acronis.com"
+                ]
+            },
+            {
                 "name": "xiaomi",
                 "urls": [
                     "*.mi.com",
@@ -820,15 +829,6 @@
                 "urls": [
                     "my.stripo.email",
                     "stripo.email"
-                ]
-            },
-            {
-                "name": "acronis",
-                "urls": [
-                    "beta-baas.acronis.com",
-                    "*-api-*.acronis.com",
-                    "*.acronis.com",
-                    "account.acronis.com"
                 ]
             },
             {
@@ -995,6 +995,14 @@
                 ]
             },
             {
+                "name": "brave",
+                "urls": [
+                    "publishers.basicattentiontoken.org",
+                    "brave.com",
+                    "basicattentiontoken.org"
+                ]
+            },
+            {
                 "name": "cloudflare",
                 "urls": []
             },
@@ -1005,14 +1013,6 @@
                     "embed.vhx.tv",
                     "api.vhx.tv",
                     "*.vhx.tv"
-                ]
-            },
-            {
-                "name": "brave",
-                "urls": [
-                    "publishers.basicattentiontoken.org",
-                    "brave.com",
-                    "basicattentiontoken.org"
                 ]
             },
             {
@@ -1297,14 +1297,6 @@
             {
                 "name": "internet",
                 "urls": []
-            },
-            {
-                "name": "quantopian",
-                "urls": [
-                    "www.quantopian.com",
-                    "*.dynoquant.com",
-                    "*.quantshack.com"
-                ]
             },
             {
                 "name": "trustpilot",
@@ -1674,6 +1666,10 @@
                 ]
             },
             {
+                "name": "nintendo",
+                "urls": []
+            },
+            {
                 "name": "goldmansachs",
                 "urls": [
                     "*.goldmansachs.com",
@@ -1697,10 +1693,6 @@
                     "*.gspublishing.com",
                     "*.claritymoney.com"
                 ]
-            },
-            {
-                "name": "nintendo",
-                "urls": []
             },
             {
                 "name": "rubygems",
@@ -1886,6 +1878,20 @@
                 "urls": []
             },
             {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr",
+                    "www.amazon.com.mx",
+                    "www.amazon.es",
+                    "www.amazon.in",
+                    "www.amazon.ca"
+                ]
+            },
+            {
                 "name": "ibb-openssl",
                 "urls": []
             },
@@ -1932,20 +1938,6 @@
                 "urls": [
                     "*.engelvoelkers.com",
                     "authz.engelvoelkers.com/"
-                ]
-            },
-            {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr",
-                    "www.amazon.com.mx",
-                    "www.amazon.es",
-                    "www.amazon.in",
-                    "www.amazon.ca"
                 ]
             },
             {
@@ -2052,11 +2044,11 @@
                 ]
             },
             {
-                "name": "mobisystems_ltd",
+                "name": "ruby",
                 "urls": []
             },
             {
-                "name": "ruby",
+                "name": "mobisystems_ltd",
                 "urls": []
             },
             {
@@ -2100,6 +2092,16 @@
                 ]
             },
             {
+                "name": "trycourier",
+                "urls": [
+                    "www.trycourier.app",
+                    "api.trycourier.app",
+                    "*.ct0.app",
+                    "api.courier.com",
+                    "www.courier.com"
+                ]
+            },
+            {
                 "name": "stellar",
                 "urls": []
             },
@@ -2111,16 +2113,6 @@
                     "api.aiven.io",
                     "aivencloud.com",
                     "help.aiven.io"
-                ]
-            },
-            {
-                "name": "trycourier",
-                "urls": [
-                    "www.trycourier.app",
-                    "api.trycourier.app",
-                    "*.ct0.app",
-                    "api.courier.com",
-                    "www.courier.com"
                 ]
             },
             {
@@ -2376,6 +2368,23 @@
                 ]
             },
             {
+                "name": "kubernetes",
+                "urls": [
+                    "https://prow.k8s.io",
+                    "https://kubernetes.io",
+                    "k8s.io",
+                    "kubernetes-csi.github.io"
+                ]
+            },
+            {
+                "name": "sixt",
+                "urls": [
+                    "www.sixt.de",
+                    "www.sixt.fr",
+                    "www.sixt.com"
+                ]
+            },
+            {
                 "name": "ibb-apache",
                 "urls": []
             },
@@ -2383,15 +2392,6 @@
                 "name": "filezilla",
                 "urls": [
                     "https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty"
-                ]
-            },
-            {
-                "name": "kubernetes",
-                "urls": [
-                    "https://prow.k8s.io",
-                    "https://kubernetes.io",
-                    "k8s.io",
-                    "kubernetes-csi.github.io"
                 ]
             },
             {
@@ -2409,14 +2409,6 @@
                     "chat.makerdao.com",
                     "blog.makerdao.com",
                     "support.makerdao.com"
-                ]
-            },
-            {
-                "name": "sixt",
-                "urls": [
-                    "www.sixt.de",
-                    "www.sixt.fr",
-                    "www.sixt.com"
                 ]
             },
             {
@@ -2490,15 +2482,6 @@
                     "staging.genasys.tech/d2c",
                     "staging.genasys.tech/d2c-api",
                     "staging.genasys.tech/quick"
-                ]
-            },
-            {
-                "name": "insolar",
-                "urls": [
-                    "wallet.test.insolar.io",
-                    "wallet-api.test.insolar.io",
-                    "*.insolar.io",
-                    "be.test.insolar.io"
                 ]
             },
             {
@@ -2989,8 +2972,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 318,
-            "totalUrls": 1496
+            "totalPrograms": 316,
+            "totalUrls": 1489
         }
     }
 }
