@@ -304,11 +304,8 @@
                 "name": "gitlab",
                 "urls": [
                     "customers.gitlab.com",
-                    "gitter.im",
                     "registry.gitlab.com",
-                    "gitlab.com",
-                    "api.gitter.im",
-                    "ws*.gitter.im"
+                    "gitlab.com"
                 ]
             },
             {
@@ -798,20 +795,20 @@
                 "urls": []
             },
             {
-                "name": "instacart",
-                "urls": [
-                    "www.instacart.com",
-                    "api.instacart.com",
-                    "shoppers.instacart.com"
-                ]
-            },
-            {
                 "name": "acronis",
                 "urls": [
                     "beta-baas.acronis.com",
                     "*-api-*.acronis.com",
                     "*.acronis.com",
                     "account.acronis.com"
+                ]
+            },
+            {
+                "name": "instacart",
+                "urls": [
+                    "www.instacart.com",
+                    "api.instacart.com",
+                    "shoppers.instacart.com"
                 ]
             },
             {
@@ -1003,10 +1000,6 @@
                 ]
             },
             {
-                "name": "cloudflare",
-                "urls": []
-            },
-            {
                 "name": "vhx",
                 "urls": [
                     "vhx.tv",
@@ -1014,6 +1007,10 @@
                     "api.vhx.tv",
                     "*.vhx.tv"
                 ]
+            },
+            {
+                "name": "cloudflare",
+                "urls": []
             },
             {
                 "name": "expressionengine",
@@ -1076,15 +1073,6 @@
                 ]
             },
             {
-                "name": "showmax",
-                "urls": [
-                    "https://www.showmax.com",
-                    "https://secure.showmax.com",
-                    "https://api.showmax.com",
-                    "https://stories.showmax.com"
-                ]
-            },
-            {
                 "name": "grammarly",
                 "urls": [
                     "www.grammarly.com",
@@ -1105,6 +1093,15 @@
                     "g-mail.grammarly.com",
                     "grammarly.ai",
                     "food.grammarly.io"
+                ]
+            },
+            {
+                "name": "showmax",
+                "urls": [
+                    "https://www.showmax.com",
+                    "https://secure.showmax.com",
+                    "https://api.showmax.com",
+                    "https://stories.showmax.com"
                 ]
             },
             {
@@ -1487,6 +1484,13 @@
                 ]
             },
             {
+                "name": "avito",
+                "urls": [
+                    "www.avito.ru",
+                    "m.avito.ru"
+                ]
+            },
+            {
                 "name": "nutanix",
                 "urls": [
                     "support.nutanix.com",
@@ -1524,13 +1528,6 @@
                     "pay.crypto.com",
                     "js.crypto.com",
                     "https://crypto.com/defi/"
-                ]
-            },
-            {
-                "name": "avito",
-                "urls": [
-                    "www.avito.ru",
-                    "m.avito.ru"
                 ]
             },
             {
@@ -1751,6 +1748,14 @@
                 ]
             },
             {
+                "name": "endless_hosting",
+                "urls": [
+                    "(*).theendlessweb.com",
+                    "(*).endlcdn.site",
+                    "(*).itsendless.org"
+                ]
+            },
+            {
                 "name": "top_echelon_software",
                 "urls": [
                     "www.topechelon.com",
@@ -1762,14 +1767,6 @@
                 "name": "prospect_io_gjk6b",
                 "urls": [
                     "app.prospect.io"
-                ]
-            },
-            {
-                "name": "endless_hosting",
-                "urls": [
-                    "(*).theendlessweb.com",
-                    "(*).endlcdn.site",
-                    "(*).itsendless.org"
                 ]
             },
             {
@@ -1965,6 +1962,15 @@
                 ]
             },
             {
+                "name": "figma",
+                "urls": [
+                    "www.figma.com",
+                    "api.figma.com",
+                    "help.figma.com",
+                    "https://www.designsystems.com/"
+                ]
+            },
+            {
                 "name": "drive_net_inc",
                 "urls": [
                     "www.drive2.ru",
@@ -2060,6 +2066,16 @@
                 "urls": []
             },
             {
+                "name": "trycourier",
+                "urls": [
+                    "www.trycourier.app",
+                    "api.trycourier.app",
+                    "*.ct0.app",
+                    "api.courier.com",
+                    "www.courier.com"
+                ]
+            },
+            {
                 "name": "mariadb",
                 "urls": [
                     "mariadb.org"
@@ -2089,16 +2105,6 @@
                     "*.hellowallet.com",
                     "*.laurelroad.com",
                     "*.cainbrothers.com"
-                ]
-            },
-            {
-                "name": "trycourier",
-                "urls": [
-                    "www.trycourier.app",
-                    "api.trycourier.app",
-                    "*.ct0.app",
-                    "api.courier.com",
-                    "www.courier.com"
                 ]
             },
             {
@@ -2489,10 +2495,6 @@
                 "urls": []
             },
             {
-                "name": "wink_jq3al",
-                "urls": []
-            },
-            {
                 "name": "liberapay",
                 "urls": [
                     "*.liberapay.com",
@@ -2632,7 +2634,8 @@
             {
                 "name": "codefi_bbp",
                 "urls": [
-                    "activate.codefi.network"
+                    "activate.codefi.network",
+                    "assets-paris-demo.codefi.network"
                 ]
             },
             {
@@ -2973,7 +2976,7 @@
         ],
         "metaData": {
             "totalPrograms": 316,
-            "totalUrls": 1489
+            "totalUrls": 1491
         }
     }
 }
