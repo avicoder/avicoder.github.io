@@ -329,6 +329,17 @@
                 ]
             },
             {
+                "name": "spotify",
+                "urls": [
+                    "assets.spotify.com",
+                    "*.spotify.com",
+                    "api.spotify.com",
+                    "*.spotify.net",
+                    "*.spotifyforbrands.com",
+                    "backstage.io"
+                ]
+            },
+            {
                 "name": "vimeo",
                 "urls": [
                     "www.vimeo.com",
@@ -342,17 +353,6 @@
                     "checkout.vimeo.com",
                     "vimeo.com/create",
                     "vimeo.magisto.com"
-                ]
-            },
-            {
-                "name": "spotify",
-                "urls": [
-                    "assets.spotify.com",
-                    "*.spotify.com",
-                    "api.spotify.com",
-                    "*.spotify.net",
-                    "*.spotifyforbrands.com",
-                    "backstage.io"
                 ]
             },
             {
@@ -669,14 +669,15 @@
                     "www.tapiola.fi",
                     "verkkopalvelu.tapiola.fi",
                     "yrityspalvelu.tapiola.fi",
-                    "viestinta.lahitapiola.fi",
                     "secure.lahitapiola.fi",
                     "myynti.lahitapiolarahoitus.fi",
                     "ext-gw.lahitapiola.fi",
                     "motorfnol.lahitapiola.fi",
                     "lisasijoitus.lahitapiola.fi",
                     "verovelvollisuustiedot.lahitapiola.fi",
-                    "sijoitusvakuutus.lahitapiola.fi"
+                    "sijoitusvakuutus.lahitapiola.fi",
+                    "asiointi.lahitapiola.fi",
+                    "api.lahitapiola.fi"
                 ]
             },
             {
@@ -707,6 +708,8 @@
                     "werkenbijderet.nl",
                     "www.werkenbijbakertilly.nl",
                     "careers.evonik.com",
+                    "mijnkombijdepolitie.nl",
+                    "doorstromen.mijnkombijdepolitie.nl",
                     "devmaximum.com"
                 ]
             },
@@ -791,10 +794,6 @@
                 ]
             },
             {
-                "name": "wakatime",
-                "urls": []
-            },
-            {
                 "name": "acronis",
                 "urls": [
                     "beta-baas.acronis.com",
@@ -802,6 +801,10 @@
                     "*.acronis.com",
                     "account.acronis.com"
                 ]
+            },
+            {
+                "name": "wakatime",
+                "urls": []
             },
             {
                 "name": "instacart",
@@ -1484,13 +1487,6 @@
                 ]
             },
             {
-                "name": "avito",
-                "urls": [
-                    "www.avito.ru",
-                    "m.avito.ru"
-                ]
-            },
-            {
                 "name": "nutanix",
                 "urls": [
                     "support.nutanix.com",
@@ -1518,16 +1514,10 @@
                 ]
             },
             {
-                "name": "crypto",
+                "name": "avito",
                 "urls": [
-                    "www.crypto.com",
-                    "https://crypto.com/exchange",
-                    "app.mona.co",
-                    "https://auth.crypto.com/",
-                    "https://merchant.crypto.com",
-                    "pay.crypto.com",
-                    "js.crypto.com",
-                    "https://crypto.com/defi/"
+                    "www.avito.ru",
+                    "m.avito.ru"
                 ]
             },
             {
@@ -1538,6 +1528,19 @@
                     "mobileapi.lystit.com",
                     "*.lystit.com",
                     "*.lyst.co"
+                ]
+            },
+            {
+                "name": "crypto",
+                "urls": [
+                    "www.crypto.com",
+                    "https://crypto.com/exchange",
+                    "app.mona.co",
+                    "https://auth.crypto.com/",
+                    "https://merchant.crypto.com",
+                    "pay.crypto.com",
+                    "js.crypto.com",
+                    "https://crypto.com/defi/"
                 ]
             },
             {
@@ -1663,10 +1666,6 @@
                 ]
             },
             {
-                "name": "nintendo",
-                "urls": []
-            },
-            {
                 "name": "goldmansachs",
                 "urls": [
                     "*.goldmansachs.com",
@@ -1690,6 +1689,10 @@
                     "*.gspublishing.com",
                     "*.claritymoney.com"
                 ]
+            },
+            {
+                "name": "nintendo",
+                "urls": []
             },
             {
                 "name": "rubygems",
@@ -1846,6 +1849,20 @@
                 ]
             },
             {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr",
+                    "www.amazon.com.mx",
+                    "www.amazon.es",
+                    "www.amazon.in",
+                    "www.amazon.ca"
+                ]
+            },
+            {
                 "name": "trint",
                 "urls": [
                     "graphql2.trint.com",
@@ -1875,20 +1892,6 @@
                 "urls": []
             },
             {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr",
-                    "www.amazon.com.mx",
-                    "www.amazon.es",
-                    "www.amazon.in",
-                    "www.amazon.ca"
-                ]
-            },
-            {
                 "name": "ibb-openssl",
                 "urls": []
             },
@@ -1896,6 +1899,16 @@
                 "name": "ozon",
                 "urls": [
                     "www.ozon.ru"
+                ]
+            },
+            {
+                "name": "cs_money",
+                "urls": [
+                    "cs.money",
+                    "new.cs.money",
+                    "support.cs.money",
+                    "wiki.cs.money",
+                    "3d.cs.money"
                 ]
             },
             {
@@ -2017,16 +2030,6 @@
             {
                 "name": "monero",
                 "urls": []
-            },
-            {
-                "name": "cs_money",
-                "urls": [
-                    "cs.money",
-                    "new.cs.money",
-                    "support.cs.money",
-                    "wiki.cs.money",
-                    "3d.cs.money"
-                ]
             },
             {
                 "name": "wellsfargo",
@@ -2343,6 +2346,14 @@
                 ]
             },
             {
+                "name": "sixt",
+                "urls": [
+                    "www.sixt.de",
+                    "www.sixt.fr",
+                    "www.sixt.com"
+                ]
+            },
+            {
                 "name": "ibb-perl",
                 "urls": []
             },
@@ -2383,14 +2394,6 @@
                 ]
             },
             {
-                "name": "sixt",
-                "urls": [
-                    "www.sixt.de",
-                    "www.sixt.fr",
-                    "www.sixt.com"
-                ]
-            },
-            {
                 "name": "ibb-apache",
                 "urls": []
             },
@@ -2425,6 +2428,12 @@
                 ]
             },
             {
+                "name": "iovlabs",
+                "urls": [
+                    "https://bounty-node.rsk.co"
+                ]
+            },
+            {
                 "name": "hcl_software",
                 "urls": []
             },
@@ -2454,12 +2463,6 @@
                     "https://edoverflow.com/",
                     "https://bugbountyguide.com/",
                     "https://wewriteyour.report/"
-                ]
-            },
-            {
-                "name": "iovlabs",
-                "urls": [
-                    "https://bounty-node.rsk.co"
                 ]
             },
             {
@@ -2532,6 +2535,10 @@
                 "urls": [
                     "*.worklytics.co"
                 ]
+            },
+            {
+                "name": "coingaming",
+                "urls": []
             },
             {
                 "name": "wordpoints",
@@ -2624,6 +2631,10 @@
                 "urls": []
             },
             {
+                "name": "agoric",
+                "urls": []
+            },
+            {
                 "name": "googleapi",
                 "urls": []
             },
@@ -2648,10 +2659,6 @@
                 ]
             },
             {
-                "name": "coingaming",
-                "urls": []
-            },
-            {
                 "name": "rebellion-defense",
                 "urls": [
                     "*.rebelliondefence.com",
@@ -2660,6 +2667,10 @@
                     "*.mooch.rip",
                     "www.rebelliondefense.com"
                 ]
+            },
+            {
+                "name": "solana-bbp",
+                "urls": []
             },
             {
                 "name": "ibb-nginx",
@@ -2677,27 +2688,12 @@
                 "urls": []
             },
             {
-                "name": "agoric",
-                "urls": []
-            },
-            {
                 "name": "mailtime_technology_inc",
                 "urls": []
             },
             {
                 "name": "oasis_protocol_foundation",
-                "urls": [
-                    "github.com/oasislabs/oasis-core",
-                    "github.com/oasislabs/oasis-runtime",
-                    "github.com/oasislabs/oasis-rs",
-                    "github.com/oasislabs/oasis.js",
-                    "github.com/oasislabs/oasis-cli",
-                    "github.com/oasislabs/deoxysii",
-                    "github.com/oasislabs/deoxysii-rust",
-                    "github.com/oasislabs/ed25519",
-                    "github.com/oasislabs/bsaes.js",
-                    "*.testnet.oasiscloud.io"
-                ]
+                "urls": []
             },
             {
                 "name": "finra",
@@ -2705,10 +2701,6 @@
                     "*.finra.org",
                     "https://ews.qa.finra.org/*"
                 ]
-            },
-            {
-                "name": "solana-bbp",
-                "urls": []
             },
             {
                 "name": "aspen",
@@ -2970,13 +2962,14 @@
                 "name": "bugpoc",
                 "urls": [
                     "*.bugpoc.com",
-                    "*.bugpoc.ninja"
+                    "*.bugpoc.ninja",
+                    "social.buggywebsite.com"
                 ]
             }
         ],
         "metaData": {
             "totalPrograms": 316,
-            "totalUrls": 1491
+            "totalUrls": 1485
         }
     }
 }
