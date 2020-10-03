@@ -1132,6 +1132,14 @@
                 ]
             },
             {
+                "name": "line",
+                "urls": [
+                    "*.line.me",
+                    "*.line-apps.com",
+                    "*.line.naver.jp"
+                ]
+            },
+            {
                 "name": "playstation",
                 "urls": [
                     "*.playstation.net",
@@ -1157,14 +1165,6 @@
                 ]
             },
             {
-                "name": "line",
-                "urls": [
-                    "*.line.me",
-                    "*.line-apps.com",
-                    "*.line.naver.jp"
-                ]
-            },
-            {
                 "name": "livestream",
                 "urls": [
                     "*.livestream.com",
@@ -1183,6 +1183,27 @@
                     "buyer-prod.postmates.com",
                     "about.postmates.com",
                     "support.postmates.com"
+                ]
+            },
+            {
+                "name": "mediamarktsaturn",
+                "urls": [
+                    "www.mediamarkt.de",
+                    "www.saturn.de",
+                    "www.saturn.at",
+                    "www.mediamarkt.at",
+                    "www.mediamarkt.com.tr",
+                    "www.mediamarkt.be",
+                    "www.mediamarkt.es",
+                    "www.mediamarkt.gr",
+                    "www.mediamarkt.pl",
+                    "www.mediamarkt.nl",
+                    "www.mediamarkt.ch",
+                    "www.mediaworld.it",
+                    "www.mediamarkt.se",
+                    "www.mediamarkt.hu",
+                    "www.mediamarkt.pt",
+                    "www.saturn.lu"
                 ]
             },
             {
@@ -1211,27 +1232,6 @@
                     "gold.goodrx.com",
                     "heydoctor.goodrx.com",
                     "api.heydoctor.com"
-                ]
-            },
-            {
-                "name": "mediamarktsaturn",
-                "urls": [
-                    "www.mediamarkt.de",
-                    "www.saturn.de",
-                    "www.saturn.at",
-                    "www.mediamarkt.at",
-                    "www.mediamarkt.com.tr",
-                    "www.mediamarkt.be",
-                    "www.mediamarkt.es",
-                    "www.mediamarkt.gr",
-                    "www.mediamarkt.pl",
-                    "www.mediamarkt.nl",
-                    "www.mediamarkt.ch",
-                    "www.mediaworld.it",
-                    "www.mediamarkt.se",
-                    "www.mediamarkt.hu",
-                    "www.mediamarkt.pt",
-                    "www.saturn.lu"
                 ]
             },
             {
@@ -1660,12 +1660,6 @@
                 ]
             },
             {
-                "name": "smule",
-                "urls": [
-                    "*.smule.com"
-                ]
-            },
-            {
                 "name": "goldmansachs",
                 "urls": [
                     "*.goldmansachs.com",
@@ -1688,6 +1682,12 @@
                     "www.rocaton.com",
                     "*.gspublishing.com",
                     "*.claritymoney.com"
+                ]
+            },
+            {
+                "name": "smule",
+                "urls": [
+                    "*.smule.com"
                 ]
             },
             {
@@ -1829,16 +1829,16 @@
                 ]
             },
             {
-                "name": "gocd",
-                "urls": []
-            },
-            {
                 "name": "portswigger",
                 "urls": [
                     "portswigger.net",
                     "forum.portswigger.net",
                     "*.web-security-academy.net"
                 ]
+            },
+            {
+                "name": "gocd",
+                "urls": []
             },
             {
                 "name": "smartsheet",
@@ -1859,7 +1859,8 @@
                     "www.amazon.com.mx",
                     "www.amazon.es",
                     "www.amazon.in",
-                    "www.amazon.ca"
+                    "www.amazon.ca",
+                    "www.amazon.com.br"
                 ]
             },
             {
@@ -2028,10 +2029,6 @@
                 "urls": []
             },
             {
-                "name": "monero",
-                "urls": []
-            },
-            {
                 "name": "wellsfargo",
                 "urls": [
                     "*.wellsfargo.com",
@@ -2041,6 +2038,10 @@
                     "*.wystar.com",
                     "*.advisor-connection.com"
                 ]
+            },
+            {
+                "name": "monero",
+                "urls": []
             },
             {
                 "name": "bitwarden",
@@ -2969,7 +2970,7 @@
         ],
         "metaData": {
             "totalPrograms": 316,
-            "totalUrls": 1485
+            "totalUrls": 1486
         }
     }
 }
