@@ -1980,8 +1980,7 @@
                 "urls": [
                     "www.figma.com",
                     "api.figma.com",
-                    "help.figma.com",
-                    "https://www.designsystems.com/"
+                    "help.figma.com"
                 ]
             },
             {
@@ -2970,7 +2969,7 @@
         ],
         "metaData": {
             "totalPrograms": 316,
-            "totalUrls": 1486
+            "totalUrls": 1485
         }
     }
 }
