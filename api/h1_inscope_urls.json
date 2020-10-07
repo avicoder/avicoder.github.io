@@ -1324,6 +1324,28 @@
                 "urls": []
             },
             {
+                "name": "visma",
+                "urls": [
+                    "eaccounting.stage.vismaonline.com",
+                    "eaccountingprinting.stage.vismaonline.com",
+                    "connect.identity.stagaws.visma.com",
+                    "accountsettings.connect.identity.stagaws.visma.com",
+                    "api.home.stag.visma.com",
+                    "app.workbox.dk",
+                    "authz.workbox.dk",
+                    "api.workbox.dk",
+                    "myservices.stage.vismaonline.com",
+                    "admin.stage.vismaonline.com",
+                    "identity.stage.vismaonline.com",
+                    "http://myservices-api.stage.vismaonline.com/",
+                    "ai-testing.maventa.com",
+                    "testing.maventa.com",
+                    "ax-stage.maventa.com",
+                    "autointerface.stag.visma.net",
+                    "autointerface-embeddable-stage.maventa.com"
+                ]
+            },
+            {
                 "name": "upserve",
                 "urls": [
                     "app.upserve.com",
@@ -1344,28 +1366,6 @@
                     "https://645892349820.vulnerbug.com",
                     "teamhelp.upserve.com",
                     "*.upserve.com"
-                ]
-            },
-            {
-                "name": "visma",
-                "urls": [
-                    "eaccounting.stage.vismaonline.com",
-                    "eaccountingprinting.stage.vismaonline.com",
-                    "connect.identity.stagaws.visma.com",
-                    "accountsettings.connect.identity.stagaws.visma.com",
-                    "api.home.stag.visma.com",
-                    "app.workbox.dk",
-                    "authz.workbox.dk",
-                    "api.workbox.dk",
-                    "myservices.stage.vismaonline.com",
-                    "admin.stage.vismaonline.com",
-                    "identity.stage.vismaonline.com",
-                    "http://myservices-api.stage.vismaonline.com/",
-                    "ai-testing.maventa.com",
-                    "testing.maventa.com",
-                    "ax-stage.maventa.com",
-                    "autointerface.stag.visma.net",
-                    "autointerface-embeddable-stage.maventa.com"
                 ]
             },
             {
@@ -1695,18 +1695,18 @@
                 "urls": []
             },
             {
-                "name": "rubygems",
-                "urls": [
-                    "rubygems.org"
-                ]
-            },
-            {
                 "name": "magisto",
                 "urls": [
                     "magisto.com,www.magisto.com",
                     "*.magisto.com",
                     "staging.magisto.com",
                     "applause1.magisto.com"
+                ]
+            },
+            {
+                "name": "rubygems",
+                "urls": [
+                    "rubygems.org"
                 ]
             },
             {
@@ -1841,14 +1841,6 @@
                 "urls": []
             },
             {
-                "name": "smartsheet",
-                "urls": [
-                    "app.smartsheet.com",
-                    "api.smartsheet.com/2.0",
-                    "admin.smartsheet.com"
-                ]
-            },
-            {
                 "name": "amazonvrp",
                 "urls": [
                     "www.amazon.com",
@@ -1861,6 +1853,14 @@
                     "www.amazon.in",
                     "www.amazon.ca",
                     "www.amazon.com.br"
+                ]
+            },
+            {
+                "name": "smartsheet",
+                "urls": [
+                    "app.smartsheet.com",
+                    "api.smartsheet.com/2.0",
+                    "admin.smartsheet.com"
                 ]
             },
             {
@@ -1897,6 +1897,13 @@
             {
                 "name": "jnj_mobile",
                 "urls": []
+            },
+            {
+                "name": "figma",
+                "urls": [
+                    "www.figma.com",
+                    "api.figma.com"
+                ]
             },
             {
                 "name": "ibb-openssl",
@@ -1949,13 +1956,6 @@
                 "urls": [
                     "*.engelvoelkers.com",
                     "authz.engelvoelkers.com/"
-                ]
-            },
-            {
-                "name": "figma",
-                "urls": [
-                    "www.figma.com",
-                    "api.figma.com"
                 ]
             },
             {
@@ -2056,6 +2056,17 @@
                 "urls": []
             },
             {
+                "name": "keybank",
+                "urls": [
+                    "*.key.com",
+                    "*.keybank.com",
+                    "*.bolstr.com",
+                    "*.hellowallet.com",
+                    "*.laurelroad.com",
+                    "*.cainbrothers.com"
+                ]
+            },
+            {
                 "name": "mobisystems_ltd",
                 "urls": []
             },
@@ -2066,17 +2077,6 @@
             {
                 "name": "notepad-plus-plus",
                 "urls": []
-            },
-            {
-                "name": "keybank",
-                "urls": [
-                    "*.key.com",
-                    "*.keybank.com",
-                    "*.bolstr.com",
-                    "*.hellowallet.com",
-                    "*.laurelroad.com",
-                    "*.cainbrothers.com"
-                ]
             },
             {
                 "name": "trycourier",
@@ -2301,12 +2301,6 @@
                 "urls": []
             },
             {
-                "name": "codeigniter",
-                "urls": [
-                    "www.codeigniter.com"
-                ]
-            },
-            {
                 "name": "forescout_technologies",
                 "urls": [
                     "datapod-1-ingest.forescoutcloud.net",
@@ -2335,6 +2329,12 @@
                     "datapod-1-100-druid-query.production.forescoutcloud.net",
                     "https://forescout.service-now.com/",
                     "datapod-2-druid-ingest.production.forescoutcloud.net"
+                ]
+            },
+            {
+                "name": "codeigniter",
+                "urls": [
+                    "www.codeigniter.com"
                 ]
             },
             {
@@ -2618,6 +2618,20 @@
                 "urls": []
             },
             {
+                "name": "rebellion-defense",
+                "urls": [
+                    "*.rebelliondefence.com",
+                    "*.rebelliondefense.com",
+                    "*.moochirp.io",
+                    "*.mooch.rip",
+                    "www.rebelliondefense.com"
+                ]
+            },
+            {
+                "name": "solana-bbp",
+                "urls": []
+            },
+            {
                 "name": "nokogiri",
                 "urls": []
             },
@@ -2656,20 +2670,6 @@
                     "altogroup.investnextdemo.co",
                     "app.investnextdemo.co"
                 ]
-            },
-            {
-                "name": "rebellion-defense",
-                "urls": [
-                    "*.rebelliondefence.com",
-                    "*.rebelliondefense.com",
-                    "*.moochirp.io",
-                    "*.mooch.rip",
-                    "www.rebelliondefense.com"
-                ]
-            },
-            {
-                "name": "solana-bbp",
-                "urls": []
             },
             {
                 "name": "ibb-nginx",
@@ -2961,14 +2961,13 @@
                 "name": "bugpoc",
                 "urls": [
                     "*.bugpoc.com",
-                    "*.bugpoc.ninja",
-                    "social.buggywebsite.com"
+                    "*.bugpoc.ninja"
                 ]
             }
         ],
         "metaData": {
             "totalPrograms": 316,
-            "totalUrls": 1484
+            "totalUrls": 1483
         }
     }
 }
