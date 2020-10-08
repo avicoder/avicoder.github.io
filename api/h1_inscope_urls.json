@@ -309,6 +309,40 @@
                 ]
             },
             {
+                "name": "mtn_group",
+                "urls": [
+                    "mtn.com",
+                    "Mtn.co.za",
+                    "Mtn.com.af",
+                    "Mtn.bj",
+                    "Mtn.cm",
+                    "Mtncameroon.net",
+                    "Mtncongo.net",
+                    "Mtn.ci",
+                    "Mtn.com.gh",
+                    "Areeba.com.gn",
+                    "Irancell.ir",
+                    "Lonestarcell.com",
+                    "Mtnonline.com",
+                    "Mtn.co.rw",
+                    "Mtn.sd",
+                    "Mtn.co.sz",
+                    "Mtn.co.ug",
+                    "Mtn.com.ye",
+                    "Mtnzambia.co.zm",
+                    "Mtnbusiness.com",
+                    "Mtnbusiness.com.ng",
+                    "Mtnblog.co.za",
+                    "Mtnfootball.com",
+                    "Mtnplay.co.za",
+                    "Mtnzakhele.co.za",
+                    "mtnselfcare.co.zm",
+                    "mtnplay.co.zm",
+                    "mtngbissau.com",
+                    "www.mtn.zm"
+                ]
+            },
+            {
                 "name": "valve",
                 "urls": [
                     "www.dota2.com",
@@ -380,40 +414,6 @@
                 ]
             },
             {
-                "name": "mtn_group",
-                "urls": [
-                    "mtn.com",
-                    "Mtn.co.za",
-                    "Mtn.com.af",
-                    "Mtn.bj",
-                    "Mtn.cm",
-                    "Mtncameroon.net",
-                    "Mtncongo.net",
-                    "Mtn.ci",
-                    "Mtn.com.gh",
-                    "Areeba.com.gn",
-                    "Irancell.ir",
-                    "Lonestarcell.com",
-                    "Mtnonline.com",
-                    "Mtn.co.rw",
-                    "Mtn.sd",
-                    "Mtn.co.sz",
-                    "Mtn.co.ug",
-                    "Mtn.com.ye",
-                    "Mtnzambia.co.zm",
-                    "Mtnbusiness.com",
-                    "Mtnbusiness.com.ng",
-                    "Mtnblog.co.za",
-                    "Mtnfootball.com",
-                    "Mtnplay.co.za",
-                    "Mtnzakhele.co.za",
-                    "mtnselfcare.co.zm",
-                    "mtnplay.co.zm",
-                    "mtngbissau.com",
-                    "www.mtn.zm"
-                ]
-            },
-            {
                 "name": "priceline",
                 "urls": [
                     "www.priceline.com",
@@ -462,20 +462,6 @@
                 ]
             },
             {
-                "name": "security",
-                "urls": [
-                    "https://hackerone.com",
-                    "https://api.hackerone.com",
-                    "https://hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com/",
-                    "*.vpn.hackerone.net",
-                    "https://www.hackerone.com",
-                    "https://errors.hackerone.net",
-                    "https://*.hackerone-ext-content.com",
-                    "https://*.hackerone-user-content.com/",
-                    "https://ctf.hacker101.com"
-                ]
-            },
-            {
                 "name": "grab",
                 "urls": [
                     "*.myteksi.com",
@@ -494,6 +480,20 @@
                     "*.grab.co",
                     "grab.careers",
                     "mos.grabpay.com"
+                ]
+            },
+            {
+                "name": "security",
+                "urls": [
+                    "https://hackerone.com",
+                    "https://api.hackerone.com",
+                    "https://hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com/",
+                    "*.vpn.hackerone.net",
+                    "https://www.hackerone.com",
+                    "https://errors.hackerone.net",
+                    "https://*.hackerone-ext-content.com",
+                    "https://*.hackerone-user-content.com/",
+                    "https://ctf.hacker101.com"
                 ]
             },
             {
@@ -626,6 +626,10 @@
                 "urls": []
             },
             {
+                "name": "sg-vdp",
+                "urls": []
+            },
+            {
                 "name": "yelp",
                 "urls": [
                     "www.yelp.com",
@@ -651,10 +655,6 @@
                     "https://docs.mapbox.com/api/",
                     "api.mapbox.com"
                 ]
-            },
-            {
-                "name": "sg-vdp",
-                "urls": []
             },
             {
                 "name": "infogram",
@@ -697,6 +697,54 @@
                 "name": "concrete5",
                 "urls": [
                     "concrete5.marketplace.addon"
+                ]
+            },
+            {
+                "name": "logitech",
+                "urls": [
+                    "circle.logi.com",
+                    "id.logi.com",
+                    "accounts.logi.com",
+                    "*.streamlabs.com",
+                    "sync.logitech.com",
+                    "*.teambeyond.net",
+                    "*.challonge.com",
+                    "*.playmaster.gg",
+                    "partner.logitech.com",
+                    "*.logitech.com",
+                    "www.logitech.com",
+                    "community.logitech.com",
+                    "*.logitechg.com",
+                    "www.logitech-partner.com",
+                    "maintenance.logitech.com",
+                    "*.jaybirdsport.com",
+                    "*.ultimateears.com",
+                    "*.astrogaming.com",
+                    "*.ultimateearsuniversity.com",
+                    "*.mysqueezebox.com",
+                    "*.logitechmusic.com",
+                    "*.logitechauthorization.com",
+                    "*.logitech-channel-marketing.com",
+                    "buy.logitech.com",
+                    "outage.logitech.com",
+                    "outagehistory.logitech.com",
+                    "*.vclogitech.com",
+                    "external.logitech.com",
+                    "logilife.logitech.com",
+                    "store.logitech.com.cn",
+                    "logitech.zendesk.com",
+                    "*.harmonyremote.com",
+                    "*.slimdevices.com",
+                    "support.logi.com",
+                    "feedback.logitech.com",
+                    "*.uesmartradio.com",
+                    "www.logitechstore.com.br",
+                    "jira.logitech.com",
+                    "www.logitech.com/my-account",
+                    "*.myharmony.com",
+                    "alert.logitech.com",
+                    "*.lukwerks.com",
+                    "*.cognitiveperformer.com"
                 ]
             },
             {
@@ -1837,10 +1885,6 @@
                 ]
             },
             {
-                "name": "gocd",
-                "urls": []
-            },
-            {
                 "name": "amazonvrp",
                 "urls": [
                     "www.amazon.com",
@@ -1856,6 +1900,10 @@
                 ]
             },
             {
+                "name": "gocd",
+                "urls": []
+            },
+            {
                 "name": "smartsheet",
                 "urls": [
                     "app.smartsheet.com",
@@ -1867,6 +1915,13 @@
                 "name": "ozon",
                 "urls": [
                     "www.ozon.ru"
+                ]
+            },
+            {
+                "name": "figma",
+                "urls": [
+                    "www.figma.com",
+                    "api.figma.com"
                 ]
             },
             {
@@ -1899,13 +1954,6 @@
                 "urls": []
             },
             {
-                "name": "figma",
-                "urls": [
-                    "www.figma.com",
-                    "api.figma.com"
-                ]
-            },
-            {
                 "name": "ibb-openssl",
                 "urls": []
             },
@@ -1913,7 +1961,6 @@
                 "name": "cs_money",
                 "urls": [
                     "cs.money",
-                    "new.cs.money",
                     "support.cs.money",
                     "wiki.cs.money",
                     "3d.cs.money"
@@ -1952,6 +1999,13 @@
                 ]
             },
             {
+                "name": "chainlink",
+                "urls": [
+                    "https://chain.link/",
+                    "*.smartcontract.com"
+                ]
+            },
+            {
                 "name": "engel_volkers",
                 "urls": [
                     "*.engelvoelkers.com",
@@ -1961,13 +2015,6 @@
             {
                 "name": "ibb-data",
                 "urls": []
-            },
-            {
-                "name": "chainlink",
-                "urls": [
-                    "https://chain.link/",
-                    "*.smartcontract.com"
-                ]
             },
             {
                 "name": "creditkarma",
@@ -1996,6 +2043,8 @@
                 "urls": [
                     "https://coda.io/*",
                     "https://coda.io/signup/email",
+                    "codahosted.io",
+                    "codacontent.io",
                     "https://airflow-prod.coda.io/*",
                     "https://data.coda.io/*",
                     "https://head.coda.io/*",
@@ -2023,10 +2072,6 @@
                 "urls": []
             },
             {
-                "name": "revive_adserver",
-                "urls": []
-            },
-            {
                 "name": "wellsfargo",
                 "urls": [
                     "*.wellsfargo.com",
@@ -2036,6 +2081,10 @@
                     "*.wystar.com",
                     "*.advisor-connection.com"
                 ]
+            },
+            {
+                "name": "revive_adserver",
+                "urls": []
             },
             {
                 "name": "monero",
@@ -2052,6 +2101,10 @@
                 ]
             },
             {
+                "name": "mobisystems_ltd",
+                "urls": []
+            },
+            {
                 "name": "ruby",
                 "urls": []
             },
@@ -2065,10 +2118,6 @@
                     "*.laurelroad.com",
                     "*.cainbrothers.com"
                 ]
-            },
-            {
-                "name": "mobisystems_ltd",
-                "urls": []
             },
             {
                 "name": "xilinx",
@@ -2155,7 +2204,8 @@
                     "https://www.superdrug.com/blog",
                     "https://www.theperfumeshop.com/blog",
                     "*.superdrug.com",
-                    "*.theperfumeshop.com"
+                    "*.theperfumeshop.com",
+                    "*.parknshop.com"
                 ]
             },
             {
@@ -2332,9 +2382,26 @@
                 ]
             },
             {
+                "name": "sixt",
+                "urls": [
+                    "www.sixt.de",
+                    "www.sixt.fr",
+                    "www.sixt.com"
+                ]
+            },
+            {
                 "name": "codeigniter",
                 "urls": [
                     "www.codeigniter.com"
+                ]
+            },
+            {
+                "name": "kubernetes",
+                "urls": [
+                    "https://prow.k8s.io",
+                    "https://kubernetes.io",
+                    "k8s.io",
+                    "kubernetes-csi.github.io"
                 ]
             },
             {
@@ -2342,14 +2409,6 @@
                 "urls": [
                     "app.polymail.io",
                     "welovepg.polymail.io"
-                ]
-            },
-            {
-                "name": "sixt",
-                "urls": [
-                    "www.sixt.de",
-                    "www.sixt.fr",
-                    "www.sixt.com"
                 ]
             },
             {
@@ -2381,15 +2440,6 @@
                 "name": "allegro",
                 "urls": [
                     "*.allegro.pl.allegrosandbox.pl"
-                ]
-            },
-            {
-                "name": "kubernetes",
-                "urls": [
-                    "https://prow.k8s.io",
-                    "https://kubernetes.io",
-                    "k8s.io",
-                    "kubernetes-csi.github.io"
                 ]
             },
             {
@@ -2966,8 +3016,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 316,
-            "totalUrls": 1483
+            "totalPrograms": 317,
+            "totalUrls": 1528
         }
     }
 }
