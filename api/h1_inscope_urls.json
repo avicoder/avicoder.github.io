@@ -282,11 +282,11 @@
                 "urls": [
                     "*.qiwi.com",
                     "*.qiwi.me",
-                    "*.sovest.ru",
                     "*.rapida.ru",
                     "*.contact-sys.com",
                     "*.rocketbank.ru",
-                    "*.flocktory.com"
+                    "*.flocktory.com",
+                    "*.sovest.ru"
                 ]
             },
             {
@@ -657,34 +657,6 @@
                 ]
             },
             {
-                "name": "infogram",
-                "urls": [
-                    "infogram.com"
-                ]
-            },
-            {
-                "name": "localtapiola",
-                "urls": [
-                    "www.lahitapiola.fi",
-                    "www.tapiola.fi",
-                    "verkkopalvelu.tapiola.fi",
-                    "yrityspalvelu.tapiola.fi",
-                    "secure.lahitapiola.fi",
-                    "myynti.lahitapiolarahoitus.fi",
-                    "ext-gw.lahitapiola.fi",
-                    "motorfnol.lahitapiola.fi",
-                    "lisasijoitus.lahitapiola.fi",
-                    "verovelvollisuustiedot.lahitapiola.fi",
-                    "sijoitusvakuutus.lahitapiola.fi",
-                    "asiointi.lahitapiola.fi",
-                    "api.lahitapiola.fi"
-                ]
-            },
-            {
-                "name": "ibb-php",
-                "urls": []
-            },
-            {
                 "name": "logitech",
                 "urls": [
                     "circle.logi.com",
@@ -730,6 +702,30 @@
                     "alert.logitech.com",
                     "*.lukwerks.com",
                     "*.cognitiveperformer.com"
+                ]
+            },
+            {
+                "name": "infogram",
+                "urls": [
+                    "infogram.com"
+                ]
+            },
+            {
+                "name": "localtapiola",
+                "urls": [
+                    "www.lahitapiola.fi",
+                    "www.tapiola.fi",
+                    "verkkopalvelu.tapiola.fi",
+                    "yrityspalvelu.tapiola.fi",
+                    "secure.lahitapiola.fi",
+                    "myynti.lahitapiolarahoitus.fi",
+                    "ext-gw.lahitapiola.fi",
+                    "motorfnol.lahitapiola.fi",
+                    "lisasijoitus.lahitapiola.fi",
+                    "verovelvollisuustiedot.lahitapiola.fi",
+                    "sijoitusvakuutus.lahitapiola.fi",
+                    "asiointi.lahitapiola.fi",
+                    "api.lahitapiola.fi"
                 ]
             },
             {
@@ -979,6 +975,10 @@
                 ]
             },
             {
+                "name": "imgur",
+                "urls": []
+            },
+            {
                 "name": "files",
                 "urls": [
                     "app.files.com",
@@ -998,10 +998,6 @@
                     "https://status.chaturbate.com",
                     "https://secure.chaturbate.com"
                 ]
-            },
-            {
-                "name": "imgur",
-                "urls": []
             },
             {
                 "name": "ratelimited",
@@ -1156,17 +1152,17 @@
                 ]
             },
             {
-                "name": "coursera",
-                "urls": [
-                    "www.coursera.org"
-                ]
-            },
-            {
                 "name": "line",
                 "urls": [
                     "*.line.me",
                     "*.line-apps.com",
                     "*.line.naver.jp"
+                ]
+            },
+            {
+                "name": "coursera",
+                "urls": [
+                    "www.coursera.org"
                 ]
             },
             {
@@ -1243,19 +1239,19 @@
                 ]
             },
             {
+                "name": "moneybird",
+                "urls": [
+                    "https://moneybird.com",
+                    "https://moneybirdstorage.com"
+                ]
+            },
+            {
                 "name": "goodrx",
                 "urls": [
                     "www.goodrx.com",
                     "gold.goodrx.com",
                     "heydoctor.goodrx.com",
                     "api.heydoctor.com"
-                ]
-            },
-            {
-                "name": "moneybird",
-                "urls": [
-                    "https://moneybird.com",
-                    "https://moneybirdstorage.com"
                 ]
             },
             {
@@ -1433,10 +1429,6 @@
                 ]
             },
             {
-                "name": "rocket_chat",
-                "urls": []
-            },
-            {
                 "name": "capital-one",
                 "urls": [
                     "*.capitalone.com",
@@ -1456,6 +1448,10 @@
                     "*.theunioncard.com",
                     "*.teamstercardnow.com"
                 ]
+            },
+            {
+                "name": "rocket_chat",
+                "urls": []
             },
             {
                 "name": "palo_alto_software",
@@ -1484,10 +1480,6 @@
                 ]
             },
             {
-                "name": "owox",
-                "urls": []
-            },
-            {
                 "name": "clario",
                 "urls": [
                     "https://account.mackeeper.com",
@@ -1513,6 +1505,10 @@
                     "*.kromtech.com",
                     "*.mackeeper.com"
                 ]
+            },
+            {
+                "name": "owox",
+                "urls": []
             },
             {
                 "name": "innogames",
@@ -1733,13 +1729,17 @@
                 ]
             },
             {
+                "name": "nintendo",
+                "urls": []
+            },
+            {
                 "name": "smule",
                 "urls": [
                     "*.smule.com"
                 ]
             },
             {
-                "name": "nintendo",
+                "name": "mainwp",
                 "urls": []
             },
             {
@@ -1756,10 +1756,6 @@
                 "urls": [
                     "rubygems.org"
                 ]
-            },
-            {
-                "name": "mainwp",
-                "urls": []
             },
             {
                 "name": "pixiv",
@@ -1839,6 +1835,21 @@
                 ]
             },
             {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr",
+                    "www.amazon.com.mx",
+                    "www.amazon.es",
+                    "www.amazon.in",
+                    "www.amazon.ca",
+                    "www.amazon.com.br"
+                ]
+            },
+            {
                 "name": "duckduckgo",
                 "urls": [
                     "*.duckduckgo.com"
@@ -1871,21 +1882,6 @@
                 ]
             },
             {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr",
-                    "www.amazon.com.mx",
-                    "www.amazon.es",
-                    "www.amazon.in",
-                    "www.amazon.ca",
-                    "www.amazon.com.br"
-                ]
-            },
-            {
                 "name": "portswigger",
                 "urls": [
                     "portswigger.net",
@@ -1897,6 +1893,13 @@
                 "name": "lemlist",
                 "urls": [
                     "app.lemlist.com"
+                ]
+            },
+            {
+                "name": "figma",
+                "urls": [
+                    "www.figma.com",
+                    "api.figma.com"
                 ]
             },
             {
@@ -1930,13 +1933,6 @@
                 "name": "ozon",
                 "urls": [
                     "www.ozon.ru"
-                ]
-            },
-            {
-                "name": "figma",
-                "urls": [
-                    "www.figma.com",
-                    "api.figma.com"
                 ]
             },
             {
@@ -2030,26 +2026,6 @@
                 ]
             },
             {
-                "name": "wellsfargo",
-                "urls": [
-                    "*.wellsfargo.com",
-                    "*.wf.com",
-                    "*.wellsfargoadvisors.com",
-                    "*.mworld.com",
-                    "*.wystar.com",
-                    "*.advisor-connection.com"
-                ]
-            },
-            {
-                "name": "drive_net_inc",
-                "urls": [
-                    "www.drive2.ru",
-                    "api.drive2.ru",
-                    "*.d-cd.net",
-                    "*.drive2.ru"
-                ]
-            },
-            {
                 "name": "coda_bbp",
                 "urls": [
                     "https://coda.io/*",
@@ -2069,6 +2045,30 @@
                 ]
             },
             {
+                "name": "wellsfargo",
+                "urls": [
+                    "*.wellsfargo.com",
+                    "*.wf.com",
+                    "*.wellsfargoadvisors.com",
+                    "*.mworld.com",
+                    "*.wystar.com",
+                    "*.advisor-connection.com"
+                ]
+            },
+            {
+                "name": "monero",
+                "urls": []
+            },
+            {
+                "name": "drive_net_inc",
+                "urls": [
+                    "www.drive2.ru",
+                    "api.drive2.ru",
+                    "*.d-cd.net",
+                    "*.drive2.ru"
+                ]
+            },
+            {
                 "name": "stagingdoteverydotorg",
                 "urls": [
                     "staging.every.org"
@@ -2084,10 +2084,6 @@
             },
             {
                 "name": "revive_adserver",
-                "urls": []
-            },
-            {
-                "name": "monero",
                 "urls": []
             },
             {
@@ -3024,7 +3020,7 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 318,
+            "totalPrograms": 317,
             "totalUrls": 1531
         }
     }
