@@ -1676,6 +1676,31 @@
                 ]
             },
             {
+                "name": "goldmansachs",
+                "urls": [
+                    "*.goldmansachs.com",
+                    "*.gs.com",
+                    "*.goldman.com",
+                    "*.marcus.com",
+                    "*.honestdollar.com",
+                    "*.marcus.co.uk",
+                    "research.gs.com",
+                    "*.gsam.com",
+                    "*.gsselect.com",
+                    "*.gs-mosaic.qa.gs.com",
+                    "*.gs-mosaic.gs.com",
+                    "*.qaglobal-liquidity.gs.com",
+                    "*.global-liquidity.gs.com",
+                    "developer.gs.com",
+                    "goldmansachsindices.com",
+                    "marquee.gs.com",
+                    "*.ayco.com",
+                    "www.rocaton.com",
+                    "*.gspublishing.com",
+                    "*.claritymoney.com"
+                ]
+            },
+            {
                 "name": "blockchain",
                 "urls": [
                     "*.blockchain.com",
@@ -1704,31 +1729,6 @@
                 ]
             },
             {
-                "name": "goldmansachs",
-                "urls": [
-                    "*.goldmansachs.com",
-                    "*.gs.com",
-                    "*.goldman.com",
-                    "*.marcus.com",
-                    "*.honestdollar.com",
-                    "*.marcus.co.uk",
-                    "research.gs.com",
-                    "*.gsam.com",
-                    "*.gsselect.com",
-                    "*.gs-mosaic.qa.gs.com",
-                    "*.gs-mosaic.gs.com",
-                    "*.qaglobal-liquidity.gs.com",
-                    "*.global-liquidity.gs.com",
-                    "developer.gs.com",
-                    "goldmansachsindices.com",
-                    "marquee.gs.com",
-                    "*.ayco.com",
-                    "www.rocaton.com",
-                    "*.gspublishing.com",
-                    "*.claritymoney.com"
-                ]
-            },
-            {
                 "name": "nintendo",
                 "urls": []
             },
@@ -1743,18 +1743,18 @@
                 "urls": []
             },
             {
+                "name": "rubygems",
+                "urls": [
+                    "rubygems.org"
+                ]
+            },
+            {
                 "name": "magisto",
                 "urls": [
                     "magisto.com,www.magisto.com",
                     "*.magisto.com",
                     "staging.magisto.com",
                     "applause1.magisto.com"
-                ]
-            },
-            {
-                "name": "rubygems",
-                "urls": [
-                    "rubygems.org"
                 ]
             },
             {
@@ -1936,6 +1936,10 @@
                 ]
             },
             {
+                "name": "ibb-openssl",
+                "urls": []
+            },
+            {
                 "name": "trint",
                 "urls": [
                     "graphql2.trint.com",
@@ -1948,10 +1952,6 @@
                     "media.trint.com",
                     "embed.trint.com"
                 ]
-            },
-            {
-                "name": "ibb-openssl",
-                "urls": []
             },
             {
                 "name": "engel_volkers",
@@ -2394,6 +2394,10 @@
                 ]
             },
             {
+                "name": "ibb-perl",
+                "urls": []
+            },
+            {
                 "name": "codeigniter",
                 "urls": [
                     "www.codeigniter.com"
@@ -2416,7 +2420,7 @@
                 ]
             },
             {
-                "name": "ibb-perl",
+                "name": "ibb-apache",
                 "urls": []
             },
             {
@@ -2445,10 +2449,6 @@
                 "urls": [
                     "*.allegro.pl.allegrosandbox.pl"
                 ]
-            },
-            {
-                "name": "ibb-apache",
-                "urls": []
             },
             {
                 "name": "filezilla",
