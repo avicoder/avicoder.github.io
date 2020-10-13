@@ -510,6 +510,10 @@
                 ]
             },
             {
+                "name": "informatica",
+                "urls": []
+            },
+            {
                 "name": "newrelic",
                 "urls": [
                     "*.newrelic.com",
@@ -539,10 +543,6 @@
                     "rpm.newrelic.com",
                     "one.newrelic.com"
                 ]
-            },
-            {
-                "name": "informatica",
-                "urls": []
             },
             {
                 "name": "open-xchange",
@@ -1739,14 +1739,14 @@
                 ]
             },
             {
-                "name": "mainwp",
-                "urls": []
-            },
-            {
                 "name": "rubygems",
                 "urls": [
                     "rubygems.org"
                 ]
+            },
+            {
+                "name": "mainwp",
+                "urls": []
             },
             {
                 "name": "magisto",
@@ -2079,6 +2079,19 @@
                 "urls": []
             },
             {
+                "name": "tiktok",
+                "urls": [
+                    "*.tiktok.com",
+                    "business.tiktok.com",
+                    "ads.tiktok.com",
+                    "tiktok.com",
+                    "careers.tiktok.com",
+                    "creatormarketplace.tiktok.com",
+                    "*.tiktokv.com",
+                    "developers.tiktok.com"
+                ]
+            },
+            {
                 "name": "cert",
                 "urls": []
             },
@@ -2113,6 +2126,16 @@
                     "*.hellowallet.com",
                     "*.laurelroad.com",
                     "*.cainbrothers.com"
+                ]
+            },
+            {
+                "name": "aiven_ltd",
+                "urls": [
+                    "www.aiven.io",
+                    "console.aiven.io",
+                    "api.aiven.io",
+                    "aivencloud.com",
+                    "help.aiven.io"
                 ]
             },
             {
@@ -2162,16 +2185,6 @@
                 "name": "status_im",
                 "urls": [
                     "https://status.im/"
-                ]
-            },
-            {
-                "name": "aiven_ltd",
-                "urls": [
-                    "www.aiven.io",
-                    "console.aiven.io",
-                    "api.aiven.io",
-                    "aivencloud.com",
-                    "help.aiven.io"
                 ]
             },
             {
@@ -2390,7 +2403,10 @@
                     "datapod-1-druid-ingest.production.forescoutcloud.net",
                     "datapod-1-100-druid-query.production.forescoutcloud.net",
                     "https://forescout.service-now.com/",
-                    "datapod-2-druid-ingest.production.forescoutcloud.net"
+                    "datapod-2-druid-ingest.production.forescoutcloud.net",
+                    "https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload",
+                    "https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling",
+                    "https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package"
                 ]
             },
             {
@@ -2622,6 +2638,17 @@
                 ]
             },
             {
+                "name": "enjin",
+                "urls": [
+                    "cloud.enjin.io,kovan.cloud.enjin.io",
+                    "beam.enjin.io",
+                    "enjinx.io,enjinx.cn,api.enjinx.io,api.enjinx.cn,*.api.enjinx.io,*.api.enjinx.cn",
+                    "enjin.com,*.enjin.com",
+                    "assets.enjin.io,cdn.enjin.io,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn",
+                    "kovan.faucet.enjin.io"
+                ]
+            },
+            {
                 "name": "monolith",
                 "urls": [
                     "api.production.tkn.zone",
@@ -2827,6 +2854,24 @@
                 "urls": []
             },
             {
+                "name": "citrix",
+                "urls": [
+                    "citrix.cloud.com",
+                    "www.cloud.com",
+                    "ap-s.cloud.com",
+                    "eu.cloud.com",
+                    "us.cloud.com",
+                    "*.citrixworkspacesapi.net",
+                    "onboarding.cloud.com",
+                    "onboarding-*.cloud.com",
+                    "accounts.cloud.com",
+                    "accounts-internal.cloud.com",
+                    "*.browser.cloud.com",
+                    "launch.cloud.com",
+                    "*developer.cloud.com"
+                ]
+            },
+            {
                 "name": "wordpress",
                 "urls": [
                     "*.wordpress.org",
@@ -3020,8 +3065,8 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 317,
-            "totalUrls": 1531
+            "totalPrograms": 320,
+            "totalUrls": 1561
         }
     }
 }
