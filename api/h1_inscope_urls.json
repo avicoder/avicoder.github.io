@@ -390,6 +390,14 @@
                 ]
             },
             {
+                "name": "glassdoor",
+                "urls": [
+                    "http://www.glassdoor.com/",
+                    "http://api.glassdoor.com",
+                    "https://help.glassdoor.com/"
+                ]
+            },
+            {
                 "name": "github",
                 "urls": [
                     "GitHub.com",
@@ -403,14 +411,6 @@
                     "jobs.github.com",
                     "semmle.net",
                     "semmle.com"
-                ]
-            },
-            {
-                "name": "glassdoor",
-                "urls": [
-                    "http://www.glassdoor.com/",
-                    "http://api.glassdoor.com",
-                    "https://help.glassdoor.com/"
                 ]
             },
             {
@@ -859,6 +859,13 @@
                 ]
             },
             {
+                "name": "stripo",
+                "urls": [
+                    "my.stripo.email",
+                    "stripo.email"
+                ]
+            },
+            {
                 "name": "xiaomi",
                 "urls": [
                     "*.mi.com",
@@ -866,13 +873,6 @@
                     "*.miui.com",
                     "*.xiaomiyoupin.com",
                     "*.miwifi.com"
-                ]
-            },
-            {
-                "name": "stripo",
-                "urls": [
-                    "my.stripo.email",
-                    "stripo.email"
                 ]
             },
             {
@@ -1056,6 +1056,15 @@
                 ]
             },
             {
+                "name": "tomtom",
+                "urls": [
+                    "*.tomtom.com",
+                    "api.tomtom.com",
+                    "*.tomtomgroup.com",
+                    "*.teleatlas.com"
+                ]
+            },
+            {
                 "name": "cloudflare",
                 "urls": []
             },
@@ -1065,15 +1074,6 @@
                     "3.basecamp.com",
                     "launchpad.37signals.com",
                     "*.hey.com"
-                ]
-            },
-            {
-                "name": "tomtom",
-                "urls": [
-                    "*.tomtom.com",
-                    "api.tomtom.com",
-                    "*.tomtomgroup.com",
-                    "*.teleatlas.com"
                 ]
             },
             {
@@ -1509,14 +1509,6 @@
                 "urls": []
             },
             {
-                "name": "robinhood",
-                "urls": [
-                    "robinhood.com",
-                    "api.robinhood.com",
-                    "nummus.robinhood.com"
-                ]
-            },
-            {
                 "name": "clario",
                 "urls": [
                     "https://account.mackeeper.com",
@@ -1541,6 +1533,14 @@
                     "https://yapi.clario.co",
                     "*.kromtech.com",
                     "*.mackeeper.com"
+                ]
+            },
+            {
+                "name": "robinhood",
+                "urls": [
+                    "robinhood.com",
+                    "api.robinhood.com",
+                    "nummus.robinhood.com"
                 ]
             },
             {
@@ -1738,6 +1738,10 @@
                 ]
             },
             {
+                "name": "nintendo",
+                "urls": []
+            },
+            {
                 "name": "blockchain",
                 "urls": [
                     "*.blockchain.com",
@@ -1764,10 +1768,6 @@
                     "ws.prod.blockchain.info",
                     "exchange.blockchain.com"
                 ]
-            },
-            {
-                "name": "nintendo",
-                "urls": []
             },
             {
                 "name": "smule",
@@ -1940,10 +1940,6 @@
                 ]
             },
             {
-                "name": "gocd",
-                "urls": []
-            },
-            {
                 "name": "pingidentity",
                 "urls": [
                     "https://ort-admin.pingone.com/*",
@@ -1952,6 +1948,16 @@
                     "https://apps-staging.pingone.com/*",
                     "https://ort-authenticator.pingone.com/*",
                     "https://ort-desktop.pingone.com/*"
+                ]
+            },
+            {
+                "name": "gocd",
+                "urls": []
+            },
+            {
+                "name": "ozon",
+                "urls": [
+                    "www.ozon.ru"
                 ]
             },
             {
@@ -1965,12 +1971,6 @@
             {
                 "name": "jnj_mobile",
                 "urls": []
-            },
-            {
-                "name": "ozon",
-                "urls": [
-                    "www.ozon.ru"
-                ]
             },
             {
                 "name": "ibb-openssl",
@@ -2157,14 +2157,6 @@
                 "urls": []
             },
             {
-                "name": "sixt",
-                "urls": [
-                    "www.sixt.de",
-                    "www.sixt.fr",
-                    "www.sixt.com"
-                ]
-            },
-            {
                 "name": "ruby",
                 "urls": []
             },
@@ -2187,6 +2179,14 @@
                     "api.aiven.io",
                     "aivencloud.com",
                     "help.aiven.io"
+                ]
+            },
+            {
+                "name": "sixt",
+                "urls": [
+                    "www.sixt.de",
+                    "www.sixt.fr",
+                    "www.sixt.com"
                 ]
             },
             {
@@ -2476,6 +2476,12 @@
                 ]
             },
             {
+                "name": "allegro",
+                "urls": [
+                    "*.allegro.pl.allegrosandbox.pl"
+                ]
+            },
+            {
                 "name": "kubernetes",
                 "urls": [
                     "https://prow.k8s.io",
@@ -2514,12 +2520,6 @@
                     "www.briefe.io",
                     "delight.im",
                     "www.delight.im"
-                ]
-            },
-            {
-                "name": "allegro",
-                "urls": [
-                    "*.allegro.pl.allegrosandbox.pl"
                 ]
             },
             {
@@ -2674,6 +2674,17 @@
                 "urls": []
             },
             {
+                "name": "enjin",
+                "urls": [
+                    "cloud.enjin.io,kovan.cloud.enjin.io",
+                    "beam.enjin.io",
+                    "enjinx.io,enjinx.cn,api.enjinx.io,api.enjinx.cn,*.api.enjinx.io,*.api.enjinx.cn",
+                    "enjin.com,*.enjin.com",
+                    "assets.enjin.io,cdn.enjin.io,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn",
+                    "kovan.faucet.enjin.io"
+                ]
+            },
+            {
                 "name": "natur_com_gmbh",
                 "urls": [
                     "www.natur.com"
@@ -2702,17 +2713,6 @@
                     "start.zivvermeet.com",
                     "docs.zivver.com",
                     "img.zivver.com"
-                ]
-            },
-            {
-                "name": "enjin",
-                "urls": [
-                    "cloud.enjin.io,kovan.cloud.enjin.io",
-                    "beam.enjin.io",
-                    "enjinx.io,enjinx.cn,api.enjinx.io,api.enjinx.cn,*.api.enjinx.io,*.api.enjinx.cn",
-                    "enjin.com,*.enjin.com",
-                    "assets.enjin.io,cdn.enjin.io,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn",
-                    "kovan.faucet.enjin.io"
                 ]
             },
             {
@@ -2816,6 +2816,10 @@
                 ]
             },
             {
+                "name": "oasis_protocol_foundation",
+                "urls": []
+            },
+            {
                 "name": "ibb-nginx",
                 "urls": []
             },
@@ -2832,10 +2836,6 @@
             },
             {
                 "name": "mailtime_technology_inc",
-                "urls": []
-            },
-            {
-                "name": "oasis_protocol_foundation",
                 "urls": []
             },
             {
