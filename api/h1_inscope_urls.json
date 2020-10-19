@@ -969,14 +969,14 @@
                 ]
             },
             {
+                "name": "imgur",
+                "urls": []
+            },
+            {
                 "name": "quora",
                 "urls": [
                     "*.quora.com"
                 ]
-            },
-            {
-                "name": "imgur",
-                "urls": []
             },
             {
                 "name": "files",
@@ -2245,16 +2245,6 @@
                 ]
             },
             {
-                "name": "blockstack",
-                "urls": []
-            },
-            {
-                "name": "tronfoundation",
-                "urls": [
-                    "https://github.com/tronprotocol/java-tron"
-                ]
-            },
-            {
                 "name": "watson_group",
                 "urls": [
                     "https://www.superdrug.com",
@@ -2267,6 +2257,16 @@
                     "*.theperfumeshop.com",
                     "*.parknshop.com",
                     "*.fortress.com.hk"
+                ]
+            },
+            {
+                "name": "blockstack",
+                "urls": []
+            },
+            {
+                "name": "tronfoundation",
+                "urls": [
+                    "https://github.com/tronprotocol/java-tron"
                 ]
             },
             {
