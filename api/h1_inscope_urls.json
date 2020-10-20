@@ -462,6 +462,20 @@
                 ]
             },
             {
+                "name": "security",
+                "urls": [
+                    "https://hackerone.com",
+                    "https://api.hackerone.com",
+                    "https://hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com/",
+                    "*.vpn.hackerone.net",
+                    "https://www.hackerone.com",
+                    "https://errors.hackerone.net",
+                    "https://*.hackerone-ext-content.com",
+                    "https://*.hackerone-user-content.com/",
+                    "https://ctf.hacker101.com"
+                ]
+            },
+            {
                 "name": "grab",
                 "urls": [
                     "*.myteksi.com",
@@ -480,20 +494,6 @@
                     "*.grab.co",
                     "grab.careers",
                     "mos.grabpay.com"
-                ]
-            },
-            {
-                "name": "security",
-                "urls": [
-                    "https://hackerone.com",
-                    "https://api.hackerone.com",
-                    "https://hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com/",
-                    "*.vpn.hackerone.net",
-                    "https://www.hackerone.com",
-                    "https://errors.hackerone.net",
-                    "https://*.hackerone-ext-content.com",
-                    "https://*.hackerone-user-content.com/",
-                    "https://ctf.hacker101.com"
                 ]
             },
             {
@@ -838,6 +838,7 @@
                     "*.callstats.io",
                     "*.8x8e2e.com",
                     "*.8x8pilot.com",
+                    "*.jitsi.net",
                     "www.8x8.com",
                     "*.sameroom.io",
                     "*.mycontactual.com",
@@ -957,6 +958,12 @@
                 ]
             },
             {
+                "name": "quora",
+                "urls": [
+                    "*.quora.com"
+                ]
+            },
+            {
                 "name": "formassembly",
                 "urls": []
             },
@@ -971,12 +978,6 @@
             {
                 "name": "imgur",
                 "urls": []
-            },
-            {
-                "name": "quora",
-                "urls": [
-                    "*.quora.com"
-                ]
             },
             {
                 "name": "files",
@@ -1168,6 +1169,21 @@
                 ]
             },
             {
+                "name": "playstation",
+                "urls": [
+                    "*.playstation.net",
+                    "*.sonyentertainmentnetwork.com",
+                    "*.api.playstation.com",
+                    "my.playstation.com",
+                    "store.playstation.com",
+                    "social.playstation.com",
+                    "transact.playstation.com",
+                    "wallets.api.playstation.com",
+                    "direct.playstation.com",
+                    "api.direct.playstation.com"
+                ]
+            },
+            {
                 "name": "coursera",
                 "urls": [
                     "www.coursera.org"
@@ -1189,21 +1205,6 @@
                     "support.greenhouse.io",
                     "jss.greenhouse.io",
                     "www.greenhouse.io"
-                ]
-            },
-            {
-                "name": "playstation",
-                "urls": [
-                    "*.playstation.net",
-                    "*.sonyentertainmentnetwork.com",
-                    "*.api.playstation.com",
-                    "my.playstation.com",
-                    "store.playstation.com",
-                    "social.playstation.com",
-                    "transact.playstation.com",
-                    "wallets.api.playstation.com",
-                    "direct.playstation.com",
-                    "api.direct.playstation.com"
                 ]
             },
             {
@@ -1246,22 +1247,6 @@
                 ]
             },
             {
-                "name": "moneybird",
-                "urls": [
-                    "https://moneybird.com",
-                    "https://moneybirdstorage.com"
-                ]
-            },
-            {
-                "name": "livestream",
-                "urls": [
-                    "*.livestream.com",
-                    "www.livestream.com",
-                    "*.new.livestream.com",
-                    "donations.livestream.com"
-                ]
-            },
-            {
                 "name": "mediamarktsaturn",
                 "urls": [
                     "www.mediamarkt.de",
@@ -1280,6 +1265,22 @@
                     "www.mediamarkt.hu",
                     "www.mediamarkt.pt",
                     "www.saturn.lu"
+                ]
+            },
+            {
+                "name": "moneybird",
+                "urls": [
+                    "https://moneybird.com",
+                    "https://moneybirdstorage.com"
+                ]
+            },
+            {
+                "name": "livestream",
+                "urls": [
+                    "*.livestream.com",
+                    "www.livestream.com",
+                    "*.new.livestream.com",
+                    "donations.livestream.com"
                 ]
             },
             {
@@ -1397,14 +1398,6 @@
                 ]
             },
             {
-                "name": "equifax",
-                "urls": []
-            },
-            {
-                "name": "discourse",
-                "urls": []
-            },
-            {
                 "name": "visma",
                 "urls": [
                     "eaccounting.stage.vismaonline.com",
@@ -1425,6 +1418,14 @@
                     "autointerface.stag.visma.net",
                     "autointerface-embeddable-stage.maventa.com"
                 ]
+            },
+            {
+                "name": "equifax",
+                "urls": []
+            },
+            {
+                "name": "discourse",
+                "urls": []
             },
             {
                 "name": "upserve",
@@ -1632,6 +1633,15 @@
                 ]
             },
             {
+                "name": "lifeomic",
+                "urls": [
+                    "*.infra.lifeomic.com",
+                    "*.dev.lifeomic.com",
+                    "https://apps.wellness.dev.lifeomic.com",
+                    "https://lifeology.dev.lifeomic.com"
+                ]
+            },
+            {
                 "name": "goldmansachs",
                 "urls": [
                     "*.goldmansachs.com",
@@ -1654,15 +1664,6 @@
                     "www.rocaton.com",
                     "*.gspublishing.com",
                     "*.claritymoney.com"
-                ]
-            },
-            {
-                "name": "lifeomic",
-                "urls": [
-                    "*.infra.lifeomic.com",
-                    "*.dev.lifeomic.com",
-                    "https://apps.wellness.dev.lifeomic.com",
-                    "https://lifeology.dev.lifeomic.com"
                 ]
             },
             {
@@ -1853,14 +1854,6 @@
                 ]
             },
             {
-                "name": "phabricator",
-                "urls": []
-            },
-            {
-                "name": "pillarproject",
-                "urls": []
-            },
-            {
                 "name": "amazonvrp",
                 "urls": [
                     "www.amazon.com",
@@ -1874,6 +1867,14 @@
                     "www.amazon.ca",
                     "www.amazon.com.br"
                 ]
+            },
+            {
+                "name": "phabricator",
+                "urls": []
+            },
+            {
+                "name": "pillarproject",
+                "urls": []
             },
             {
                 "name": "plaid",
@@ -1950,14 +1951,14 @@
                 ]
             },
             {
-                "name": "gocd",
-                "urls": []
-            },
-            {
                 "name": "ozon",
                 "urls": [
                     "www.ozon.ru"
                 ]
+            },
+            {
+                "name": "gocd",
+                "urls": []
             },
             {
                 "name": "smartsheet",
@@ -2090,8 +2091,23 @@
                 ]
             },
             {
+                "name": "drive_net_inc",
+                "urls": [
+                    "www.drive2.ru",
+                    "api.drive2.ru",
+                    "*.d-cd.net",
+                    "*.drive2.ru"
+                ]
+            },
+            {
                 "name": "ibb-data",
                 "urls": []
+            },
+            {
+                "name": "stagingdoteverydotorg",
+                "urls": [
+                    "staging.every.org"
+                ]
             },
             {
                 "name": "wellsfargo",
@@ -2107,21 +2123,6 @@
             {
                 "name": "monero",
                 "urls": []
-            },
-            {
-                "name": "drive_net_inc",
-                "urls": [
-                    "www.drive2.ru",
-                    "api.drive2.ru",
-                    "*.d-cd.net",
-                    "*.drive2.ru"
-                ]
-            },
-            {
-                "name": "stagingdoteverydotorg",
-                "urls": [
-                    "staging.every.org"
-                ]
             },
             {
                 "name": "cengage",
@@ -2474,6 +2475,12 @@
                 "urls": []
             },
             {
+                "name": "allegro",
+                "urls": [
+                    "*.allegro.pl.allegrosandbox.pl"
+                ]
+            },
+            {
                 "name": "ibb-perl",
                 "urls": []
             },
@@ -2481,12 +2488,6 @@
                 "name": "codeigniter",
                 "urls": [
                     "www.codeigniter.com"
-                ]
-            },
-            {
-                "name": "allegro",
-                "urls": [
-                    "*.allegro.pl.allegrosandbox.pl"
                 ]
             },
             {
@@ -3121,7 +3122,7 @@
         ],
         "metaData": {
             "totalPrograms": 322,
-            "totalUrls": 1606
+            "totalUrls": 1607
         }
     }
 }
