@@ -390,14 +390,6 @@
                 ]
             },
             {
-                "name": "glassdoor",
-                "urls": [
-                    "http://www.glassdoor.com/",
-                    "http://api.glassdoor.com",
-                    "https://help.glassdoor.com/"
-                ]
-            },
-            {
                 "name": "github",
                 "urls": [
                     "GitHub.com",
@@ -411,6 +403,14 @@
                     "jobs.github.com",
                     "semmle.net",
                     "semmle.com"
+                ]
+            },
+            {
+                "name": "glassdoor",
+                "urls": [
+                    "http://www.glassdoor.com/",
+                    "http://api.glassdoor.com",
+                    "https://help.glassdoor.com/"
                 ]
             },
             {
@@ -672,6 +672,10 @@
                     "jira.logitech.com",
                     "www.logitech.com/my-account",
                     "*.myharmony.com",
+                    "*.streamlabscharity.com",
+                    "*.mellonapp.com",
+                    "*.oslo.io",
+                    "*.lucra.live",
                     "alert.logitech.com",
                     "*.lukwerks.com",
                     "*.cognitiveperformer.com"
@@ -833,7 +837,7 @@
                     "sso.8x8.com",
                     "*.jit.si",
                     "vcc-*.8x8.com",
-                    "8x8.vc",
+                    "*.8x8.vc",
                     "*.wavecell.com",
                     "*.callstats.io",
                     "*.8x8e2e.com",
@@ -848,15 +852,15 @@
                 ]
             },
             {
+                "name": "wakatime",
+                "urls": []
+            },
+            {
                 "name": "stripo",
                 "urls": [
                     "my.stripo.email",
                     "stripo.email"
                 ]
-            },
-            {
-                "name": "wakatime",
-                "urls": []
             },
             {
                 "name": "instacart",
@@ -940,6 +944,12 @@
                 "urls": []
             },
             {
+                "name": "quora",
+                "urls": [
+                    "*.quora.com"
+                ]
+            },
+            {
                 "name": "kindred_group",
                 "urls": [
                     "*.unibet.com",
@@ -955,12 +965,6 @@
                     "stly.eu",
                     "*.ottokasino.com",
                     "relaxcdn.unibet.com"
-                ]
-            },
-            {
-                "name": "quora",
-                "urls": [
-                    "*.quora.com"
                 ]
             },
             {
@@ -1057,6 +1061,14 @@
                 ]
             },
             {
+                "name": "basecamp",
+                "urls": [
+                    "3.basecamp.com",
+                    "launchpad.37signals.com",
+                    "*.hey.com"
+                ]
+            },
+            {
                 "name": "vhx",
                 "urls": [
                     "vhx.tv",
@@ -1068,14 +1080,6 @@
             {
                 "name": "cloudflare",
                 "urls": []
-            },
-            {
-                "name": "basecamp",
-                "urls": [
-                    "3.basecamp.com",
-                    "launchpad.37signals.com",
-                    "*.hey.com"
-                ]
             },
             {
                 "name": "expressionengine",
@@ -1615,6 +1619,15 @@
                 ]
             },
             {
+                "name": "lifeomic",
+                "urls": [
+                    "*.infra.lifeomic.com",
+                    "*.dev.lifeomic.com",
+                    "https://apps.wellness.dev.lifeomic.com",
+                    "https://lifeology.dev.lifeomic.com"
+                ]
+            },
+            {
                 "name": "lyst",
                 "urls": [
                     "*.lyst.com",
@@ -1630,15 +1643,6 @@
                     "https://www.datastax.com/",
                     "https://downloads.datastax.com",
                     "https://docs.datastax.com/"
-                ]
-            },
-            {
-                "name": "lifeomic",
-                "urls": [
-                    "*.infra.lifeomic.com",
-                    "*.dev.lifeomic.com",
-                    "https://apps.wellness.dev.lifeomic.com",
-                    "https://lifeology.dev.lifeomic.com"
                 ]
             },
             {
@@ -1906,6 +1910,13 @@
                 ]
             },
             {
+                "name": "figma",
+                "urls": [
+                    "www.figma.com",
+                    "api.figma.com"
+                ]
+            },
+            {
                 "name": "rails",
                 "urls": []
             },
@@ -1933,13 +1944,6 @@
                 ]
             },
             {
-                "name": "figma",
-                "urls": [
-                    "www.figma.com",
-                    "api.figma.com"
-                ]
-            },
-            {
                 "name": "pingidentity",
                 "urls": [
                     "https://ort-admin.pingone.com/*",
@@ -1961,6 +1965,15 @@
                 "urls": []
             },
             {
+                "name": "cs_money",
+                "urls": [
+                    "cs.money",
+                    "support.cs.money",
+                    "wiki.cs.money",
+                    "3d.cs.money"
+                ]
+            },
+            {
                 "name": "smartsheet",
                 "urls": [
                     "app.smartsheet.com",
@@ -1971,15 +1984,6 @@
             {
                 "name": "jnj_mobile",
                 "urls": []
-            },
-            {
-                "name": "cs_money",
-                "urls": [
-                    "cs.money",
-                    "support.cs.money",
-                    "wiki.cs.money",
-                    "3d.cs.money"
-                ]
             },
             {
                 "name": "ibb-openssl",
@@ -2028,6 +2032,25 @@
                 ]
             },
             {
+                "name": "coda_bbp",
+                "urls": [
+                    "https://coda.io/*",
+                    "https://coda.io/signup/email",
+                    "codahosted.io",
+                    "codacontent.io",
+                    "https://airflow-prod.coda.io/*",
+                    "https://data.coda.io/*",
+                    "https://head.coda.io/*",
+                    "https://infra.coda.io/*",
+                    "https://airflow-prod.ops.coda.io/*",
+                    "https://shiny.ops.coda.io/*",
+                    "https://staging.coda.io/*",
+                    "https://user-profile-prod.coda.io/*",
+                    "https://*.coda.io/*",
+                    "https://user-profile-test.coda.io/*"
+                ]
+            },
+            {
                 "name": "lob",
                 "urls": [
                     "api.lob.com",
@@ -2069,25 +2092,6 @@
                     "https://help.creditkarma.com",
                     "https://blog.creditkarma.com/",
                     "https://www.creditkarma.com/savings"
-                ]
-            },
-            {
-                "name": "coda_bbp",
-                "urls": [
-                    "https://coda.io/*",
-                    "https://coda.io/signup/email",
-                    "codahosted.io",
-                    "codacontent.io",
-                    "https://airflow-prod.coda.io/*",
-                    "https://data.coda.io/*",
-                    "https://head.coda.io/*",
-                    "https://infra.coda.io/*",
-                    "https://airflow-prod.ops.coda.io/*",
-                    "https://shiny.ops.coda.io/*",
-                    "https://staging.coda.io/*",
-                    "https://user-profile-prod.coda.io/*",
-                    "https://*.coda.io/*",
-                    "https://user-profile-test.coda.io/*"
                 ]
             },
             {
@@ -2431,6 +2435,16 @@
                 ]
             },
             {
+                "name": "myndr",
+                "urls": [
+                    "osd.myndr.nl",
+                    "*.myndr.net",
+                    "www.myndr.nl",
+                    "bibliotheek.myndr.nl",
+                    "*.myndr.nl"
+                ]
+            },
+            {
                 "name": "parrot_sec",
                 "urls": [
                     "https://parrotlinux.org"
@@ -2458,16 +2472,6 @@
                 "name": "evernote",
                 "urls": [
                     "*.evernote.com"
-                ]
-            },
-            {
-                "name": "myndr",
-                "urls": [
-                    "osd.myndr.nl",
-                    "*.myndr.net",
-                    "www.myndr.nl",
-                    "bibliotheek.myndr.nl",
-                    "*.myndr.nl"
                 ]
             },
             {
@@ -3122,7 +3126,7 @@
         ],
         "metaData": {
             "totalPrograms": 322,
-            "totalUrls": 1607
+            "totalUrls": 1611
         }
     }
 }
