@@ -852,15 +852,15 @@
                 ]
             },
             {
-                "name": "wakatime",
-                "urls": []
-            },
-            {
                 "name": "stripo",
                 "urls": [
                     "my.stripo.email",
                     "stripo.email"
                 ]
+            },
+            {
+                "name": "wakatime",
+                "urls": []
             },
             {
                 "name": "instacart",
@@ -1044,19 +1044,19 @@
                 ]
             },
             {
-                "name": "brave",
-                "urls": [
-                    "publishers.basicattentiontoken.org",
-                    "brave.com",
-                    "basicattentiontoken.org"
-                ]
-            },
-            {
                 "name": "basecamp",
                 "urls": [
                     "3.basecamp.com",
                     "launchpad.37signals.com",
                     "*.hey.com"
+                ]
+            },
+            {
+                "name": "brave",
+                "urls": [
+                    "publishers.basicattentiontoken.org",
+                    "brave.com",
+                    "basicattentiontoken.org"
                 ]
             },
             {
@@ -1222,6 +1222,27 @@
                 ]
             },
             {
+                "name": "mediamarktsaturn",
+                "urls": [
+                    "www.mediamarkt.de",
+                    "www.saturn.de",
+                    "www.saturn.at",
+                    "www.mediamarkt.at",
+                    "www.mediamarkt.com.tr",
+                    "www.mediamarkt.be",
+                    "www.mediamarkt.es",
+                    "www.mediamarkt.gr",
+                    "www.mediamarkt.pl",
+                    "www.mediamarkt.nl",
+                    "www.mediamarkt.ch",
+                    "www.mediaworld.it",
+                    "www.mediamarkt.se",
+                    "www.mediamarkt.hu",
+                    "www.mediamarkt.pt",
+                    "www.saturn.lu"
+                ]
+            },
+            {
                 "name": "oppo",
                 "urls": [
                     "*.oppo.com",
@@ -1248,27 +1269,6 @@
                     "*.keke.cn",
                     "*.oppopay.com",
                     "*.finzfin.com"
-                ]
-            },
-            {
-                "name": "mediamarktsaturn",
-                "urls": [
-                    "www.mediamarkt.de",
-                    "www.saturn.de",
-                    "www.saturn.at",
-                    "www.mediamarkt.at",
-                    "www.mediamarkt.com.tr",
-                    "www.mediamarkt.be",
-                    "www.mediamarkt.es",
-                    "www.mediamarkt.gr",
-                    "www.mediamarkt.pl",
-                    "www.mediamarkt.nl",
-                    "www.mediamarkt.ch",
-                    "www.mediaworld.it",
-                    "www.mediamarkt.se",
-                    "www.mediamarkt.hu",
-                    "www.mediamarkt.pt",
-                    "www.saturn.lu"
                 ]
             },
             {
@@ -1509,10 +1509,6 @@
                 "urls": []
             },
             {
-                "name": "bime",
-                "urls": []
-            },
-            {
                 "name": "clario",
                 "urls": [
                     "https://account.mackeeper.com",
@@ -1538,6 +1534,10 @@
                     "*.kromtech.com",
                     "*.mackeeper.com"
                 ]
+            },
+            {
+                "name": "bime",
+                "urls": []
             },
             {
                 "name": "robinhood",
@@ -1569,6 +1569,14 @@
                     "support.innogames.com",
                     "tribalwars.cash",
                     "xs1.tribalwars.cash"
+                ]
+            },
+            {
+                "name": "datastax",
+                "urls": [
+                    "https://www.datastax.com/",
+                    "https://downloads.datastax.com",
+                    "https://docs.datastax.com/"
                 ]
             },
             {
@@ -1635,14 +1643,6 @@
                     "mobileapi.lystit.com",
                     "*.lystit.com",
                     "*.lyst.co"
-                ]
-            },
-            {
-                "name": "datastax",
-                "urls": [
-                    "https://www.datastax.com/",
-                    "https://downloads.datastax.com",
-                    "https://docs.datastax.com/"
                 ]
             },
             {
@@ -1881,6 +1881,12 @@
                 "urls": []
             },
             {
+                "name": "duckduckgo",
+                "urls": [
+                    "*.duckduckgo.com"
+                ]
+            },
+            {
                 "name": "plaid",
                 "urls": [
                     "production.plaid.com",
@@ -1891,9 +1897,10 @@
                 ]
             },
             {
-                "name": "duckduckgo",
+                "name": "figma",
                 "urls": [
-                    "*.duckduckgo.com"
+                    "www.figma.com",
+                    "api.figma.com"
                 ]
             },
             {
@@ -1907,13 +1914,6 @@
                 "urls": [
                     "*.pubg.com",
                     "*.pubgesports.com"
-                ]
-            },
-            {
-                "name": "figma",
-                "urls": [
-                    "www.figma.com",
-                    "api.figma.com"
                 ]
             },
             {
@@ -1970,6 +1970,19 @@
                 ]
             },
             {
+                "name": "tiktok",
+                "urls": [
+                    "*.tiktok.com",
+                    "business.tiktok.com",
+                    "ads.tiktok.com",
+                    "tiktok.com",
+                    "careers.tiktok.com",
+                    "creatormarketplace.tiktok.com",
+                    "*.tiktokv.com",
+                    "developers.tiktok.com"
+                ]
+            },
+            {
                 "name": "gocd",
                 "urls": []
             },
@@ -1984,19 +1997,6 @@
             {
                 "name": "jnj_mobile",
                 "urls": []
-            },
-            {
-                "name": "tiktok",
-                "urls": [
-                    "*.tiktok.com",
-                    "business.tiktok.com",
-                    "ads.tiktok.com",
-                    "tiktok.com",
-                    "careers.tiktok.com",
-                    "creatormarketplace.tiktok.com",
-                    "*.tiktokv.com",
-                    "developers.tiktok.com"
-                ]
             },
             {
                 "name": "ibb-openssl",
@@ -2285,28 +2285,6 @@
                 "urls": []
             },
             {
-                "name": "starling_bank",
-                "urls": [
-                    "app.starlingbank.com",
-                    "oauth.starlingbank.com",
-                    "www.starlingbank.com"
-                ]
-            },
-            {
-                "name": "amitree_inc",
-                "urls": [
-                    "www.amitree.com"
-                ]
-            },
-            {
-                "name": "affirm",
-                "urls": [
-                    "http://hackerone.affirm-odin.com/",
-                    "https://direct-hackerone.affirm-odin.com/",
-                    "https://vcn-hackerone.affirm-odin.com/"
-                ]
-            },
-            {
                 "name": "ecobee",
                 "urls": [
                     "www.ecobee.com/consumerportal",
@@ -2349,14 +2327,26 @@
                 ]
             },
             {
-                "name": "dropcontact",
+                "name": "starling_bank",
                 "urls": [
-                    "app.dropcontact.io"
+                    "app.starlingbank.com",
+                    "oauth.starlingbank.com",
+                    "www.starlingbank.com"
                 ]
             },
             {
-                "name": "teradici",
-                "urls": []
+                "name": "amitree_inc",
+                "urls": [
+                    "www.amitree.com"
+                ]
+            },
+            {
+                "name": "affirm",
+                "urls": [
+                    "http://hackerone.affirm-odin.com/",
+                    "https://direct-hackerone.affirm-odin.com/",
+                    "https://vcn-hackerone.affirm-odin.com/"
+                ]
             },
             {
                 "name": "kubernetes",
@@ -2366,6 +2356,16 @@
                     "k8s.io",
                     "kubernetes-csi.github.io"
                 ]
+            },
+            {
+                "name": "dropcontact",
+                "urls": [
+                    "app.dropcontact.io"
+                ]
+            },
+            {
+                "name": "teradici",
+                "urls": []
             },
             {
                 "name": "forescout_technologies",
@@ -2627,6 +2627,12 @@
                 "urls": []
             },
             {
+                "name": "faraday_inc",
+                "urls": [
+                    "app.faraday.io"
+                ]
+            },
+            {
                 "name": "liberapay",
                 "urls": [
                     "*.liberapay.com",
@@ -2640,12 +2646,6 @@
             {
                 "name": "curl",
                 "urls": []
-            },
-            {
-                "name": "faraday_inc",
-                "urls": [
-                    "app.faraday.io"
-                ]
             },
             {
                 "name": "rockset",
