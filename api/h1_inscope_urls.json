@@ -626,10 +626,6 @@
                 "urls": []
             },
             {
-                "name": "sg-vdp",
-                "urls": []
-            },
-            {
                 "name": "logitech",
                 "urls": [
                     "circle.logi.com",
@@ -680,6 +676,10 @@
                     "*.lukwerks.com",
                     "*.cognitiveperformer.com"
                 ]
+            },
+            {
+                "name": "sg-vdp",
+                "urls": []
             },
             {
                 "name": "yelp",
@@ -881,6 +881,10 @@
                 ]
             },
             {
+                "name": "khanacademy",
+                "urls": []
+            },
+            {
                 "name": "unikrn",
                 "urls": [
                     "unikrn.com",
@@ -892,10 +896,6 @@
                     "auth.unikrn.com",
                     "affiliates.unikrn.com"
                 ]
-            },
-            {
-                "name": "khanacademy",
-                "urls": []
             },
             {
                 "name": "dashlane",
@@ -1044,19 +1044,19 @@
                 ]
             },
             {
-                "name": "basecamp",
-                "urls": [
-                    "3.basecamp.com",
-                    "launchpad.37signals.com",
-                    "*.hey.com"
-                ]
-            },
-            {
                 "name": "brave",
                 "urls": [
                     "publishers.basicattentiontoken.org",
                     "brave.com",
                     "basicattentiontoken.org"
+                ]
+            },
+            {
+                "name": "basecamp",
+                "urls": [
+                    "3.basecamp.com",
+                    "launchpad.37signals.com",
+                    "*.hey.com"
                 ]
             },
             {
@@ -1222,6 +1222,15 @@
                 ]
             },
             {
+                "name": "goodrx",
+                "urls": [
+                    "www.goodrx.com",
+                    "gold.goodrx.com",
+                    "heydoctor.goodrx.com",
+                    "api.heydoctor.com"
+                ]
+            },
+            {
                 "name": "mediamarktsaturn",
                 "urls": [
                     "www.mediamarkt.de",
@@ -1285,15 +1294,6 @@
                     "www.livestream.com",
                     "*.new.livestream.com",
                     "donations.livestream.com"
-                ]
-            },
-            {
-                "name": "goodrx",
-                "urls": [
-                    "www.goodrx.com",
-                    "gold.goodrx.com",
-                    "heydoctor.goodrx.com",
-                    "api.heydoctor.com"
                 ]
             },
             {
@@ -1552,6 +1552,14 @@
                 "urls": []
             },
             {
+                "name": "datastax",
+                "urls": [
+                    "https://www.datastax.com/",
+                    "https://downloads.datastax.com",
+                    "https://docs.datastax.com/"
+                ]
+            },
+            {
                 "name": "innogames",
                 "urls": [
                     "*.innogames.com",
@@ -1569,14 +1577,6 @@
                     "support.innogames.com",
                     "tribalwars.cash",
                     "xs1.tribalwars.cash"
-                ]
-            },
-            {
-                "name": "datastax",
-                "urls": [
-                    "https://www.datastax.com/",
-                    "https://downloads.datastax.com",
-                    "https://docs.datastax.com/"
                 ]
             },
             {
@@ -1844,20 +1844,6 @@
                 ]
             },
             {
-                "name": "top_echelon_software",
-                "urls": [
-                    "www.topechelon.com",
-                    "bigbiller.topechelon.com",
-                    "bb3api.topechelon.com"
-                ]
-            },
-            {
-                "name": "prospect_io_gjk6b",
-                "urls": [
-                    "app.prospect.io"
-                ]
-            },
-            {
                 "name": "amazonvrp",
                 "urls": [
                     "www.amazon.com",
@@ -1870,6 +1856,20 @@
                     "www.amazon.in",
                     "www.amazon.ca",
                     "www.amazon.com.br"
+                ]
+            },
+            {
+                "name": "top_echelon_software",
+                "urls": [
+                    "www.topechelon.com",
+                    "bigbiller.topechelon.com",
+                    "bb3api.topechelon.com"
+                ]
+            },
+            {
+                "name": "prospect_io_gjk6b",
+                "urls": [
+                    "app.prospect.io"
                 ]
             },
             {
@@ -2233,6 +2233,12 @@
                 ]
             },
             {
+                "name": "gener8",
+                "urls": [
+                    "*.gener8ads.com"
+                ]
+            },
+            {
                 "name": "stellar",
                 "urls": []
             },
@@ -2241,12 +2247,6 @@
                 "urls": [
                     "smtp2go.com",
                     "app.smtp2go.com"
-                ]
-            },
-            {
-                "name": "gener8",
-                "urls": [
-                    "*.gener8ads.com"
                 ]
             },
             {
@@ -2670,8 +2670,26 @@
                 ]
             },
             {
+                "name": "simple_poll",
+                "urls": [
+                    "https://simplepoll.rocks",
+                    "simplegoals.app"
+                ]
+            },
+            {
                 "name": "coingaming",
                 "urls": []
+            },
+            {
+                "name": "zivver",
+                "urls": [
+                    "app.zivver.com",
+                    "collector.zivver.com",
+                    "downloads.zivver.com",
+                    "start.zivvermeet.com",
+                    "docs.zivver.com",
+                    "img.zivver.com"
+                ]
             },
             {
                 "name": "wordpoints",
@@ -2701,24 +2719,6 @@
                 ]
             },
             {
-                "name": "simple_poll",
-                "urls": [
-                    "https://simplepoll.rocks",
-                    "simplegoals.app"
-                ]
-            },
-            {
-                "name": "zivver",
-                "urls": [
-                    "app.zivver.com",
-                    "collector.zivver.com",
-                    "downloads.zivver.com",
-                    "start.zivvermeet.com",
-                    "docs.zivver.com",
-                    "img.zivver.com"
-                ]
-            },
-            {
                 "name": "monolith",
                 "urls": [
                     "api.production.tkn.zone",
@@ -2735,6 +2735,13 @@
                 "urls": [
                     "api.uphabit.com",
                     "web.uphabit.com"
+                ]
+            },
+            {
+                "name": "finra",
+                "urls": [
+                    "*.finra.org",
+                    "https://ews.qa.finra.org/*"
                 ]
             },
             {
@@ -2759,13 +2766,6 @@
             {
                 "name": "btfs",
                 "urls": []
-            },
-            {
-                "name": "finra",
-                "urls": [
-                    "*.finra.org",
-                    "https://ews.qa.finra.org/*"
-                ]
             },
             {
                 "name": "matic-network",
