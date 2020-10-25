@@ -852,15 +852,15 @@
                 ]
             },
             {
+                "name": "wakatime",
+                "urls": []
+            },
+            {
                 "name": "stripo",
                 "urls": [
                     "my.stripo.email",
                     "stripo.email"
                 ]
-            },
-            {
-                "name": "wakatime",
-                "urls": []
             },
             {
                 "name": "instacart",
