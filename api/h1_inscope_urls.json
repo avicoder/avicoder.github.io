@@ -1109,6 +1109,14 @@
                 ]
             },
             {
+                "name": "line",
+                "urls": [
+                    "*.line.me",
+                    "*.line-apps.com",
+                    "*.line.naver.jp"
+                ]
+            },
+            {
                 "name": "tts",
                 "urls": [
                     "https://federalist-proxy.app.cloud.gov",
@@ -1162,14 +1170,6 @@
                     "https://secure.showmax.com",
                     "https://api.showmax.com",
                     "https://stories.showmax.com"
-                ]
-            },
-            {
-                "name": "line",
-                "urls": [
-                    "*.line.me",
-                    "*.line-apps.com",
-                    "*.line.naver.jp"
                 ]
             },
             {
@@ -1930,6 +1930,15 @@
                 ]
             },
             {
+                "name": "cs_money",
+                "urls": [
+                    "cs.money",
+                    "support.cs.money",
+                    "wiki.cs.money",
+                    "3d.cs.money"
+                ]
+            },
+            {
                 "name": "portswigger",
                 "urls": [
                     "portswigger.net",
@@ -1958,15 +1967,6 @@
                 "name": "ozon",
                 "urls": [
                     "www.ozon.ru"
-                ]
-            },
-            {
-                "name": "cs_money",
-                "urls": [
-                    "cs.money",
-                    "support.cs.money",
-                    "wiki.cs.money",
-                    "3d.cs.money"
                 ]
             },
             {
