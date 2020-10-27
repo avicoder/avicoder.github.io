@@ -232,7 +232,8 @@
                     "my.loanbuilder.com",
                     "loanbuilder.com",
                     "swiftfinancial.com",
-                    "swiftcapital.com"
+                    "swiftcapital.com",
+                    "*.paypalcorp.com"
                 ]
             },
             {
@@ -748,6 +749,15 @@
                 ]
             },
             {
+                "name": "acronis",
+                "urls": [
+                    "beta-baas.acronis.com",
+                    "*-api-*.acronis.com",
+                    "*.acronis.com",
+                    "account.acronis.com"
+                ]
+            },
+            {
                 "name": "maximum",
                 "urls": [
                     "maximum.nl",
@@ -759,15 +769,6 @@
                     "mijnkombijdepolitie.nl",
                     "doorstromen.mijnkombijdepolitie.nl",
                     "devmaximum.com"
-                ]
-            },
-            {
-                "name": "acronis",
-                "urls": [
-                    "beta-baas.acronis.com",
-                    "*-api-*.acronis.com",
-                    "*.acronis.com",
-                    "account.acronis.com"
                 ]
             },
             {
@@ -852,15 +853,15 @@
                 ]
             },
             {
-                "name": "wakatime",
-                "urls": []
-            },
-            {
                 "name": "stripo",
                 "urls": [
                     "my.stripo.email",
                     "stripo.email"
                 ]
+            },
+            {
+                "name": "wakatime",
+                "urls": []
             },
             {
                 "name": "instacart",
@@ -1086,6 +1087,14 @@
                 "urls": []
             },
             {
+                "name": "line",
+                "urls": [
+                    "*.line.me",
+                    "*.line-apps.com",
+                    "*.line.naver.jp"
+                ]
+            },
+            {
                 "name": "grammarly",
                 "urls": [
                     "www.grammarly.com",
@@ -1106,14 +1115,6 @@
                     "g-mail.grammarly.com",
                     "grammarly.ai",
                     "food.grammarly.io"
-                ]
-            },
-            {
-                "name": "line",
-                "urls": [
-                    "*.line.me",
-                    "*.line-apps.com",
-                    "*.line.naver.jp"
                 ]
             },
             {
@@ -1415,7 +1416,7 @@
                     "myservices.stage.vismaonline.com",
                     "admin.stage.vismaonline.com",
                     "identity.stage.vismaonline.com",
-                    "http://myservices-api.stage.vismaonline.com/",
+                    "myservices-api.stage.vismaonline.com",
                     "ai-testing.maventa.com",
                     "testing.maventa.com",
                     "ax-stage.maventa.com",
@@ -1828,6 +1829,21 @@
                 ]
             },
             {
+                "name": "amazonvrp",
+                "urls": [
+                    "www.amazon.com",
+                    "www.amazon.co.uk",
+                    "www.amazon.co.jp",
+                    "www.amazon.de",
+                    "www.amazon.fr",
+                    "www.amazon.com.mx",
+                    "www.amazon.es",
+                    "www.amazon.in",
+                    "www.amazon.ca",
+                    "www.amazon.com.br"
+                ]
+            },
+            {
                 "name": "recargapay",
                 "urls": [
                     "api.recarga.com",
@@ -1841,21 +1857,6 @@
                     "(*).theendlessweb.com",
                     "(*).endlcdn.site",
                     "(*).itsendless.org"
-                ]
-            },
-            {
-                "name": "amazonvrp",
-                "urls": [
-                    "www.amazon.com",
-                    "www.amazon.co.uk",
-                    "www.amazon.co.jp",
-                    "www.amazon.de",
-                    "www.amazon.fr",
-                    "www.amazon.com.mx",
-                    "www.amazon.es",
-                    "www.amazon.in",
-                    "www.amazon.ca",
-                    "www.amazon.com.br"
                 ]
             },
             {
@@ -1897,6 +1898,13 @@
                 ]
             },
             {
+                "name": "pubg",
+                "urls": [
+                    "*.pubg.com",
+                    "*.pubgesports.com"
+                ]
+            },
+            {
                 "name": "figma",
                 "urls": [
                     "www.figma.com",
@@ -1907,13 +1915,6 @@
                 "name": "eobotcom",
                 "urls": [
                     "eobot.com"
-                ]
-            },
-            {
-                "name": "pubg",
-                "urls": [
-                    "*.pubg.com",
-                    "*.pubgesports.com"
                 ]
             },
             {
@@ -1995,6 +1996,13 @@
                 ]
             },
             {
+                "name": "engel_volkers",
+                "urls": [
+                    "*.engelvoelkers.com",
+                    "authz.engelvoelkers.com/"
+                ]
+            },
+            {
                 "name": "jnj_mobile",
                 "urls": []
             },
@@ -2014,13 +2022,6 @@
                     "editor-sessions.trint.com",
                     "media.trint.com",
                     "embed.trint.com"
-                ]
-            },
-            {
-                "name": "engel_volkers",
-                "urls": [
-                    "*.engelvoelkers.com",
-                    "authz.engelvoelkers.com/"
                 ]
             },
             {
@@ -2151,6 +2152,16 @@
                 ]
             },
             {
+                "name": "aiven_ltd",
+                "urls": [
+                    "www.aiven.io",
+                    "console.aiven.io",
+                    "api.aiven.io",
+                    "aivencloud.com",
+                    "help.aiven.io"
+                ]
+            },
+            {
                 "name": "status_im",
                 "urls": [
                     "https://status.im/"
@@ -2173,16 +2184,6 @@
                     "*.hellowallet.com",
                     "*.laurelroad.com",
                     "*.cainbrothers.com"
-                ]
-            },
-            {
-                "name": "aiven_ltd",
-                "urls": [
-                    "www.aiven.io",
-                    "console.aiven.io",
-                    "api.aiven.io",
-                    "aivencloud.com",
-                    "help.aiven.io"
                 ]
             },
             {
@@ -2358,6 +2359,13 @@
                 ]
             },
             {
+                "name": "gmelius",
+                "urls": [
+                    "api.gmelius.com",
+                    "www.gmelius.com"
+                ]
+            },
+            {
                 "name": "dropcontact",
                 "urls": [
                     "app.dropcontact.io"
@@ -2425,13 +2433,6 @@
                 "urls": [
                     "*.koho.ca",
                     "*.koho.app"
-                ]
-            },
-            {
-                "name": "gmelius",
-                "urls": [
-                    "api.gmelius.com",
-                    "www.gmelius.com"
                 ]
             },
             {
@@ -2633,6 +2634,20 @@
                 ]
             },
             {
+                "name": "enjin",
+                "urls": [
+                    "cloud.enjin.io,kovan.cloud.enjin.io",
+                    "beam.enjin.io",
+                    "enjinx.io,enjinx.cn,api.enjinx.io,api.enjinx.cn,*.api.enjinx.io,*.api.enjinx.cn",
+                    "assets.enjin.io,cdn.enjin.io,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn",
+                    "kovan.faucet.enjin.io"
+                ]
+            },
+            {
+                "name": "hyperledger",
+                "urls": []
+            },
+            {
                 "name": "liberapay",
                 "urls": [
                     "*.liberapay.com",
@@ -2654,10 +2669,6 @@
                     "docs.rockset.com",
                     "api.rs2.usw2.rockset.com"
                 ]
-            },
-            {
-                "name": "hyperledger",
-                "urls": []
             },
             {
                 "name": "central-security-project",
@@ -2694,16 +2705,6 @@
             {
                 "name": "wordpoints",
                 "urls": []
-            },
-            {
-                "name": "enjin",
-                "urls": [
-                    "cloud.enjin.io,kovan.cloud.enjin.io",
-                    "beam.enjin.io",
-                    "enjinx.io,enjinx.cn,api.enjinx.io,api.enjinx.cn,*.api.enjinx.io,*.api.enjinx.cn",
-                    "assets.enjin.io,cdn.enjin.io,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn",
-                    "kovan.faucet.enjin.io"
-                ]
             },
             {
                 "name": "natur_com_gmbh",
@@ -3125,7 +3126,7 @@
         ],
         "metaData": {
             "totalPrograms": 322,
-            "totalUrls": 1610
+            "totalUrls": 1611
         }
     }
 }
