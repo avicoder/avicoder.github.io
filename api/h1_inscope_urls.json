@@ -670,7 +670,7 @@
                     "www.logitech.com/my-account",
                     "*.myharmony.com",
                     "*.streamlabscharity.com",
-                    "*.mellonapp.com",
+                    "*.melonapp.com",
                     "*.oslo.io",
                     "*.lucra.live",
                     "alert.logitech.com",
@@ -860,6 +860,16 @@
                 ]
             },
             {
+                "name": "xiaomi",
+                "urls": [
+                    "*.mi.com",
+                    "*.xiaomi.com",
+                    "*.miui.com",
+                    "*.xiaomiyoupin.com",
+                    "*.miwifi.com"
+                ]
+            },
+            {
                 "name": "wakatime",
                 "urls": []
             },
@@ -869,16 +879,6 @@
                     "www.instacart.com",
                     "api.instacart.com",
                     "shoppers.instacart.com"
-                ]
-            },
-            {
-                "name": "xiaomi",
-                "urls": [
-                    "*.mi.com",
-                    "*.xiaomi.com",
-                    "*.miui.com",
-                    "*.xiaomiyoupin.com",
-                    "*.miwifi.com"
                 ]
             },
             {
@@ -981,16 +981,16 @@
                 ]
             },
             {
-                "name": "imgur",
-                "urls": []
-            },
-            {
                 "name": "files",
                 "urls": [
                     "app.files.com",
                     "your-assigned-subdomain.files.com",
                     "www.files.com"
                 ]
+            },
+            {
+                "name": "imgur",
+                "urls": []
             },
             {
                 "name": "chaturbate",
@@ -1672,14 +1672,6 @@
                 ]
             },
             {
-                "name": "ibb-python",
-                "urls": []
-            },
-            {
-                "name": "nintendo",
-                "urls": []
-            },
-            {
                 "name": "topcoder",
                 "urls": [
                     "www.topcoder.com",
@@ -1745,6 +1737,14 @@
                     "apps.topcoder.com",
                     "challenges.topcoder.com"
                 ]
+            },
+            {
+                "name": "ibb-python",
+                "urls": []
+            },
+            {
+                "name": "nintendo",
+                "urls": []
             },
             {
                 "name": "blockchain",
@@ -1912,6 +1912,19 @@
                 ]
             },
             {
+                "name": "tiktok",
+                "urls": [
+                    "*.tiktok.com",
+                    "business.tiktok.com",
+                    "ads.tiktok.com",
+                    "tiktok.com",
+                    "careers.tiktok.com",
+                    "creatormarketplace.tiktok.com",
+                    "*.tiktokv.com",
+                    "developers.tiktok.com"
+                ]
+            },
+            {
                 "name": "eobotcom",
                 "urls": [
                     "eobot.com"
@@ -1968,19 +1981,6 @@
                 "name": "ozon",
                 "urls": [
                     "www.ozon.ru"
-                ]
-            },
-            {
-                "name": "tiktok",
-                "urls": [
-                    "*.tiktok.com",
-                    "business.tiktok.com",
-                    "ads.tiktok.com",
-                    "tiktok.com",
-                    "careers.tiktok.com",
-                    "creatormarketplace.tiktok.com",
-                    "*.tiktokv.com",
-                    "developers.tiktok.com"
                 ]
             },
             {
@@ -2138,6 +2138,14 @@
                 "urls": []
             },
             {
+                "name": "sixt",
+                "urls": [
+                    "www.sixt.de",
+                    "www.sixt.fr",
+                    "www.sixt.com"
+                ]
+            },
+            {
                 "name": "revive_adserver",
                 "urls": []
             },
@@ -2187,11 +2195,9 @@
                 ]
             },
             {
-                "name": "sixt",
+                "name": "mariadb",
                 "urls": [
-                    "www.sixt.de",
-                    "www.sixt.fr",
-                    "www.sixt.com"
+                    "mariadb.org"
                 ]
             },
             {
@@ -2210,12 +2216,6 @@
                     "*.ct0.app",
                     "api.courier.com",
                     "www.courier.com"
-                ]
-            },
-            {
-                "name": "mariadb",
-                "urls": [
-                    "mariadb.org"
                 ]
             },
             {
@@ -2251,6 +2251,12 @@
                 ]
             },
             {
+                "name": "tronfoundation",
+                "urls": [
+                    "https://github.com/tronprotocol/java-tron"
+                ]
+            },
+            {
                 "name": "watson_group",
                 "urls": [
                     "https://www.superdrug.com",
@@ -2268,12 +2274,6 @@
             {
                 "name": "blockstack",
                 "urls": []
-            },
-            {
-                "name": "tronfoundation",
-                "urls": [
-                    "https://github.com/tronprotocol/java-tron"
-                ]
             },
             {
                 "name": "qulture_rocks_x3u44",
@@ -2624,16 +2624,6 @@
                 ]
             },
             {
-                "name": "picsart",
-                "urls": []
-            },
-            {
-                "name": "faraday_inc",
-                "urls": [
-                    "app.faraday.io"
-                ]
-            },
-            {
                 "name": "enjin",
                 "urls": [
                     "cloud.enjin.io,kovan.cloud.enjin.io",
@@ -2641,6 +2631,16 @@
                     "enjinx.io,enjinx.cn,api.enjinx.io,api.enjinx.cn,*.api.enjinx.io,*.api.enjinx.cn",
                     "assets.enjin.io,cdn.enjin.io,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn",
                     "kovan.faucet.enjin.io"
+                ]
+            },
+            {
+                "name": "picsart",
+                "urls": []
+            },
+            {
+                "name": "faraday_inc",
+                "urls": [
+                    "app.faraday.io"
                 ]
             },
             {
@@ -2661,6 +2661,17 @@
             {
                 "name": "curl",
                 "urls": []
+            },
+            {
+                "name": "zivver",
+                "urls": [
+                    "app.zivver.com",
+                    "collector.zivver.com",
+                    "downloads.zivver.com",
+                    "start.zivvermeet.com",
+                    "docs.zivver.com",
+                    "img.zivver.com"
+                ]
             },
             {
                 "name": "rockset",
@@ -2690,17 +2701,6 @@
             {
                 "name": "coingaming",
                 "urls": []
-            },
-            {
-                "name": "zivver",
-                "urls": [
-                    "app.zivver.com",
-                    "collector.zivver.com",
-                    "downloads.zivver.com",
-                    "start.zivvermeet.com",
-                    "docs.zivver.com",
-                    "img.zivver.com"
-                ]
             },
             {
                 "name": "wordpoints",
@@ -2746,6 +2746,10 @@
                 ]
             },
             {
+                "name": "matic-network",
+                "urls": []
+            },
+            {
                 "name": "upgrade",
                 "urls": [
                     "*.upgrade.com"
@@ -2766,10 +2770,6 @@
             },
             {
                 "name": "btfs",
-                "urls": []
-            },
-            {
-                "name": "matic-network",
                 "urls": []
             },
             {
