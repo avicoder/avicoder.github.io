@@ -710,12 +710,6 @@
                 ]
             },
             {
-                "name": "infogram",
-                "urls": [
-                    "infogram.com"
-                ]
-            },
-            {
                 "name": "localtapiola",
                 "urls": [
                     "www.lahitapiola.fi",
@@ -731,6 +725,12 @@
                     "sijoitusvakuutus.lahitapiola.fi",
                     "asiointi.lahitapiola.fi",
                     "api.lahitapiola.fi"
+                ]
+            },
+            {
+                "name": "infogram",
+                "urls": [
+                    "infogram.com"
                 ]
             },
             {
@@ -853,13 +853,6 @@
                 ]
             },
             {
-                "name": "stripo",
-                "urls": [
-                    "my.stripo.email",
-                    "stripo.email"
-                ]
-            },
-            {
                 "name": "xiaomi",
                 "urls": [
                     "*.mi.com",
@@ -867,6 +860,13 @@
                     "*.miui.com",
                     "*.xiaomiyoupin.com",
                     "*.miwifi.com"
+                ]
+            },
+            {
+                "name": "stripo",
+                "urls": [
+                    "my.stripo.email",
+                    "stripo.email"
                 ]
             },
             {
@@ -909,6 +909,10 @@
                 ]
             },
             {
+                "name": "kaspersky",
+                "urls": []
+            },
+            {
                 "name": "alibaba",
                 "urls": [
                     "*.lazada.*",
@@ -939,10 +943,6 @@
                     "team-irc.irccloud.com",
                     "blog.irccloud.com"
                 ]
-            },
-            {
-                "name": "kaspersky",
-                "urls": []
             },
             {
                 "name": "quora",
@@ -1351,6 +1351,16 @@
                 ]
             },
             {
+                "name": "deliveroo",
+                "urls": [
+                    "*.deliveroo-data.net",
+                    "*.deliveroo-data.io",
+                    "*.deliveroo-data-test.io",
+                    "*.deliveroo.*",
+                    "*.deliveroo-streams.net"
+                ]
+            },
+            {
                 "name": "omise",
                 "urls": [
                     "vault.omise.co",
@@ -1360,16 +1370,6 @@
                     "offsite.omise.co",
                     "dashboard2.omise.co",
                     "www.omise.co"
-                ]
-            },
-            {
-                "name": "deliveroo",
-                "urls": [
-                    "*.deliveroo-data.net",
-                    "*.deliveroo-data.io",
-                    "*.deliveroo-data-test.io",
-                    "*.deliveroo.*",
-                    "*.deliveroo-streams.net"
                 ]
             },
             {
@@ -1472,6 +1472,20 @@
                 ]
             },
             {
+                "name": "palo_alto_software",
+                "urls": [
+                    "app.liveplan.com",
+                    "app.outpost.co",
+                    "api.outpost.co",
+                    "www.paloalto.com",
+                    "www.liveplan.com",
+                    "www.outpost.co",
+                    "www.teamoutpost.com",
+                    "www.bplans.com",
+                    "www.mplans.com"
+                ]
+            },
+            {
                 "name": "capital-one",
                 "urls": [
                     "*.capitalone.com",
@@ -1489,20 +1503,6 @@
                     "*.capitalonecards.com",
                     "*.theunioncard.com",
                     "*.teamstercardnow.com"
-                ]
-            },
-            {
-                "name": "palo_alto_software",
-                "urls": [
-                    "app.liveplan.com",
-                    "app.outpost.co",
-                    "api.outpost.co",
-                    "www.paloalto.com",
-                    "www.liveplan.com",
-                    "www.outpost.co",
-                    "www.teamoutpost.com",
-                    "www.bplans.com",
-                    "www.mplans.com"
                 ]
             },
             {
@@ -1672,6 +1672,10 @@
                 ]
             },
             {
+                "name": "nintendo",
+                "urls": []
+            },
+            {
                 "name": "topcoder",
                 "urls": [
                     "www.topcoder.com",
@@ -1740,10 +1744,6 @@
             },
             {
                 "name": "ibb-python",
-                "urls": []
-            },
-            {
-                "name": "nintendo",
                 "urls": []
             },
             {
@@ -1820,6 +1820,19 @@
                     "*.vercel.sh",
                     "*.now.systems",
                     "zeit-cdn.net"
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    "*.tiktok.com",
+                    "business.tiktok.com",
+                    "ads.tiktok.com",
+                    "tiktok.com",
+                    "careers.tiktok.com",
+                    "creatormarketplace.tiktok.com",
+                    "*.tiktokv.com",
+                    "developers.tiktok.com"
                 ]
             },
             {
@@ -1912,27 +1925,10 @@
                 ]
             },
             {
-                "name": "tiktok",
-                "urls": [
-                    "*.tiktok.com",
-                    "business.tiktok.com",
-                    "ads.tiktok.com",
-                    "tiktok.com",
-                    "careers.tiktok.com",
-                    "creatormarketplace.tiktok.com",
-                    "*.tiktokv.com",
-                    "developers.tiktok.com"
-                ]
-            },
-            {
                 "name": "eobotcom",
                 "urls": [
                     "eobot.com"
                 ]
-            },
-            {
-                "name": "rails",
-                "urls": []
             },
             {
                 "name": "helium",
@@ -1942,6 +1938,10 @@
                     "console.helium.com",
                     "www.helium.com"
                 ]
+            },
+            {
+                "name": "rails",
+                "urls": []
             },
             {
                 "name": "cs_money",
@@ -2096,6 +2096,14 @@
                 ]
             },
             {
+                "name": "sixt",
+                "urls": [
+                    "www.sixt.de",
+                    "www.sixt.fr",
+                    "www.sixt.com"
+                ]
+            },
+            {
                 "name": "drive_net_inc",
                 "urls": [
                     "www.drive2.ru",
@@ -2138,11 +2146,13 @@
                 "urls": []
             },
             {
-                "name": "sixt",
+                "name": "aiven_ltd",
                 "urls": [
-                    "www.sixt.de",
-                    "www.sixt.fr",
-                    "www.sixt.com"
+                    "www.aiven.io",
+                    "console.aiven.io",
+                    "api.aiven.io",
+                    "aivencloud.com",
+                    "help.aiven.io"
                 ]
             },
             {
@@ -2157,16 +2167,6 @@
                     "identity.bitwarden.com",
                     "vault.bitwarden.com",
                     "help.bitwarden.com"
-                ]
-            },
-            {
-                "name": "aiven_ltd",
-                "urls": [
-                    "www.aiven.io",
-                    "console.aiven.io",
-                    "api.aiven.io",
-                    "aivencloud.com",
-                    "help.aiven.io"
                 ]
             },
             {
@@ -2914,6 +2914,10 @@
                 "urls": []
             },
             {
+                "name": "nubank",
+                "urls": []
+            },
+            {
                 "name": "citrix",
                 "urls": [
                     "citrix.cloud.com",
@@ -3125,7 +3129,7 @@
             }
         ],
         "metaData": {
-            "totalPrograms": 322,
+            "totalPrograms": 323,
             "totalUrls": 1611
         }
     }
