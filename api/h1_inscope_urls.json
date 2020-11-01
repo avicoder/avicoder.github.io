@@ -375,6 +375,14 @@
                 ]
             },
             {
+                "name": "glassdoor",
+                "urls": [
+                    "http://www.glassdoor.com/",
+                    "http://api.glassdoor.com",
+                    "https://help.glassdoor.com/"
+                ]
+            },
+            {
                 "name": "vimeo",
                 "urls": [
                     "www.vimeo.com",
@@ -388,14 +396,6 @@
                     "checkout.vimeo.com",
                     "vimeo.com/create",
                     "vimeo.magisto.com"
-                ]
-            },
-            {
-                "name": "glassdoor",
-                "urls": [
-                    "http://www.glassdoor.com/",
-                    "http://api.glassdoor.com",
-                    "https://help.glassdoor.com/"
                 ]
             },
             {
@@ -2049,6 +2049,14 @@
                 ]
             },
             {
+                "name": "sixt",
+                "urls": [
+                    "www.sixt.de",
+                    "www.sixt.fr",
+                    "www.sixt.com"
+                ]
+            },
+            {
                 "name": "lob",
                 "urls": [
                     "api.lob.com",
@@ -2090,14 +2098,6 @@
                     "https://help.creditkarma.com",
                     "https://blog.creditkarma.com/",
                     "https://www.creditkarma.com/savings"
-                ]
-            },
-            {
-                "name": "sixt",
-                "urls": [
-                    "www.sixt.de",
-                    "www.sixt.fr",
-                    "www.sixt.com"
                 ]
             },
             {
