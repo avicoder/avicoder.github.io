@@ -1086,6 +1086,14 @@
                 "urls": []
             },
             {
+                "name": "line",
+                "urls": [
+                    "*.line.me",
+                    "*.line-apps.com",
+                    "*.line.naver.jp"
+                ]
+            },
+            {
                 "name": "grammarly",
                 "urls": [
                     "www.grammarly.com",
@@ -1106,14 +1114,6 @@
                     "g-mail.grammarly.com",
                     "grammarly.ai",
                     "food.grammarly.io"
-                ]
-            },
-            {
-                "name": "line",
-                "urls": [
-                    "*.line.me",
-                    "*.line-apps.com",
-                    "*.line.naver.jp"
                 ]
             },
             {
@@ -1582,25 +1582,21 @@
                 "urls": [
                     "support.nutanix.com",
                     "ticket.nutanix.com",
-                    "webex.nutanix.com",
-                    "events.nutanix.com",
                     "my.nutanix.com",
                     "jira.nutanix.com",
                     "nutanix.com",
-                    "developer.nutanix.com",
-                    "next.nutanix.com",
                     "install.nutanix.com",
                     "bootcamp.nutanix.com",
                     "productsizer.nutanix.com",
                     "gp.nutanix.com",
                     "stage-billing.nutanix.com",
-                    "mops.nutanix.com",
                     "idp.nutanix.com",
                     "cpq.nutanix.com",
                     "iot.nutanix.com",
                     "frame.nutanix.com",
                     "beam.nutanix.com",
                     "*.nutanix.com",
+                    "www.nutanix.dev",
                     "testdrive.nutanix.com"
                 ]
             },
@@ -1671,6 +1667,14 @@
             {
                 "name": "nintendo",
                 "urls": []
+            },
+            {
+                "name": "netlify",
+                "urls": [
+                    "app.netlify.com",
+                    "api.netlify.com",
+                    "www.netlify.com"
+                ]
             },
             {
                 "name": "topcoder",
@@ -1870,17 +1874,17 @@
                 ]
             },
             {
+                "name": "prospect_io_gjk6b",
+                "urls": [
+                    "app.prospect.io"
+                ]
+            },
+            {
                 "name": "top_echelon_software",
                 "urls": [
                     "www.topechelon.com",
                     "bigbiller.topechelon.com",
                     "bb3api.topechelon.com"
-                ]
-            },
-            {
-                "name": "prospect_io_gjk6b",
-                "urls": [
-                    "app.prospect.io"
                 ]
             },
             {
@@ -1922,6 +1926,15 @@
                 ]
             },
             {
+                "name": "cs_money",
+                "urls": [
+                    "cs.money",
+                    "support.cs.money",
+                    "wiki.cs.money",
+                    "3d.cs.money"
+                ]
+            },
+            {
                 "name": "eobotcom",
                 "urls": [
                     "eobot.com"
@@ -1934,15 +1947,6 @@
                     "burrow.helium.systems",
                     "console.helium.com",
                     "www.helium.com"
-                ]
-            },
-            {
-                "name": "cs_money",
-                "urls": [
-                    "cs.money",
-                    "support.cs.money",
-                    "wiki.cs.money",
-                    "3d.cs.money"
                 ]
             },
             {
@@ -2022,6 +2026,14 @@
                 ]
             },
             {
+                "name": "sixt",
+                "urls": [
+                    "www.sixt.de",
+                    "www.sixt.fr",
+                    "www.sixt.com"
+                ]
+            },
+            {
                 "name": "bitmex",
                 "urls": [
                     "www.bitmex.com",
@@ -2049,11 +2061,14 @@
                 ]
             },
             {
-                "name": "sixt",
+                "name": "wellsfargo",
                 "urls": [
-                    "www.sixt.de",
-                    "www.sixt.fr",
-                    "www.sixt.com"
+                    "*.wellsfargo.com",
+                    "*.wf.com",
+                    "*.wellsfargoadvisors.com",
+                    "*.mworld.com",
+                    "*.wystar.com",
+                    "*.advisor-connection.com"
                 ]
             },
             {
@@ -2098,17 +2113,6 @@
                     "https://help.creditkarma.com",
                     "https://blog.creditkarma.com/",
                     "https://www.creditkarma.com/savings"
-                ]
-            },
-            {
-                "name": "wellsfargo",
-                "urls": [
-                    "*.wellsfargo.com",
-                    "*.wf.com",
-                    "*.wellsfargoadvisors.com",
-                    "*.mworld.com",
-                    "*.wystar.com",
-                    "*.advisor-connection.com"
                 ]
             },
             {
@@ -2248,12 +2252,6 @@
                 ]
             },
             {
-                "name": "tronfoundation",
-                "urls": [
-                    "https://github.com/tronprotocol/java-tron"
-                ]
-            },
-            {
                 "name": "watson_group",
                 "urls": [
                     "https://www.superdrug.com",
@@ -2269,6 +2267,12 @@
                 ]
             },
             {
+                "name": "tronfoundation",
+                "urls": [
+                    "https://github.com/tronprotocol/java-tron"
+                ]
+            },
+            {
                 "name": "blockstack",
                 "urls": []
             },
@@ -2281,48 +2285,6 @@
             {
                 "name": "nodejs",
                 "urls": []
-            },
-            {
-                "name": "ecobee",
-                "urls": [
-                    "www.ecobee.com/consumerportal",
-                    "www.ecobee.com/home",
-                    "sb-auth.ecobee.com",
-                    "sb.ecobee.com",
-                    "ls-api.ecobee.com",
-                    "ls.ecobee.com",
-                    "home.ecobee.com",
-                    "eva.ecobee.com",
-                    "es.ecobee.com",
-                    "api.ecobee.com",
-                    "admin.ecobee.com",
-                    "vpn.ecobee.com",
-                    "ls-fw.ecobee.com",
-                    "home-fw.hm-prod.ecobee.com",
-                    "home.hm-prod.ecobee.com",
-                    "beehive.ecobee.com",
-                    "api.beta.ecobee.com",
-                    "lofn.ecobee.com",
-                    "files.ecobee.com",
-                    "stg.chronos.ecobee.com",
-                    "rebatefinder.ecobee.com",
-                    "grafana.infra.ecobee.com",
-                    "www.ecobee.com",
-                    "ssp.ecobee.com",
-                    "teleport.ecobee.com",
-                    "web.cw-dev.ecobee.com",
-                    "metrics.ls-dev.ecobee.com",
-                    "home-fw.hm-stage.ecobee.com",
-                    "beta.ecobee.com",
-                    "rebatefinder-stage.ecobee.com",
-                    "rebatefinder-dev.ecobee.com",
-                    "developer.beta.ecobee.com",
-                    "terra.ecobee.com",
-                    "content.ecobee.com",
-                    "schedulepilot.labs.ecobee.com",
-                    "capture.ecobee.com",
-                    "utilities.ecobee.com"
-                ]
             },
             {
                 "name": "starling_bank",
@@ -2548,6 +2510,10 @@
                 ]
             },
             {
+                "name": "hcl_software",
+                "urls": []
+            },
+            {
                 "name": "streak_com",
                 "urls": [
                     "www.streak.com",
@@ -2567,10 +2533,6 @@
                 "urls": [
                     "https://bounty-node.rsk.co"
                 ]
-            },
-            {
-                "name": "hcl_software",
-                "urls": []
             },
             {
                 "name": "django",
@@ -2774,6 +2736,24 @@
                 "urls": []
             },
             {
+                "name": "citrix",
+                "urls": [
+                    "citrix.cloud.com",
+                    "www.cloud.com",
+                    "ap-s.cloud.com",
+                    "eu.cloud.com",
+                    "us.cloud.com",
+                    "*.citrixworkspacesapi.net",
+                    "onboarding.cloud.com",
+                    "onboarding-*.cloud.com",
+                    "accounts.cloud.com",
+                    "accounts-internal.cloud.com",
+                    "*.browser.cloud.com",
+                    "launch.cloud.com",
+                    "*developer.cloud.com"
+                ]
+            },
+            {
                 "name": "nokogiri",
                 "urls": []
             },
@@ -2832,24 +2812,6 @@
             {
                 "name": "aspen",
                 "urls": []
-            },
-            {
-                "name": "citrix",
-                "urls": [
-                    "citrix.cloud.com",
-                    "www.cloud.com",
-                    "ap-s.cloud.com",
-                    "eu.cloud.com",
-                    "us.cloud.com",
-                    "*.citrixworkspacesapi.net",
-                    "onboarding.cloud.com",
-                    "onboarding-*.cloud.com",
-                    "accounts.cloud.com",
-                    "accounts-internal.cloud.com",
-                    "*.browser.cloud.com",
-                    "launch.cloud.com",
-                    "*developer.cloud.com"
-                ]
             },
             {
                 "name": "versioncake",
@@ -3106,7 +3068,7 @@
         ],
         "metaData": {
             "totalPrograms": 321,
-            "totalUrls": 1598
+            "totalUrls": 1560
         }
     }
 }
