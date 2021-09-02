@@ -13,12 +13,13 @@ Android Virtual Devices (AVD) can be a good alternative, but the images do not s
 So let's root the AVD to overcome this limitation. The following guide is what I used to setup env on Mac machines.
 
 Start by downloading the SDK or installing Android Studio.
-![Android System Images](/images/andimages.png)
+<img src="/images/andimages.png" alt="Android System Images" width="600px"/>
 
 Next, we will create a virtual device. You can choose which System Image you want to download.
 After booting the device, open the terminal and clone the [rootAVD](https://github.com/newbit1/rootAVD) script.
 
-![Not Rooted](/images/notrooted.png)
+<img src="/images/notrooted.png" alt="Not Rooted" width="300px"/>
+
 
 
 Change the system image (android-xx) accordingly and run:
@@ -35,13 +36,12 @@ Wait for it to finish.
 
 Your phone is now rooted.
 ```
-adb shell                                                                                                                                                                                                                        127 master
+adb shell                                                                                                                                                                                                                        
 generic_x86_arm:/ $ su root
 generic_x86_arm:/ # whoami
 root
 ```
-
-![Rooted](/images/rooted.png)
+<img src="/images/rooted.png" alt="Rooted" width="300px"/>
 
 In order to intercept traffic and get Frida installed, you need to install a few Magisk modules.
  Here are some options:
