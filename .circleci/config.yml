@@ -27,12 +27,12 @@ jobs:
             . venv/bin/activate
             pip install requests
 
-      
+
       - run:
           name: run script
           command: |
             . venv/bin/activate
-            python scripts/h1.py
+            python main.py
 
 
       - run:
@@ -60,4 +60,4 @@ workflows:
               only:
                 - master
     jobs:
-      - build    
+      - build
