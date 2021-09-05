@@ -32,7 +32,7 @@ jobs:
           name: run script
           command: |
             . venv/bin/activate
-            python main.py
+            python /scripts/main.py
 
 
       - run:
