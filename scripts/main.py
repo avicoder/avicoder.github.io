@@ -3,6 +3,7 @@
 import requests
 import json
 from datetime import datetime
+from os import path
 
 now = datetime.utcnow()
 dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
