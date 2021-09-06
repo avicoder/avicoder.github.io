@@ -41,8 +41,8 @@ jobs:
             git config user.email "avicoder@outlook.com"
             git config user.name "avicoder"
             DATE_TODAY=$(date +"%Y-%m-%d")
-            git pull origin master
-            git commit -am "[skip ci] Updating Data ${DATE_TODAY}" --allow-empty
+            git add * 
+            git commit -M "[skip ci] Updating Data ${DATE_TODAY}"
             git push origin master
 
 
