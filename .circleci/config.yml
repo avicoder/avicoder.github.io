@@ -42,7 +42,7 @@ jobs:
             git config user.name "avicoder"
             DATE_TODAY=$(date +"%Y-%m-%d")
             git add * 
-            git commit -m "[skip ci] Updating Data ${DATE_TODAY}"
+            git commit -m "[skip ci] Updating Data ${DATE_TODAY} --allow-empty"
             git push origin master
 
 
