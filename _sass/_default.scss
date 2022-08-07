@@ -1,6 +1,6 @@
 /* =Base */
 body {
-    font-family: 'Philosopher', ;
+    font-family: 'system-ui', ;
     color: $iron;
     background-color: #FFFFFF;
 }
@@ -14,8 +14,8 @@ a {
 }
 
 p {
-    font-size: 20px;
-    line-height: 32px;
+    font-size: 17px;
+    line-height: 25px;
 }
 
 img {
@@ -29,9 +29,9 @@ blockquote {
     letter-spacing: 3px;
     margin:0px;
     margin-top: 40px;
-    margin-bottom: 70px;
+    margin-bottom: 20px;
     padding: 0px;
-    text-align: center;
+    text-align: left;
     position: relative;
 
     footer {
@@ -50,7 +50,7 @@ blockquote {
     p {
         display: inline;
         font-size: 20px;
-        color: $cloudy;
+        color: brown;
         font-weight: 400;
         &:before { content: "“ "; }
         &:after { content: " ”"; }
