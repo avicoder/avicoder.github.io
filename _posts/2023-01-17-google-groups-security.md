@@ -2,7 +2,7 @@
 layout: post
 title:  "Security of Google Groups"
 subtitle: ""
-date: 2023-01-17 10:00:00
+date: 2023-01-16 10:00:00
 
 ---
 Here we go again!
