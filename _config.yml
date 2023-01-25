@@ -1,6 +1,6 @@
 # Site settings
 title: Whiskey Tango Foxtrot
-description: "Let's talk security"
+description: "Let's explore security adventures and get some vitamins together."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://avicoder.me" # the base hostname & protocol for your site
 
