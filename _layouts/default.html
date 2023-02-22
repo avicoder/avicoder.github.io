@@ -1,72 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <script type="text/javascript">
-            var enforce = "avicoder.me";
-                if ((enforce == window.location.host) && (window.location.protocol != "https:"))
-                  window.location = window.location.toString().replace(/^http:/, "https:");
-            </script>
-        
-        {% include meta_tags/base.html %}
-        {% include meta_tags/sharing.html %}
 
-        {% include externals/styling.html %}
-        
-      <style>
-          a{
-          /* color:grey; */
-          }
-      </style>
-    </head>
+<head>
+    <!-- <script type="text/javascript">
+        var enforce = "avicoder.me";
+        if ((enforce == window.location.host) && (window.location.protocol != "https:"))
+            window.location = window.location.toString().replace(/^http:/, "https:");
+    </script> -->
 
-        
-    <body>
-        <div class="wrapper">
-            {% include header.html %}
+    {% include meta_tags/base.html %}
+    {% include meta_tags/sharing.html %}
 
-            {{ content }}
-        </div>
+    {% include externals/styling.html %}
 
-        {% include externals/scripting.html %}
-        {% include externals/google_analytics.html %}
-    
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <script>
-         (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-3715505468044880",
+    <style>
+        a {
+            /* color:grey; */
+        }
+    </style>
+</head>
+
+
+<body>
+    <div class="wrapper">
+        {% include header.html %}
+
+        {{ content }}
+    </div>
+
+    {% include externals/scripting.html %}
+    {% include externals/google_analytics.html %}
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3715505468044880",
             enable_page_level_ads: true
-         });
-       </script>
-       
-       <center>  
-    <div class="wrapper glitch">
-        
-        <ul class="menu">
-                
-            <a href="/media.html" class="social-links__entry" target="_blank">
-                <i class="fa fa-globe" aria-hidden="true"></i>
-            </a>
-            <a href="mailto:avicoder[at]outlook[dot]com" class="social-links__entry" target="_blank">
-                <i class="fa fa-envelope" aria-hidden="true"></i>
-            </a>
-             <a href="https://github.com/avicoder/notes" class="social-links__entry" target="_blank">
-                <i class="fa fa-clipboard" aria-hidden="true"></i>
-            </a>
-            <a href="http://hack.plus" class="social-links__entry" target="_blank">
-                <i class="fa fa-bug" aria-hidden="true"></i>
-            </a>
-             
-        </ul>
+        });
+    </script>
+
+    <center>
+        <div class="wrapper glitch">
+
+            <ul class="menu">
+
+                <a href="/media.html" class="social-links__entry" target="_blank">
+                    <i class="fa fa-globe" aria-hidden="true"></i>
+                </a>
+                <a href="mailto:avicoder[at]outlook[dot]com" class="social-links__entry" target="_blank">
+                    <i class="fa fa-envelope" aria-hidden="true"></i>
+                </a>
+                <a href="https://github.com/avicoder/notes" class="social-links__entry" target="_blank">
+                    <i class="fa fa-clipboard" aria-hidden="true"></i>
+                </a>
+                <a href="http://hack.plus" class="social-links__entry" target="_blank">
+                    <i class="fa fa-bug" aria-hidden="true"></i>
+                </a>
+
+            </ul>
         </div>
 
-         
-           
-       
+
+
+
         <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/avicoder" data-size="large" data-show-count="true" aria-label="Follow @avicoder on GitHub">Follow @avicoder</a>
-        
+        <a class="github-button" href="https://github.com/avicoder" data-size="large" data-show-count="true"
+            aria-label="Follow @avicoder on GitHub">@avicoder</a>
+
         <!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-        </center>
-    </body>
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
+    </center>
+</body>
+
 </html>

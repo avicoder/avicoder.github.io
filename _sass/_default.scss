@@ -1,6 +1,6 @@
 /* =Base */
 body {
-    font-family: 'system-ui', ;
+    font-family: 'IBM Plex Mono', monospace;
     color: $iron;
     background-color: #FFFFFF;
 }
@@ -151,7 +151,7 @@ strong {
 .list-posts {
     list-style-type: none;
     padding: 0px;
-    font-family:Philosopher;
+    font-family: 'IBM Plex Mono', monospace;
 }
 
 .post-teaser {
