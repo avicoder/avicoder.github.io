@@ -4,22 +4,27 @@
 
            
             
-        <ul class="menu glitch">
+        <ul class="menu ">
         {% if site.author.github %}
             <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
-                <i class="fa fa-github"></i>
+                <i class="fa fa-github"> Github </i>
             </a>
         {% endif %}
 
         {% if site.author.twitter %}
             <a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
-                <i class="fa fa-twitter"></i>
+                <i class="fa fa-twitter"> Twitter </i>
             </a>
         {% endif %}
         
             <a href="https://avicoder.me/feed" class="social-links__entry" target="_blank">
-                <i class="fa fa-rss"></i>
+                <i class="fa fa-rss"> RSS </i>
             </a>
+
+            <a href="/bookshelf.html" class="social-links__entry" target="_blank">
+                <i class="fa fa-book"> Book Shelf </i>
+            </a>
+
 
     </ul>
 
