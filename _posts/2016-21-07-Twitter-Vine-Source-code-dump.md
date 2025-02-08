@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "$10000 Security Bug - Twitter's Vine Source dumped"
+title: "$10000 Security Bug - Twitter's Vine Source code dumped"
 subtitle: "6 Seconds are not enough"
 date: 2016-07-22 10:00:00
 ---
