@@ -1,3 +1,3 @@
-gem "jekyll", "~> 4.0"
+gem "jekyll"
 
 gem "webrick", "~> 1.7"
