@@ -58,4 +58,6 @@ The web is changing very fast with recently developed technologies incorporated 
 
 In 2015, I hunted down 15 bugs in Twitter. I cannot disclose all of them, as they have not yet been fixed by Twitter and I am bound by a non-disclosure agreement; however, I will share the information about the bugs once they are fixed till then Happy Hunting.
 
+<a href="javascript://alert(000)"> Test Me </a>
+
 @avicoder
